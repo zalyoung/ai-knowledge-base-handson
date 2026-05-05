@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260505-001",
+  "title": "无需月费的WordPress AI销售与支持代理",
+  "source_url": "https://www.indiehackers.com/post/i-built-a-wordpress-ai-agent-that-handles-sales-and-support-no-monthly-fees-ICax5uOircJAVYrmRH1N",
+  "source_type": "hackernews",
+  "summary": "该项目构建了一个集成于WordPress的AI代理，能够自动处理销售咨询和客户支持，且无需支付月度订阅费用。通过自然语言处理技术，该代理可以理解用户问题并给出智能回复，适用于中小企业或个人站长，帮助他们降低客服成本、提升响应效率，无需额外软件或服务费用。尽管社区活跃度较低（Hacker News仅1分、0评论），但其开源或自建模式在实用性上具有一定创新性。",
+  "tags": [
+    "wordpress",
+    "ai-agent",
+    "sales",
+    "support",
+    "no-subscription",
+    "small-business"
+  ],
+  "score": 6,
+  "published_at": "Tue, 05 May 2026 05:08:47 +0000",
+  "fetched_at": "2026-05-05T13:03:11.040575+00:00",
+  "analyzed_at": "2026-05-05T13:03:54.803205+00:00",
+  "status": "published"
+}

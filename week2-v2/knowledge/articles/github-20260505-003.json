@@ -1,0 +1,22 @@
+{
+  "id": "github-20260505-003",
+  "title": "Hermes-Agent：可成长的开源 AI 智能体框架",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "source_type": "github_trending",
+  "summary": "Hermes-Agent 是由 NousResearch 开发的开源 AI 智能体项目，旨在提供一个能与用户共同成长的智能体框架。该项目基于 Python 实现，支持集成 OpenAI、Anthropic、Claude 等多种主流大语言模型，并具备高度可定制性和扩展性。其核心理念是让智能体能够根据用户的交互和需求动态进化，适用于个人助手、自动化任务、对话系统等多种场景。凭借超过 13 万星标的社区热度，Hermes-Agent 展现了极高的实用性和社区活跃度，是构建下一代个性化 AI 应用的理想基础。",
+  "tags": [
+    "ai",
+    "ai-agent",
+    "llm",
+    "python",
+    "openai",
+    "anthropic",
+    "claude",
+    "open-source"
+  ],
+  "score": 9,
+  "published_at": "2025-07-22T22:22:28Z",
+  "fetched_at": "2026-05-05T13:03:09.683038+00:00",
+  "analyzed_at": "2026-05-05T13:03:31.772571+00:00",
+  "status": "published"
+}

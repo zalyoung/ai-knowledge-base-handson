@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260505-005",
+  "title": "SharkAuth：专为AI代理委托设计的认证服务器",
+  "source_url": "https://github.com/shark-auth/shark",
+  "source_type": "hackernews",
+  "summary": "SharkAuth 是一个开源的认证服务器，专注于解决 AI 代理（agent）之间的安全委托与授权问题。随着 AI 代理系统的普及，代理间相互调用、执行任务时需要可靠的身份验证和权限管理。SharkAuth 提供专为这种场景设计的轻量级认证方案，支持代理间认证、令牌管理和细粒度权限控制。项目目前处于早期阶段，但立意明确，契合 AI 代理协作与自动化的安全需求，适用于构建安全的多代理系统、AI 工作流和自动化任务委托等场景。",
+  "tags": [
+    "ai",
+    "authentication",
+    "authorization",
+    "delegation",
+    "security",
+    "agent",
+    "opensource"
+  ],
+  "score": 7,
+  "published_at": "Mon, 04 May 2026 15:07:51 +0000",
+  "fetched_at": "2026-05-05T13:03:11.040931+00:00",
+  "analyzed_at": "2026-05-05T13:04:18.008056+00:00",
+  "status": "published"
+}

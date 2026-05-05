@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260505-004",
+  "title": "AI Agent驱动的足球游戏模拟器",
+  "source_url": "https://github.com/gangtao/AgentPitch/",
+  "source_type": "hackernews",
+  "summary": "该项目是一个基于AI Agent的足球游戏模拟器，通过智能体自主决策实现比赛模拟。技术亮点在于将强化学习或规划算法应用于多智能体协作与对抗场景，适合用于AI决策研究、强化学习训练、游戏AI开发及教育演示。开源特性便于社区复现与扩展，为AI在体育模拟领域的应用提供了轻量级实验平台。",
+  "tags": [
+    "soccer-simulator",
+    "ai-agent",
+    "game-simulator",
+    "reinforcement-learning",
+    "multi-agent",
+    "open-source"
+  ],
+  "score": 7,
+  "published_at": "Mon, 04 May 2026 15:32:02 +0000",
+  "fetched_at": "2026-05-05T13:03:11.040860+00:00",
+  "analyzed_at": "2026-05-05T13:04:12.875777+00:00",
+  "status": "published"
+}
