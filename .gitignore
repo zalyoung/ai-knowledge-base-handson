@@ -10,3 +10,7 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+**/node_modules/
+package.json
+package-lock.json
+bun.lock
