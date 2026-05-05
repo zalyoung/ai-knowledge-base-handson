@@ -1,0 +1,8 @@
+{
+  "id": "uuid-69513680-0613-4457-8358-177e56620c95",
+  "title": "ID 格式无效",
+  "source_url": "https://github.com/test/invalid-id",
+  "summary": "此条目的 ID 不符合 {source}-{YYYYMMDD}-{NNN} 格式规范，应被校验拦截。",
+  "tags": ["invalid-id"],
+  "status": "draft"
+}

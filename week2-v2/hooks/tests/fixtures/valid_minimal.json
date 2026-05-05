@@ -1,0 +1,8 @@
+{
+  "id": "hackernews-20260505-002",
+  "title": "最小型有效条目",
+  "source_url": "https://news.ycombinator.com/item?id=12345",
+  "summary": "这是一个仅包含必填字段的最小型有效条目，用于验证最小通过条件。",
+  "tags": ["minimal"],
+  "status": "draft"
+}

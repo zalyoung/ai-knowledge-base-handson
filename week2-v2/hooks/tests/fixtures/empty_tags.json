@@ -1,0 +1,8 @@
+{
+  "id": "github-20260505-001",
+  "title": "标签为空",
+  "source_url": "https://github.com/test/empty-tags",
+  "summary": "此条目的 tags 字段为空列表，不满足至少一个标签的要求，应被校验拦截。",
+  "tags": [],
+  "status": "draft"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "github-20260505-001",
+  "title": "Score 类型错误",
+  "source_url": "https://github.com/test/score-type",
+  "summary": "此条目的 score 字段为字符串类型而非数值类型，应被校验拦截并报告类型错误。",
+  "tags": ["score-type"],
+  "status": "draft",
+  "score": "high"
+}

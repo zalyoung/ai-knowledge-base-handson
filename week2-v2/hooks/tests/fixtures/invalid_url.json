@@ -1,0 +1,8 @@
+{
+  "id": "github-20260505-001",
+  "title": "URL 格式无效",
+  "source_url": "ftp://invalid-protocol.com/repo",
+  "summary": "此条目的 source_url 使用了 ftp 协议而非 http/https，应被校验拦截。",
+  "tags": ["invalid-url"],
+  "status": "draft"
+}
