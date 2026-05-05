@@ -1,20 +1,20 @@
 {
   "id": "hn-20260505-001",
-  "title": "Tokentoll：代码审查中检测LLM成本变化的静态分析工具",
-  "source_url": "https://github.com/Jwrede/tokentoll",
+  "title": "DarkMatter: 针对AI代理决策的防篡改审计追踪",
+  "source_url": "https://darkmatterhub.ai",
   "source_type": "hackernews",
-  "summary": "Tokentoll 是一款专为代码审查设计的静态分析工具，能够自动检测代码变更对大型语言模型（LLM）调用成本的影响。通过分析代码中的LLM token使用模式（如提示词长度、模型选择等），它在 Pull Request 阶段生成成本变化报告，帮助开发团队在合并代码前意识到潜在的预算波动。适用于需要频繁集成 LLM API 的应用，如 AI 客服、内容生成或对话系统，可有效避免因代码修改导致的意外计费增加。工具基于开源实现，支持主流 LLM 服务（如 OpenAI），易于集成到 CI/CD 流程中。",
+  "summary": "DarkMatter 是一个旨在为AI代理（AI agent）的决策过程提供防篡改审计追踪的工具/平台。该技术利用密码学或区块链等机制，为每个AI决策生成不可篡改的证明，确保决策链的完整性和可追溯性。其核心优势在于增强AI系统的透明度和信任度，适用于对合规性要求极高的场景，如金融交易、医疗诊断、自动驾驶等需要严格审计AI行为的领域。尽管当前社区活跃度较低（HN点数1），但该方向对AI治理和责任界定具有重要价值。",
   "tags": [
-    "static-analysis",
-    "code-review",
-    "llm-cost",
-    "token-management",
-    "cost-optimization",
-    "open-source"
+    "audit-trail",
+    "ai-agent",
+    "tamper-evident",
+    "blockchain",
+    "transparency",
+    "accountability"
   ],
   "score": 7,
-  "published_at": "Tue, 05 May 2026 12:49:19 +0000",
-  "fetched_at": "2026-05-05T13:32:42.836404+00:00",
-  "analyzed_at": "2026-05-05T13:35:31.502576+00:00",
+  "published_at": "Tue, 05 May 2026 15:15:48 +0000",
+  "fetched_at": "2026-05-05T15:42:34.726553+00:00",
+  "analyzed_at": "2026-05-05T15:42:54.183384+00:00",
   "status": "published"
 }
