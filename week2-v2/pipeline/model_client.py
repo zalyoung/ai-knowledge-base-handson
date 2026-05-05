@@ -1,6 +1,6 @@
 """统一的 LLM 调用客户端模块。
 
-支持 DeepSeek、Qwen、OpenAI 三种模型提供商，通过环境变量切换。
+支持 DeepSeek、小米 MiMo、OpenAI 三种模型提供商，通过环境变量切换。
 使用 httpx 直接调用 OpenAI 典范 API，不依赖 openai SDK。
 
 Example:
@@ -13,8 +13,9 @@ import logging
 import os
 import time
 from abc import ABC, abstractmethod
+from collections import defaultdict
 from dataclasses import dataclass
-from typing import List, Optional
+from typing import Dict, List, Optional
 
 import httpx
 
@@ -31,14 +32,14 @@ PROVIDER_CONFIGS = {
             "deepseek-v4-pro": {"input": 0.50, "output": 1.50},
         },
     },
-    "qwen": {
-        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
-        "api_key_env": "QWEN_API_KEY",
-        "default_model": "qwen-turbo",
+    "xiaomi": {
+        "base_url": "https://token-plan-cn.xiaomimimo.com/v1",
+        "api_key_env": "XIAOMI_API_KEY",
+        "default_model": "mimo-v2.5",
         "pricing": {
-            "qwen-turbo": {"input": 0.02, "output": 0.06},
-            "qwen-plus": {"input": 0.04, "output": 0.12},
-            "qwen-max": {"input": 0.12, "output": 0.36},
+            "mimo-v2.5-pro": {"input": 7.00, "output": 21.00},
+            "mimo-v2.5": {"input": 2.80, "output": 14.00},
+            "mimo-v2-flash": {"input": 0.70, "output": 2.10},
         },
     },
     "openai": {
@@ -51,6 +52,13 @@ PROVIDER_CONFIGS = {
             "gpt-3.5-turbo": {"input": 0.50, "output": 1.50},
         },
     },
+}
+
+# 国产模型价格表（单位：元/百万 tokens）
+COST_TABLE: Dict[str, Dict[str, float]] = {
+    "deepseek": {"input": 1.0, "output": 2.0},
+    "xiaomi": {"input": 2.80, "output": 14.00},
+    "openai": {"input": 150.0, "output": 600.0},
 }
 
 # 重试配置
@@ -246,6 +254,8 @@ class OpenAICompatibleProvider(LLMProvider):
             usage.completion_tokens,
         )
 
+        tracker.record(usage, self.provider_name)
+
         return result
 
 
@@ -306,12 +316,13 @@ def chat_with_retry(
 
     for attempt in range(max_retries + 1):
         try:
-            return provider.chat(
+            response = provider.chat(
                 prompt=prompt,
                 system_prompt=system_prompt,
                 temperature=temperature,
                 max_tokens=max_tokens,
             )
+            return response
         except (httpx.HTTPStatusError, httpx.TimeoutException) as exc:
             last_exception = exc
             if attempt < max_retries:
@@ -385,6 +396,163 @@ def calculate_cost(
     return input_cost + output_cost
 
 
+class CostTracker:
+    """LLM 调用成本追踪器。
+
+    追踪各提供商的 token 消耗和估算成本（人民币）。
+
+    Attributes:
+        _records: 按提供商分组的 Usage 记录列表。
+
+    Example:
+        >>> tracker = CostTracker()
+        >>> tracker.record(usage, "deepseek")
+        >>> tracker.report()
+    """
+
+    def __init__(self) -> None:
+        """初始化成本追踪器。"""
+        self._records: Dict[str, List[Usage]] = defaultdict(list)
+
+    def record(self, usage: Usage, provider: str) -> None:
+        """记录一次 API 调用的 token 用量。
+
+        Args:
+            usage: Token 用量统计。
+            provider: 模型提供商名称。
+        """
+        self._records[provider].append(usage)
+        logger.debug(
+            "已记录 %s 调用: 输入 %d, 输出 %d",
+            provider,
+            usage.prompt_tokens,
+            usage.completion_tokens,
+        )
+
+    def estimated_cost(self, provider: Optional[str] = None) -> float:
+        """返回估算成本（元）。
+
+        基于 COST_TABLE 中的价格表计算。
+
+        Args:
+            provider: 提供商名称，为 None 时返回所有提供商的总成本。
+
+        Returns:
+            估算成本金额（元）。
+
+        Raises:
+            ValueError: 提供商不在 COST_TABLE 中。
+        """
+        if provider is not None:
+            return self._provider_cost(provider)
+
+        total = 0.0
+        for name in self._records:
+            total += self._provider_cost(name)
+        return total
+
+    def _provider_cost(self, provider: str) -> float:
+        """计算单个提供商的成本。
+
+        Args:
+            provider: 提供商名称。
+
+        Returns:
+            该提供商的估算成本（元）。
+
+        Raises:
+            ValueError: 提供商不在 COST_TABLE 中。
+        """
+        if provider not in COST_TABLE:
+            raise ValueError(
+                f"未知提供商: {provider}，"
+                f"可选: {list(COST_TABLE.keys())}"
+            )
+
+        pricing = COST_TABLE[provider]
+        total_input = 0
+        total_output = 0
+
+        for usage in self._records.get(provider, []):
+            total_input += usage.prompt_tokens
+            total_output += usage.completion_tokens
+
+        input_cost = (total_input / 1_000_000) * pricing["input"]
+        output_cost = (total_output / 1_000_000) * pricing["output"]
+
+        return input_cost + output_cost
+
+    def report(self, provider: Optional[str] = None) -> None:
+        """打印成本报告。
+
+        Args:
+            provider: 提供商名称，为 None 时报告所有提供商。
+        """
+        providers = (
+            [provider] if provider else list(self._records.keys())
+        )
+
+        if not providers:
+            logger.info("暂无调用记录")
+            return
+
+        logger.info("=" * 50)
+        logger.info("LLM 调用成本报告")
+        logger.info("=" * 50)
+
+        total_cost = 0.0
+        total_calls = 0
+        total_input = 0
+        total_output = 0
+
+        for name in providers:
+            records = self._records.get(name, [])
+            if not records:
+                logger.info("  %s: 无调用记录", name)
+                continue
+
+            calls = len(records)
+            input_tokens = sum(u.prompt_tokens for u in records)
+            output_tokens = sum(u.completion_tokens for u in records)
+            cost = self._provider_cost(name)
+
+            logger.info("  %s:", name)
+            logger.info("    调用次数: %d", calls)
+            logger.info("    输入 tokens: %d", input_tokens)
+            logger.info("    输出 tokens: %d", output_tokens)
+            logger.info("    估算成本: ¥%.4f", cost)
+
+            total_cost += cost
+            total_calls += calls
+            total_input += input_tokens
+            total_output += output_tokens
+
+        if len(providers) > 1:
+            logger.info("-" * 50)
+            logger.info("汇总:")
+            logger.info("  总调用次数: %d", total_calls)
+            logger.info("  总输入 tokens: %d", total_input)
+            logger.info("  总输出 tokens: %d", total_output)
+            logger.info("  总估算成本: ¥%.4f", total_cost)
+
+        logger.info("=" * 50)
+
+    def reset(self, provider: Optional[str] = None) -> None:
+        """重置记录。
+
+        Args:
+            provider: 提供商名称，为 None 时重置所有记录。
+        """
+        if provider:
+            self._records.pop(provider, None)
+        else:
+            self._records.clear()
+
+
+# 全局成本追踪器实例，Pipeline 结束时可调用 tracker.report()
+tracker = CostTracker()
+
+
 def quick_chat(
     prompt: str,
     system_prompt: str = "你是一个有帮助的AI助手。",
@@ -413,6 +581,47 @@ def quick_chat(
         provider=provider,
     )
     return response.content
+
+
+def chat(
+    prompt: str,
+    system_prompt: Optional[str] = None,
+    provider_name: Optional[str] = None,
+    temperature: float = 0.7,
+    max_tokens: int = 2000,
+) -> LLMResponse:
+    """对话请求入口。
+
+    自动创建 provider 并带重试，调用成功后自动记录到 CostTracker。
+
+    Args:
+        prompt: 用户输入的提示词。
+        system_prompt: 系统提示词。
+        provider_name: 提供商名称，默认从环境变量读取。
+        temperature: 生成温度。
+        max_tokens: 最大生成 token 数。
+
+    Returns:
+        LLMResponse 对象，包含 content、usage、model、provider。
+
+    Example:
+        >>> result = chat("你好")
+        >>> print(result.content)
+    """
+    if not logging.getLogger().handlers:
+        logging.basicConfig(
+            level=logging.INFO,
+            format="%(message)s",
+        )
+
+    provider = get_provider(provider_name=provider_name)
+    return chat_with_retry(
+        prompt=prompt,
+        system_prompt=system_prompt,
+        provider=provider,
+        temperature=temperature,
+        max_tokens=max_tokens,
+    )
 
 
 if __name__ == "__main__":
@@ -475,6 +684,11 @@ if __name__ == "__main__":
         print(f"   回复: {answer}")
     except (ValueError, httpx.HTTPStatusError, httpx.TimeoutException) as exc:
         print(f"   请求失败: {exc}")
+
+    # 测试 CostTracker
+    print("\n5. 测试 CostTracker")
+    tracker.report()
+    print(f"   总估算成本: ¥{tracker.estimated_cost():.4f}")
 
     print("\n" + "=" * 60)
     print("测试完成")
