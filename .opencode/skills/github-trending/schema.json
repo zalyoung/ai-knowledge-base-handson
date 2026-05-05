@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GitHub Trending 项目列表",
+  "description": "GitHub Trending 页面采集的 AI/LLM/Agent 相关项目列表",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "description": "仓库名称（owner/repo 格式）",
+        "pattern": "^[a-zA-Z0-9._-]+/[a-zA-Z0-9._-]+$"
+      },
+      "url": {
+        "type": "string",
+        "description": "项目 GitHub 链接",
+        "format": "uri",
+        "pattern": "^https://github.com/[a-zA-Z0-9._-]+/[a-zA-Z0-9._-]+$"
+      },
+      "stars": {
+        "type": "integer",
+        "description": "星标数",
+        "minimum": 0
+      },
+      "topics": {
+        "type": "array",
+        "description": "项目标签列表",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "uniqueItems": true
+      },
+      "description": {
+        "type": "string",
+        "description": "项目描述（英文原文）",
+        "minLength": 1,
+        "maxLength": 500
+      }
+    },
+    "required": ["name", "url", "stars", "topics", "description"],
+    "additionalProperties": false
+  },
+  "minItems": 0,
+  "maxItems": 50
+}
