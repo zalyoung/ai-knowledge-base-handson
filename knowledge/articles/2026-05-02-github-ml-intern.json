@@ -1,0 +1,20 @@
+{
+  "id": "a3fff40f-1f8a-4c42-8cd1-018c5351cfaf",
+  "title": "huggingface/ml-intern",
+  "source_url": "https://github.com/huggingface/ml-intern",
+  "source_type": "github_trending",
+  "summary": "由 Hugging Face 推出的开源 ML 工程师 Agent，能够自主阅读论文、编写训练代码并交付 ML 模型。深度集成 Hugging Face 生态：通过 ToolRouter 访问 HF 文档、数据集、Papers、云算力资源；内置 GitHub 代码搜索和沙箱执行环境；支持交互模式和无头模式。架构上采用 ContextManager 管理会话上下文（170k Token 自动压缩），Doom Loop Detector 检测重复工具调用模式并注入纠正提示，防止 Agent 陷入死循环。支持 Slack 通知网关和 MCP Server 扩展。",
+  "tags": ["ml-agent", "huggingface", "autonomous-research", "paper-reading", "model-training", "agent-orchestration", "smolagents"],
+  "highlights": [
+    "自主完成「读论文→训练模型→交付代码」的完整 ML 研究闭环",
+    "Doom Loop Detector 检测并纠正 Agent 的重复工具调用死循环",
+    "深度集成 Hugging Face 文档/数据集/Papers/云算力生态",
+    "会话自动上传 HF 数据集并支持 Trace Viewer 可视化回溯"
+  ],
+  "score": 9,
+  "score_reason": "将 Agent 能力从代码生成扩展到自主 ML 研究全流程，是 AI Agent 向科学研究领域渗透的范式级创新。Hugging Face 生态加持使其具备真实的模型训练和交付能力。",
+  "published_at": "2026-05-02T00:00:00Z",
+  "fetched_at": "2026-05-02T09:00:00Z",
+  "analyzed_at": "2026-05-02T10:00:00Z",
+  "status": "draft"
+}

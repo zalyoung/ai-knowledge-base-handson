@@ -1,0 +1,20 @@
+{
+  "id": "69513680-0613-4457-8358-177e56620c95",
+  "title": "CJackHwang/ds2api",
+  "source_url": "https://github.com/CJackHwang/ds2api",
+  "source_type": "github_trending",
+  "summary": "将 DeepSeek Web 对话能力转换为 OpenAI/Claude/Gemini 兼容 API 的中间件。核心后端以 Go 实现（高并发协议适配），前端为 React WebUI 管理台。支持多账号轮询与并发队列控制，内置 DeepSeek PoW 纯 Go 高性能实现。兼容 Codex CLI/SDK、OpenAI SDK、Anthropic SDK、Gemini SDK 及 LangChain/LlamaIndex 等主流框架。支持本地/Docker/Vercel/Zeabur 多种部署方式。",
+  "tags": ["deepseek", "api-proxy", "protocol-adaptation", "go", "openai-compatible", "claude-api", "middleware"],
+  "highlights": [
+    "Go 实现的高并发协议适配层，将 DeepSeek Web 协议转为 OpenAI/Claude/Gemini API",
+    "内置 PoW 纯 Go 高性能实现，毫秒级响应",
+    "DSML/XML 工具调用解析与多协议结构化转译，兼容主流 Agent SDK",
+    "多账号轮询 + 并发队列控制，支持 Vercel Serverless 部署"
+  ],
+  "score": 4,
+  "score_reason": "技术实现扎实（Go 高并发、PoW 实现），但定位为 DeepSeek 特定 API 的协议转换中间件，受众面窄，项目声明仅供学习研究用途。",
+  "published_at": "2026-05-02T00:00:00Z",
+  "fetched_at": "2026-05-02T09:00:00Z",
+  "analyzed_at": "2026-05-02T10:00:00Z",
+  "status": "draft"
+}

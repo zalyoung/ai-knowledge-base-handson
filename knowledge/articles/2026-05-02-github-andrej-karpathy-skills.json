@@ -1,0 +1,20 @@
+{
+  "id": "e92d6896-0e12-478f-a8cc-9b11e845bd75",
+  "title": "forrestchang/andrej-karpathy-skills",
+  "source_url": "https://github.com/forrestchang/andrej-karpathy-skills",
+  "source_type": "github_trending",
+  "summary": "基于 Andrej Karpathy 对 LLM 编码缺陷观察提炼的单一 CLAUDE.md 规则文件，包含四大核心原则：编码前先思考、简洁优先、外科手术式修改、目标驱动执行。支持 Claude Code 插件和 Cursor 规则两种安装方式。Karpathy 的关键洞察是「LLM 极其擅长循环直到达成具体目标」，因此将命令式指令转化为声明式目标配合验证循环效果显著。",
+  "tags": ["claude-code", "coding-guidelines", "llm-prompting", "cursor-rules", "ai-coding", "best-practices"],
+  "highlights": [
+    "将 Karpathy 对 LLM 编码缺陷的系统观察凝聚为四大可执行原则",
+    "「目标驱动执行」将命令式指令转化为带验证循环的声明式目标",
+    "「外科手术式修改」原则有效减少 AI 生成代码中的无关变更",
+    "支持 Claude Code 插件和 Cursor 规则双模式安装"
+  ],
+  "score": 5,
+  "score_reason": "理念正确且源自顶级研究者洞察，但本质上仅为一份 CLAUDE.md 规则文件，内容体量有限，受 Karpathy 个人影响力驱动，技术纵深不足。",
+  "published_at": "2026-05-02T00:00:00Z",
+  "fetched_at": "2026-05-02T09:00:00Z",
+  "analyzed_at": "2026-05-02T10:00:00Z",
+  "status": "draft"
+}

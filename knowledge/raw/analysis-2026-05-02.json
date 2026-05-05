@@ -1,0 +1,162 @@
+[
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github_trending",
+    "popularity": 33628,
+    "summary": "Matt Pocock 出品的面向真实工程场景的 Claude Code 技能集，非「氛围编程」工具。提供 /grill-me（需求对齐）、/tdd（红-绿-重构循环测试驱动开发）、/diagnose（调试诊断）、/improve-codebase-architecture（架构改进）、/zoom-out（全局视角）等 14 个可组合技能。核心创新是引入「共享语言」机制——通过 /grill-with-docs 技能在项目中构建 CONTEXT.md 领域术语表，让 AI Agent 以精简一致的词汇理解代码库，减少 Token 消耗和沟通偏差。所有技能小巧、易定制、模型无关，30 秒内可通过 npx 安装。项目旨在用软件工程基本原则根治 AI 编码代理常见的理解偏差、过度工程化和代码腐化问题。",
+    "highlights": [
+      "「共享语言」机制通过 CONTEXT.md 术语表让 Agent 精准理解项目领域词汇",
+      "/tdd 技能内置红-绿-重构循环，将测试驱动开发融入 AI 编码工作流",
+      "/improve-codebase-architecture 可定期运行以对抗 AI 加速的代码熵增",
+      "14 个可组合技能覆盖需求对齐、开发、调试、架构改进全流程"
+    ],
+    "score": 8,
+    "score_reason": "针对 AI 编码 Agent 的四大常见失败模式给出了系统性的工程化解决方案，理念源自经典软件工程著作，实用性强且可立即落地。",
+    "suggested_tags": ["claude-code", "agent-skills", "software-engineering", "tdd", "ai-coding", "context-management", "code-quality"]
+  },
+  {
+    "title": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "source": "github_trending",
+    "popularity": 21896,
+    "summary": "基于 Andrej Karpathy 对 LLM 编码缺陷观察提炼的单一 CLAUDE.md 规则文件，包含四大核心原则：编码前先思考、简洁优先、外科手术式修改、目标驱动执行。支持 Claude Code 插件和 Cursor 规则两种安装方式。Karpathy 的关键洞察是「LLM 极其擅长循环直到达成具体目标」，因此将命令式指令转化为声明式目标配合验证循环效果显著。",
+    "highlights": [
+      "将 Karpathy 对 LLM 编码缺陷的系统观察凝聚为四大可执行原则",
+      "「目标驱动执行」将命令式指令转化为带验证循环的声明式目标",
+      "「外科手术式修改」原则有效减少 AI 生成代码中的无关变更",
+      "支持 Claude Code 插件和 Cursor 规则双模式安装"
+    ],
+    "score": 5,
+    "score_reason": "理念正确且源自顶级研究者洞察，但本质上仅为一份 CLAUDE.md 规则文件，内容体量有限，受 Karpathy 个人影响力驱动，技术纵深不足。",
+    "suggested_tags": ["claude-code", "coding-guidelines", "llm-prompting", "cursor-rules", "ai-coding", "best-practices"]
+  },
+  {
+    "title": "Alishahryar1/free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "source": "github_trending",
+    "popularity": 12928,
+    "summary": "一个 Anthropic 兼容代理，将 Claude Code CLI/IDE 的 API 流量路由到 NVIDIA NIM、OpenRouter、DeepSeek、LM Studio、llama.cpp 或 Ollama 等免费/低成本后端。基于 FastAPI 构建，支持六种 Provider 后端、按模型层级路由（Opus/Sonnet/Haiku 分别指定不同后端）、Claude Code 原生 /model 选择器集成、流式传输、Tool Use、思考块处理。可选功能包括 Discord/Telegram 机器人封装（远程编码会话）、语音笔记转录。",
+    "highlights": [
+      "支持 6 种 Provider 后端并可混合路由，实现按模型层级的灵活配置",
+      "原生集成 Claude Code /model 选择器，运行时切换模型无需修改配置",
+      "可选 Discord/Telegram 机器人支持远程编码会话与语音交互",
+      "FastAPI 架构提供完整的并发控制、速率限制和流式传输优化"
+    ],
+    "score": 7,
+    "score_reason": "将 Claude Code 的高昂订阅成本有效降低，技术实现扎实，Provider 覆盖广泛，多平台客户端支持完善。非原创性技术创新但实用性很强。",
+    "suggested_tags": ["claude-code", "api-proxy", "anthropic", "openrouter", "deepseek", "ollama", "fastapi", "cost-optimization"]
+  },
+  {
+    "title": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "github_trending",
+    "popularity": 6152,
+    "summary": "基于多智能体 LLM 的金融交易框架，模拟真实交易公司的组织架构：基本面/情绪/新闻/技术分析师组成分析团队；多空双方研究员进行结构化辩论；交易员综合报告做出买卖决策；风险管理团队持续评估组合风险，最终由投资组合经理审批。框架基于 LangGraph 构建，支持结构化输出 Agent、Checkpoint 断点续传、持久化决策日志。支持 OpenAI/Google/Anthropic/DeepSeek/Qwen 等十余种 LLM Provider，附带学术论文（arXiv:2412.20138）。",
+    "highlights": [
+      "模拟真实交易公司的多角色 Agent 架构，含分析-辩论-决策-风控全链路",
+      "基于 LangGraph 的 Checkpoint 机制支持断点续传与状态持久化",
+      "决策日志自动计算实现收益并生成反思，形成持续学习的记忆机制",
+      "支持 10+ LLM Provider 和 Docker 部署，生态兼容性出色"
+    ],
+    "score": 7,
+    "score_reason": "多 Agent 架构设计严谨且有学术论文支撑，Checkpoint 和决策日志体现了生产级思考。适用面相对集中在量化交易领域，通用性有限。",
+    "suggested_tags": ["multi-agent", "langgraph", "quantitative-trading", "finance", "llm", "risk-management", "agent-orchestration"]
+  },
+  {
+    "title": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "source": "github_trending",
+    "popularity": 5376,
+    "summary": "零服务端的代码智能引擎，完全在浏览器中运行的知识图谱生成器。通过多阶段索引管线（文件结构遍历→Tree-sitter AST 解析→符号解析→Leiden 社区检测聚类→执行流追踪→混合搜索索引构建）将任意代码库转化为交互式知识图谱。支持 17 种语言。核心创新是「预计算关系智能」——在索引时预计算聚类、追踪和评分，使 AI Agent 一次调用即可获取完整上下文，避免传统 Graph RAG 需要多次查询才能拼凑全貌的痛点。",
+    "highlights": [
+      "「预计算关系智能」在索引时完成聚类/追踪/评分，AI Agent 一次查询即可获得完整上下文",
+      "17 种语言的 Tree-sitter AST 解析覆盖导入解析、类型注解和构造函数推断",
+      "16 个 MCP 工具 + 4 个 Agent 技能覆盖代码探索、调试、影响分析和重构",
+      "支持多仓库统一知识图谱和跨仓库合约匹配的企业级能力"
+    ],
+    "score": 8,
+    "score_reason": "将代码知识图谱与 AI Agent 深度结合，预计算架构解决了多次查询效率低下的核心痛点。17 种语言覆盖和 MCP 生态集成使其具备广泛实用价值。",
+    "suggested_tags": ["knowledge-graph", "code-intelligence", "mcp", "tree-sitter", "graph-rag", "code-analysis", "agent-context", "developer-tools"]
+  },
+  {
+    "title": "huggingface/ml-intern",
+    "url": "https://github.com/huggingface/ml-intern",
+    "source": "github_trending",
+    "popularity": 3157,
+    "summary": "由 Hugging Face 推出的开源 ML 工程师 Agent，能够自主阅读论文、编写训练代码并交付 ML 模型。深度集成 Hugging Face 生态：通过 ToolRouter 访问 HF 文档、数据集、Papers、云算力资源；内置 GitHub 代码搜索和沙箱执行环境；支持交互模式和无头模式。架构上采用 ContextManager 管理会话上下文（170k Token 自动压缩），Doom Loop Detector 检测重复工具调用模式并注入纠正提示，防止 Agent 陷入死循环。支持 Slack 通知网关和 MCP Server 扩展。",
+    "highlights": [
+      "自主完成「读论文→训练模型→交付代码」的完整 ML 研究闭环",
+      "Doom Loop Detector 检测并纠正 Agent 的重复工具调用死循环",
+      "深度集成 Hugging Face 文档/数据集/Papers/云算力生态",
+      "会话自动上传 HF 数据集并支持 Trace Viewer 可视化回溯"
+    ],
+    "score": 9,
+    "score_reason": "将 Agent 能力从代码生成扩展到自主 ML 研究全流程，是 AI Agent 向科学研究领域渗透的范式级创新。Hugging Face 生态加持使其具备真实的模型训练和交付能力。",
+    "suggested_tags": ["ml-agent", "huggingface", "autonomous-research", "paper-reading", "model-training", "agent-orchestration", "smolagents"]
+  },
+  {
+    "title": "hugohe3/ppt-master",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "source": "github_trending",
+    "popularity": 2719,
+    "summary": "AI 驱动的原生可编辑 PPTX 生成工具，支持从 PDF、DOCX、URL 或 Markdown 输入自动生成真实的 PowerPoint 演示文稿。区别于市面上将内容渲染为大尺寸图片的方案，PPT Master 输出的是真正的 DrawingML 形状、文本框和图表——每个元素可在 PowerPoint 中点击编辑。通过 SVG 中间层实现精确布局，再转换为原生 PPTX 形状。支持页面过渡动画和逐元素入场动画，可选的 AI 图像生成和网络图片搜索，90+ 语言的 TTS 旁白生成与视频导出。",
+    "highlights": [
+      "输出真正的 DrawingML 可编辑形状而非静态图片，区别于所有同类 AI PPT 工具",
+      "SVG→PPTX 转换管线实现精确布局，支持原生页面过渡和逐元素入场动画",
+      "支持 AI 图像生成、网络搜图、TTS 旁白和声音克隆的全流程一体化",
+      "作为 Agent Skill 运行，支持 Claude Code/Cursor/VS Code Copilot 多平台"
+    ],
+    "score": 7,
+    "score_reason": "解决了 AI 生成 PPT「不可编辑」的核心痛点，输出原生 PPTX 形状具有差异化价值。功能全面，但依赖 AI IDE 运行环境有一定门槛。",
+    "suggested_tags": ["pptx-generation", "ai-agent", "svg-rendering", "presentation", "powerpoint", "text-to-speech", "document-automation"]
+  },
+  {
+    "title": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "source": "github_trending",
+    "popularity": 2364,
+    "summary": "LLM 驱动的 A 股/港股/美股智能分析系统，通过 GitHub Actions 实现零成本定时运行。整合多数据源行情、实时新闻搜索和 LLM 推理，生成「决策仪表盘」——包含一句话核心结论、评分、买卖点位、风险警报和操作检查清单。内置 11 种市场策略（均线金叉/缠论/波浪理论/情绪周期等），支持 Agent 策略问股多轮对话。提供 Web 工作台和 Docker 部署。",
+    "highlights": [
+      "GitHub Actions 零成本定时运行，整合多数据源行情、新闻与 LLM 决策全流程",
+      "内置 11 种量化策略的 Agent 问股系统，支持多轮对话与回测验证",
+      "决策仪表盘输出结构化信号（评分/点位/风险/检查清单）而非泛泛分析",
+      "6 种推送渠道覆盖企业微信/飞书/Telegram 等主流 IM 平台"
+    ],
+    "score": 7,
+    "score_reason": "将 LLM 与多源金融数据深度整合，工程实现完整度高，零成本部署方案极具吸引力。适合个人投资者辅助决策，但金融预测不确定性限制上限。",
+    "suggested_tags": ["stock-analysis", "llm", "quantitative-trading", "github-actions", "multi-channel", "finance", "rag", "agent"]
+  },
+  {
+    "title": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "source": "github_trending",
+    "popularity": 2023,
+    "summary": "AI 全自动短视频引擎，输入一个主题即可自动完成文案生成、AI 配图/视频、语音合成、背景音乐添加和视频合成全流程。基于 ComfyUI 架构的模块化设计，支持本地和云端图像生成后端。提供多种视频模板，支持竖屏/横屏/方形多种尺寸，TTS 引擎支持 Edge-TTS/Index-TTS 等主流方案。Web 界面提供三栏布局，支持自定义素材上传、数字人口播、图生视频和动作迁移等扩展模块。",
+    "highlights": [
+      "从主题到成品的全自动视频生成管线，覆盖文案/配图/配音/BGM/合成",
+      "基于 ComfyUI 的模块化架构支持灵活替换生图/TTS 等原子能力",
+      "Windows 一键整合包降低非技术用户的部署门槛",
+      "扩展模块支持数字人口播、图生视频和动作迁移等高级功能"
+    ],
+    "score": 6,
+    "score_reason": "功能完整的短视频自动生成工具，Windows 整合包降低门槛是亮点。但赛道已有多个成熟方案，技术架构层面创新有限。",
+    "suggested_tags": ["video-generation", "comfyui", "tts", "image-generation", "short-video", "aigc", "content-creation"]
+  },
+  {
+    "title": "CJackHwang/ds2api",
+    "url": "https://github.com/CJackHwang/ds2api",
+    "source": "github_trending",
+    "popularity": 1775,
+    "summary": "将 DeepSeek Web 对话能力转换为 OpenAI/Claude/Gemini 兼容 API 的中间件。核心后端以 Go 实现（高并发协议适配），前端为 React WebUI 管理台。支持多账号轮询与并发队列控制，内置 DeepSeek PoW 纯 Go 高性能实现。兼容 Codex CLI/SDK、OpenAI SDK、Anthropic SDK、Gemini SDK 及 LangChain/LlamaIndex 等主流框架。支持本地/Docker/Vercel/Zeabur 多种部署方式。",
+    "highlights": [
+      "Go 实现的高并发协议适配层，将 DeepSeek Web 协议转为 OpenAI/Claude/Gemini API",
+      "内置 PoW 纯 Go 高性能实现，毫秒级响应",
+      "DSML/XML 工具调用解析与多协议结构化转译，兼容主流 Agent SDK",
+      "多账号轮询 + 并发队列控制，支持 Vercel Serverless 部署"
+    ],
+    "score": 4,
+    "score_reason": "技术实现扎实（Go 高并发、PoW 实现），但定位为 DeepSeek 特定 API 的协议转换中间件，受众面窄，项目声明仅供学习研究用途。",
+    "suggested_tags": ["deepseek", "api-proxy", "protocol-adaptation", "go", "openai-compatible", "claude-api", "middleware"]
+  }
+]

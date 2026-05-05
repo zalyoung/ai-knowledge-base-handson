@@ -1,0 +1,20 @@
+{
+  "id": "22ef2be6-f7f1-471d-a3f0-4c0a0401866b",
+  "title": "ZhuLinsen/daily_stock_analysis",
+  "source_url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+  "source_type": "github_trending",
+  "summary": "LLM 驱动的 A 股/港股/美股智能分析系统，通过 GitHub Actions 实现零成本定时运行。整合多数据源行情、实时新闻搜索和 LLM 推理，生成「决策仪表盘」——包含一句话核心结论、评分、买卖点位、风险警报和操作检查清单。内置 11 种市场策略（均线金叉/缠论/波浪理论/情绪周期等），支持 Agent 策略问股多轮对话。提供 Web 工作台和 Docker 部署。",
+  "tags": ["stock-analysis", "llm", "quantitative-trading", "github-actions", "multi-channel", "finance", "rag", "agent"],
+  "highlights": [
+    "GitHub Actions 零成本定时运行，整合多数据源行情、新闻与 LLM 决策全流程",
+    "内置 11 种量化策略的 Agent 问股系统，支持多轮对话与回测验证",
+    "决策仪表盘输出结构化信号（评分/点位/风险/检查清单）而非泛泛分析",
+    "6 种推送渠道覆盖企业微信/飞书/Telegram 等主流 IM 平台"
+  ],
+  "score": 7,
+  "score_reason": "将 LLM 与多源金融数据深度整合，工程实现完整度高，零成本部署方案极具吸引力。适合个人投资者辅助决策，但金融预测不确定性限制上限。",
+  "published_at": "2026-05-02T00:00:00Z",
+  "fetched_at": "2026-05-02T09:00:00Z",
+  "analyzed_at": "2026-05-02T10:00:00Z",
+  "status": "draft"
+}

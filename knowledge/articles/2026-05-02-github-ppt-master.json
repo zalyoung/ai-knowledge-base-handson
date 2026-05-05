@@ -1,0 +1,20 @@
+{
+  "id": "e7045560-72fe-496e-85fa-4d3802b41dc7",
+  "title": "hugohe3/ppt-master",
+  "source_url": "https://github.com/hugohe3/ppt-master",
+  "source_type": "github_trending",
+  "summary": "AI 驱动的原生可编辑 PPTX 生成工具，支持从 PDF、DOCX、URL 或 Markdown 输入自动生成真实的 PowerPoint 演示文稿。区别于市面上将内容渲染为大尺寸图片的方案，PPT Master 输出的是真正的 DrawingML 形状、文本框和图表——每个元素可在 PowerPoint 中点击编辑。通过 SVG 中间层实现精确布局，再转换为原生 PPTX 形状。支持页面过渡动画和逐元素入场动画，可选的 AI 图像生成和网络图片搜索，90+ 语言的 TTS 旁白生成与视频导出。",
+  "tags": ["pptx-generation", "ai-agent", "svg-rendering", "presentation", "powerpoint", "text-to-speech", "document-automation"],
+  "highlights": [
+    "输出真正的 DrawingML 可编辑形状而非静态图片，区别于所有同类 AI PPT 工具",
+    "SVG→PPTX 转换管线实现精确布局，支持原生页面过渡和逐元素入场动画",
+    "支持 AI 图像生成、网络搜图、TTS 旁白和声音克隆的全流程一体化",
+    "作为 Agent Skill 运行，支持 Claude Code/Cursor/VS Code Copilot 多平台"
+  ],
+  "score": 7,
+  "score_reason": "解决了 AI 生成 PPT「不可编辑」的核心痛点，输出原生 PPTX 形状具有差异化价值。功能全面，但依赖 AI IDE 运行环境有一定门槛。",
+  "published_at": "2026-05-02T00:00:00Z",
+  "fetched_at": "2026-05-02T09:00:00Z",
+  "analyzed_at": "2026-05-02T10:00:00Z",
+  "status": "draft"
+}

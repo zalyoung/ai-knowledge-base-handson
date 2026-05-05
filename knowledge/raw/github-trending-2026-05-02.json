@@ -1,0 +1,72 @@
+[
+  {
+    "title": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "source": "github_trending",
+    "popularity": 33628,
+    "summary": "面向真实工程场景的 Claude Code 技能集，非"氛围编程"工具。提供 /grill-me（需求对齐）、/tdd（测试驱动开发）、/diagnose（调试诊断）、/improve-codebase-architecture（架构改进）等可组合技能，解决 AI 编码代理常见的理解偏差、过度工程化和代码腐化问题，支持 30 秒快速安装。"
+  },
+  {
+    "title": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "source": "github_trending",
+    "popularity": 21896,
+    "summary": "基于 Andrej Karpathy 对 LLM 编码缺陷观察的单一 CLAUDE.md 文件，可显著改善 Claude Code 行为。核心四大原则：编码前先思考、简洁优先、外科手术式修改、目标驱动执行。支持 Claude Code 插件和 Cursor 规则两种安装方式，帮助减少不必要的代码改动和过度抽象。"
+  },
+  {
+    "title": "Alishahryar1/free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "source": "github_trending",
+    "popularity": 12928,
+    "summary": "免费使用 claude-code 的开源工具，支持在终端、VSCode 扩展和 Discord 中使用，类似 OpenClaw 方案并支持语音交互。提供了一种无需付费订阅即可体验 Claude Code 能力的替代途径，适用于希望低成本接入 AI 编码助手的开发者。"
+  },
+  {
+    "title": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "github_trending",
+    "popularity": 6152,
+    "summary": "基于多智能体 LLM 的金融交易框架，通过多个协作的 LLM Agent 完成市场分析、策略制定和交易决策。将大语言模型的推理能力应用于量化交易场景，支持复杂的多代理协同工作流，附带学术论文详细阐述其架构设计。"
+  },
+  {
+    "title": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "source": "github_trending",
+    "popularity": 5376,
+    "summary": "零服务端的代码智能引擎，完全在浏览器中运行的客户端知识图谱生成器。拖入 GitHub 仓库或 ZIP 文件即可生成交互式知识图谱，内置 Graph RAG Agent 用于代码探索和问答，适合快速理解大型代码库的架构与依赖关系。"
+  },
+  {
+    "title": "huggingface/ml-intern",
+    "url": "https://github.com/huggingface/ml-intern",
+    "source": "github_trending",
+    "popularity": 3157,
+    "summary": "由 Hugging Face 推出的开源 ML 工程师 Agent，能够自主阅读论文、训练模型并交付 ML 代码。深度集成 Hugging Face 生态（文档、数据集、Papers、云算力），支持交互模式和无头模式，内置 Doom Loop 检测器防止代理陷入死循环。"
+  },
+  {
+    "title": "hugohe3/ppt-master",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "source": "github_trending",
+    "popularity": 2719,
+    "summary": "利用 AI 从任意文档自动生成原生可编辑 PPTX 文件的工具，输出真实的 PowerPoint 形状和原生动画效果，而非静态图片。支持将 Markdown、PDF 等格式内容智能转换为专业演示文稿，大幅提升 PPT 制作效率。"
+  },
+  {
+    "title": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "source": "github_trending",
+    "popularity": 2364,
+    "summary": "LLM 驱动的 A 股/港股/美股智能分析系统，整合多数据源行情、实时新闻抓取与 LLM 决策仪表盘，支持多渠道推送（微信、邮件等），可零成本定时运行。将大语言模型应用于多市场股票智能分析与投资决策辅助。"
+  },
+  {
+    "title": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "source": "github_trending",
+    "popularity": 2023,
+    "summary": "AI 全自动短视频引擎，实现从脚本生成、素材匹配、配音合成到视频渲染的全流程自动化。面向短视频内容创作者，利用 AI 技术降低视频制作门槛，支持批量生产和多平台适配。"
+  },
+  {
+    "title": "CJackHwang/ds2api",
+    "url": "https://github.com/CJackHwang/ds2api",
+    "source": "github_trending",
+    "popularity": 1775,
+    "summary": "DeepSeek 兼容的中间件接口项目，使用 Go 语言实现，聚焦高并发协议适配。作为参考实现展示了如何将多种 Web 协议转换为标准化格式，便于将 DeepSeek API 集成到不同架构的 LLM 应用中。"
+  }
+]

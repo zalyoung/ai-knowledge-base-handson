@@ -1,0 +1,20 @@
+{
+  "id": "cca3ff61-1eb5-4827-b16d-f9efc4db3a93",
+  "title": "Alishahryar1/free-claude-code",
+  "source_url": "https://github.com/Alishahryar1/free-claude-code",
+  "source_type": "github_trending",
+  "summary": "一个 Anthropic 兼容代理，将 Claude Code CLI/IDE 的 API 流量路由到 NVIDIA NIM、OpenRouter、DeepSeek、LM Studio、llama.cpp 或 Ollama 等免费/低成本后端。基于 FastAPI 构建，支持六种 Provider 后端、按模型层级路由（Opus/Sonnet/Haiku 分别指定不同后端）、Claude Code 原生 /model 选择器集成、流式传输、Tool Use、思考块处理。可选功能包括 Discord/Telegram 机器人封装（远程编码会话）、语音笔记转录。",
+  "tags": ["claude-code", "api-proxy", "anthropic", "openrouter", "deepseek", "ollama", "fastapi", "cost-optimization"],
+  "highlights": [
+    "支持 6 种 Provider 后端并可混合路由，实现按模型层级的灵活配置",
+    "原生集成 Claude Code /model 选择器，运行时切换模型无需修改配置",
+    "可选 Discord/Telegram 机器人支持远程编码会话与语音交互",
+    "FastAPI 架构提供完整的并发控制、速率限制和流式传输优化"
+  ],
+  "score": 7,
+  "score_reason": "将 Claude Code 的高昂订阅成本有效降低，技术实现扎实，Provider 覆盖广泛，多平台客户端支持完善。非原创性技术创新但实用性很强。",
+  "published_at": "2026-05-02T00:00:00Z",
+  "fetched_at": "2026-05-02T09:00:00Z",
+  "analyzed_at": "2026-05-02T10:00:00Z",
+  "status": "draft"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "eea1da99-841c-4c51-becf-0c13371ef541",
+  "title": "abhigyanpatwari/GitNexus",
+  "source_url": "https://github.com/abhigyanpatwari/GitNexus",
+  "source_type": "github_trending",
+  "summary": "零服务端的代码智能引擎，完全在浏览器中运行的知识图谱生成器。通过多阶段索引管线（文件结构遍历→Tree-sitter AST 解析→符号解析→Leiden 社区检测聚类→执行流追踪→混合搜索索引构建）将任意代码库转化为交互式知识图谱。支持 17 种语言。核心创新是「预计算关系智能」——在索引时预计算聚类、追踪和评分，使 AI Agent 一次调用即可获取完整上下文，避免传统 Graph RAG 需要多次查询才能拼凑全貌的痛点。",
+  "tags": ["knowledge-graph", "code-intelligence", "mcp", "tree-sitter", "graph-rag", "code-analysis", "agent-context", "developer-tools"],
+  "highlights": [
+    "「预计算关系智能」在索引时完成聚类/追踪/评分，AI Agent 一次查询即可获得完整上下文",
+    "17 种语言的 Tree-sitter AST 解析覆盖导入解析、类型注解和构造函数推断",
+    "16 个 MCP 工具 + 4 个 Agent 技能覆盖代码探索、调试、影响分析和重构",
+    "支持多仓库统一知识图谱和跨仓库合约匹配的企业级能力"
+  ],
+  "score": 8,
+  "score_reason": "将代码知识图谱与 AI Agent 深度结合，预计算架构解决了多次查询效率低下的核心痛点。17 种语言覆盖和 MCP 生态集成使其具备广泛实用价值。",
+  "published_at": "2026-05-02T00:00:00Z",
+  "fetched_at": "2026-05-02T09:00:00Z",
+  "analyzed_at": "2026-05-02T10:00:00Z",
+  "status": "draft"
+}
