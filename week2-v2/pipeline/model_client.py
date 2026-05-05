@@ -259,12 +259,14 @@ def get_provider(
     Args:
         provider_name: 提供商名称，默认从环境变量 LLM_PROVIDER 读取。
         api_key: API 密钥，默认从对应环境变量读取。
-        model: 模型名称，默认使用提供商默认模型。
+        model: 模型名称，默认从环境变量 LLM_MODEL 读取，
+            若未设置则使用提供商默认模型。
 
     Returns:
         OpenAICompatibleProvider 实例。
     """
     name = provider_name or os.getenv("LLM_PROVIDER", "deepseek")
+    model = model or os.getenv("LLM_MODEL")
     return OpenAICompatibleProvider(
         provider_name=name, api_key=api_key, model=model
     )
