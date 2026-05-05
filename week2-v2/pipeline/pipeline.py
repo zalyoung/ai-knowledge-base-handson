@@ -22,9 +22,9 @@ import httpx
 
 # 支持直接运行和模块导入两种方式
 try:
-    from pipeline.model_client import chat_with_retry, get_provider
+    from pipeline.model_client import chat_with_retry, tracker
 except ImportError:
-    from model_client import chat_with_retry, get_provider
+    from model_client import chat_with_retry, tracker
 
 logger = logging.getLogger(__name__)
 
@@ -659,6 +659,9 @@ def run_pipeline(
     logger.info("整理: %d 条", result["organized"])
     logger.info("保存: %d 篇", result["saved"])
     logger.info("=" * 60)
+
+    # 输出 LLM 调用成本报告
+    tracker.report()
 
     return result
 
