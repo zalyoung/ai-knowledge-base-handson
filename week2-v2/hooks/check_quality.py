@@ -8,6 +8,8 @@
     python hooks/check_quality.py knowledge/articles/*.json
 """
 
+from __future__ import annotations
+
 import glob as globmod
 import json
 import re
