@@ -1,0 +1,127 @@
+{
+  "source": "github_trending",
+  "skill": "github-trending",
+  "collected_at": "2026-05-05T09:00:00Z",
+  "items": [
+    {
+      "name": "openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "summary": "OpenClaw：跨平台个人 AI 助手，支持任意操作系统和设备。采用开源架构，强调数据隐私和本地化部署，提供类似 Siri/Alexa 的智能交互体验，适合希望拥有自主可控 AI 助手的用户。",
+      "stars": 368347,
+      "language": "TypeScript",
+      "topics": ["ai", "assistant", "crustacean", "molty", "openclaw", "own-your-data", "personal"]
+    },
+    {
+      "name": "n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "summary": "n8n：开源工作流自动化平台，原生集成 AI 能力。支持可视化编排与自定义代码结合，提供 400+ 应用集成，内置 MCP 客户端/服务器支持。适合构建企业级 AI 自动化工作流，支持自托管或云端部署。",
+      "stars": 186708,
+      "language": "TypeScript",
+      "topics": ["ai", "apis", "automation", "cli", "data-flow", "development", "integration-framework", "integrations", "ipaas", "low-code", "low-code-platform", "mcp", "mcp-client", "mcp-server", "n8n", "no-code", "self-hosted", "typescript", "workflow", "workflow-automation"]
+    },
+    {
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "summary": "AutoGPT：自主 AI 代理框架，实现 AI 的可访问性愿景。支持构建能够自主思考、规划和执行任务的 AI Agent，集成多种 LLM 模型（Claude、GPT、Llama），适合开发复杂自动化工作流和智能助手应用。",
+      "stars": 183992,
+      "language": "Python",
+      "topics": ["agentic-ai", "agents", "ai", "artificial-intelligence", "autonomous-agents", "claude", "gpt", "llama-api", "llm", "openai", "python"]
+    },
+    {
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "Superpowers：Agent 技能框架与软件开发方法论。提供一套可组合的 Agent 技能系统，支持 Claude Code、Cursor 等 AI 编码工具，通过结构化技能提升 AI 代理的开发效率和代码质量。",
+      "stars": 178441,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "name": "everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "summary": "Everything Claude Code：Agent 性能优化系统，专为 Claude Code、Codex、Opencode、Cursor 等 AI 编码工具设计。提供技能、本能、记忆、安全和研究优先开发等全方位优化方案，显著提升 AI 编码代理的工作效率。",
+      "stars": 173378,
+      "language": "JavaScript",
+      "topics": ["ai-agents", "anthropic", "claude", "claude-code", "developer-tools", "llm", "mcp", "productivity"]
+    },
+    {
+      "name": "ollama",
+      "url": "https://github.com/ollama/ollama",
+      "summary": "Ollama：本地大语言模型运行框架，支持 Kimi-K2.5、GLM-5、MiniMax、DeepSeek、Qwen、Gemma 等主流模型。提供简洁的 API 接口和命令行工具，适合在本地环境快速部署和测试各种 LLM 模型。",
+      "stars": 170705,
+      "language": "Go",
+      "topics": ["deepseek", "gemma", "gemma3", "glm", "go", "golang", "gpt-oss", "llama", "llama3", "llm", "llms", "minimax", "mistral", "ollama", "qwen"]
+    },
+    {
+      "name": "prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "summary": "Prompts.chat：AI 提示词共享平台，原 Awesome ChatGPT Prompts。收集和分享来自社区的优质提示词，支持 ChatGPT、Claude、Gemini 等多种模型。提供自托管方案，适合企业和个人构建私有提示词库。",
+      "stars": 161550,
+      "language": "HTML",
+      "topics": ["ai", "artificial-intelligence", "awesome-list", "chatgpt", "chatgpt-prompts", "claude", "gemini", "gpt", "gpt-4", "llm", "machine-learning", "nextjs", "open-source", "openai", "prompt-engineering", "prompts", "prompts-chat", "typescript"]
+    },
+    {
+      "name": "transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "summary": "Transformers：Hugging Face 出品的机器学习模型定义框架，支持文本、视觉、音频和多模态模型。提供数万个预训练模型，支持推理和训练，是 AI/ML 领域最流行的基础库之一。",
+      "stars": 160249,
+      "language": "Python",
+      "topics": ["audio", "deep-learning", "huggingface", "machine-learning", "multimodal", "nlp", "pytorch", "transformers"]
+    },
+    {
+      "name": "dify",
+      "url": "https://github.com/langgenius/dify",
+      "summary": "Dify：生产级 Agentic 工作流开发平台。提供可视化编排界面，支持 RAG、Agent、工作流自动化，集成多种 LLM 和 MCP 协议。适合企业快速构建和部署 AI 应用，支持低代码/无代码开发模式。",
+      "stars": 140092,
+      "language": "TypeScript",
+      "topics": ["agent", "agentic-ai", "agentic-framework", "agentic-workflow", "ai", "automation", "gemini", "genai", "gpt", "gpt-4", "llm", "low-code", "mcp", "nextjs", "no-code", "openai", "orchestration", "python", "rag", "workflow"]
+    },
+    {
+      "name": "langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "summary": "LangChain：Agent 工程平台，提供构建 LLM 应用的完整工具链。支持多 Agent 协同、RAG、工具调用等能力，集成 Anthropic、OpenAI、Gemini 等主流模型。TypeScript 版本同步更新，适合开发复杂 AI 应用。",
+      "stars": 135781,
+      "language": "Python",
+      "topics": ["agents", "ai", "ai-agents", "anthropic", "chatgpt", "deepagents", "enterprise", "framework", "gemini", "generative-ai", "langchain", "langgraph", "llm", "multiagent", "open-source", "openai", "pydantic", "python", "rag", "typescript"]
+    },
+    {
+      "name": "open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "summary": "Open WebUI：用户友好的 AI 界面，支持 Ollama、OpenAI API 等多种后端。提供类似 ChatGPT 的交互体验，支持 RAG、MCP 协议，适合本地部署 LLM 的用户使用，界面美观且功能丰富。",
+      "stars": 135538,
+      "language": "Python",
+      "topics": ["ai", "llm", "llm-ui", "llm-webui", "llms", "mcp", "ollama", "ollama-webui", "open-webui", "openai", "openapi", "rag", "self-hosted", "ui", "webui"]
+    },
+    {
+      "name": "ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "summary": "RAGFlow：领先的开源 RAG 引擎，融合前沿 RAG 技术与 Agent 能力。为 LLM 提供优质上下文层，支持文档解析、向量检索和智能问答。适合构建企业级知识库和智能客服系统。",
+      "stars": 79658,
+      "language": "Python",
+      "topics": ["llm-app"]
+    },
+    {
+      "name": "PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "summary": "PaddleOCR：强大的轻量级 OCR 工具包，将 PDF/图像文档转换为结构化数据。支持 100+ 语言识别，提供文档解析、PDF 转 Markdown 等能力，是连接图像/PDF 与 LLM 的桥梁，适合构建 RAG 应用。",
+      "stars": 77063,
+      "language": "Python",
+      "topics": ["ai4science", "chineseocr", "document-parsing", "document-translation", "kie", "ocr", "paddleocr-vl", "pdf-extractor-rag", "pdf-parser", "pdf2markdown", "pp-ocr", "pp-structure", "rag"]
+    },
+    {
+      "name": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "Claude Mem：Claude Code 记忆插件，自动捕获编码会话内容并压缩存储。利用 AI 生成相关上下文，在未来会话中智能注入，提升 Claude Code 的连续性和工作效率。支持长期记忆和项目上下文管理。",
+      "stars": 72072,
+      "language": "TypeScript",
+      "topics": ["ai", "ai-agents", "ai-memory", "anthropic", "artificial-intelligence", "chromadb", "claude", "claude-agent-sdk", "claude-agents", "claude-code", "claude-code-plugin", "claude-skills", "embeddings", "long-term-memory", "mem0", "memory-engine", "openmemory", "rag", "sqlite", "supermemory"]
+    },
+    {
+      "name": "deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "summary": "DeerFlow：字节跳动开源的长周期 SuperAgent 框架，支持研究、编码和创作。集成沙箱、记忆、工具、技能、子代理和消息网关，能处理数分钟到数小时的复杂任务，适合构建企业级智能工作流。",
+      "stars": 50000,
+      "language": "Python",
+      "topics": ["agent", "ai", "langchain", "llm", "multi-agent", "research"]
+    }
+  ]
+}

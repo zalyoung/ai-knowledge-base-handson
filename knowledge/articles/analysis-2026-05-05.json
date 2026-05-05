@@ -1,0 +1,222 @@
+{
+  "source": "github_trending",
+  "skill": "tech-summary",
+  "analyzed_at": "2026-05-05T10:00:00Z",
+  "input_file": "knowledge/raw/github-trending-2026-05-05.json",
+  "items": [
+    {
+      "name": "ollama",
+      "url": "https://github.com/ollama/ollama",
+      "summary": "本地大语言模型运行框架，支持 Kimi-K2.5、GLM-5、DeepSeek、Qwen 等主流模型，提供一键部署和统一 API",
+      "highlights": [
+        "[模型生态]：支持 10+ 主流模型系列，持续跟进最新模型发布",
+        "[本地优先]：纯本地运行无需联网，数据隐私安全有保障",
+        "[极简体验]：命令行一键拉起模型，API 接口兼容 OpenAI 规范"
+      ],
+      "score": 9,
+      "score_reason": "本地 LLM 部署的事实标准，极大降低模型使用门槛，170k+ stars 验证了社区认可度",
+      "tags": ["llm", "local-deployment", "ollama", "model-serving", "self-hosted"]
+    },
+    {
+      "name": "transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "summary": "Hugging Face 机器学习模型框架，支持文本、视觉、音频和多模态，提供数万个预训练模型",
+      "highlights": [
+        "[多模态支持]：覆盖 NLP、CV、Audio、Multimodal 全领域模型",
+        "[模型库]：集成数万个预训练模型，社区持续贡献",
+        "[训练推理]：支持模型微调和推理，兼容 PyTorch/JAX/TF"
+      ],
+      "score": 9,
+      "score_reason": "AI/ML 领域基础设施级项目，定义了模型分发和使用标准，160k+ stars 体现行业共识",
+      "tags": ["machine-learning", "transformers", "nlp", "pretrained-models", "huggingface"]
+    },
+    {
+      "name": "n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "summary": "开源工作流自动化平台，原生集成 AI 能力，支持 400+ 应用集成和 MCP 协议",
+      "highlights": [
+        "[AI 原生]：内置 MCP 客户端/服务器，原生支持 AI 工作流",
+        "[集成丰富]：400+ 应用连接器，覆盖主流 SaaS 和数据库",
+        "[灵活部署]：支持自托管和云端，可视化与代码混合编排"
+      ],
+      "score": 8,
+      "score_reason": "企业级工作流自动化首选方案，AI 集成和 MCP 支持使其在 Agent 时代保持竞争力",
+      "tags": ["workflow", "automation", "mcp", "integration", "low-code"]
+    },
+    {
+      "name": "AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "summary": "自主 AI 代理框架，支持构建能自主思考、规划和执行任务的 Agent",
+      "highlights": [
+        "[自主执行]：Agent 可自主分解任务、规划步骤并执行",
+        "[多模型集成]：支持 Claude、GPT、Llama 等主流模型",
+        "[任务编排]：支持复杂工作流的自动化执行"
+      ],
+      "score": 8,
+      "score_reason": "开创性的自主 Agent 框架，推动了 AI Agent 概念的普及，持续迭代保持技术前沿性",
+      "tags": ["agent", "autonomous", "llm", "task-automation", "agentic-ai"]
+    },
+    {
+      "name": "dify",
+      "url": "https://github.com/langgenius/dify",
+      "summary": "生产级 Agentic 工作流开发平台，支持可视化编排 RAG、Agent 和 MCP 协议",
+      "highlights": [
+        "[可视化编排]：拖拽式构建复杂 AI 工作流，降低开发门槛",
+        "[生产就绪]：内置 RAG、Agent、MCP 支持，企业级部署能力",
+        "[低代码模式]：支持无代码/低代码开发，快速构建 AI 应用"
+      ],
+      "score": 8,
+      "score_reason": "企业级 AI 应用开发首选平台，可视化编排和 MCP 支持使其成为 Agentic 工作流标杆",
+      "tags": ["agentic-workflow", "rag", "mcp", "low-code", "llm-platform"]
+    },
+    {
+      "name": "langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "summary": "Agent 工程平台，提供构建 LLM 应用的完整工具链，支持多 Agent 协同",
+      "highlights": [
+        "[工具链完整]：覆盖模型调用、工具集成、Agent 编排全链路",
+        "[多 Agent]：支持多 Agent 协同和复杂任务分解",
+        "[生态丰富]：集成主流模型和工具，TypeScript/Python 双版本"
+      ],
+      "score": 7,
+      "score_reason": "LLM 应用开发的先行者和推动者，生态完善但面临新兴框架竞争，需持续创新保持优势",
+      "tags": ["langchain", "agent", "llm", "tool-calling", "framework"]
+    },
+    {
+      "name": "ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "summary": "开源 RAG 引擎，融合前沿 RAG 技术与 Agent 能力，为 LLM 提供优质上下文",
+      "highlights": [
+        "[RAG 专精]：深度优化文档解析和向量检索，提升检索质量",
+        "[Agent 融合]：RAG 与 Agent 能力结合，支持智能问答",
+        "[企业级]：适合构建知识库和智能客服系统"
+      ],
+      "score": 8,
+      "score_reason": "RAG 领域专业级解决方案，解决了文档解析和检索质量的核心痛点",
+      "tags": ["rag", "knowledge-base", "document-parsing", "vector-search", "llm"]
+    },
+    {
+      "name": "deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "summary": "字节跳动开源的长周期 SuperAgent 框架，支持研究、编码和创作任务",
+      "highlights": [
+        "[长周期任务]：支持数分钟到数小时的复杂任务执行",
+        "[全栈能力]：集成沙箱、记忆、工具、技能和子代理",
+        "[企业背景]：字节跳动出品，经过大规模业务验证"
+      ],
+      "score": 8,
+      "score_reason": "解决了 Agent 长周期任务执行的难题，字节跳动背景保证了工程质量和实用性",
+      "tags": ["agent", "long-running", "multi-agent", "enterprise", "sandbox"]
+    },
+    {
+      "name": "open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "summary": "用户友好的 AI 界面，支持 Ollama、OpenAI API 等多种后端，界面美观功能丰富",
+      "highlights": [
+        "[多后端]：支持 Ollama、OpenAI API 等多种 LLM 后端",
+        "[功能完整]：内置 RAG、MCP 支持，交互体验优秀",
+        "[本地部署]：适合本地 LLM 用户，界面媲美 ChatGPT"
+      ],
+      "score": 7,
+      "score_reason": "本地 LLM 用户的首选界面，解决了 Ollama 等工具缺乏友好 UI 的痛点",
+      "tags": ["ui", "llm", "ollama", "self-hosted", "chat-interface"]
+    },
+    {
+      "name": "PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "summary": "轻量级 OCR 工具包，支持 100+ 语言，将 PDF/图像转换为结构化数据",
+      "highlights": [
+        "[多语言]：支持 100+ 语言识别，覆盖全球主要语种",
+        "[文档解析]：PDF 转 Markdown，适配 RAG 应用场景",
+        "[轻量高效]：模型轻量且推理速度快，适合生产部署"
+      ],
+      "score": 7,
+      "score_reason": "OCR 领域的基础设施级项目，为 RAG 应用提供了关键的文档解析能力",
+      "tags": ["ocr", "document-parsing", "pdf", "rag", "paddlepaddle"]
+    },
+    {
+      "name": "prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "summary": "AI 提示词共享平台，收集社区优质提示词，支持自托管私有部署",
+      "highlights": [
+        "[社区驱动]：汇集社区优质提示词，持续更新",
+        "[多模型]：支持 ChatGPT、Claude、Gemini 等多种模型",
+        "[自托管]：支持私有部署，企业可构建内部提示词库"
+      ],
+      "score": 6,
+      "score_reason": "提示词工程的实用资源库，但内容价值依赖社区贡献，技术纵深有限",
+      "tags": ["prompts", "prompt-engineering", "community", "resource"]
+    },
+    {
+      "name": "openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "summary": "跨平台个人 AI 助手，强调数据隐私和本地化部署，支持多设备同步",
+      "highlights": [
+        "[跨平台]：支持任意操作系统和设备，统一体验",
+        "[隐私优先]：数据本地存储，用户完全掌控",
+        "[开源架构]：可定制可扩展，避免厂商锁定"
+      ],
+      "score": 6,
+      "score_reason": "个人 AI 助手的开源替代方案，理念正确但面临 Siri/Alexa 等成熟产品的竞争",
+      "tags": ["personal-assistant", "privacy", "cross-platform", "self-hosted"]
+    },
+    {
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "summary": "Agent 技能框架，提供可组合的技能系统，支持 Claude Code、Cursor 等工具",
+      "highlights": [
+        "[技能系统]：可组合的 Agent 技能定义和管理",
+        "[工具集成]：支持 Claude Code、Cursor 等主流 AI 编码工具",
+        "[方法论]：提供结构化的 AI 辅助开发方法论"
+      ],
+      "score": 6,
+      "score_reason": "AI 编码工具的增强框架，理念新颖但生态尚在早期，实用性有待验证",
+      "tags": ["agent-skills", "claude-code", "cursor", "ai-coding", "developer-tools"]
+    },
+    {
+      "name": "everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "summary": "Claude Code 性能优化系统，提供技能、记忆、安全等全方位优化方案",
+      "highlights": [
+        "[全面优化]：覆盖技能、本能、记忆、安全等多个维度",
+        "[工具支持]：支持 Claude Code、Codex、Cursor 等多种工具",
+        "[性能提升]：显著提升 AI 编码代理的工作效率"
+      ],
+      "score": 6,
+      "score_reason": "Claude Code 生态的优化工具集，对特定用户群有价值，但受众相对有限",
+      "tags": ["claude-code", "optimization", "ai-coding", "developer-tools", "productivity"]
+    },
+    {
+      "name": "claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "summary": "Claude Code 记忆插件，自动捕获会话内容并智能注入未来上下文",
+      "highlights": [
+        "[会话记忆]：自动捕获和压缩编码会话内容",
+        "[智能注入]：基于 AI 相关性在未来会话中注入上下文",
+        "[长期记忆]：支持项目级别的长期记忆管理"
+      ],
+      "score": 6,
+      "score_reason": "解决了 AI 编码工具缺乏长期记忆的痛点，但功能相对单一，依赖 Claude 生态",
+      "tags": ["memory", "claude-code", "context-management", "ai-coding", "plugin"]
+    }
+  ],
+  "trends": {
+    "common_themes": [
+      "Agent 技术成为绝对主流：15 个项目中 12 个涉及 Agent 相关能力，包括自主执行、多 Agent 协同、长周期任务等",
+      "MCP 协议快速普及：n8n、dify、open-webui、langchain 等 6+ 个项目已集成 MCP 支持，正在成为 Agent 工具调用的新标准",
+      "本地化部署需求激增：ollama、open-webui、openclaw 等项目强调本地运行和数据隐私，反映用户对数据主权的重视",
+      "AI 编码工具生态成熟：superpowers、everything-claude-code、claude-mem 等项目形成完整的开发者工具链"
+    ],
+    "emerging_concepts": [
+      "长周期 Agent（Long-running Agent）：deer-flow 等框架开始支持数分钟到数小时的复杂任务，突破了传统 Agent 的短会话限制",
+      "Agent 技能系统（Agent Skills）：superpowers 等项目引入可组合的技能定义，Agent 能力开始模块化和标准化",
+      "MCP（Model Context Protocol）：作为 Agent 工具调用的新协议，正在被主流框架快速采纳"
+    ],
+    "ecosystem_changes": [
+      "LangChain 生态面临分化：虽然 langchain 仍是主流，但 dify、deer-flow 等独立框架正在崛起，提供更专注的解决方案",
+      "RAG 技术走向成熟：ragflow、PaddleOCR 等项目专注于 RAG 的特定环节（文档解析、向量检索），技术栈更加细化",
+      "本地 LLM 部署成为标配：ollama 生态持续壮大，open-webui 等 UI 工具跟进，本地部署体验接近云端",
+      "AI 编码工具从辅助走向增强：从简单的代码补全发展到技能系统、长期记忆、会话优化等全方位增强"
+    ]
+  }
+}
