@@ -1,0 +1,53 @@
+# RSS 数据源配置
+# enabled: true  - 启用采集
+# enabled: false - 禁用采集
+
+sources:
+  # ==================== 综合技术 ====================
+  - name: "Hacker News Best (AI)"
+    url: "https://hnrss.org/best?q=AI+OR+LLM+OR+agent"
+    category: "general_tech"
+    enabled: true
+
+  - name: "Lobsters AI/ML"
+    url: "https://lobsters.ai/rss"
+    category: "general_tech"
+    enabled: true
+
+  # ==================== AI 研究 ====================
+  - name: "arXiv cs.AI"
+    url: "https://rss.arxiv.org/rss/cs.AI"
+    category: "ai_research"
+    enabled: false  # 量大，每日 200+ 论文
+
+  # ==================== 公司博客 ====================
+  - name: "OpenAI Blog"
+    url: "https://openai.com/blog/rss.xml"
+    category: "company_blog"
+    enabled: true
+
+  - name: "Anthropic Research"
+    url: "https://www.anthropic.com/research/rss.xml"
+    category: "company_blog"
+    enabled: true
+
+  - name: "Hugging Face Blog"
+    url: "https://huggingface.co/blog/feed.xml"
+    category: "company_blog"
+    enabled: true
+
+  - name: "GitLab Blog"
+    url: "https://about.gitlab.com/atom.xml"
+    category: "company_blog"
+    enabled: true
+
+  # ==================== 中文社区 ====================
+  - name: "机器之心"
+    url: "https://www.jiqizhixin.com/rss"
+    category: "chinese_community"
+    enabled: false  # 待确认 RSS 可用性
+
+  - name: "量子位"
+    url: "https://www.qbitai.com/feed"
+    category: "chinese_community"
+    enabled: false  # 待确认 RSS 可用性
