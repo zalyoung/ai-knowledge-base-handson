@@ -1,21 +1,21 @@
 {
   "id": "hn-20260505-005",
-  "title": "SharkAuth：专为AI代理委托设计的认证服务器",
-  "source_url": "https://github.com/shark-auth/shark",
+  "title": "Smile-Serve：集成ML、ONNX和LLM推理的JVM推理服务器",
+  "source_url": "https://github.com/haifengl/smile/tree/master/serve",
   "source_type": "hackernews",
-  "summary": "SharkAuth 是一个开源的认证服务器，专注于解决 AI 代理（agent）之间的安全委托与授权问题。随着 AI 代理系统的普及，代理间相互调用、执行任务时需要可靠的身份验证和权限管理。SharkAuth 提供专为这种场景设计的轻量级认证方案，支持代理间认证、令牌管理和细粒度权限控制。项目目前处于早期阶段，但立意明确，契合 AI 代理协作与自动化的安全需求，适用于构建安全的多代理系统、AI 工作流和自动化任务委托等场景。",
+  "summary": "Smile-Serve 是一个基于 Quarkus 框架构建的生产就绪型推理服务器，在 JVM 上统一了三种推理能力：经典机器学习模型（.sml 格式）、ONNX 格式模型、以及基于 Llama 3 的聊天补全。它提供三个 REST API 端点（/api/v1/models、/api/v1/onnx、/api/v1/chat），并自带一个基于 React 的 Web UI。该服务器适合需要同时支持传统 ML 模型、跨框架 ONNX 模型和大型语言模型（LLM）推理的场景，尤其适合 Java/Quarkus 生态的团队快速部署轻量级推理服务。",
   "tags": [
-    "ai",
-    "authentication",
-    "authorization",
-    "delegation",
-    "security",
-    "agent",
-    "opensource"
+    "inference-server",
+    "quarkus",
+    "onnx",
+    "llama",
+    "machine-learning",
+    "jvm",
+    "react"
   ],
   "score": 7,
-  "published_at": "Mon, 04 May 2026 15:07:51 +0000",
-  "fetched_at": "2026-05-05T13:03:11.040931+00:00",
-  "analyzed_at": "2026-05-05T13:04:18.008056+00:00",
+  "published_at": "Mon, 04 May 2026 22:02:55 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836513+00:00",
+  "analyzed_at": "2026-05-05T13:36:04.300380+00:00",
   "status": "published"
 }

@@ -1,22 +1,22 @@
 {
   "id": "github-20260505-003",
-  "title": "Hermes-Agent：可成长的开源 AI 智能体框架",
-  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "title": "LlamaFactory：统一高效微调大语言模型与多模态模型",
+  "source_url": "https://github.com/hiyouga/LlamaFactory",
   "source_type": "github_trending",
-  "summary": "Hermes-Agent 是由 NousResearch 开发的开源 AI 智能体项目，旨在提供一个能与用户共同成长的智能体框架。该项目基于 Python 实现，支持集成 OpenAI、Anthropic、Claude 等多种主流大语言模型，并具备高度可定制性和扩展性。其核心理念是让智能体能够根据用户的交互和需求动态进化，适用于个人助手、自动化任务、对话系统等多种场景。凭借超过 13 万星标的社区热度，Hermes-Agent 展现了极高的实用性和社区活跃度，是构建下一代个性化 AI 应用的理想基础。",
+  "summary": "LlamaFactory 是一个统一的高效微调框架，支持超过100种大语言模型（LLMs）和多模态模型（VLMs），已被 ACL 2024 收录。该项目集成了多种高效微调技术，如 LoRA、QLoRA、PEFT、量化等，并支持指令微调、RLHF 等训练范式。其设计注重易用性和可扩展性，提供了简洁的 API 和丰富的配置选项，适用于学术研究和工业场景下的模型适配与优化。截至目前，项目在 GitHub 上获得超过7万星标，社区活跃，更新频繁，已成为大模型微调领域的重要工具。",
   "tags": [
-    "ai",
-    "ai-agent",
+    "fine-tuning",
     "llm",
-    "python",
-    "openai",
-    "anthropic",
-    "claude",
-    "open-source"
+    "lora",
+    "qlora",
+    "transformers",
+    "deep-learning",
+    "nlp",
+    "multi-modal"
   ],
   "score": 9,
-  "published_at": "2025-07-22T22:22:28Z",
-  "fetched_at": "2026-05-05T13:03:09.683038+00:00",
-  "analyzed_at": "2026-05-05T13:03:31.772571+00:00",
+  "published_at": "2023-05-28T10:09:12Z",
+  "fetched_at": "2026-05-05T13:32:42.464173+00:00",
+  "analyzed_at": "2026-05-05T13:33:47.102268+00:00",
   "status": "published"
 }

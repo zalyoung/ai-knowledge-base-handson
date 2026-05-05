@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260505-007",
+  "title": "探索LLM偏见以操纵AI搜索概览",
+  "source_url": "https://arxiv.org/abs/2605.00012",
+  "source_type": "hackernews",
+  "summary": "该论文研究了大型语言模型（LLM）中的系统性偏见，并展示了如何利用这些偏见来操纵AI驱动的搜索引擎生成的搜索概览。通过设计特定的提示词和上下文，研究人员能够引导模型输出偏向特定方向的内容，从而影响搜索结果中的总结性信息。这项工作揭示了LLM在搜索引擎中应用时的潜在安全风险，并强调了开发更鲁棒和公正的AI搜索系统的重要性。适用于AI安全研究者、搜索引擎开发者以及对AI偏见感兴趣的社区。",
+  "tags": [
+    "llm-bias",
+    "ai-security",
+    "search-manipulation",
+    "prompt-attack",
+    "responsible-ai",
+    "adversarial-examples"
+  ],
+  "score": 8,
+  "published_at": "Mon, 04 May 2026 17:49:05 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836560+00:00",
+  "analyzed_at": "2026-05-05T13:36:22.982280+00:00",
+  "status": "published"
+}

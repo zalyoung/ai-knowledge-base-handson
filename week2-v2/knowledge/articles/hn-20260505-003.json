@@ -1,19 +1,22 @@
 {
   "id": "hn-20260505-003",
-  "title": "将AI智能体精简为Bash循环：无需任何框架",
-  "source_url": "https://github.com/seedpi867-cmd/seed",
+  "title": "从零开始训练你自己的大语言模型",
+  "source_url": "https://github.com/angelos-p/llm-from-scratch",
   "source_type": "hackernews",
-  "summary": "该项目展示了一种极简的AI智能体实现方式，仅通过一个Bash循环调用外部AI服务（如OpenAI API）来完成对话或任务执行，完全摆脱了LangChain、AutoGPT等复杂框架的依赖。其核心思想是使用`while read`循环持续读取用户输入，通过curl发送HTTP请求并处理响应，实现了最基本的智能体交互逻辑。这种设计特别适合快速原型验证、教育演示或资源受限的环境，同时也为理解AI智能体的本质原理提供了最直接的参考。项目的创新点在于以最低的代码量（可能仅数十行）复现了AI agent的核心能力，但功能非常基础，缺乏上下文管理、工具调用等高级特性。社区活跃度较低（HackerNews仅4分，0评论），作为一个概念验证项目，具有教学价值但生产实用性有限。",
+  "summary": "该项目提供一个完整的LLM训练指南和代码实现，帮助开发者从零开始构建和训练自己的大语言模型。涵盖数据准备、模型架构设计、训练循环、优化策略等关键步骤，强调透明度和可复现性。适合对LLM内部机制感兴趣的研究者、学生以及希望深入理解训练流程的工程师，也可用于教学和实验场景。仓库代码基于PyTorch，清晰注释，易于修改和扩展。",
   "tags": [
-    "ai-agent",
-    "bash",
-    "minimal",
-    "no-framework",
-    "prototype"
+    "llm",
+    "machine-learning",
+    "deep-learning",
+    "pytorch",
+    "tutorial",
+    "training",
+    "nlp",
+    "open-source"
   ],
-  "score": 6,
-  "published_at": "Tue, 05 May 2026 00:20:01 +0000",
-  "fetched_at": "2026-05-05T13:03:11.040790+00:00",
-  "analyzed_at": "2026-05-05T13:04:07.358098+00:00",
+  "score": 8,
+  "published_at": "Tue, 05 May 2026 04:09:17 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836458+00:00",
+  "analyzed_at": "2026-05-05T13:35:46.974520+00:00",
   "status": "published"
 }

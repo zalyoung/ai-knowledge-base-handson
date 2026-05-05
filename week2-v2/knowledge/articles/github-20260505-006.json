@@ -1,0 +1,21 @@
+{
+  "id": "github-20260505-006",
+  "title": "字节跳动开源超智能体框架 DeerFlow",
+  "source_url": "https://github.com/bytedance/deer-flow",
+  "source_type": "github_trending",
+  "summary": "DeerFlow 是字节跳动开源的一个面向长期复杂任务的超级智能体框架（SuperAgent harness），可自主进行研究、编码和内容创作。它通过沙箱隔离、记忆存储、工具调用、技能管理、子代理协作及消息网关等组件，灵活处理从几分钟到数小时的任务。框架支持多智能体协作与工作流编排，适用于自动化研发、深度研究、内容生成等场景。基于 Python 实现，Star 数超 6.5 万，社区活跃，生态丰富。",
+  "tags": [
+    "agent",
+    "agentic-framework",
+    "multi-agent",
+    "llm",
+    "python",
+    "open-source",
+    "workflow-automation"
+  ],
+  "score": 9,
+  "published_at": "2025-05-07T02:50:19Z",
+  "fetched_at": "2026-05-05T13:32:42.464191+00:00",
+  "analyzed_at": "2026-05-05T13:34:11.038811+00:00",
+  "status": "published"
+}

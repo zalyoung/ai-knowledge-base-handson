@@ -1,22 +1,20 @@
 {
   "id": "github-20260505-001",
-  "title": "Langflow：低代码AI代理与工作流构建工具",
-  "source_url": "https://github.com/langflow-ai/langflow",
+  "title": "Karpathy 的自动研究项目：单GPU nanochat训练的AI代理",
+  "source_url": "https://github.com/karpathy/autoresearch",
   "source_type": "github_trending",
-  "summary": "Langflow 是一款基于 Python 的开源工具，专注于通过拖拽式界面快速构建和部署 AI 代理及多步骤工作流。它集成了大语言模型、智能体、RAG 等组件，支持可视化编排与一键部署，显著降低了 AI 应用的开发门槛。该项目在 GitHub 上获得超过 147k 星标，社区活跃，适用于快速原型开发、自动化任务编排和复杂多智能体系统搭建。",
+  "summary": "该项目由Andrej Karpathy创建，利用AI代理自动执行单GPU上nanochat模型的训练研究。nanochat是一个极简的聊天模型训练框架，该项目通过智能代理自动化实验流程，包括超参数搜索、训练监控和结果分析，显著降低了手动调参和重复实验的成本。适用于资源受限的研究场景，帮助研究人员快速探索模型配置。项目基于Python，代码简洁，社区活跃（7.9万星标），体现了AI自动化研究与LLM训练的融合趋势。",
   "tags": [
-    "agents",
-    "chatgpt",
-    "generative-ai",
-    "large-language-models",
-    "multiagent",
-    "react-flow",
-    "low-code",
-    "workflow"
+    "ai-agents",
+    "automated-ml",
+    "nanochat",
+    "research-automation",
+    "pytorch",
+    "python"
   ],
   "score": 9,
-  "published_at": "2023-02-08T22:28:03Z",
-  "fetched_at": "2026-05-05T13:03:09.682982+00:00",
-  "analyzed_at": "2026-05-05T13:03:16.023227+00:00",
+  "published_at": "2026-03-06T22:00:43Z",
+  "fetched_at": "2026-05-05T13:32:42.464158+00:00",
+  "analyzed_at": "2026-05-05T13:33:31.892899+00:00",
   "status": "published"
 }

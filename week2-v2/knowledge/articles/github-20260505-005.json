@@ -1,22 +1,20 @@
 {
   "id": "github-20260505-005",
-  "title": "Browser-Use：让AI代理轻松操控浏览器的自动化工具",
-  "source_url": "https://github.com/browser-use/browser-use",
+  "title": "OpenBB：面向分析师和AI代理的开源金融数据平台",
+  "source_url": "https://github.com/OpenBB-finance/OpenBB",
   "source_type": "github_trending",
-  "summary": "Browser-Use 是一个基于 Python 的开源项目，旨在让 AI 代理能够像人类一样操作浏览器，从而自动完成在线任务。它利用大型语言模型（LLM）和 Playwright 浏览器自动化框架，实现了智能的网页交互、数据提取和任务执行。本项目具有极高的实用价值，星标数已超过 9.2 万，社区活跃度极高。适用于自动化网页爬取、表单填写、信息监控、AI 代理的自主操作等场景，尤其适合需要将 LLM 与真实网页环境结合的应用开发。其技术创新性体现在将 LLM 的语义理解与浏览器自动化无缝集成，简化了 AI 代理的上手难度。",
+  "summary": "OpenBB 是一个专为金融分析师、量化交易者和 AI 代理设计的开源金融数据平台，提供统一的数据接口，涵盖股票、期权、加密货币、衍生品、固定收益、经济指标等多个领域。该平台集成了机器学习与人工智能功能，支持自动化分析和策略开发，广泛应用于量化金融研究和智能投资决策。凭借其高星标数（67K+）和活跃的社区贡献，OpenBB 已成为金融科技领域的重要工具。",
   "tags": [
+    "openbb",
+    "finance",
+    "quantitative-finance",
     "python",
-    "ai-agents",
-    "browser-automation",
-    "llm",
-    "playwright",
-    "web-scraping",
-    "automation",
-    "open-source"
+    "ai",
+    "machine-learning"
   ],
   "score": 9,
-  "published_at": "2024-10-31T16:00:56Z",
-  "fetched_at": "2026-05-05T13:03:09.683050+00:00",
-  "analyzed_at": "2026-05-05T13:03:48.647882+00:00",
+  "published_at": "2020-12-20T10:46:38Z",
+  "fetched_at": "2026-05-05T13:32:42.464186+00:00",
+  "analyzed_at": "2026-05-05T13:34:03.877735+00:00",
   "status": "published"
 }

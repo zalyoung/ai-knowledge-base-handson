@@ -1,0 +1,18 @@
+{
+  "id": "hn-20260505-020",
+  "title": "Convera 大语言模型公共运行时",
+  "source_url": "https://github.com/cjparadise79/CONVERA-PUBLIC",
+  "source_type": "hackernews",
+  "summary": "Convera 是一个为大型语言模型（LLM）设计的公共运行时环境，旨在简化 LLM 的部署与执行流程。该项目托管在 GitHub 上，提供了公开的运行时接口，支持开发者快速集成和测试 LLM 应用。尽管社区活跃度和星标数未知，但该工具关注于降低 LLM 运行时的门槛，适用于需要轻量级、可扩展 LLM 服务场景，如原型开发、教育演示或小规模生产部署。",
+  "tags": [
+    "llm",
+    "runtime",
+    "open-source",
+    "deployment"
+  ],
+  "score": 5,
+  "published_at": "Sun, 03 May 2026 18:06:25 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836847+00:00",
+  "analyzed_at": "2026-05-05T13:37:55.028404+00:00",
+  "status": "published"
+}

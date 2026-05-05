@@ -1,20 +1,21 @@
 {
   "id": "hn-20260505-004",
-  "title": "AI Agent驱动的足球游戏模拟器",
-  "source_url": "https://github.com/gangtao/AgentPitch/",
+  "title": "一个允许LLM在运行时重写其DAG的微型C程序",
+  "source_url": "https://github.com/kouhxp/liteflow",
   "source_type": "hackernews",
-  "summary": "该项目是一个基于AI Agent的足球游戏模拟器，通过智能体自主决策实现比赛模拟。技术亮点在于将强化学习或规划算法应用于多智能体协作与对抗场景，适合用于AI决策研究、强化学习训练、游戏AI开发及教育演示。开源特性便于社区复现与扩展，为AI在体育模拟领域的应用提供了轻量级实验平台。",
+  "summary": "本项目展示了一个使用C语言编写的轻量级程序，核心特点是能够在运行时让大语言模型（LLM）动态地重写其内部的有向无环图（DAG）。这种设计使得工作流或数据处理管线可以根据LLM的实时推理结果进行自适应调整，无需重新编译或重启程序。该实现非常小巧，适合嵌入到资源受限的环境或作为研究原型，探索LLM驱动的动态图重构能力。适用于需要灵活适应性的AI工作流、实时决策系统或自动化实验框架。",
   "tags": [
-    "soccer-simulator",
-    "ai-agent",
-    "game-simulator",
-    "reinforcement-learning",
-    "multi-agent",
-    "open-source"
+    "c",
+    "llm",
+    "dag",
+    "runtime",
+    "rewiring",
+    "workflow",
+    "lightweight"
   ],
   "score": 7,
-  "published_at": "Mon, 04 May 2026 15:32:02 +0000",
-  "fetched_at": "2026-05-05T13:03:11.040860+00:00",
-  "analyzed_at": "2026-05-05T13:04:12.875777+00:00",
+  "published_at": "Tue, 05 May 2026 01:43:05 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836482+00:00",
+  "analyzed_at": "2026-05-05T13:35:54.592267+00:00",
   "status": "published"
 }

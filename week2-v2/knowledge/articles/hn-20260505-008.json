@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260505-008",
+  "title": "热力学信任层：将大语言模型幻觉降低52%",
+  "source_url": "https://github.com/Dan23RR/snc-core",
+  "source_type": "hackernews",
+  "summary": "该项目提出了一种名为“热力学信任层”的新方法，通过引入热力学原理来构建一个额外的验证机制，用于检测和减少大语言模型（LLM）生成内容中的幻觉。根据标题声称，该方法能将幻觉率降低52%。该信任层可能通过分析模型输出的能量状态或熵值来评估真实性，适用于需要高可靠性的LLM应用场景，如医疗、法律咨询等。目前项目处于早期阶段，但提供了一个有潜力的方向，结合了物理直觉与AI安全。",
+  "tags": [
+    "llm",
+    "hallucination",
+    "trust-layer",
+    "ai-safety",
+    "thermodynamics"
+  ],
+  "score": 7,
+  "published_at": "Mon, 04 May 2026 17:46:40 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836580+00:00",
+  "analyzed_at": "2026-05-05T13:36:28.780572+00:00",
+  "status": "published"
+}

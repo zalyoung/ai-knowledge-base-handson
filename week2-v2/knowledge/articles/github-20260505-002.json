@@ -1,22 +1,21 @@
 {
   "id": "github-20260505-002",
-  "title": "LangChain：智能体工程平台",
-  "source_url": "https://github.com/langchain-ai/langchain",
+  "title": "OpenHands：AI驱动的开发助手",
+  "source_url": "https://github.com/OpenHands/OpenHands",
   "source_type": "github_trending",
-  "summary": "LangChain是一个开源的智能体工程平台，支持Python和TypeScript，旨在简化基于大型语言模型（LLM）的应用开发。它提供了模块化组件，用于构建RAG（检索增强生成）、多智能体系统、工作流编排等场景。LangChain通过LangGraph支持复杂的状态图，与OpenAI、Anthropic、Google等主流模型提供商集成。其活跃的社区和丰富的生态使其成为企业级AI应用的首选框架，星标数超13.5万，广泛用于聊天机器人、智能文档处理、自动化任务等领域。",
+  "summary": "OpenHands 是一个开源的 AI 驱动开发平台，旨在通过智能代理（Agent）帮助开发者自动完成编码、调试、代码审查等任务。该项目支持多种大型语言模型（LLM），包括 OpenAI GPT、Claude AI 等，提供命令行界面（CLI）和丰富的开发者工具。凭借超过 72,000 的 GitHub 星标和活跃的社区贡献，OpenHands 展现了强大的技术创新性和实用性，适合希望提升开发效率的个人开发者及团队。",
   "tags": [
-    "langchain",
-    "ai-agents",
+    "agent",
+    "ai",
+    "developer-tools",
     "llm",
-    "framework",
-    "python",
-    "typescript",
-    "rag",
-    "multiagent"
+    "open-source",
+    "cli",
+    "python"
   ],
   "score": 9,
-  "published_at": "2022-10-17T02:58:36Z",
-  "fetched_at": "2026-05-05T13:03:09.683029+00:00",
-  "analyzed_at": "2026-05-05T13:03:24.345509+00:00",
+  "published_at": "2024-03-13T03:33:31Z",
+  "fetched_at": "2026-05-05T13:32:42.464164+00:00",
+  "analyzed_at": "2026-05-05T13:33:38.873783+00:00",
   "status": "published"
 }

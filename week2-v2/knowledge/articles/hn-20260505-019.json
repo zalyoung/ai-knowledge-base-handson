@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260505-019",
+  "title": "Duralang：用单个装饰器将LangChain LLM/工具/MCP调用转化为Temporal活动",
+  "source_url": "https://temporal.io/code-exchange/duralang-durable-stochastic-ai-agents-with-one-decorator",
+  "source_type": "hackernews",
+  "summary": "Duralang 通过一个简单的装饰器，将 LangChain 中的 LLM 调用、工具调用和 MCP（模型上下文协议）调用无缝转换为 Temporal 工作流活动。这种集成赋予了 AI 代理持久的执行能力，包括自动重试、故障恢复和状态持久化，极大提升了复杂 AI 应用的可靠性和可观测性。适用于需要高可靠性、长运行时间或复杂任务编排的生产环境，如自动化客服、数据处理管道和机器人流程自动化。",
+  "tags": [
+    "langchain",
+    "temporal",
+    "ai-agents",
+    "decorator",
+    "workflow",
+    "durability"
+  ],
+  "score": 8,
+  "published_at": "Sun, 03 May 2026 20:30:41 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836830+00:00",
+  "analyzed_at": "2026-05-05T13:37:48.104652+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260505-011",
+  "title": "猫在蛋黄酱下：无需重新训练修改大语言模型行为的方法",
+  "source_url": "https://github.com/andycufari/the-cat-is-under-mayonnaise-experiment",
+  "source_type": "hackernews",
+  "summary": "该项目展示了一种无需重新训练即可修改大语言模型行为的技术，通过巧妙的提示工程或上下文注入，实现对模型输出的定向调整。其核心思路是利用模型对特定短语或结构的敏感性，在不改变模型参数的情况下引导其生成符合预期的结果。这种方法轻量、灵活，适用于快速迭代、低成本定制模型行为的场景，例如在聊天机器人、内容生成等应用中微调输出风格或避免不当回答。尽管社区反馈有限，但方法本身具有创新性，可能为LLM的实用调优提供新思路。",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "machine-learning",
+    "nlp",
+    "contextual-injection"
+  ],
+  "score": 6,
+  "published_at": "Mon, 04 May 2026 13:38:14 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836674+00:00",
+  "analyzed_at": "2026-05-05T13:36:53.298851+00:00",
+  "status": "published"
+}

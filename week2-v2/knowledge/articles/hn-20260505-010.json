@@ -1,0 +1,18 @@
+{
+  "id": "hn-20260505-010",
+  "title": "BibCrit：基于真实手稿语料库数据的LLM分析工具",
+  "source_url": "https://bibcrit.app/",
+  "source_type": "hackernews",
+  "summary": "BibCrit 是一个利用大型语言模型（LLM）对学术手稿进行深度分析的应用，其核心创新在于将分析过程扎根于真实的手稿语料库数据中，从而提供更可靠、更具参考价值的批评与洞察。该工具适用于学术界的同行评议、文献综述、手稿质量评估等场景，能够辅助研究者快速识别论文中的逻辑漏洞、数据问题或创新点。通过结合 LLM 的自然语言理解能力与真实语料库的实证基础，BibCrit 在提升分析准确性的同时，降低了传统人工审阅的耗时成本。尽管项目当前社区热度较低，但其技术路线在学术辅助工具领域具有前瞻性。",
+  "tags": [
+    "llm",
+    "academic-analysis",
+    "manuscript-corpus",
+    "bibliographic-critique"
+  ],
+  "score": 7,
+  "published_at": "Mon, 04 May 2026 14:55:54 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836648+00:00",
+  "analyzed_at": "2026-05-05T13:36:46.726334+00:00",
+  "status": "published"
+}

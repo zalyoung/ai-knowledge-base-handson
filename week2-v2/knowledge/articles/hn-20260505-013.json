@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260505-013",
+  "title": "大型语言模型响应质量波动现象分析",
+  "source_url": "https://news.ycombinator.com/item?id=48008015",
+  "source_type": "hackernews",
+  "summary": "该讨论聚焦于大型语言模型（LLM）响应质量的波动现象，提出在高峰期运营商可能通过降低处理深度来减轻服务器负载。作者以Claude为例，观察到过去几个月内响应质量的不稳定性。这一理论引发了关于LLM服务可靠性、成本优化与用户体验平衡的思考。尽管缺乏数据支撑，但该话题对理解AI服务背后的技术挑战具有启发性。",
+  "tags": [
+    "llm",
+    "latency",
+    "performance",
+    "ai",
+    "quality"
+  ],
+  "score": 5,
+  "published_at": "Mon, 04 May 2026 12:46:42 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836719+00:00",
+  "analyzed_at": "2026-05-05T13:37:05.934423+00:00",
+  "status": "published"
+}

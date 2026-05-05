@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260505-016",
+  "title": "迭代属性加权的大语言模型基准测试工具",
+  "source_url": "https://github.com/yuvhaim-gif/LLM_InSight",
+  "source_type": "hackernews",
+  "summary": "这是一个名为 LLM_InSight 的个人项目，旨在提供一种迭代属性加权的大语言模型（LLM）基准测试方法。与传统基准测试不同，该工具允许用户根据特定属性（如准确性、速度、成本等）对 LLM 进行加权评估，并通过迭代过程优化测试权重。它适用于需要定制化 LLM 性能评估的场景，例如选择适合特定任务的模型。项目基于 Python 实现，提供命令行接口，目前处于早期阶段，社区活跃度较低。",
+  "tags": [
+    "llm",
+    "benchmarking",
+    "evaluation",
+    "attribute-weighting",
+    "iterative",
+    "python",
+    "tool"
+  ],
+  "score": 6,
+  "published_at": "Mon, 04 May 2026 07:44:21 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836771+00:00",
+  "analyzed_at": "2026-05-05T13:37:24.936327+00:00",
+  "status": "published"
+}

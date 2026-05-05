@@ -1,0 +1,21 @@
+{
+  "id": "github-20260505-012",
+  "title": "Nanobot：超轻量级个人AI代理",
+  "source_url": "https://github.com/HKUDS/nanobot",
+  "source_type": "github_trending",
+  "summary": "Nanobot 是一个超轻量级的个人 AI 代理，旨在以最小的资源消耗提供智能助手功能。它支持多种主流大语言模型（如 OpenAI 的 ChatGPT 和 Anthropic 的 Claude），并能够集成 Claude Code、Codex 等工具，适用于本地部署、边缘设备或资源受限场景。项目设计强调极简和高效，用户可通过简单的配置快速搭建个性化 AI 代理，实现对话、代码生成、任务自动化等能力。GitHub 上超过 4 万星标，社区活跃度高，Python 实现使其易于扩展和定制。",
+  "tags": [
+    "ai-agent",
+    "llm",
+    "lightweight",
+    "nanobot",
+    "openai",
+    "claude",
+    "python"
+  ],
+  "score": 8,
+  "published_at": "2026-02-01T07:16:15Z",
+  "fetched_at": "2026-05-05T13:32:42.464229+00:00",
+  "analyzed_at": "2026-05-05T13:34:57.636528+00:00",
+  "status": "published"
+}

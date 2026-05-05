@@ -1,0 +1,21 @@
+{
+  "id": "github-20260505-015",
+  "title": "Khoj：自托管的AI第二大脑，打通个人知识库与LLM的智能助手",
+  "source_url": "https://github.com/khoj-ai/khoj",
+  "source_type": "github_trending",
+  "summary": "Khoj 是一个开源、可自托管的 AI 第二大脑工具，旨在将个人文档、网页内容与多种大语言模型（LLM）深度集成。它支持 GPT、Claude、Gemini、Llama、Qwen、Mistral 等在线或本地模型，通过 RAG 技术实现语义搜索与问答。用户可构建自定义代理、设置自动化任务、执行深度研究，并集成 Obsidian、Emacs 等生产力工具。项目还提供图像生成、语音转文字（STT）和 WhatsApp 交互等扩展功能。凭借 3.4 万+ GitHub 星标，Khoj 在自托管 AI 领域拥有高度活跃的社区，适合追求隐私、可控性和跨平台知识管理的个人与团队。",
+  "tags": [
+    "self-hosted",
+    "ai-assistant",
+    "rag",
+    "knowledge-management",
+    "productivity",
+    "llm",
+    "second-brain"
+  ],
+  "score": 9,
+  "published_at": "2021-08-16T01:48:44Z",
+  "fetched_at": "2026-05-05T13:32:42.464244+00:00",
+  "analyzed_at": "2026-05-05T13:35:25.086151+00:00",
+  "status": "published"
+}
