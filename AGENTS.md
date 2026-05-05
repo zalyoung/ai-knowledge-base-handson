@@ -11,6 +11,7 @@ AI 知识库助手 —— 自动化技术情报管线。每日从 GitHub Trendin
 - **工作流引擎**：LangGraph
 - **多渠道分发**：OpenClaw（统一消息推送层）
 - **数据存储**：本地 JSON 文件（knowledge/raw/ → knowledge/articles/）
+- **虚拟环境和包管理**：必须使用虚拟环境运行项目，禁止直接使用系统级 Python 解释器。创建命令：`python -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt`。
 
 ## 编码规范
 
@@ -29,11 +30,11 @@ ai-knowledge-base/
 ├── .opencode/
 │   ├── agents/                  # Agent 角色定义（.yml 或 .md）
 │   ├── skills/                  # Skill 定义（采集/分析/发布等）
-│   ├── package.json             # OpenCode 插件依赖
 │   └── .gitignore
 └── knowledge/
     ├── raw/                     # 原始采集数据（未处理）
     └── articles/                # AI 分析后的结构化知识条目
+        └── index.json           # 去重索引（source_url → id 映射）
 ```
 
 ## 知识条目 JSON 格式
@@ -74,9 +75,46 @@ ai-knowledge-base/
 
 | 角色名称 | 文件位置 | 职责 | 输入 | 输出 |
 |---------|---------|------|------|------|
-| **采集 Agent** | `.opencode/agents/collector.` | 调用 GitHub Trending API 和 Hacker News API 抓取当日热门内容，按 AI/LLM/Agent 关键词过滤 | 无（定时触发） | `knowledge/raw/YYYY-MM-DD.json` |
-| **分析 Agent** | `.opencode/agents/analyzer.` | 对原始数据进行去重（基于 URL）、语义分析、摘要生成、标签分类 | `knowledge/raw/YYYY-MM-DD.json` | `knowledge/articles/{id}.json` |
-| **发布 Agent** | `.opencode/agents/publisher.` | 从 `knowledge/articles/` 读取 `status: published` 的条目，通过 OpenClaw 分发至 Telegram 和飞书 | `knowledge/articles/*.json` | Telegram 消息 + 飞书卡片消息 |
+| **采集 Agent** | `.opencode/agents/collector.md` | 调用 GitHub Trending API 和 Hacker News API 抓取当日热门内容，按 AI/LLM/Agent 关键词过滤 | 无（定时触发） | `knowledge/raw/YYYY-MM-DD.json` |
+| **分析 Agent** | `.opencode/agents/analyzer.md` | 对原始数据进行去重（基于 URL）、语义分析、摘要生成、标签分类 | `knowledge/raw/YYYY-MM-DD.json` | `knowledge/articles/{id}.json` |
+| **发布 Agent** | `.opencode/agents/publisher.md` | 从 `knowledge/articles/` 读取 `status: published` 的条目，通过 OpenClaw 分发至 Telegram 和飞书 | `knowledge/articles/*.json` | Telegram 消息 + 飞书卡片消息 |
+
+## 数据流转
+
+```
+采集 Agent                      分析 Agent                      发布 Agent
+     │                               │                               │
+     ├─ 抓取 GitHub/HN          ├─ 读取 raw/YYYY-MM-DD.json          │
+     ├─ 关键词过滤              ├─ 基于 index.json 去重              │
+     ├─ 写入 raw/               ├─ LLM 生成摘要/标签                │
+     │                          ├─ 写入 articles/{id}.json          │
+     │                          │   （status: draft）               │
+     │                          │               ↓                   │
+     │                          │         人工确认                   │
+     │                          │   draft → published               │
+     │                          │               ↓                   │
+     │                          │               └─────────────────> ├─ 读取 published 条目
+     │                          │                                   ├─ 生成预览摘要
+     │                          │                                   └─ 推送 Telegram + 飞书
+```
+
+### 去重机制
+
+写入 `knowledge/articles/` 前，必须检查 `knowledge/articles/index.json`：若 `source_url` 已存在则跳过，不存在则追加条目并更新索引。
+
+### 状态流转
+
+| 状态 | 含义 | 由谁设置 |
+|------|------|---------|
+| `draft` | 分析 Agent 产出，待人工确认 | 分析 Agent |
+| `published` | 人工确认通过，允许发布 | 人工操作 |
+| `archived` | 已发布历史条目 | 发布 Agent（发布后自动归档） |
+
+### 错误处理
+
+- **外部 API 调用失败**（GitHub Trending / Hacker News）：允许部分源失败，不阻断整体流程，缺失数据记录日志即可。
+- **LLM 调用失败**：将对应条目标记为 `status: draft`，保留原始数据，下次执行时重试。
+- **重试策略**：对外部 API 请求采用指数退避重试。
 
 ## 红线（绝对禁止）
 
