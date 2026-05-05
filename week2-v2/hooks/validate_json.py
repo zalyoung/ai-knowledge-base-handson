@@ -176,6 +176,9 @@ def main() -> None:
     for arg in sys.argv[1:]:
         path = Path(arg)
         if path.is_file():
+            # 跳过 index.json
+            if path.name == "index.json":
+                continue
             file_count += 1
             all_errors.extend(validate_file(path))
         elif "*" in arg or "?" in arg:
@@ -186,7 +189,7 @@ def main() -> None:
                 all_errors.append(f"[{arg}] 未匹配到任何文件")
                 continue
             for match in matches:
-                if match.is_file():
+                if match.is_file() and match.name != "index.json":
                     file_count += 1
                     all_errors.extend(validate_file(match))
         elif path.exists():

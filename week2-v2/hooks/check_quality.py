@@ -290,6 +290,9 @@ def main() -> None:
     for arg in sys.argv[1:]:
         path = Path(arg)
         if path.is_file():
+            # 跳过 index.json
+            if path.name == "index.json":
+                continue
             result = score_file(path)
             if result is None:
                 print(f"[{arg}] 无法评分（文件不存在或 JSON 无效）")
@@ -307,7 +310,7 @@ def main() -> None:
                 print(f"[{arg}] 未匹配到任何文件")
                 continue
             for match in matches:
-                if match.is_file():
+                if match.is_file() and match.name != "index.json":
                     result = score_file(match)
                     if result is None:
                         print(f"[{match}] 无法评分")
