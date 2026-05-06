@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260506-002",
+  "title": "谷歌正在开发AI智能体以对标OpenAI",
+  "source_url": "https://www.businessinsider.com/google-ai-agent-openclaw-remy-gemini-assistant-2026-5",
+  "source_type": "hackernews",
+  "summary": "据Business Insider报道，谷歌正在研发一款名为Remy的AI智能体（agent），作为其Gemini助手的进化版本，旨在与OpenAI的同类产品竞争。该智能体将具备更自主的任务执行能力，例如管理日历、发送邮件、预订行程等，并可能深度集成谷歌生态服务。虽然具体发布时间尚未明确（报道提及2026年），但这一动向表明谷歌正加速在AI agent领域的布局，以应对来自OpenAI的竞争压力。当前项目仍处于早期阶段，技术细节和实际性能有待后续验证。",
+  "tags": [
+    "google",
+    "ai",
+    "agent",
+    "gemini",
+    "openai",
+    "assistant"
+  ],
+  "score": 6,
+  "published_at": "Wed, 06 May 2026 01:55:40 +0000",
+  "fetched_at": "2026-05-06T10:15:22.928420+00:00",
+  "analyzed_at": "2026-05-06T10:17:58.026971+00:00",
+  "status": "published"
+}

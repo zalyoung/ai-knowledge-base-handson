@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260506-010",
+  "title": "使用Claude Code创建面向VictoriaMetrics的Kubernetes调试AI代理",
+  "source_url": "https://rtfm.co.ua/en/claude-code-creating-kubernetes-debugging-ai-agent-for-victoriametrics/",
+  "source_type": "hackernews",
+  "summary": "本文介绍了如何利用Claude Code（Anthropic的AI编程助手）构建一个专门用于调试Kubernetes环境中VictoriaMetrics监控系统的AI代理。该代理能够自动分析集群中的日志、指标和配置，快速定位VictoriaMetrics在Kubernetes上运行时可能出现的性能问题、数据丢失或配置错误。技术亮点在于将大语言模型与Kubernetes运维流程深度结合，实现智能化故障排查。适用于运维人员、SRE团队在Kubernetes环境中管理VictoriaMetrics监控堆栈的场景，可显著提升调试效率。",
+  "tags": [
+    "kubernetes",
+    "debugging",
+    "ai-agent",
+    "victoriametrics",
+    "claude",
+    "monitoring"
+  ],
+  "score": 6,
+  "published_at": "Sat, 02 May 2026 08:35:46 +0000",
+  "fetched_at": "2026-05-06T10:15:22.928670+00:00",
+  "analyzed_at": "2026-05-06T10:19:18.938657+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260506-001",
+  "title": "GenGEO：AI代理交易的二进制信任注册表",
+  "source_url": "https://github.com/warwickwood-cell/gengeo-agent-registry",
+  "source_type": "hackernews",
+  "summary": "GenGEO 是一个为人工智能代理（AI Agent）之间的交易提供二进制信任注册表的开源项目。它通过建立可验证的信任机制，帮助代理在网络中安全、可信地进行交互与交易。项目采用二进制（是/否）信任模型，简化了代理间的信任评估流程，适用于去中心化AI生态系统、自主交易系统或多代理协作场景。代码托管于 GitHub，目前处于早期开发阶段，尚需社区参与和完善。",
+  "tags": [
+    "ai",
+    "trust",
+    "registry",
+    "agent",
+    "transactions",
+    "decentralized"
+  ],
+  "score": 5,
+  "published_at": "Wed, 06 May 2026 07:21:22 +0000",
+  "fetched_at": "2026-05-06T10:15:22.928387+00:00",
+  "analyzed_at": "2026-05-06T10:17:51.756826+00:00",
+  "status": "published"
+}

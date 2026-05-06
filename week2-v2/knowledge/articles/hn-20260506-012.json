@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260506-012",
+  "title": "Wirken: 安全的AI智能体网关与加密保险库",
+  "source_url": "https://github.com/gebruder/wirken",
+  "source_type": "hackernews",
+  "summary": "Wirken 是一个开源项目，提供安全的 AI 智能体（agent）网关，集成了加密保险库功能，并以单一静态二进制文件形式部署。其设计目标是为 AI agent 与外部系统交互时提供安全访问控制、数据加密存储和防篡改保护。技术亮点包括：使用静态编译的二进制文件简化部署，无需依赖运行时环境；内置加密保险库，保护敏感数据（如 API 密钥、凭证）；作为网关，可过滤、监控和审计 AI agent 的请求与响应。适用于需要安全集成 AI agent 的云端或边缘场景，特别是对数据隐私和访问控制有严格要求的应用（如企业级自动化、金融、医疗等）。目前该项目在 Hacker News 上讨论较少，社区活跃度较低，但技术方案具有实用价值。",
+  "tags": [
+    "ai-agent",
+    "security",
+    "gateway",
+    "encryption",
+    "vault",
+    "static-binary"
+  ],
+  "score": 6,
+  "published_at": "Sat, 02 May 2026 03:20:40 +0000",
+  "fetched_at": "2026-05-06T10:15:22.928695+00:00",
+  "analyzed_at": "2026-05-06T10:19:32.592882+00:00",
+  "status": "published"
+}

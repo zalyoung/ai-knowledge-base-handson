@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260506-008",
+  "title": "WakaTime推出AI Agent花费追踪工具",
+  "source_url": "https://wakatime.com/ai",
+  "source_type": "hackernews",
+  "summary": "WakaTime，作为一款广受开发者欢迎的时间追踪工具，现新增了AI Agent花费追踪功能。该功能允许用户查看在每个AI agent（如GPT、Claude等）上的具体花费，帮助开发者清晰了解AI服务的使用成本，从而优化资源分配和预算管理。适用于使用多个AI服务的个人开发者或团队，尤其适合需要精细化控制AI开支的场景。该工具基于WakaTime的现有平台，易于集成，无需额外配置即可开始追踪。",
+  "tags": [
+    "wakatime",
+    "ai",
+    "cost-tracking",
+    "developer-tools",
+    "productivity"
+  ],
+  "score": 7,
+  "published_at": "Mon, 04 May 2026 05:36:46 +0000",
+  "fetched_at": "2026-05-06T10:15:22.928631+00:00",
+  "analyzed_at": "2026-05-06T10:19:05.699408+00:00",
+  "status": "published"
+}

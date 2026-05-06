@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260506-014",
+  "title": "在MacBook Pro M5 Pro 48GB上运行本地LLM编码服务器",
+  "source_url": "https://blog.kulman.sk/running-local-llm-coding-server/",
+  "source_type": "hackernews",
+  "summary": "本文介绍了如何在MacBook Pro M5 Pro（48GB统一内存）上搭建本地大语言模型（LLM）编码服务器，用于代码补全、代码生成等辅助编程任务。作者详细说明了硬件配置、模型选择（如CodeLlama、DeepSeek Coder等）、软件工具（如Ollama、llama.cpp）的安装与优化，并评估了不同模型在MacBook上的推理速度和内存占用。该方案适合需要隐私保护、离线使用或低成本编程助手的开发者，尤其适用于Apple Silicon Mac用户。文章还讨论了性能调优技巧，如量化、上下文长度调整等，以在有限内存下获得最佳效果。",
+  "tags": [
+    "local-llm",
+    "coding-server",
+    "apple-silicon",
+    "macbook",
+    "llm",
+    "code-completion",
+    "ollama",
+    "llama.cpp"
+  ],
+  "score": 8,
+  "published_at": "Wed, 06 May 2026 08:10:48 +0000",
+  "fetched_at": "2026-05-06T10:15:26.268181+00:00",
+  "analyzed_at": "2026-05-06T10:19:45.396603+00:00",
+  "status": "published"
+}

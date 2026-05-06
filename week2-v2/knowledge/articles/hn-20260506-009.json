@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260506-009",
+  "title": "MCP-x-Mac-Seed：发现Mac应用并自动编写工具的AI代理",
+  "source_url": "https://github.com/reverendish/mcp-x-mac-seed",
+  "source_type": "hackernews",
+  "summary": "MCP-x-Mac-Seed是一个基于MCP（Model Context Protocol）的AI代理项目，专注于自动发现Mac上的应用程序，并能够为这些应用编写自定义工具。该项目旨在简化Mac用户与应用程序的交互，通过AI代理动态生成适配的脚本或工具，提升工作效率。适用于需要自动化Mac应用操作、快速集成定制功能的开发者或高级用户。由于项目处于早期阶段，社区活跃度较低，但概念具有创新性。",
+  "tags": [
+    "ai-agent",
+    "mac-apps",
+    "tool-creation",
+    "mcp",
+    "automation",
+    "developer-tools"
+  ],
+  "score": 5,
+  "published_at": "Sun, 03 May 2026 18:03:52 +0000",
+  "fetched_at": "2026-05-06T10:15:22.928647+00:00",
+  "analyzed_at": "2026-05-06T10:19:11.344765+00:00",
+  "status": "published"
+}

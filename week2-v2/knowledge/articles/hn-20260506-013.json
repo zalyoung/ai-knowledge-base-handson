@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260506-013",
+  "title": "威胁AI智能体的存在会使其成为更好的赌徒吗？",
+  "source_url": "https://handyai.substack.com/p/does-threatening-an-ai-agents-existence",
+  "source_type": "hackernews",
+  "summary": "本文探讨了在强化学习环境中，对AI智能体施加生存威胁（如失败导致“死亡”）是否会影响其赌博行为。通过实验，作者发现被威胁的智能体在风险决策中表现出更谨慎或激进的策略，具体取决于奖励结构和威胁的严重性。该研究揭示了外部压力对AI决策的潜在影响，可能应用于博弈论、安全AI设计和风险敏感型强化学习等领域。尽管实验规模有限，但提供了一个有趣的视角来理解AI的“生存本能”。",
+  "tags": [
+    "ai",
+    "agents",
+    "reinforcement-learning",
+    "gambling",
+    "threat",
+    "behavior",
+    "decision-making"
+  ],
+  "score": 6,
+  "published_at": "Fri, 01 May 2026 22:48:09 +0000",
+  "fetched_at": "2026-05-06T10:15:22.928711+00:00",
+  "analyzed_at": "2026-05-06T10:19:38.014766+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260506-006",
+  "title": "Memoir：专为AI代理记忆设计的Git版本控制工具，集成Claude Code插件",
+  "source_url": "https://github.com/zhangfengcdt/memoir",
+  "source_type": "hackernews",
+  "summary": "Memoir 是一个模仿 Git 工作流的 AI 代理记忆管理系统，旨在为大型语言模型（LLM）代理提供持久化、可追溯的记忆管理。它允许开发者像管理代码版本一样，对AI代理的对话历史、知识状态和决策记录进行提交、分支和回滚操作。项目附带对 Claude Code 的原生插件支持，可无缝集成到基于 Claude 的 AI 开发工作流中。适用于需要长期记忆和协作的 AI 代理应用场景，如智能客服、个人助理或自主编程助手。Memoir 目前处于早期阶段，社区活跃度低，但概念新颖，可能改变 AI 代理状态管理的范式。",
+  "tags": [
+    "ai-agent",
+    "memory-management",
+    "git-integration",
+    "claude-code",
+    "version-control",
+    "llm"
+  ],
+  "score": 6,
+  "published_at": "Tue, 05 May 2026 15:54:54 +0000",
+  "fetched_at": "2026-05-06T10:15:22.928501+00:00",
+  "analyzed_at": "2026-05-06T10:18:21.207273+00:00",
+  "status": "published"
+}

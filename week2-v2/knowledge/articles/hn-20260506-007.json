@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260506-007",
+  "title": "AI Agent API 评估报告卡",
+  "source_url": "https://saastr.ai/api-report-card",
+  "source_type": "hackernews",
+  "summary": "该技术内容介绍了 AI Agent API 的评估工具或报告卡，可能提供了一套用于衡量和比较不同 AI Agent 接口性能、可靠性、易用性等方面的标准或评分方法。通过具体的 API 报告卡，开发者可以直观地了解各个 AI Agent 服务的 API 质量，从而选择最适合自身应用的后端。该工具或报告有助于标准化 AI Agent 生态系统的 API 评估，提升开发效率与集成体验。",
+  "tags": [
+    "ai",
+    "agent",
+    "api",
+    "evaluation",
+    "benchmark",
+    "report"
+  ],
+  "score": 6,
+  "published_at": "Mon, 04 May 2026 13:07:48 +0000",
+  "fetched_at": "2026-05-06T10:15:22.928618+00:00",
+  "analyzed_at": "2026-05-06T10:18:59.512457+00:00",
+  "status": "published"
+}
