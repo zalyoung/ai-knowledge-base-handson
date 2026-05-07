@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260507-005",
+  "title": "AI Agent记忆工作原理详解",
+  "source_url": "https://memory.cobanov.dev/",
+  "source_type": "hackernews",
+  "summary": "本文深入探讨了AI Agent记忆系统的工作机制，涵盖了短期记忆、长期记忆、上下文管理、知识检索等核心概念。通过可视化交互的方式，展示了代理如何存储和回忆信息以维持连贯对话与任务执行。适用于构建智能对话系统、自主代理、个人助手等场景，帮助开发者理解记忆架构的优化与持久化策略。",
+  "tags": [
+    "agent-memory",
+    "ai-agents",
+    "memory-architecture",
+    "long-term-memory",
+    "retrieval",
+    "context-management"
+  ],
+  "score": 6,
+  "published_at": "Wed, 06 May 2026 19:10:04 +0000",
+  "fetched_at": "2026-05-07T10:22:47.968550+00:00",
+  "analyzed_at": "2026-05-07T10:25:49.407920+00:00",
+  "status": "published"
+}

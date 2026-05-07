@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260507-001",
+  "title": "AI代理商因一条推文被窃取20万美元的漏洞分析",
+  "source_url": "https://www.ccn.com/news/crypto/ai-agent-drained-for-200k-with-this-one-tweet-hack-heres-how/",
+  "source_type": "hackernews",
+  "summary": "本文报道了一起利用社交媒体推文攻击AI代理的安全事件，导致其持有的加密货币资产被盗20万美元。攻击者可能通过精心设计的推文内容触发AI代理的权限滥用或智能合约漏洞，实现了资产的非授权转移。此案例凸显了AI代理在自动执行任务时面临的提示注入和社会工程攻击风险，尤其在与外部数据源（如推特）交互时缺乏充分的权限验证和输入过滤。该事件为AI代理的安全性设计、权限管理以及自动化系统的鲁棒性提升提供了警示。",
+  "tags": [
+    "ai-security",
+    "prompt-injection",
+    "social-engineering",
+    "cryptocurrency",
+    "hacking"
+  ],
+  "score": 6,
+  "published_at": "Thu, 07 May 2026 08:18:31 +0000",
+  "fetched_at": "2026-05-07T10:22:47.968450+00:00",
+  "analyzed_at": "2026-05-07T10:25:24.357938+00:00",
+  "status": "published"
+}

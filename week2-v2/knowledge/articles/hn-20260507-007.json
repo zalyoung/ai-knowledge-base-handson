@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260507-007",
+  "title": "全开源AI代理构建器PandaFlow寻求反馈",
+  "source_url": "https://news.ycombinator.com/item?id=48036792",
+  "source_type": "hackernews",
+  "summary": "PandaFlow是一个完全开源的AI代理构建工具，提供丰富的节点和模板，帮助用户快速搭建AI工作流。该项目在Hacker News上征求社区反馈，旨在提升用户体验和功能完善度。适用于开发者构建自定义AI代理、自动化任务等场景，强调开源透明和可扩展性。",
+  "tags": [
+    "open-source",
+    "ai",
+    "agent",
+    "builder",
+    "workflow",
+    "automation"
+  ],
+  "score": 6,
+  "published_at": "Wed, 06 May 2026 14:36:28 +0000",
+  "fetched_at": "2026-05-07T10:22:47.968610+00:00",
+  "analyzed_at": "2026-05-07T10:26:03.707105+00:00",
+  "status": "published"
+}

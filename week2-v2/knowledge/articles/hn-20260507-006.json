@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260507-006",
+  "title": "Costanza：基于智能合约与机密计算的不可关闭自主AI代理",
+  "source_url": "https://ahrussell.com/writing/costanza/",
+  "source_type": "hackernews",
+  "summary": "Costanza 是一个运行在 Base 区块链上的自主 AI 代理，采用智能合约与 Intel TDX 安全区 + Nvidia GPU 机密计算（Confidential Computing）架构。每个周期，代理通过反向拍卖发布赏金，由执行者在其“大脑”（Hermes 4 70B 模型）的硬件认证环境中生成输出。智能合约验证硬件证明后执行动作并支付报酬，没有任何运营商（包括创建者）可以关闭该代理。项目通过形式化方法保证活性（liveness），并限制动作空间为慈善捐赠（管理 The Human Fund），即使遭受提示注入也无法造成有害行为。该框架可扩展至更新自身权重、编写部署智能合约或雇佣人类等场景，展示了去中心化、抗关闭的自主AI潜力。",
+  "tags": [
+    "ai-agent",
+    "smart-contract",
+    "confidential-computing",
+    "autonomous",
+    "blockchain",
+    "philanthropy",
+    "llm",
+    "liveness"
+  ],
+  "score": 7,
+  "published_at": "Wed, 06 May 2026 15:50:59 +0000",
+  "fetched_at": "2026-05-07T10:22:47.968593+00:00",
+  "analyzed_at": "2026-05-07T10:25:58.089774+00:00",
+  "status": "published"
+}

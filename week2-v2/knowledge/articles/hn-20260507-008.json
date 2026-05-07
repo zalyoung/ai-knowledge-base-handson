@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260507-008",
+  "title": "Adam：一个可嵌入的跨平台AI代理库",
+  "source_url": "https://github.com/sqliteai/adam",
+  "source_type": "hackernews",
+  "summary": "Adam 是一个基于 Rust 或 Python 开发的可嵌入、跨平台 AI 代理库，旨在让开发者轻松将智能助手或自动化代理集成到桌面应用、服务器或嵌入式设备中。它提供轻量级运行时，支持模块化工具调用与任务编排，适用于本地推理或连接云端 LLM。该库强调便携性与低资源占用，适合物联网、边缘计算或需要离线 AI 能力的场景。作为开源项目，其社区尚在初期，但概念新颖，实用性较强。",
+  "tags": [
+    "ai",
+    "agent",
+    "library",
+    "embedded",
+    "cross-platform",
+    "open-source"
+  ],
+  "score": 7,
+  "published_at": "Wed, 06 May 2026 12:56:29 +0000",
+  "fetched_at": "2026-05-07T10:22:47.968633+00:00",
+  "analyzed_at": "2026-05-07T10:26:09.516349+00:00",
+  "status": "published"
+}

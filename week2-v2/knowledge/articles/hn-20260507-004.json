@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260507-004",
+  "title": "AI代理将会出错：探讨不可靠性与潜在风险",
+  "source_url": "https://www.intelligent-people.org/2026/05/05/the-ai-agent-will-act-wrongly/",
+  "source_type": "hackernews",
+  "summary": "本文探讨了AI代理在执行任务时可能产生错误行为的根本原因，指出当前AI系统在复杂环境中缺乏可靠性和可预测性。文章强调了代理出错的多方面风险，包括误解指令、做出有害决策以及难以被人工纠正，并呼吁建立更强的安全机制。适合关注AI安全、可靠性和伦理治理的技术人员阅读。",
+  "tags": [
+    "ai",
+    "agents",
+    "reliability",
+    "errors",
+    "risk"
+  ],
+  "score": 5,
+  "published_at": "Wed, 06 May 2026 19:30:49 +0000",
+  "fetched_at": "2026-05-07T10:22:47.968531+00:00",
+  "analyzed_at": "2026-05-07T10:25:42.642549+00:00",
+  "status": "published"
+}

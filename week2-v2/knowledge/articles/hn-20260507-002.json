@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260507-002",
+  "title": "Kestrel：开源自主主权AI代理框架",
+  "source_url": "https://github.com/KestrelSovereignAI/kestrel-sovereign",
+  "source_type": "hackernews",
+  "summary": "Kestrel 是一个开源的主权AI代理框架，旨在构建自主、去中心化的智能代理系统。该框架强调“主权”概念，可能聚焦于用户数据隐私、代理自主决策和去中心化部署。适用于需要高隐私保护、离线运行或本地化控制的AI应用场景，如个人助手、边缘计算和自治系统。尽管当前社区活跃度和详细技术文档尚不明确，但其开源特性和对主权的关注，为AI代理领域提供了一种新的、重视用户控制权的选择。",
+  "tags": [
+    "ai-agent-framework",
+    "open-source",
+    "sovereign-ai",
+    "decentralized-ai",
+    "privacy",
+    "autonomous-agents"
+  ],
+  "score": 7,
+  "published_at": "Wed, 06 May 2026 21:36:08 +0000",
+  "fetched_at": "2026-05-07T10:22:47.968481+00:00",
+  "analyzed_at": "2026-05-07T10:25:31.110448+00:00",
+  "status": "published"
+}
