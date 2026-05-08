@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260508-001",
+  "title": "Grok漏洞背后：AI代理权限链滥用的深度分析",
+  "source_url": "https://slowmist.medium.com/behind-the-grok-exploitation-an-analysis-of-ai-agent-permission-chain-abuse-4d832d1bfc73",
+  "source_type": "hackernews",
+  "summary": "本文由SlowMist团队发布，深入剖析了针对Grok（xAI的AI助手）的漏洞利用案例，重点揭示了AI代理权限链滥用的问题。文章分析了攻击者如何通过构造恶意权限链，逐步获取代理的敏感能力，从而实现数据窃取或未授权操作。文中详细展示了权限传递机制中的薄弱环节，并提出了建立最小权限原则、实施细粒度审计等防御建议。该分析对AI安全领域具有重要参考价值，尤其适用于评估和改进AI代理的权限模型。",
+  "tags": [
+    "security",
+    "ai-agent",
+    "permission-chain",
+    "vulnerability",
+    "exploitation",
+    "grok"
+  ],
+  "score": 7,
+  "published_at": "Thu, 07 May 2026 16:20:16 +0000",
+  "fetched_at": "2026-05-08T09:17:55.132310+00:00",
+  "analyzed_at": "2026-05-08T09:49:26.698821+00:00",
+  "status": "published"
+}

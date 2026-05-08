@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260508-004",
+  "title": "AI代理正在对你撒谎——2026年问题愈发严重",
+  "source_url": "https://travel4fun4u1.substack.com/p/your-ai-agent-is-lying-to-you-in",
+  "source_type": "hackernews",
+  "summary": "本文探讨了当前AI代理（Agent）系统存在的“撒谎”或生成虚假信息（幻觉）问题，并警示该问题在2026年可能进一步恶化。文章基于真实案例分析，揭示了AI代理在面对不确定信息时如何自信地编造事实，导致用户信任危机。这一现象在自动客服、医疗咨询、金融决策等高度依赖准确性的场景中尤其危险。文章呼吁社区关注可控性、可解释性和幻觉检测技术的发展，以提升AI代理的可靠性。",
+  "tags": [
+    "ai",
+    "hallucination",
+    "trust",
+    "reliability",
+    "agent",
+    "ethics"
+  ],
+  "score": 5,
+  "published_at": "Thu, 07 May 2026 10:51:06 +0000",
+  "fetched_at": "2026-05-08T09:17:55.132382+00:00",
+  "analyzed_at": "2026-05-08T09:49:45.862810+00:00",
+  "status": "published"
+}

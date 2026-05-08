@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260508-003",
+  "title": "AgentWrit：基于Go的任务范围AI代理凭证中间件",
+  "source_url": "https://github.com/devonartis/agentwrit",
+  "source_type": "hackernews",
+  "summary": "AgentWrit 是一个用 Go 语言编写的轻量级 broker，专注于为 AI 代理提供任务级别的凭证管理。它允许开发者在多代理系统中安全地分配、验证和回收令牌，支持细粒度的访问控制与生命周期管理。该工具适用于需要隔离代理权限、防止凭证泄露的微服务或 AI 编排场景。目前项目处于早期阶段，社区活跃度较低，但其设计思路为 Go 生态中的 AI 代理基础设施提供了实用补充。",
+  "tags": [
+    "go",
+    "ai-agent",
+    "credentials",
+    "broker",
+    "security"
+  ],
+  "score": 5,
+  "published_at": "Thu, 07 May 2026 13:24:06 +0000",
+  "fetched_at": "2026-05-08T09:17:55.132359+00:00",
+  "analyzed_at": "2026-05-08T09:49:39.627132+00:00",
+  "status": "published"
+}
