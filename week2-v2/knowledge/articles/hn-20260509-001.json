@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260509-001",
+  "title": "AI代理检索策略在Kubernetes Bug修复中的基准测试",
+  "source_url": "https://www.cncf.io/blog/2026/05/08/benchmarking-ai-agent-retrieval-strategies-on-kubernetes-bug-fixes/",
+  "source_type": "hackernews",
+  "summary": "本文介绍了在Kubernetes Bug修复场景下，对不同AI代理检索策略进行的系统基准测试。研究评估了多种检索增强生成（RAG）方法，包括基于向量相似度、知识图谱和混合策略的效果，旨在提高AI代理在定位和修复Kubernetes代码缺陷时的准确性与效率。实验结果显示，结合语义检索与结构化知识检索的策略能显著提升修复建议的相关性和正确率，尤其适用于复杂微服务环境下的故障排查。该工作为AI辅助的云原生运维提供了实用的方法论和性能参考，对提升Kubernetes集群的自动化运维水平具有重要价值。",
+  "tags": [
+    "ai",
+    "agent",
+    "retrieval",
+    "kubernetes",
+    "bug-fixes",
+    "benchmarking",
+    "cncf"
+  ],
+  "score": 8,
+  "published_at": "Fri, 08 May 2026 12:01:27 +0000",
+  "fetched_at": "2026-05-09T09:17:34.883189+00:00",
+  "analyzed_at": "2026-05-09T09:20:17.174890+00:00",
+  "status": "published"
+}
