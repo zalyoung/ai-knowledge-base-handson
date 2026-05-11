@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260511-001",
+  "title": "Timebook：可被AI智能体使用的时间追踪与发票工具",
+  "source_url": "https://usetimebook.com",
+  "source_type": "hackernews",
+  "summary": "Timebook 是一款专为 AI 智能体设计的时间追踪和发票生成工具，旨在实现自动化的时间记录与计费流程。它允许 AI 代理自主操作，适用于需要自动跟踪工作时间的自由职业者、远程团队或 AI 工作流场景。通过集成 AI，用户可以减少手动输入，提高效率。该工具可能通过 API 或自然语言交互实现无缝集成。尽管社区关注度有限，但其针对 AI agent 的定位具有一定的创新性和实用性。",
+  "tags": [
+    "time-tracking",
+    "invoicing",
+    "ai-agent",
+    "productivity",
+    "automation"
+  ],
+  "score": 6,
+  "published_at": "Mon, 11 May 2026 08:49:45 +0000",
+  "fetched_at": "2026-05-11T10:59:28.494869+00:00",
+  "analyzed_at": "2026-05-11T11:02:23.509990+00:00",
+  "status": "published"
+}

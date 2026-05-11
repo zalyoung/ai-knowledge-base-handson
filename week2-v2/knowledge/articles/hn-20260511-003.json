@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260511-003",
+  "title": "使用规则的状态感知AI代理用于代码迁移",
+  "source_url": "https://github.com/hghallTAZ/THE_ROOM",
+  "source_type": "hackernews",
+  "summary": "该项目（THE_ROOM）是一个实验性的AI代理工具，旨在通过状态感知和预定义规则辅助代码迁移。它利用代理跟踪代码状态，并结合规则引擎自动完成代码移动、重构或迁移任务，减少手动干预。尽管该项目尚处于早期阶段，社区活跃度低（HN仅2分，0评论），但其将AI代理与状态管理结合的思路为自动化代码维护提供了新视角。适用于需要批量重构或迁移代码库的开发场景，尤其适合遗留系统现代化。",
+  "tags": [
+    "ai-agent",
+    "code-migration",
+    "state-aware",
+    "rules-based",
+    "automation"
+  ],
+  "score": 4,
+  "published_at": "Mon, 11 May 2026 06:03:26 +0000",
+  "fetched_at": "2026-05-11T10:59:28.494917+00:00",
+  "analyzed_at": "2026-05-11T11:02:35.265424+00:00",
+  "status": "published"
+}

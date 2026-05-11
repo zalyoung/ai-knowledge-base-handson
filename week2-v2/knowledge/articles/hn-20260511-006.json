@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260511-006",
+  "title": "用AI代理解决每周晚餐难题：餐食规划器构建实践",
+  "source_url": "https://contentdesignhub.com.au/blog/how-i-built-a-meal-planner-ai-agent-to-solve-my-weekly-dinner-dilemma",
+  "source_type": "hackernews",
+  "summary": "本文作者分享了如何利用AI代理技术构建一个自动化餐食规划器，以解决个人每周晚餐选择的困扰。系统通过集成LLM、知识图谱和用户偏好，实现个性化食谱推荐、采购清单生成和营养平衡。适用场景包括个人日常饮食管理、家庭餐食规划以及餐饮行业定制化服务。技术亮点在于将AI代理与具体生活场景结合，降低了手动规划成本。",
+  "tags": [
+    "ai-agent",
+    "meal-planning",
+    "llm",
+    "productivity",
+    "personal-project"
+  ],
+  "score": 6,
+  "published_at": "Sun, 10 May 2026 16:55:22 +0000",
+  "fetched_at": "2026-05-11T10:59:28.494971+00:00",
+  "analyzed_at": "2026-05-11T11:02:58.939979+00:00",
+  "status": "published"
+}

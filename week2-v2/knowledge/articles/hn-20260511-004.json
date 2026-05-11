@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260511-004",
+  "title": "首个通过iMessage代发分手消息的AI代理",
+  "source_url": "https://behalf.love",
+  "source_type": "hackernews",
+  "summary": "Behalf.love 是一个基于AI的代理工具，专门帮助用户通过iMessage发送分手消息。它通过自然语言处理技术生成符合情感语境的文本，旨在减轻直接沟通带来的心理负担。目前仍处于早期阶段，社区关注度较低（HackerNews上仅1分、2条评论），但为处理敏感人际关系提供了自动化尝试。适用场景包括避免面对面冲突或需要委婉表达的正式分手，但伦理边界（如用户真实意图的模拟）仍需探讨。技术亮点在于情感建模与消息生成，但实用性受限于IMessage的封闭生态和用户对AI代发行为的接受度。",
+  "tags": [
+    "ai-agent",
+    "breakup",
+    "imessage",
+    "emotional-intelligence",
+    "communication-tool"
+  ],
+  "score": 4,
+  "published_at": "Sun, 10 May 2026 17:23:44 +0000",
+  "fetched_at": "2026-05-11T10:59:28.494937+00:00",
+  "analyzed_at": "2026-05-11T11:02:44.213483+00:00",
+  "status": "published"
+}

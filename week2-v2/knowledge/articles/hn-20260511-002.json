@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260511-002",
+  "title": "AI代理开发模式指南",
+  "source_url": "https://agentpatterns.ai/",
+  "source_type": "hackernews",
+  "summary": "该网站系统梳理了AI代理（Agent）开发中的常见设计模式，涵盖规划、反思、工具调用、多代理协作等关键范式，帮助开发者快速构建可靠、可扩展的智能代理系统。适用于需要设计复杂AI工作流程、自动化任务或对话系统的场景，为代理架构提供最佳实践参考。",
+  "tags": [
+    "agent",
+    "patterns",
+    "ai",
+    "development",
+    "architecture",
+    "best-practices"
+  ],
+  "score": 8,
+  "published_at": "Mon, 11 May 2026 06:44:56 +0000",
+  "fetched_at": "2026-05-11T10:59:28.494898+00:00",
+  "analyzed_at": "2026-05-11T11:02:28.279505+00:00",
+  "status": "published"
+}

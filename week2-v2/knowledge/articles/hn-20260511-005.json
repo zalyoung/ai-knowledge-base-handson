@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260511-005",
+  "title": "Memgraph Ingester：加速AI代理的数据导入工具",
+  "source_url": "https://github.com/ousatov-ua/memgraph-ingester/blob/main/README.md",
+  "source_type": "hackernews",
+  "summary": "Memgraph Ingester 是一个为图数据库 Memgraph 设计的数据导入工具，专为加速AI代理（AI agents）应用而优化。该工具通过高效的数据注入机制，帮助开发者将结构化或非结构化数据快速导入Memgraph，从而提升AI代理的实时查询和推理能力。其亮点在于简化了图数据的批量加载流程，支持自定义转换和预处理，适用于需要低延迟数据访问的AI场景，如知识图谱构建、实时推荐系统或智能对话代理。尽管项目处于早期阶段，社区活跃度有待观察，但其专注于解决图数据库与AI代理集成的痛点，具有一定的实用价值。",
+  "tags": [
+    "memgraph",
+    "graph-database",
+    "data-ingestion",
+    "ai-agents",
+    "real-time"
+  ],
+  "score": 6,
+  "published_at": "Sun, 10 May 2026 17:03:59 +0000",
+  "fetched_at": "2026-05-11T10:59:28.494954+00:00",
+  "analyzed_at": "2026-05-11T11:02:51.319210+00:00",
+  "status": "published"
+}

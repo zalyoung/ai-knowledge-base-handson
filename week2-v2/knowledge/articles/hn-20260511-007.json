@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260511-007",
+  "title": "AI代理护照：面向AI代理的开放身份标准",
+  "source_url": "https://github.com/StacyStarchum/Ai-agent-passport-",
+  "source_type": "hackernews",
+  "summary": "AI Agent Passport 是一个开源的身份标准，旨在为AI代理提供可验证、可互操作的身份标识。该项目定义了一套协议和元数据结构，允许AI代理在跨平台、跨系统的环境中进行身份认证、授权和交互。它强调去中心化和开放性，适用于需要AI代理自主参与的交易、协作和治理场景，例如去中心化金融、任务委派和自动协商。尽管当前社区活跃度较低，但其创新性地解决了AI代理身份管理的基础问题，有望推动AI代理生态系统的安全互信发展。",
+  "tags": [
+    "ai",
+    "identity",
+    "standard",
+    "open-source",
+    "agents",
+    "decentralized"
+  ],
+  "score": 6,
+  "published_at": "Sun, 10 May 2026 14:39:06 +0000",
+  "fetched_at": "2026-05-11T10:59:28.494992+00:00",
+  "analyzed_at": "2026-05-11T11:03:07.508879+00:00",
+  "status": "published"
+}
