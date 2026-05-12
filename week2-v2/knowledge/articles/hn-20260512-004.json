@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260512-004",
+  "title": "从零构建基础AI代理：手把手教程",
+  "source_url": "https://www.ruxu.dev/articles/ai/build-a-basic-ai-agent/",
+  "source_type": "hackernews",
+  "summary": "本文详细介绍了如何从零开始构建一个基础AI代理，涵盖核心概念如工具调用、规划与执行循环，并利用大型语言模型（LLM）实现智能决策。教程以Python代码为例，逐步演示代理的架构设计与实现过程，适合希望理解AI代理内部原理的开发者。文章突出实用性，无需依赖复杂框架，即可快速搭建一个能自主执行任务的简易代理原型。适用于学习AI代理基础、探索LLM应用开发的场景。",
+  "tags": [
+    "ai-agent",
+    "tutorial",
+    "llm",
+    "python",
+    "machine-learning"
+  ],
+  "score": 7,
+  "published_at": "Mon, 11 May 2026 17:19:21 +0000",
+  "fetched_at": "2026-05-12T10:29:59.998044+00:00",
+  "analyzed_at": "2026-05-12T10:33:24.154594+00:00",
+  "status": "published"
+}

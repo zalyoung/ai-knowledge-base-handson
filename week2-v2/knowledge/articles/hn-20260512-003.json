@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260512-003",
+  "title": "AI代理经济主流化：MCP安全成为业务必须",
+  "source_url": "https://datadome.co/agent-trust-management/why-anthropics-connector-expansion-makes-mcp-security-a-business-imperative/",
+  "source_type": "hackernews",
+  "summary": "文章指出随着Anthropic扩展连接器（connector），模型上下文协议（MCP）的安全问题已成为企业不可忽视的业务挑战。在AI代理经济快速走向主流的背景下，企业需要建立代理信任管理机制，防范通过MCP接口被滥用的风险。DataDome从安全防护角度强调了企业在部署AI代理时必须将MCP安全纳入战略考量，以避免数据泄露和业务中断。",
+  "tags": [
+    "ai-agents",
+    "security",
+    "mcp",
+    "anthropic",
+    "trust-management"
+  ],
+  "score": 6,
+  "published_at": "Mon, 11 May 2026 19:35:59 +0000",
+  "fetched_at": "2026-05-12T10:29:59.998023+00:00",
+  "analyzed_at": "2026-05-12T10:33:17.430296+00:00",
+  "status": "published"
+}

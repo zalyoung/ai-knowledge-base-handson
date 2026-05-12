@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260512-005",
+  "title": "几个周末测试AI代理支架的实践",
+  "source_url": "https://dalehurley.com/posts/testing-an-ai-agent-harness/",
+  "source_type": "hackernews",
+  "summary": "这是一篇个人博客文章，作者分享了自己花费几个周末测试一个AI代理支架（Harness）的经验。文章可能详细介绍了该支架的设计思路、实现细节以及在测试中遇到的挑战和解决方式，重点突出了在有限时间内快速原型开发和迭代的过程。适合对构建AI代理框架、调试代理行为或探索轻量级开发工具的开发者阅读，提供了真实的实践经验与性能观察。",
+  "tags": [
+    "ai",
+    "agent",
+    "harness",
+    "testing",
+    "weekend-project",
+    "practical-experience"
+  ],
+  "score": 6,
+  "published_at": "Mon, 11 May 2026 13:13:59 +0000",
+  "fetched_at": "2026-05-12T10:29:59.998068+00:00",
+  "analyzed_at": "2026-05-12T10:33:34.454819+00:00",
+  "status": "published"
+}

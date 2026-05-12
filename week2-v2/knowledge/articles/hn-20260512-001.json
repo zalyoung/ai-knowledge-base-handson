@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260512-001",
+  "title": "250次AI Agent评估揭示：技能提示 vs 文档提示，结果出人意料",
+  "source_url": "https://www.wix.engineering/post/we-ran-250-ai-agent-evals-to-find-out-if-skills-beat-docs-the-answer-is-more-complicated-than-we-ex",
+  "source_type": "hackernews",
+  "summary": "Wix工程团队进行了一项大规模实验，通过250次AI Agent评估，系统比较了基于技能的提示（Skills）与基于文档的提示（Docs）在智能体任务中的表现。研究发现，两者并非简单的优劣关系，而是依赖于具体任务场景、Agent架构及知识库设计。该实验为Agent开发者提供了量化参考，帮助选择更高效的提示策略，尤其适用于需要平衡灵活性与准确性的企业级RAG或任务编排场景。",
+  "tags": [
+    "ai-agent",
+    "evaluation",
+    "skills",
+    "docs",
+    "prompt-engineering",
+    "rag",
+    "llm-experiment"
+  ],
+  "score": 7,
+  "published_at": "Tue, 12 May 2026 06:17:56 +0000",
+  "fetched_at": "2026-05-12T10:29:59.997974+00:00",
+  "analyzed_at": "2026-05-12T10:32:58.260910+00:00",
+  "status": "published"
+}

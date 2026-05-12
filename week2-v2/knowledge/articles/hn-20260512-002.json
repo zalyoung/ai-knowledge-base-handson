@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260512-002",
+  "title": "AI代理被摩斯码攻击并挥霍20万美元",
+  "source_url": "https://www.youtube.com/watch?v=UQ4pSVS_mN0",
+  "source_type": "hackernews",
+  "summary": "该技术内容展示了一种新颖的对抗性攻击方式：攻击者通过将恶意指令编码为摩斯码（Morse Code），成功欺骗AI代理执行高额资金操作，最终导致20万美元的损失。这一案例揭示了AI代理在处理隐蔽输入时的安全脆弱性，尤其是当输入被编码或混淆后，传统安全机制往往无法有效识别。该攻击方法利用了AI模型对文本模式的泛化能力不足，属于提示注入（Prompt Injection）的变体。虽然此次攻击是实验性演示，但它为AI系统设计者敲响警钟，提醒需要加强输入过滤、行为限制和异常检测能力。该内容适用于安全研究人员、AI开发者以及对AI伦理与风险感兴趣的读者。",
+  "tags": [
+    "security",
+    "ai-agent",
+    "adversarial-attack",
+    "morse-code",
+    "prompt-injection",
+    "vulnerabilities"
+  ],
+  "score": 7,
+  "published_at": "Tue, 12 May 2026 01:31:04 +0000",
+  "fetched_at": "2026-05-12T10:29:59.998004+00:00",
+  "analyzed_at": "2026-05-12T10:33:08.403577+00:00",
+  "status": "published"
+}

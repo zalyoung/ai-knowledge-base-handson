@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260512-006",
+  "title": "PandaFlow：开源可视化多智能体AI构建器",
+  "source_url": "https://news.ycombinator.com/item?id=48093673",
+  "source_type": "hackernews",
+  "summary": "PandaFlow 是一个开源的可视化 AI Agent 构建器，允许用户通过图形界面设计、组合和部署多智能体 AI 系统。它降低了开发门槛，使非专业人员也能直观地构建复杂 AI 工作流，特别适用于实验快速原型、教学演示和低代码 AI 应用场景。该项目托管于 GitHub，目前处于早期阶段，具有创新性的可视化交互设计。",
+  "tags": [
+    "opensource",
+    "visual",
+    "ai-agent",
+    "builder",
+    "multi-agent",
+    "low-code",
+    "workflow"
+  ],
+  "score": 7,
+  "published_at": "Mon, 11 May 2026 11:33:33 +0000",
+  "fetched_at": "2026-05-12T10:29:59.998086+00:00",
+  "analyzed_at": "2026-05-12T10:33:40.390321+00:00",
+  "status": "published"
+}
