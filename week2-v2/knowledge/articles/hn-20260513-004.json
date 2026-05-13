@@ -1,0 +1,18 @@
+{
+  "id": "hn-20260513-004",
+  "title": "Prave：AI 代理技能缺失的管理层",
+  "source_url": "https://prave.app/",
+  "source_type": "hackernews",
+  "summary": "Prave 是一个专为 AI 代理技能设计的中间管理层，旨在解决技能注册、发现、编排和监控等关键问题。通过提供一个统一的平台，Prave 帮助开发者更高效地管理和组合多个 AI 代理的技能，适用于复杂多代理协作场景。该项目尚处于早期阶段，社区活跃度较低，但其填补了现有 AI 代理生态中管理能力的空白，具有潜在的技术创新价值。",
+  "tags": [
+    "ai-agents",
+    "skill-management",
+    "platform",
+    "orchestration"
+  ],
+  "score": 6,
+  "published_at": "Tue, 12 May 2026 10:54:02 +0000",
+  "fetched_at": "2026-05-13T10:24:45.407173+00:00",
+  "analyzed_at": "2026-05-13T10:27:02.887626+00:00",
+  "status": "published"
+}

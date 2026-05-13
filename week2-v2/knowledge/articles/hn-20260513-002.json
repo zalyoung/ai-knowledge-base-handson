@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260513-002",
+  "title": "Probe：AI Agent 上下文引擎",
+  "source_url": "https://github.com/zeroentropy-ai/probe",
+  "source_type": "hackernews",
+  "summary": "Probe 是一个针对 AI Agent 的上下文引擎，旨在为智能代理提供高效、结构化的上下文管理能力。该项目通过优化上下文检索与更新机制，帮助 Agent 在复杂任务中保持状态一致性和信息连贯性，适用于需要长期记忆或多轮交互的 AI 应用场景。尽管目前社区活跃度较低，但其设计理念具有实用价值，尤其适合构建可扩展的 Agent 系统。",
+  "tags": [
+    "ai",
+    "agent",
+    "context-engine",
+    "memory",
+    "llm"
+  ],
+  "score": 6,
+  "published_at": "Tue, 12 May 2026 17:05:23 +0000",
+  "fetched_at": "2026-05-13T10:24:45.407136+00:00",
+  "analyzed_at": "2026-05-13T10:26:53.116024+00:00",
+  "status": "published"
+}

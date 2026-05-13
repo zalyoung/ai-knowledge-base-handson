@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260513-005",
+  "title": "在脚本的 shebang 行中使用 LLM",
+  "source_url": "https://til.simonwillison.net/llms/llm-shebang",
+  "source_type": "hackernews",
+  "summary": "本文介绍了如何在 Unix/Linux 脚本的 shebang 行（#!）中直接调用大型语言模型（LLM）解释器，从而实现脚本内容的 LLM 驱动执行。该技巧通过将 LLM 命令行工具（如 Simon Willison 开发的 'llm'）作为解释器，使脚本能够直接调用模型生成文本、处理自然语言任务。它简化了 LLM 与脚本的结合流程，适用于自动化文本生成、辅助编程、内容创作等场景，无需额外编写 Python 或 shell 胶水代码。该技术实践性强，尤其适合快速原型验证和日常小工具开发。",
+  "tags": [
+    "llm",
+    "shebang",
+    "scripting",
+    "command-line",
+    "automation",
+    "tips"
+  ],
+  "score": 7,
+  "published_at": "Wed, 13 May 2026 02:03:48 +0000",
+  "fetched_at": "2026-05-13T10:24:45.420390+00:00",
+  "analyzed_at": "2026-05-13T10:28:25.131734+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260513-003",
+  "title": "浏览器原生回放AI代理治理事件",
+  "source_url": "https://slashlife.ai/agent-gate/demo",
+  "source_type": "hackernews",
+  "summary": "该技术演示了一个浏览器原生实现的AI代理治理事件回放工具。它无需安装任何插件，完全基于Web标准API，能够录制并回放AI代理（如聊天机器人、自动化工具）与用户或系统的交互过程，用于事件追溯、合规审计和故障分析。适用于需要严格治理和监控AI行为的企业场景，如金融、医疗、客服等领域。其亮点在于低依赖、易于集成，并支持在浏览器内直接查看完整的事件日志和状态变化。",
+  "tags": [
+    "browser-native",
+    "replay",
+    "ai-agent",
+    "governance",
+    "incident",
+    "auditing"
+  ],
+  "score": 7,
+  "published_at": "Tue, 12 May 2026 13:28:58 +0000",
+  "fetched_at": "2026-05-13T10:24:45.407155+00:00",
+  "analyzed_at": "2026-05-13T10:26:57.622547+00:00",
+  "status": "published"
+}
