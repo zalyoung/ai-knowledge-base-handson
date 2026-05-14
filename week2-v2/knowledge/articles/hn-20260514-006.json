@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260514-006",
+  "title": "AICTL: 用Rust编写的终端和macOS原生AI代理",
+  "source_url": "https://aictl.app",
+  "source_type": "hackernews",
+  "summary": "AICTL是一个使用Rust语言开发的原生AI代理，专门为终端和macOS环境设计。它可以在本地运行，不依赖远程API，直接在命令行中提供AI交互能力，适用于离线、隐私敏感或低延迟场景。技术亮点包括Rust的高性能和内存安全特性、跨平台支持（macOS终端）、原生集成度高等。适合开发者用于自动化脚本、代码辅助、本地问答等任务。目前项目处于早期阶段（Hacker News上2个积分、1条评论），但展示了Rust在AI agent领域的前景。",
+  "tags": [
+    "rust",
+    "ai-agent",
+    "terminal",
+    "macos",
+    "native",
+    "local-ai",
+    "cli"
+  ],
+  "score": 7,
+  "published_at": "Wed, 13 May 2026 20:30:38 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277718+00:00",
+  "analyzed_at": "2026-05-14T10:15:26.534977+00:00",
+  "status": "published"
+}

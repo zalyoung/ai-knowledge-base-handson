@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260514-010",
+  "title": "Claude Code 性能优化系统：AI代理工具的全方位方案",
+  "source_url": "https://github.com/affaan-m/everything-claude-code",
+  "source_type": "hackernews",
+  "summary": "该仓库旨在为 Claude Code（Anthropic 的 AI 代码生成工具）构建一套性能优化系统，通过收集配置、提示工程技巧、工作流优化等资源，提升 AI 代理在代码生成与自动化任务中的效率。适用于希望最大化 Claude Code 能力、减少延迟与错误的开发者，尤其在复杂项目或持续集成场景下具有实用价值。",
+  "tags": [
+    "ai",
+    "claude-code",
+    "performance-optimization",
+    "agent",
+    "code-generation",
+    "workflow"
+  ],
+  "score": 5,
+  "published_at": "Wed, 13 May 2026 20:01:13 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277822+00:00",
+  "analyzed_at": "2026-05-14T10:15:48.423031+00:00",
+  "status": "published"
+}

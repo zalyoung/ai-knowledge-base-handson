@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260514-001",
+  "title": "AGEF：AI代理会话的开放证据格式",
+  "source_url": "https://github.com/radotsvetkov/agef",
+  "source_type": "hackernews",
+  "summary": "AGEF（AI代理证据格式）是一个开源项目，旨在为AI代理会话定义一个标准化的开放证据格式。该格式允许记录和追踪AI代理的决策过程、交互历史和中间结果，从而增强AI系统的可审计性和透明度。适用于开发、调试和对齐研究，特别适合需要确保AI行为可追溯的场景，如自动化工作流、智能客服和自主系统。",
+  "tags": [
+    "open-format",
+    "ai-agents",
+    "evidence",
+    "audit",
+    "transparency"
+  ],
+  "score": 6,
+  "published_at": "Thu, 14 May 2026 08:17:40 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277609+00:00",
+  "analyzed_at": "2026-05-14T10:14:57.184975+00:00",
+  "status": "published"
+}

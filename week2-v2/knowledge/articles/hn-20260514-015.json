@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260514-015",
+  "title": "AI代理技能的行为完整性验证",
+  "source_url": "https://arxiv.org/abs/2605.11770",
+  "source_type": "hackernews",
+  "summary": "本文提出了一种针对AI代理技能的行为完整性验证方法，旨在确保代理在执行任务时严格遵循预期行为规范，防止因技能偏差导致的恶意或意外后果。方法结合形式化验证与运行时监控，能够实时检测行为偏差并触发纠正机制。该研究适用于自动驾驶、医疗诊断等安全关键领域，具有较高的理论创新性和实际应用潜力。论文来自arXiv，但在Hacker News上关注度较低（仅1票，0评论），社区活跃度不足。",
+  "tags": [
+    "ai-safety",
+    "agent-skills",
+    "behavioral-verification",
+    "formal-verification",
+    "runtime-monitoring"
+  ],
+  "score": 7,
+  "published_at": "Wed, 13 May 2026 15:54:04 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277901+00:00",
+  "analyzed_at": "2026-05-14T10:16:13.266869+00:00",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260514-012",
+  "title": "苹果计划允许AI智能体应用上架App Store",
+  "source_url": "https://www.macrumors.com/2026/05/13/apple-ai-agent-apps-app-store/",
+  "source_type": "hackernews",
+  "summary": "据MacRumors报道，苹果正在制定计划，允许AI智能体（AI Agent）应用在App Store上架。这一举措标志着苹果对AI应用生态的开放态度转变，此前苹果对AI应用有严格限制。AI智能体应用可以自主执行复杂任务，如预订、数据分析等。此举可能催生新的应用类别，为开发者提供巨大机遇，同时苹果可能推出相关安全与隐私标准。报道称苹果将在2026年WWDC上宣布此计划，这将是其AI战略的重要一步，有望推动更智能、更自主的应用生态发展。",
+  "tags": [
+    "apple",
+    "ai-agent",
+    "app-store",
+    "developer-ecosystem",
+    "privacy",
+    "wwdc",
+    "machine-learning",
+    "artificial-intelligence"
+  ],
+  "score": 8,
+  "published_at": "Wed, 13 May 2026 18:26:26 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277857+00:00",
+  "analyzed_at": "2026-05-14T10:15:58.969128+00:00",
+  "status": "published"
+}

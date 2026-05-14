@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260514-009",
+  "title": "在AI代理中集成本地Android模拟器",
+  "source_url": "https://docs.devin.ai/onboard-devin/environment/android-emulation",
+  "source_type": "hackernews",
+  "summary": "Devin AI代理支持在本地环境中启动Android模拟器（AVD），通过ADB连接实现AI与模拟器的直接交互。该功能允许AI代理自动执行安装应用、模拟用户操作（如点击、滑动）、截取屏幕截图并分析UI状态等任务，从而将AI能力嵌入Android应用的开发、测试和调试流程中。适用于自动化测试、CI/CD流水线、UI回归测试及AI辅助的Android开发场景。无需手动配置模拟器，AI可动态管理AVD实例，提升移动开发效率。",
+  "tags": [
+    "android-emulator",
+    "ai-agent",
+    "devin",
+    "adb",
+    "testing",
+    "automation",
+    "cicd"
+  ],
+  "score": 7,
+  "published_at": "Wed, 13 May 2026 20:03:14 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277784+00:00",
+  "analyzed_at": "2026-05-14T10:15:43.306714+00:00",
+  "status": "published"
+}

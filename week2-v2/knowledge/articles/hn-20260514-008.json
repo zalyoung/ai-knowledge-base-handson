@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260514-008",
+  "title": "Arrivl：基于服务器日志的AI代理流量分析工具",
+  "source_url": "https://arrivl.ai",
+  "source_type": "hackernews",
+  "summary": "Arrivl 是一款针对AI代理流量分析的工具，解决了传统分析工具（如GA4、Mixpanel）因依赖浏览器JS而无法捕获AI代理访问的问题。AI代理直接访问服务器、读取HTML并离开，仅在服务器日志留下痕迹。Arrivl通过分析服务器日志，识别访问的AI代理、浏览的页面及是否带来真实人类访问，并提供网站AI友好度审计和优化建议。该工具完全免费，无需信用卡，安装仅需几分钟的代码片段或日志转发器。适用于所有需了解AI代理流量占比及优化AI可见性的网站。",
+  "tags": [
+    "analytics",
+    "ai-agents",
+    "server-logs",
+    "web-traffic",
+    "llm",
+    "seo",
+    "dev-tools"
+  ],
+  "score": 8,
+  "published_at": "Wed, 13 May 2026 20:11:00 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277767+00:00",
+  "analyzed_at": "2026-05-14T10:15:35.704469+00:00",
+  "status": "published"
+}

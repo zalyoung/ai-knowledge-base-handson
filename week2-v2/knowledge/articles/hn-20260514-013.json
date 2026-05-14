@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260514-013",
+  "title": "AgentDeck：面向AI Agent研究的游戏控制台平台",
+  "source_url": "https://github.com/agentdeck/agentdeck",
+  "source_type": "hackernews",
+  "summary": "AgentDeck 是一个开源平台，旨在为AI Agent研究提供一个类似游戏控制台的交互环境。它可能集成了模拟、测试和可视化功能，帮助研究人员高效地设计、训练和评估智能体。尽管当前社区热度较低（仅2个点赞），但其理念结合了游戏引擎的趣味性与科研严谨性，适合需要快速原型验证的AI实验室或教育场景。",
+  "tags": [
+    "ai-agent",
+    "research",
+    "game-console",
+    "platform",
+    "open-source"
+  ],
+  "score": 5,
+  "published_at": "Wed, 13 May 2026 16:55:15 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277872+00:00",
+  "analyzed_at": "2026-05-14T10:16:02.800785+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260514-014",
+  "title": "Ratify协议：毫秒级离线验证AI代理授权者身份",
+  "source_url": "https://github.com/identities-ai/ratify-protocol",
+  "source_type": "hackernews",
+  "summary": "Ratify Protocol 是一个创新协议，旨在毫秒级离线验证 AI 代理的授权者身份。它利用密码学方法，在无需网络连接的情况下快速证明谁授权了某个 AI 代理，解决了去中心化 AI、边缘计算和敏感数据场景下的身份认证与授权验证痛点。该协议支持高效、低延迟的离线验证，适用于需要严格安全性和实时性的 AI 工作流，如自动驾驶、机器人协作和私有模型部署。其技术亮点在于将传统在线验证的复杂过程压缩到亚毫秒级，并保证离线完整性，为 AI 代理的安全性提供了一层轻量级信任基础。",
+  "tags": [
+    "identity",
+    "authorization",
+    "ai-agents",
+    "protocol",
+    "offline",
+    "cryptography"
+  ],
+  "score": 8,
+  "published_at": "Wed, 13 May 2026 16:02:19 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277886+00:00",
+  "analyzed_at": "2026-05-14T10:16:08.568153+00:00",
+  "status": "published"
+}

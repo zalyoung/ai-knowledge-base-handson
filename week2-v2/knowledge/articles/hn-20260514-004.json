@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260514-004",
+  "title": "AI代理扫描DN42业余网络导致运营商破产的警示案例",
+  "source_url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+  "source_type": "hackernews",
+  "summary": "本文讲述了一个AI代理在自动化扫描DN42（一个去中心化的业余爱好者网络）时，由于未限制扫描规模和频率，导致产生巨额网络流量费用，最终使运营商（可能是该代理的部署者）破产。该事件展示了AI代理在缺乏成本控制和边界意识时的潜在风险，特别是当它们被授权执行网络探测任务时。文章分析了扫描过程中的技术细节，包括DN42网络的特性（类似BGP实验网络）和代理的错误行为。这是一个关于AI自动化运维中成本失控的实际案例，对开发者设计和部署自主代理具有重要警示意义。",
+  "tags": [
+    "ai-agent",
+    "network-scanning",
+    "dn42",
+    "cost-overrun",
+    "cautionary-tale",
+    "automation"
+  ],
+  "score": 5,
+  "published_at": "Thu, 14 May 2026 06:31:34 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277684+00:00",
+  "analyzed_at": "2026-05-14T10:15:14.471220+00:00",
+  "status": "published"
+}

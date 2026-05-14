@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260514-007",
+  "title": "构建Go参考项目并训练AI智能体克隆它",
+  "source_url": "https://aran.dev/posts/why-i-built-a-reference-go-project/",
+  "source_type": "hackernews",
+  "summary": "作者构建了一个Go参考项目，并教授AI智能体如何克隆该项目，旨在展示AI辅助代码生成和项目模板化的潜力。该内容涉及Go项目结构设计、AI代理的克隆能力训练，以及如何利用AI自动化重复性开发任务。适用于希望提升开发效率、探索AI与代码生成结合的技术团队。",
+  "tags": [
+    "go",
+    "reference-project",
+    "ai-agent",
+    "cloning",
+    "code-generation"
+  ],
+  "score": 7,
+  "published_at": "Wed, 13 May 2026 20:26:59 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277734+00:00",
+  "analyzed_at": "2026-05-14T10:15:30.366345+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260514-011",
+  "title": "从零开始构建基础AI智能体",
+  "source_url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-0be3e3022b55",
+  "source_type": "hackernews",
+  "summary": "本文详细介绍了如何从零开始构建一个基础AI智能体，涵盖了核心组件如任务拆解、工具调用和记忆管理。作者通过清晰的步骤和代码示例，帮助读者理解AI智能体的工作原理，并演示了如何集成LLM来实现自主决策。适合希望学习AI智能体开发原理的初学者，以及需要快速搭建原型的中级开发者。技术栈以Python和常见LLM API为主，突出了实用性。",
+  "tags": [
+    "ai-agent",
+    "tutorial",
+    "python",
+    "llm",
+    "beginner",
+    "programming"
+  ],
+  "score": 7,
+  "published_at": "Wed, 13 May 2026 18:40:51 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277841+00:00",
+  "analyzed_at": "2026-05-14T10:15:52.916898+00:00",
+  "status": "published"
+}

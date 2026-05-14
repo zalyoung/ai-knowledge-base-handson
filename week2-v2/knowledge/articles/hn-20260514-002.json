@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260514-002",
+  "title": "Gloop – 自我修改的AI代理与TypeScript库",
+  "source_url": "https://gloop.codes/",
+  "source_type": "hackernews",
+  "summary": "Gloop 是一个基于 TypeScript 的自我修改 AI 代理库，允许代理在运行时动态调整自身代码和行为逻辑。它利用元编程和反射机制，使 AI 系统能够根据环境反馈自动优化决策策略，适用于需要持续自适应和演化的场景，如自动化工作流、动态游戏 AI 或实时数据分析。尽管社区初始关注度较低，但其自我修改的设计理念在自主智能体领域具有创新潜力。",
+  "tags": [
+    "self-modifying",
+    "ai-agent",
+    "typescript",
+    "library",
+    "adaptive-systems",
+    "autonomous-agents"
+  ],
+  "score": 7,
+  "published_at": "Thu, 14 May 2026 08:02:53 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277639+00:00",
+  "analyzed_at": "2026-05-14T10:15:02.046920+00:00",
+  "status": "published"
+}

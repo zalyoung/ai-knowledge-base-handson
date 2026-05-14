@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260514-005",
+  "title": "向量嵌入不是AI代理记忆的默认选择",
+  "source_url": "https://memnode.dev/articles/agent-memory-vs-vector-db",
+  "source_type": "hackernews",
+  "summary": "本文探讨了在AI代理系统中，向量嵌入作为默认记忆机制的局限性。作者认为，虽然向量嵌入广泛用于语义搜索和检索增强生成，但在需要精确记忆、结构化知识和长时间交互的场景下，它可能不是最优选择。文章提出了替代方案，如使用图数据库、关系型记忆或基于规则的存储，以增强代理的记忆准确性、可解释性和效率。适合AI代理开发者和系统架构师参考。",
+  "tags": [
+    "ai-agent",
+    "memory",
+    "vector-embeddings",
+    "artificial-intelligence",
+    "alternatives"
+  ],
+  "score": 6,
+  "published_at": "Thu, 14 May 2026 05:41:48 +0000",
+  "fetched_at": "2026-05-14T10:13:07.277702+00:00",
+  "analyzed_at": "2026-05-14T10:15:20.316231+00:00",
+  "status": "published"
+}
