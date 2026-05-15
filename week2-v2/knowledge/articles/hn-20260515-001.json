@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260515-001",
+  "title": "AI Agent提示词变更后的回归问题检测方法探讨",
+  "source_url": "https://news.ycombinator.com/item?id=48144593",
+  "source_type": "hackernews",
+  "summary": "本文来自Hacker News的讨论，作者提出了在开发AI Agent时常见的问题：修改系统提示词、切换模型或调整工具调用后，往往导致细微但破坏性的回归错误，而这些错误只能通过手动测试或用户反馈才能发现。文章引发了对如何自动化检测Agent行为退化的讨论，包括提示词版本控制、测试脚本、行为断言、以及利用LLM本身进行回归评估等方法。适合AI Agent开发者、Prompt工程师、以及关注LLM应用可靠性的技术团队参考。",
+  "tags": [
+    "ai-agents",
+    "prompt-engineering",
+    "regression-testing",
+    "llm",
+    "testing"
+  ],
+  "score": 6,
+  "published_at": "Fri, 15 May 2026 04:33:40 +0000",
+  "fetched_at": "2026-05-15T10:21:12.883553+00:00",
+  "analyzed_at": "2026-05-15T10:23:20.407848+00:00",
+  "status": "published"
+}

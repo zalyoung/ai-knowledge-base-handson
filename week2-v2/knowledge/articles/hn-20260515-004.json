@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260515-004",
+  "title": "AI代理走向愚昧而非专业：技术发展的警示",
+  "source_url": "https://holdtherobot.com/blog/an-ai-agent-progresses-towards-idiocy-not-expertise/",
+  "source_type": "hackernews",
+  "summary": "本文批评了当前AI代理（AI Agent）的发展趋势，指出它们在实际应用中并未朝着提升专业能力的方向演进，反而表现出智能退化、逻辑混乱和实用价值下降的现象。作者通过具体案例和观察，揭示了AI代理在复杂任务中容易陷入“智能假象”，即看似聪明但实际决策荒谬的困境。文章强调了在追求自主性和泛化能力时，忽视基础原理和场景适配可能导致的负面后果，并提醒技术社区警惕过度依赖表面能力而忽视深层次可靠性的风险。该分析适用于AI研究者、产品经理及关注AI安全与伦理的读者。",
+  "tags": [
+    "ai-agent",
+    "idiocy",
+    "expertise",
+    "criticism",
+    "ai-limitations",
+    "reliability"
+  ],
+  "score": 6,
+  "published_at": "Thu, 14 May 2026 20:20:14 +0000",
+  "fetched_at": "2026-05-15T10:21:12.883631+00:00",
+  "analyzed_at": "2026-05-15T10:23:34.790774+00:00",
+  "status": "published"
+}

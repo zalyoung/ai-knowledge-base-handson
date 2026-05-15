@@ -112,5 +112,11 @@
   "https://github.com/identities-ai/ratify-protocol": "hn-20260514-014",
   "https://arxiv.org/abs/2605.11770": "hn-20260514-015",
   "https://arxiv.org/abs/2605.09822": "hn-20260514-016",
-  "https://news.ycombinator.com/item?id=48120148": "hn-20260514-017"
+  "https://news.ycombinator.com/item?id=48120148": "hn-20260514-017",
+  "https://news.ycombinator.com/item?id=48144593": "hn-20260515-001",
+  "https://arxiv.org/abs/2605.12673": "hn-20260515-002",
+  "https://securityboulevard.com/2026/05/capsule-security-analysis-details-scope-of-vulnerable-ai-agent-attack-surface/": "hn-20260515-003",
+  "https://holdtherobot.com/blog/an-ai-agent-progresses-towards-idiocy-not-expertise/": "hn-20260515-004",
+  "https://klent.dev": "hn-20260515-005",
+  "https://github.com/kalisky/skar": "hn-20260515-006"
 }

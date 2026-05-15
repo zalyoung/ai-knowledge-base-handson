@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260515-005",
+  "title": "Klent：一键控制AI代理对生产环境的影响范围",
+  "source_url": "https://klent.dev",
+  "source_type": "hackernews",
+  "summary": "Klent是一个旨在增强AI代理操作安全性的工具，提供一键控制生产环境访问权限的功能。通过该工具，用户可以快速限制或允许AI代理对生产资源的操作，有效预防因代理误操作导致的广泛故障。它适用于需要部署AI代理进行自动化运维、配置变更或部署的场景，作为生产环境的安全门控，降低AI代理的运行风险。该工具可能通过简洁的界面或API实现，简化安全管理流程。",
+  "tags": [
+    "ai-agent",
+    "production-safety",
+    "safety-gate",
+    "one-click",
+    "blast-radius",
+    "devops",
+    "automation-security"
+  ],
+  "score": 8,
+  "published_at": "Thu, 14 May 2026 14:57:26 +0000",
+  "fetched_at": "2026-05-15T10:21:12.883649+00:00",
+  "analyzed_at": "2026-05-15T10:23:43.480652+00:00",
+  "status": "published"
+}

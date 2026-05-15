@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260515-006",
+  "title": "Skar：将AI代理轨迹转化为pytest回归测试工具",
+  "source_url": "https://github.com/kalisky/skar",
+  "source_type": "hackernews",
+  "summary": "Skar 是一个开源工具，能够捕获AI代理（如聊天机器人或自动化Agent）的交互轨迹，并将其自动转换为可重复的pytest回归测试。用户只需运行一次代理并记录其行为，Skar 即可生成对应的测试代码，用于验证未来行为是否与预期一致。该工具特别适合需要持续测试AI响应一致性、回归调试或集成到CI/CD管道的场景。其技术创新点在于将动态的、非确定性的AI交互过程转化为结构化的确定性测试，提升了AI应用的可靠性和可维护性。目前项目处于早期阶段，但概念新颖，对于提升AI开发测试效率具有实际价值。",
+  "tags": [
+    "ai",
+    "testing",
+    "pytest",
+    "regression-testing",
+    "agent",
+    "trace",
+    "automation"
+  ],
+  "score": 7,
+  "published_at": "Thu, 14 May 2026 14:46:40 +0000",
+  "fetched_at": "2026-05-15T10:21:12.883665+00:00",
+  "analyzed_at": "2026-05-15T10:23:49.833416+00:00",
+  "status": "published"
+}

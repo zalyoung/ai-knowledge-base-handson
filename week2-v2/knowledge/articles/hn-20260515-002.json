@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260515-002",
+  "title": "AI智能体基准测试的系统性审计：BenchJack方法",
+  "source_url": "https://arxiv.org/abs/2605.12673",
+  "source_type": "hackernews",
+  "summary": "本文提出BenchJack，一种系统性审计AI智能体基准测试的方法，旨在发现和解决现有基准测试中的偏见、漏洞和可重复性问题。通过自动化分析框架，BenchJack能够评估基准测试的设计一致性、任务难度分布及环境鲁棒性，适用于AI智能体开发过程中的基准选择与改进。该方法有助于提升AI智能体评测的可靠性和透明度，推动智能体研究更健康地发展。",
+  "tags": [
+    "ai-agents",
+    "benchmarking",
+    "auditing",
+    "reproducibility",
+    "evaluation"
+  ],
+  "score": 7,
+  "published_at": "Fri, 15 May 2026 03:38:20 +0000",
+  "fetched_at": "2026-05-15T10:21:12.883589+00:00",
+  "analyzed_at": "2026-05-15T10:23:23.960456+00:00",
+  "status": "published"
+}
