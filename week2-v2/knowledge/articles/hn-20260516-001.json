@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260516-001",
+  "title": "运行时无关的AI代理工作流规范：LangGraph与Mastra的反馈",
+  "source_url": "https://github.com/3IVIS/itsharness",
+  "source_type": "hackernews",
+  "summary": "该内容展示了一个运行时无关的AI代理工作流规范，旨在兼容LangGraph和Mastra等不同框架。通过提供一个统一的规范，开发者可以构建可移植的AI代理应用，无需绑定特定运行时。该规范强调模块化与互操作性，适用于需要灵活切换后端或跨框架协作的复杂AI工作流场景，如多步骤推理、工具调用和状态管理。目前还在社区反馈阶段，尚未有广泛采用。",
+  "tags": [
+    "ai-agents",
+    "workflow",
+    "langgraph",
+    "mastra",
+    "runtime-agnostic",
+    "specification"
+  ],
+  "score": 6,
+  "published_at": "Fri, 15 May 2026 11:53:25 +0000",
+  "fetched_at": "2026-05-16T09:28:01.918886+00:00",
+  "analyzed_at": "2026-05-16T09:30:02.577120+00:00",
+  "status": "published"
+}
