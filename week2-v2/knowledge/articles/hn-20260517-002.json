@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260517-002",
+  "title": "Stoic AgentOS：开源AI代理舰队操作系统",
+  "source_url": "https://github.com/benjaminkernbaum-ux/stoic-agentos",
+  "source_type": "hackernews",
+  "summary": "Stoic AgentOS 是一个开源的、专为AI代理舰队设计的操作系统，旨在提供统一的环境来部署、管理和协调多个AI代理。该项目通过抽象底层资源，简化了代理的生命周期管理，支持灵活的调度和通信机制。适用于需要大规模AI代理协同工作的场景，如自动化任务编排、多智能体系统模拟以及企业级AI服务集群的管理。尽管目前处于早期阶段，但其开源特性和专为代理设计的架构为AI基础架构领域提供了新思路。",
+  "tags": [
+    "ai-agents",
+    "operating-system",
+    "open-source",
+    "orchestration",
+    "fleet-management"
+  ],
+  "score": 6,
+  "published_at": "Sat, 16 May 2026 19:51:42 +0000",
+  "fetched_at": "2026-05-17T09:45:08.950223+00:00",
+  "analyzed_at": "2026-05-17T09:47:26.009600+00:00",
+  "status": "published"
+}

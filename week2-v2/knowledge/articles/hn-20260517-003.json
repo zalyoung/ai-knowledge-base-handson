@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260517-003",
+  "title": "Stripe AI引导实验：无法通过“低语”操控代理",
+  "source_url": "https://stripe.dev/blog/ai-steering-experiments",
+  "source_type": "hackernews",
+  "summary": "本文来自Stripe开发博客，探讨了在AI代理中实施引导（steering）控制的实验。研究发现，通过细微或隐晦的指令（如“低语”）来影响AI行为的效果有限，代理往往无法准确响应这种弱信号。文章分析了多种引导方法（如系统提示、嵌入约束、输出过滤）的可靠性，并指出了当前技术在复杂决策场景中的局限性。该实验对构建可控、可解释的AI代理系统具有重要参考价值，尤其适用于需要精确行为约束的生产环境。",
+  "tags": [
+    "ai-agent",
+    "steering",
+    "prompt-engineering",
+    "stripe",
+    "ai-control"
+  ],
+  "score": 7,
+  "published_at": "Sat, 16 May 2026 18:47:57 +0000",
+  "fetched_at": "2026-05-17T09:45:08.950271+00:00",
+  "analyzed_at": "2026-05-17T09:47:33.709189+00:00",
+  "status": "published"
+}

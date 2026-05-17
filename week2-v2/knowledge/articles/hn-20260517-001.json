@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260517-001",
+  "title": "Bitloops：让AI代理深入理解你的代码库",
+  "source_url": "https://github.com/bitloops/bitloops",
+  "source_type": "hackernews",
+  "summary": "Bitloops 是一个开源项目，旨在为 AI 代理提供对代码库的深度理解能力。通过集成代码上下文，AI 代理可以像“大脑”一样理解项目结构、依赖关系和业务逻辑，从而更精准地辅助开发者进行代码分析、重构、调试和自动生成等任务。适用于提升开发效率，特别是大型项目中的人工智能辅助开发场景。该项目基于 GitHub 托管，易于集成和扩展。",
+  "tags": [
+    "ai",
+    "code-understanding",
+    "developer-tools",
+    "github",
+    "open-source"
+  ],
+  "score": 7,
+  "published_at": "Sun, 17 May 2026 05:22:37 +0000",
+  "fetched_at": "2026-05-17T09:45:08.950191+00:00",
+  "analyzed_at": "2026-05-17T09:47:21.012303+00:00",
+  "status": "published"
+}
