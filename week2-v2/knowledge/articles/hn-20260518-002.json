@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260518-002",
+  "title": "深入AI Agent内部：仅300行代码的ReAct循环实现",
+  "source_url": "https://quantumentangled.dev/viewpost/11/whats-actually-inside-an-ai-agent-a-300-loc-react-loop",
+  "source_type": "hackernews",
+  "summary": "本文深入剖析了AI Agent内部的核心机制——ReAct循环，通过约300行代码实现了一个简洁的智能体框架。ReAct模式将推理（Reasoning）与行动（Action）相结合，让语言模型能够基于观察结果循环决策，从而与环境交互并执行任务。文章以教学为目的，提供了可运行的轻量级示例，适合对智能体原理感兴趣的开发者快速理解其工作流程，以及如何通过工具调用实现自动化任务。",
+  "tags": [
+    "react",
+    "ai-agent",
+    "llm",
+    "reasoning",
+    "action",
+    "loop",
+    "implementation"
+  ],
+  "score": 7,
+  "published_at": "Mon, 18 May 2026 00:34:16 +0000",
+  "fetched_at": "2026-05-18T11:42:28.704537+00:00",
+  "analyzed_at": "2026-05-18T11:44:43.227476+00:00",
+  "status": "published"
+}

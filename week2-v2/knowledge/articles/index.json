@@ -122,5 +122,10 @@
   "https://github.com/3IVIS/itsharness": "hn-20260516-001",
   "https://github.com/bitloops/bitloops": "hn-20260517-001",
   "https://github.com/benjaminkernbaum-ux/stoic-agentos": "hn-20260517-002",
-  "https://stripe.dev/blog/ai-steering-experiments": "hn-20260517-003"
+  "https://stripe.dev/blog/ai-steering-experiments": "hn-20260517-003",
+  "https://www.theregister.com/ai-ml/2026/05/17/how-ai-agent-harnesses-like-openclaw-are-changing-llms-inference-and-cpus/5241530": "hn-20260518-001",
+  "https://quantumentangled.dev/viewpost/11/whats-actually-inside-an-ai-agent-a-300-loc-react-loop": "hn-20260518-002",
+  "https://github.com/yehudalevy-collab/polis-protocol": "hn-20260518-003",
+  "https://news.ycombinator.com/item?id=48170395": "hn-20260518-004",
+  "https://openyf.dev/blogs/world-model": "hn-20260518-005"
 }

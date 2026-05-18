@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260518-004",
+  "title": "Agnt: 免费开源CLI，运行任意公开或MIT许可的AI代理",
+  "source_url": "https://news.ycombinator.com/item?id=48170395",
+  "source_type": "hackernews",
+  "summary": "Agnt 是一个免费的开源命令行工具，允许用户轻松运行任何公开或MIT许可的AI代理。它提供了一个统一的CLI接口，无需额外配置即可调用多种AI代理，适用于开发者快速在终端中集成和测试不同模型。该项目托管在GitHub上，强调开放性和灵活性，但目前社区活跃度较低，文档和示例有待完善。",
+  "tags": [
+    "cli",
+    "open-source",
+    "ai-agents",
+    "mit-license",
+    "command-line"
+  ],
+  "score": 6,
+  "published_at": "Sun, 17 May 2026 16:28:32 +0000",
+  "fetched_at": "2026-05-18T11:42:28.704581+00:00",
+  "analyzed_at": "2026-05-18T11:44:55.080670+00:00",
+  "status": "published"
+}

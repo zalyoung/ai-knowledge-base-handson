@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260518-003",
+  "title": "Polis：面向AI代理团队的Markdown协议，随时间提升性能",
+  "source_url": "https://github.com/yehudalevy-collab/polis-protocol",
+  "source_type": "hackernews",
+  "summary": "Polis是一个基于Markdown的协议，旨在协调多个AI代理组成的团队，使其能够随时间推移不断改进。该协议通过标准化的标记语言定义代理间的通信和协作规则，支持代理根据历史交互进行学习和优化，特别适合需要长期协作或持续进化的多代理系统场景。尽管项目仍处于早期阶段，但其设计理念为构建可扩展和自适应的人工智能团队提供了新思路。",
+  "tags": [
+    "markdown",
+    "protocol",
+    "ai-agents",
+    "collaboration",
+    "machine-learning"
+  ],
+  "score": 6,
+  "published_at": "Sun, 17 May 2026 18:28:34 +0000",
+  "fetched_at": "2026-05-18T11:42:28.704558+00:00",
+  "analyzed_at": "2026-05-18T11:44:48.842109+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260518-005",
+  "title": "为何AI智能体需要因果图而非仅依赖RAG数据库",
+  "source_url": "https://openyf.dev/blogs/world-model",
+  "source_type": "hackernews",
+  "summary": "文章探讨了在构建AI智能体时，引入因果图（causal graph）作为世界模型的重要性。相比于仅使用检索增强生成（RAG）数据库，因果图能够显式建模实体间的因果关系，支持干预推理和反事实分析，从而提升智能体的决策质量和可解释性。适用场景包括需要复杂推理的自动化系统（如推荐、诊断、规划），尤其适合处理数据分布偏移和需要解释“为什么”的场景。",
+  "tags": [
+    "causal-graph",
+    "ai-agent",
+    "rag",
+    "causal-inference",
+    "world-model",
+    "reasoning"
+  ],
+  "score": 8,
+  "published_at": "Sun, 17 May 2026 10:22:18 +0000",
+  "fetched_at": "2026-05-18T11:42:28.704598+00:00",
+  "analyzed_at": "2026-05-18T11:45:01.241600+00:00",
+  "status": "published"
+}
