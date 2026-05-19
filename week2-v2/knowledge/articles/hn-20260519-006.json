@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260519-006",
+  "title": "AI Agent Token消耗的观察与分析",
+  "source_url": "https://willhackett.com/agent-token-consumption/",
+  "source_type": "hackernews",
+  "summary": "本文深入探讨了AI Agent在执行任务过程中Token的消耗模式，包括不同架构（如链式调用、循环递归）对Token使用的影响，以及如何通过Prompt设计、上下文管理、任务分解等策略优化Token效率。文章通过具体案例和数据分析，揭示了Token消耗与Agent复杂度的非线性关系，为开发者提供了实用的成本控制指南。适用于构建高性价比AI应用的场景。",
+  "tags": [
+    "ai-agents",
+    "token-efficiency",
+    "cost-optimization",
+    "llm",
+    "prompt-engineering",
+    "agent-architecture"
+  ],
+  "score": 6,
+  "published_at": "Mon, 18 May 2026 14:34:05 +0000",
+  "fetched_at": "2026-05-19T11:15:47.845453+00:00",
+  "analyzed_at": "2026-05-19T11:18:35.665373+00:00",
+  "status": "published"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260519-004",
+  "title": "Beacon：面向本地AI代理的开源可见性层",
+  "source_url": "https://github.com/Asymptote-Labs/agent-beacon",
+  "source_type": "hackernews",
+  "summary": "Beacon 是一个开源工具，旨在为本地运行的 AI 代理（agent）提供全面的可见性。它作为中间层，帮助开发者监控、调试和追踪 AI 代理的行为，从而提升本地开发和生产环境下的可观测性。该项目适用于需要管理多个 AI 代理的本地部署场景，例如智能助手、自动化工作流等。通过 Beacon，开发者可以实时查看代理的状态、决策过程和性能指标，简化了 AI 应用的维护和优化工作。",
+  "tags": [
+    "open-source",
+    "ai",
+    "agent",
+    "visibility",
+    "local",
+    "monitoring",
+    "observability"
+  ],
+  "score": 7,
+  "published_at": "Mon, 18 May 2026 18:45:55 +0000",
+  "fetched_at": "2026-05-19T11:15:47.845426+00:00",
+  "analyzed_at": "2026-05-19T11:18:25.489551+00:00",
+  "status": "published"
+}

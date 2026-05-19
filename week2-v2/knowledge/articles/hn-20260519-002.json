@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260519-002",
+  "title": "AI代理技能分布问题的开放性探讨",
+  "source_url": "https://github.com/hymhub/skill-indexer",
+  "source_type": "hackernews",
+  "summary": "该项目（skill-indexer）以开放式问题探讨AI代理技能的分布方式：是将所有技能集中于单一大型模型，还是分布式部署于多个专用智能体更优？可能涉及模块化设计、多智能体协作或分层架构等技术方向，适用于复杂任务分解、动态技能分配等场景。目前项目处于早期讨论阶段，缺乏实现代码和社区反馈，但提出了有价值的设计视角和未来研究方向。",
+  "tags": [
+    "ai-agents",
+    "skill-distribution",
+    "multi-agent-systems",
+    "modular-ai",
+    "distributed-intelligence"
+  ],
+  "score": 5,
+  "published_at": "Tue, 19 May 2026 10:35:39 +0000",
+  "fetched_at": "2026-05-19T11:15:47.845391+00:00",
+  "analyzed_at": "2026-05-19T11:18:12.228903+00:00",
+  "status": "published"
+}
