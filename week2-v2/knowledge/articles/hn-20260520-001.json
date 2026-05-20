@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260520-001",
+  "title": "SRM: 在AI智能体会话执行前检测慢燃风险",
+  "source_url": "https://arxiv.org/abs/2603.22350",
+  "source_type": "hackernews",
+  "summary": "本文提出了一种名为SRM（Slow-burn Risk Monitor）的方法，旨在AI智能体会话执行前识别并预警潜在的“慢燃风险”——即那些在会话中逐渐累积、初期不易察觉但可能导致性能下降或安全问题的隐患。该方法通过对智能体行为模式、上下文关联及历史数据的分析，构建风险预测模型，在会话启动阶段输出风险评分，从而避免执行后产生不可逆的损失。适用场景包括自动化任务部署、多轮对话系统、金融交易代理等需要高可靠性的AI应用。技术亮点在于将风险检测前置，减少试错成本，并提升智能体系统的鲁棒性与安全性。",
+  "tags": [
+    "ai-agent",
+    "risk-detection",
+    "slow-burn",
+    "session-analysis",
+    "pre-execution",
+    "safety",
+    "monitoring"
+  ],
+  "score": 7,
+  "published_at": "Wed, 20 May 2026 06:50:08 +0000",
+  "fetched_at": "2026-05-20T10:48:26.274089+00:00",
+  "analyzed_at": "2026-05-20T10:50:01.521189+00:00",
+  "status": "published"
+}

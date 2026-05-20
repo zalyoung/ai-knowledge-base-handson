@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260520-009",
+  "title": "Vendergood：为AI代理认知重建1905年的构造语言",
+  "source_url": "https://github.com/mekickdemons-creator/libro-vendergood",
+  "source_type": "hackernews",
+  "summary": "该项目旨在重建1905年创造的构造语言Vendergood，并将其应用于AI代理的认知过程。Vendergood是一种早期的人工语言，项目通过现代AI技术重新审视其结构和表达方式，探索如何利用这种历史语言来增强AI的象征推理、概念建模或语言理解能力。适合对构造语言学、AI认知架构以及历史AI实验感兴趣的开发者。目前社区活跃度较低，但概念具有学术创新性。",
+  "tags": [
+    "vendergood",
+    "constructed-language",
+    "ai-agent",
+    "cognition",
+    "historical-ai"
+  ],
+  "score": 5,
+  "published_at": "Tue, 19 May 2026 16:50:16 +0000",
+  "fetched_at": "2026-05-20T10:48:26.274266+00:00",
+  "analyzed_at": "2026-05-20T10:50:40.838268+00:00",
+  "status": "published"
+}

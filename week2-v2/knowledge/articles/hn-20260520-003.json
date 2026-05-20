@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260520-003",
+  "title": "Enforra：用于AI代理工具调用的开源行动治理框架",
+  "source_url": "https://github.com/enforra/enforra",
+  "source_type": "hackernews",
+  "summary": "Enforra 是一个开源项目，专注于为AI代理（agent）的工具调用提供行动治理（action governance）能力。该项目允许开发者定义和执行策略，以控制代理对外部工具（如API、数据库、文件系统等）的访问和操作行为，确保安全、合规且可审计的调用流程。其核心亮点包括：支持细粒度的权限控制、调用审计日志、策略动态更新以及多工具协调。适用于需要强安全管控的企业级AI应用、多代理协作系统以及金融、医疗等高合规性场景。项目仍处于早期阶段，社区活跃度较低，但解决了当前AI代理部署中的关键治理痛点。",
+  "tags": [
+    "ai-agents",
+    "governance",
+    "open-source",
+    "security",
+    "tool-calls",
+    "access-control",
+    "audit"
+  ],
+  "score": 6,
+  "published_at": "Tue, 19 May 2026 21:08:40 +0000",
+  "fetched_at": "2026-05-20T10:48:26.274141+00:00",
+  "analyzed_at": "2026-05-20T10:50:11.613311+00:00",
+  "status": "published"
+}

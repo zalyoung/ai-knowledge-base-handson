@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260520-010",
+  "title": "Autodidact：自我进化的本地优先AI代理",
+  "source_url": "https://github.com/BuffaloTechRider/Autodidact",
+  "source_type": "hackernews",
+  "summary": "Autodidact 是一个自我进化的本地优先AI代理，可通过pip快速安装并初始化。它强调在用户本地设备上运行，保护隐私，并具备自我改进能力，能够根据交互或环境自动优化其行为。适用于需要个性化、离线或隐私敏感的自动化任务场景。项目目前处于早期阶段，社区活跃度较低。",
+  "tags": [
+    "ai-agent",
+    "self-evolving",
+    "local-first",
+    "python",
+    "open-source"
+  ],
+  "score": 6,
+  "published_at": "Tue, 19 May 2026 15:36:37 +0000",
+  "fetched_at": "2026-05-20T10:48:26.274282+00:00",
+  "analyzed_at": "2026-05-20T10:50:45.019073+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260520-004",
+  "title": "Perplexity AI智能体将Rho周会时间削减90%",
+  "source_url": "https://twitter.com/perplexity_ai/status/2056749555346235704",
+  "source_type": "hackernews",
+  "summary": "Perplexity AI宣布其AI代理成功为Rho公司实现了每周会议时间减少90%的效果，展示了AI在办公效率优化中的巨大潜力。该方案可能基于自然语言处理和自动化技术，能够自动总结、整理会议要点，甚至替代部分会议，从而大幅节省企业沟通成本。适用场景包括需要频繁开会的团队、敏捷开发项目、远程协作组织等。",
+  "tags": [
+    "ai-agent",
+    "meeting-summarization",
+    "productivity",
+    "natural-language-processing",
+    "enterprise-software"
+  ],
+  "score": 6,
+  "published_at": "Tue, 19 May 2026 21:06:02 +0000",
+  "fetched_at": "2026-05-20T10:48:26.274162+00:00",
+  "analyzed_at": "2026-05-20T10:50:15.635978+00:00",
+  "status": "published"
+}

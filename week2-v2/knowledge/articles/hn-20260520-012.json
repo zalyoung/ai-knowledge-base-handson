@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260520-012",
+  "title": "IONA：一人十年构建的完整自研数字生态——操作系统、L1区块链、编程语言与AI代理",
+  "source_url": "https://github.com/Ionablokchain",
+  "source_type": "hackernews",
+  "summary": "该项目历时10年，由单人使用Rust从零构建了一个完整的、独立的数字生态系统，包括x86_64和ARM64操作系统、安全性优先的L1区块链、系统级语言Carpel（消除生命周期和Pin）、暂态量子语言Flux、无文件系统OS Nihilo-OS以及具备自愈内核集成的自主AI代理。所有组件均未使用Linux、BSD或Windows代码，实现了高度自主可控。技术亮点在于极致的自研深度和系统性整合，适用场景包括研究、教育、嵌入式及边缘计算等需要完全自主可控环境的领域。",
+  "tags": [
+    "operating-system",
+    "blockchain",
+    "programming-language",
+    "artificial-intelligence",
+    "rust",
+    "hobby-project"
+  ],
+  "score": 7,
+  "published_at": "Mon, 18 May 2026 16:31:45 +0000",
+  "fetched_at": "2026-05-20T10:48:26.274389+00:00",
+  "analyzed_at": "2026-05-20T10:51:09.114703+00:00",
+  "status": "published"
+}

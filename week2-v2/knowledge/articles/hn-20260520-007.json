@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260520-007",
+  "title": "翻转AI Agent架构：将底层Substrate作为核心",
+  "source_url": "https://sbarron.com/writing/substrate-is-the-body",
+  "source_type": "hackernews",
+  "summary": "当前主流AI Agent设计通常将大型语言模型（LLM）与向量数据库堆叠，但本文提出一种颠覆性思路：将底层计算或架构基础（Substrate）视为主体，LLM仅作为辅助组件。这种翻转旨在解决现有方案的耦合问题，使智能体更灵活、健壮，适用于复杂任务分解和动态环境适应。文章在HackerNews上讨论热度较低，但技术创新性较强，值得关注。",
+  "tags": [
+    "ai-agents",
+    "llm",
+    "vector-store",
+    "architecture",
+    "substrate",
+    "hackernews"
+  ],
+  "score": 6,
+  "published_at": "Tue, 19 May 2026 19:57:32 +0000",
+  "fetched_at": "2026-05-20T10:48:26.274223+00:00",
+  "analyzed_at": "2026-05-20T10:50:32.491543+00:00",
+  "status": "published"
+}

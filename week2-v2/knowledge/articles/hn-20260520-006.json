@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260520-006",
+  "title": "YouTube MCP：让AI代理访问YouTube内容的本地服务器",
+  "source_url": "https://github.com/umbertotancorre/youtube-mcp",
+  "source_type": "hackernews",
+  "summary": "该项目提供了一个MCP（Model Context Protocol）服务器，使Claude、ChatGPT等AI代理能够访问YouTube内容。它解决了AI无法直接获取YouTube视频信息的问题，支持8种工具：获取完整转录（可选时间戳）、下载转录为Markdown文件、获取视频元数据（标题、频道、观看量、时长、点赞、描述）、在字幕中搜索关键词、下载视频或音频。无需YouTube API密钥或账号，所有处理在本地运行，依赖公共数据。安装只需一行命令：`npx @umbertotancorre/youtube-mcp`，yt-dlp和ffmpeg自动捆绑。MIT许可证，免费使用。适用于AI辅助的视频摘要、播放列表分类、内容分析等场景。",
+  "tags": [
+    "youtube",
+    "mcp",
+    "ai",
+    "transcript",
+    "video",
+    "local",
+    "open-source",
+    "mit"
+  ],
+  "score": 8,
+  "published_at": "Tue, 19 May 2026 20:10:19 +0000",
+  "fetched_at": "2026-05-20T10:48:26.274207+00:00",
+  "analyzed_at": "2026-05-20T10:50:27.020701+00:00",
+  "status": "published"
+}

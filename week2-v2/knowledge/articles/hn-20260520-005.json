@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260520-005",
+  "title": "Android Halo：与AI代理保持同步的新功能",
+  "source_url": "https://blog.google/products-and-platforms/platforms/android/android-halo/",
+  "source_type": "hackernews",
+  "summary": "Android Halo是Google为Android平台推出的新功能，旨在帮助用户与AI代理（如智能助手）实现更流畅、实时的同步。该功能可能通过悬浮界面或通知栏集成，让用户在不切换应用的情况下随时查看AI代理的状态、建议或待办事项。适用于日常任务管理、智能家居控制、信息提醒等场景，提升了AI代理的可用性和用户交互效率。技术亮点在于低延迟同步和系统级集成，有望改变人机交互方式。目前该功能处于早期发布阶段，社区讨论较少，但Google官方博客已公布详情。",
+  "tags": [
+    "android",
+    "ai-agent",
+    "synchronization",
+    "google",
+    "user-interface",
+    "notification"
+  ],
+  "score": 7,
+  "published_at": "Tue, 19 May 2026 20:43:58 +0000",
+  "fetched_at": "2026-05-20T10:48:26.274181+00:00",
+  "analyzed_at": "2026-05-20T10:50:22.179094+00:00",
+  "status": "published"
+}

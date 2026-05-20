@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260520-008",
+  "title": "提升AI代理工具使用能力的工具",
+  "source_url": "https://www.kapa.ai/blog/the-tool-that-made-our-ai-agent-better-at-using-its-tools",
+  "source_type": "hackernews",
+  "summary": "本文介绍了Kapa.ai团队开发的一种让AI代理更有效地使用外部工具的方法。通过引入一个专门的工具管理组件，代理能自动学习何时调用哪些工具，减少了错误调用和冗余操作。该方法基于检索增强生成和动态工具选择策略，适用于客服、自动化工作流和智能助手等场景，显著提升了代理的响应准确性和效率。文章还讨论了实现中的关键优化和实际部署效果。",
+  "tags": [
+    "ai-agent",
+    "tool-usage",
+    "llm",
+    "agent-efficiency",
+    "retrieval-augmented-generation"
+  ],
+  "score": 5,
+  "published_at": "Tue, 19 May 2026 19:50:17 +0000",
+  "fetched_at": "2026-05-20T10:48:26.274249+00:00",
+  "analyzed_at": "2026-05-20T10:50:37.127515+00:00",
+  "status": "published"
+}

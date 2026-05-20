@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260520-011",
+  "title": "Orbit：将积压任务委托给AI代理并信任其结果的开源工具",
+  "source_url": "https://github.com/human-again/orbit",
+  "source_type": "hackernews",
+  "summary": "Orbit 是一个开源工具，允许用户将任务积压（backlog）委托给AI代理自动化处理，并信任其返回的结果。该项目通过AI代理实现对任务列表的智能分配与执行，适用于项目管理、任务自动化等场景，旨在减少人工干预，提升效率。尽管当前社区活跃度较低，但其理念具有创新性，为AI驱动的任务管理提供了新思路。",
+  "tags": [
+    "ai-agent",
+    "backlog",
+    "task-automation",
+    "task-management",
+    "delegation"
+  ],
+  "score": 6,
+  "published_at": "Tue, 19 May 2026 14:15:52 +0000",
+  "fetched_at": "2026-05-20T10:48:26.274298+00:00",
+  "analyzed_at": "2026-05-20T10:50:49.089633+00:00",
+  "status": "published"
+}

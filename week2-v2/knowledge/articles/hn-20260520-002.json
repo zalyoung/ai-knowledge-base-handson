@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260520-002",
+  "title": "Capframe：AI代理工具调用的能力令牌系统",
+  "source_url": "https://capframe.ai",
+  "source_type": "hackernews",
+  "summary": "Capframe 是一个为 AI 代理工具调用设计的能力令牌（capability tokens）系统，旨在解决 AI 代理在调用外部工具时的安全授权问题。通过细粒度的权限控制，Capframe 确保 AI 代理只能访问被明确允许的工具和资源，从而防止权限滥用或越权操作。该系统适用于需要安全隔离的多代理协作、企业级 AI 工作流以及敏感数据处理的场景，提供了一种轻量级、可审计的授权机制。",
+  "tags": [
+    "capability-tokens",
+    "ai-agent",
+    "tool-calls",
+    "security",
+    "authorization"
+  ],
+  "score": 6,
+  "published_at": "Tue, 19 May 2026 23:46:47 +0000",
+  "fetched_at": "2026-05-20T10:48:26.274120+00:00",
+  "analyzed_at": "2026-05-20T10:50:05.571919+00:00",
+  "status": "published"
+}
