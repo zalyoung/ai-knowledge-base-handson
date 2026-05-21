@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260521-007",
+  "title": "LLM Agent运行时架构模式选择方法论",
+  "source_url": "https://arxiv.org/abs/2605.20173",
+  "source_type": "hackernews",
+  "summary": "本文提出了一套系统化的方法论，用于为LLM Agent选择合适的运行时架构模式。针对当前多种架构模式（如单一代理、多代理、分层、动态代理等）缺乏明确选择依据的问题，作者构建了决策框架和评估标准，帮助开发者在不同应用场景下权衡性能、可扩展性、维护性和可靠性等关键因素。该方法论通过案例分析验证了其实用性，适用于从简单对话系统到复杂多智能体协作系统的架构设计阶段，为构建稳健且高效的LLM应用提供了可复用的指导原则。",
+  "tags": [
+    "llm",
+    "agents",
+    "architecture",
+    "patterns",
+    "runtime",
+    "methodology",
+    "design-decision"
+  ],
+  "score": 7,
+  "published_at": "Wed, 20 May 2026 20:41:59 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322379+00:00",
+  "analyzed_at": "2026-05-21T11:23:11.059974+00:00",
+  "status": "published"
+}

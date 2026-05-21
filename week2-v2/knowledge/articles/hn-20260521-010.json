@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260521-010",
+  "title": "StepStone: 基于大语言模型通过用户空间库进行GPU内核驱动模糊测试",
+  "source_url": "https://www.cs.ucr.edu/%7Ezhiyunq/pub/oakland26_gpu_fuzzing.pdf",
+  "source_type": "hackernews",
+  "summary": "本文提出StepStone，一种利用大语言模型（LLM）生成用户空间库调用序列来模糊测试GPU内核驱动程序的新方法。传统驱动模糊测试受限于对硬件接口的深度依赖和复杂的输入约束，而StepStone通过LLM学习用户空间库的API使用模式，自动生成合法且具有探索性的调用序列，从而有效触发GPU内核驱动的异常行为。该方法在多个商业GPU驱动上发现未知漏洞，展示了LLM在系统软件安全测试中的潜力，特别适用于对闭源或复杂GPU驱动的安全性评估。",
+  "tags": [
+    "gpu-fuzzing",
+    "llm",
+    "kernel-driver",
+    "security",
+    "fuzzing",
+    "userspace-libraries",
+    "vulnerability-discovery"
+  ],
+  "score": 8,
+  "published_at": "Wed, 20 May 2026 15:54:19 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322428+00:00",
+  "analyzed_at": "2026-05-21T11:23:24.958011+00:00",
+  "status": "published"
+}

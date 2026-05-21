@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260521-017",
+  "title": "使用LLM评判NDCG评估招聘搜索排序",
+  "source_url": "https://corvi.careers/blog/search-eval-llm-judges-ndcg/",
+  "source_type": "hackernews",
+  "summary": "本文探讨了在招聘搜索场景中，如何利用大型语言模型（LLM）作为自动评判者，替代传统人工标注来计算归一化折损累计增益（NDCG），从而评估搜索结果排序质量。文章详细阐述了方法设计、实验过程及效果分析，突出了LLM在评估任务中的高效性和可靠性，适用于招聘平台等垂直搜索领域的排序优化。",
+  "tags": [
+    "search-ranking",
+    "ndcg",
+    "llm-evaluation",
+    "job-search",
+    "information-retrieval"
+  ],
+  "score": 7,
+  "published_at": "Tue, 19 May 2026 18:34:23 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322535+00:00",
+  "analyzed_at": "2026-05-21T11:23:59.110111+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260521-012",
+  "title": "使用LLM进行研究的实践与探索",
+  "source_url": "https://jspann.me/blog/posts/research_mcp/",
+  "source_type": "hackernews",
+  "summary": "本文介绍了一种利用大语言模型（LLM）辅助研究的方法，可能涉及MCP（模型上下文协议）或相关工具。文章讨论了如何通过LLM加速文献综述、数据分析或实验设计等研究流程，强调了其在提升效率方面的潜力。适合研究人员和AI开发者参考，探索将LLM集成到工作流中的实用策略。",
+  "tags": [
+    "llm",
+    "research",
+    "ai",
+    "mcp",
+    "productivity"
+  ],
+  "score": 7,
+  "published_at": "Wed, 20 May 2026 12:27:24 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322455+00:00",
+  "analyzed_at": "2026-05-21T11:23:33.580803+00:00",
+  "status": "published"
+}

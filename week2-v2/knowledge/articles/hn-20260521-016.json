@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260521-016",
+  "title": "为企业软件工程定制大型语言模型",
+  "source_url": "https://arxiv.org/abs/2605.16517",
+  "source_type": "hackernews",
+  "summary": "该论文探讨了针对企业级软件工程场景定制大型语言模型（LLM）的方法，包括数据收集、模型微调、任务指令优化等策略。研究聚焦于提升LLM在代码生成、测试、文档编写和缺陷修复等实际工程任务中的性能，旨在为企业提供更高效、更适配内部开发流程的AI辅助工具。论文可能涉及领域自适应预训练、基于RAG的知识注入等技术，适合有大规模代码库和定制化需求的企业团队参考。",
+  "tags": [
+    "llm",
+    "enterprise-software-engineering",
+    "fine-tuning",
+    "rag",
+    "code-generation"
+  ],
+  "score": 7,
+  "published_at": "Wed, 20 May 2026 02:42:52 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322507+00:00",
+  "analyzed_at": "2026-05-21T11:23:50.978181+00:00",
+  "status": "published"
+}

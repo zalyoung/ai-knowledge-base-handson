@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260521-008",
+  "title": "LLM成本下降趋势：当前昂贵，未来可负担",
+  "source_url": "http://liveatthewitchtrials.blogspot.com/2026/05/if-llm-is-too-expensive-it-wont-be-next.html",
+  "source_type": "hackernews",
+  "summary": "文章探讨了大语言模型（LLM）成本随时间快速下降的规律。作者指出，如果某个LLM在当下显得过于昂贵，那么随着技术进步、硬件优化和规模经济效应，其价格在明年就会大幅降低。这一趋势源于模型蒸馏、量化、更高效架构（如Mamba）以及算力成本下降等多重因素。文章提醒企业和开发者不必因当前价格而过度焦虑，而应关注部署时机与长期成本曲线。对于预算敏感的AI应用场景（如中小型企业、实时对话系统），该观点具有实际参考价值。",
+  "tags": [
+    "llm",
+    "cost",
+    "trends",
+    "economics",
+    "ai",
+    "prediction"
+  ],
+  "score": 7,
+  "published_at": "Wed, 20 May 2026 18:38:53 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322398+00:00",
+  "analyzed_at": "2026-05-21T11:23:15.465414+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260521-005",
+  "title": "FKS2G：基于LLM的代码审查紧密程度决策指标",
+  "source_url": "https://github.com/kmdupr33/fks2g",
+  "source_type": "hackernews",
+  "summary": "FKS2G 是一个利用大语言模型（LLM）生成代码变更指标的创新工具，旨在帮助开发者更科学地决定代码审查的紧密程度。通过分析代码差异的复杂度、影响范围和潜在风险，该工具输出可量化的审查优先级建议，减少过度审查或遗漏关键变更的问题。适用于团队代码审查流程优化，尤其适合大型代码库和持续集成环境，能有效提升审查效率并保障代码质量。目前项目处于早期阶段，亟需社区反馈与贡献。",
+  "tags": [
+    "llm",
+    "code-review",
+    "metrics",
+    "developer-tools",
+    "productivity"
+  ],
+  "score": 6,
+  "published_at": "Thu, 21 May 2026 05:47:48 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322342+00:00",
+  "analyzed_at": "2026-05-21T11:23:02.066733+00:00",
+  "status": "published"
+}

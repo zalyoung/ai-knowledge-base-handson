@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260521-004",
+  "title": "基于文档驱动的大型代码库探索（LLM辅助）",
+  "source_url": "https://github.com/Anhydrite/doc-torn",
+  "source_type": "hackernews",
+  "summary": "该项目提出一种文档驱动的方法，利用大型语言模型（LLM）帮助开发者探索和理解大型代码库。通过结合文档与代码，LLM能够提供上下文相关的解释和导航建议，降低大型项目的入门门槛。适用于需要快速上手复杂代码库的场景，如代码审查、项目迁移或新成员培训。尽管社区活跃度不高（Hacker News上仅3个点数、1条评论），但思路具有创新性，填补了LLM在大型代码库文档导航方面的应用空白。",
+  "tags": [
+    "llm",
+    "documentation-driven",
+    "codebase-exploration",
+    "developer-tools",
+    "ai-assisted"
+  ],
+  "score": 7,
+  "published_at": "Thu, 21 May 2026 07:30:01 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322323+00:00",
+  "analyzed_at": "2026-05-21T11:22:57.168691+00:00",
+  "status": "published"
+}

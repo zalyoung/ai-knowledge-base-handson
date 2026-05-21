@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260521-019",
+  "title": "多语言大型语言模型商业应用中的对等合同：案例研究",
+  "source_url": "https://brewhubphl.com/engineering/parity-contracts-for-polyglot-llm-commerce-a-case-study",
+  "source_type": "hackernews",
+  "summary": "本文通过案例研究，探讨了在多语言大型语言模型（LLM）商业应用中引入“对等合同”（Parity Contracts）的概念。该合同机制旨在确保不同语言模型在性能、成本和公平性方面保持可比较性，从而促进多语言LLM服务的互操作性和商业可行性。文章详细分析了合同设计原则、实施挑战以及实际商业场景中的应用效果，为多语言AI服务提供商和用户提供了一种新的合作框架。尽管社区反馈有限，但该研究在技术整合和商业模型创新方面具有参考价值。",
+  "tags": [
+    "llm",
+    "multilingual",
+    "contracts",
+    "commerce",
+    "case-study"
+  ],
+  "score": 5,
+  "published_at": "Tue, 19 May 2026 17:50:01 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322564+00:00",
+  "analyzed_at": "2026-05-21T11:24:09.695283+00:00",
+  "status": "published"
+}

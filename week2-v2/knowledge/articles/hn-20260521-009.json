@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260521-009",
+  "title": "用大型语言模型取代同行评审：一项论文的LLM审查实验",
+  "source_url": "https://www.youtube.com/watch?v=m1ddx427bHI",
+  "source_type": "hackernews",
+  "summary": "该内容探讨了一种新颖的学术评审方法：利用大型语言模型（LLM）对论文进行审查，并声称这种方法可能优于传统的人类同行评审。通过YouTube视频和Hacker News讨论，作者提出了一个假设：LLM能够更高效、更一致地评估论文质量。尽管概念具有创新性，但社区讨论热度较低（仅2分、1条评论），且实际应用中的可靠性、偏见和伦理问题尚待验证。该想法可能适用于快速预审或辅助评审，但完全替代人类评审仍需谨慎。",
+  "tags": [
+    "llm",
+    "peer-review",
+    "academic-publishing",
+    "ai-research",
+    "automation"
+  ],
+  "score": 6,
+  "published_at": "Wed, 20 May 2026 16:37:45 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322413+00:00",
+  "analyzed_at": "2026-05-21T11:23:19.714007+00:00",
+  "status": "published"
+}

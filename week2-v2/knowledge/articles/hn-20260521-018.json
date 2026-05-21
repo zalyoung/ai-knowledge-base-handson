@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260521-018",
+  "title": "基于本地Gemma 2B LLM的JSON AST到Clojure代码生成工具",
+  "source_url": "https://github.com/quadracollision/llmisp",
+  "source_type": "hackernews",
+  "summary": "该项目（llmisp）利用本地运行的Gemma 2B大语言模型，通过解析JSON抽象语法树（AST）自动生成Clojure代码。它实现了无需云端API的完全本地化代码生成，特别适用于Clojure开发者进行原型设计或代码补全。技术亮点在于将LLM输出与结构化AST结合，提升生成代码的语法准确性和可维护性。适合对隐私敏感或需要离线开发环境的场景，但受限于Clojure生态和模型规模，通用性有限。",
+  "tags": [
+    "llm",
+    "code-generation",
+    "clojure",
+    "local-llm",
+    "json-ast",
+    "gemma"
+  ],
+  "score": 6,
+  "published_at": "Tue, 19 May 2026 17:53:20 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322549+00:00",
+  "analyzed_at": "2026-05-21T11:24:04.866057+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260521-013",
+  "title": "LLM Wiki v2：大语言模型综合知识库",
+  "source_url": "https://gist.github.com/kanmadigital/2369c4f5ea410cb8f6a1647b40c0e2a1",
+  "source_type": "hackernews",
+  "summary": "LLM Wiki v2 是一个持续更新的开源知识库，旨在系统化整理大语言模型（LLM）的核心概念、最佳实践、工具链与社区资源。它覆盖模型微调、提示工程、部署方案、评估方法等关键主题，适合开发者、研究者和AI从业者快速查阅与学习。该项目基于社区贡献，结构清晰，是探索LLM领域的实用入门与参考指南。",
+  "tags": [
+    "llm",
+    "wiki",
+    "knowledge-base",
+    "resources",
+    "open-source",
+    "ai"
+  ],
+  "score": 7,
+  "published_at": "Wed, 20 May 2026 04:25:26 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322468+00:00",
+  "analyzed_at": "2026-05-21T11:23:37.176254+00:00",
+  "status": "published"
+}

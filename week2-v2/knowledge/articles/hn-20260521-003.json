@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260521-003",
+  "title": "Asciidia: LLM驱动的创造性游戏实验",
+  "source_url": "https://asciidia.com",
+  "source_type": "hackernews",
+  "summary": "Asciidia是一个基于大语言模型的实验性游戏演示，核心机制允许玩家通过自然语言“召唤”任何物体，游戏会动态生成具有合理功能和属性的对象。尽管界面看似简单，但底层系统复杂，能够创造可骑乘的龙、法术、武器、工厂等多样化内容，展现了LLM在游戏内容生成中的潜力。该项目目前处于早期演示阶段，社区反馈有限，但为AI驱动的开放式游戏设计提供了创新思路。",
+  "tags": [
+    "llm",
+    "game",
+    "procedural-generation",
+    "ai",
+    "demo",
+    "experimental"
+  ],
+  "score": 7,
+  "published_at": "Thu, 21 May 2026 07:47:01 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322301+00:00",
+  "analyzed_at": "2026-05-21T11:22:52.094316+00:00",
+  "status": "published"
+}

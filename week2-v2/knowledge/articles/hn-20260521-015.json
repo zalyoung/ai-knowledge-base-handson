@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260521-015",
+  "title": "基于科学方法的LLM文本检测器",
+  "source_url": "https://huggingface.co/spaces/akolpakov/SatorArepo",
+  "source_type": "hackernews",
+  "summary": "该项目是一个部署在Hugging Face Spaces上的LLM文本检测工具，名为SatorArepo。它宣称具备科学依据，能够识别由大语言模型生成的文本。适用于内容审核、学术诚信检测、虚假信息防范等场景。通过在线Demo，用户可快速测试文本是否为AI生成。该方法可能结合了统计特征或模型微调技术，但具体实现细节未在描述中详细说明。",
+  "tags": [
+    "llm-detection",
+    "ai-detection",
+    "huggingface",
+    "text-classification",
+    "nlp"
+  ],
+  "score": 7,
+  "published_at": "Wed, 20 May 2026 03:29:00 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322494+00:00",
+  "analyzed_at": "2026-05-21T11:23:46.354835+00:00",
+  "status": "published"
+}

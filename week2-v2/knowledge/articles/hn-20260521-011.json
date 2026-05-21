@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260521-011",
+  "title": "LLM INQUISITOR：评估AI模型处理长篇幅实际任务的能力",
+  "source_url": "https://github.com/AssimilatedHuman/LLM-Inquisitor",
+  "source_type": "hackernews",
+  "summary": "LLM INQUISITOR 是一个专为评估大语言模型（LLM）在长、真实任务场景下表现而设计的框架。它通过构建涉及长文档分析、多步骤推理等复杂工作负载的测试用例，模拟实际应用中的长上下文需求，从而有效评测模型的稳定性和准确性。该工具适用于研究人员和开发者，帮助发现模型在处理长序列信息时的局限性与偏差，为优化模型性能提供依据。其创新点在于聚焦现实任务中的长度与复杂度，弥补了传统基准测试的不足。",
+  "tags": [
+    "llm",
+    "evaluation",
+    "benchmarking",
+    "long-context",
+    "ai"
+  ],
+  "score": 8,
+  "published_at": "Wed, 20 May 2026 13:24:32 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322442+00:00",
+  "analyzed_at": "2026-05-21T11:23:30.050331+00:00",
+  "status": "published"
+}

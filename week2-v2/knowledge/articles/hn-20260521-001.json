@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260521-001",
+  "title": "3.125位LLM量化绕过张量核心",
+  "source_url": "https://blog.djellalmohamedaniss.workers.dev/posts/data-free-3bit-quantization/",
+  "source_type": "hackernews",
+  "summary": "该技术提出了一种创新的LLM量化方法，通过绕过张量核心的常规限制，实现了3.125位精度。相比传统整数或浮点量化，该方法在不依赖额外数据的情况下，大幅降低了模型内存占用和计算开销，同时保持了接近原始模型的性能。适用于边缘设备、移动端或内存受限场景下的高效模型部署。文章详细描述了量化策略、张量核心绕过机制以及实验效果，展示了在保持精度的前提下极致压缩模型的潜力。",
+  "tags": [
+    "quantization",
+    "llm",
+    "low-precision",
+    "tensor-cores",
+    "memory-efficiency",
+    "model-compression"
+  ],
+  "score": 8,
+  "published_at": "Thu, 21 May 2026 10:55:21 +0000",
+  "fetched_at": "2026-05-21T11:21:00.322249+00:00",
+  "analyzed_at": "2026-05-21T11:22:42.619712+00:00",
+  "status": "published"
+}
