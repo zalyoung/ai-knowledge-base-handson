@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260522-006",
+  "title": "Sentience：跨AI代理会话的治理库",
+  "source_url": "https://pypi.org/project/sentience-governor/0.2.5.1/",
+  "source_type": "hackernews",
+  "summary": "Sentience 是一个 Python 包，旨在为 AI 代理（Agent）提供跨会话的治理能力。它可以管理代理的行为规则、策略和状态，确保代理在不同会话间保持一致的决策逻辑和权限控制。这对于构建需要长期记忆或连续交互的 AI 系统（如聊天机器人、自动化工作流）特别有用。该库通过简单的 API 集成，允许开发者在多个代理会话之间共享治理配置，降低重复定义规则的开销，同时提升系统的可追溯性和安全性。目前项目处于早期阶段，社区关注度较低，但概念具有实用价值。",
+  "tags": [
+    "ai-agents",
+    "governance",
+    "python",
+    "state-management",
+    "session-persistence"
+  ],
+  "score": 6,
+  "published_at": "Wed, 20 May 2026 17:21:51 +0000",
+  "fetched_at": "2026-05-22T10:48:36.052691+00:00",
+  "analyzed_at": "2026-05-22T10:51:11.536696+00:00",
+  "status": "published"
+}

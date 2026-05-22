@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260522-004",
+  "title": "Grid Global Accounts 引入AI代理支持",
+  "source_url": "https://www.lightspark.com/news/lightspark/introducing-ai-agent-support-for-grid-global-accounts",
+  "source_type": "hackernews",
+  "summary": "Lightspark 宣布为其 Grid Global Accounts 产品新增 AI Agent 支持，允许 AI 代理直接使用全球账户进行支付操作。该功能基于比特币闪电网络，使 AI 系统能够自主完成微支付、订阅管理与自动化交易，适用于需要实时结算与低手续费的 AI 应用场景，如 AI 助手、数据购买、分布式计算等。此举将智能代理与区块链支付结合，拓展了闪电网络在自动化经济中的实用价值。",
+  "tags": [
+    "ai",
+    "lightning-network",
+    "payments",
+    "agents",
+    "global-accounts",
+    "blockchain"
+  ],
+  "score": 7,
+  "published_at": "Thu, 21 May 2026 11:23:56 +0000",
+  "fetched_at": "2026-05-22T10:48:36.052658+00:00",
+  "analyzed_at": "2026-05-22T10:51:02.175788+00:00",
+  "status": "published"
+}

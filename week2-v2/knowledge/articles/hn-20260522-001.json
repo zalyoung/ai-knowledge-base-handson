@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260522-001",
+  "title": "Nyx Wave：通过邮件提取专家知识的AI代理",
+  "source_url": "https://splabs.io/nyx-wave-knowledge-extraction",
+  "source_type": "hackernews",
+  "summary": "Nyx Wave 是一个利用电子邮件数据作为知识源的 AI 代理，能够自动从专家邮件中提取结构化知识。该技术适用于企业知识管理、专家经验沉淀等场景，通过非侵入式的方式将隐性的专家知识转化为可复用的系统信息。虽然项目在 Hacker News 上尚未获得广泛关注（仅1个点数），但其将 AI 代理与邮件知识提取结合的思路具有实际应用潜力，尤其适合已有大量邮件沟通的组织。",
+  "tags": [
+    "ai",
+    "knowledge-extraction",
+    "email",
+    "agent",
+    "expert-system"
+  ],
+  "score": 6,
+  "published_at": "Fri, 22 May 2026 10:42:38 +0000",
+  "fetched_at": "2026-05-22T10:48:36.052566+00:00",
+  "analyzed_at": "2026-05-22T10:50:33.897604+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260522-005",
+  "title": "WebMCP：让网站为AI智能体做好准备",
+  "source_url": "https://suganthan.com/blog/webmcp-implementation-guide/",
+  "source_type": "hackernews",
+  "summary": "本文介绍如何通过WebMCP实现指南，将传统网站改造为AI智能体可交互的接口。核心思路是利用统一的协议或API封装网站功能，使AI Agent能够自主调用、解析和操作网站内容。技术亮点在于提供标准化接入方式，降低AI集成门槛，适用于需要将现有Web服务快速AI化的场景，如自动化数据采集、智能客服和动态内容交互。",
+  "tags": [
+    "webmcp",
+    "ai-agent",
+    "api",
+    "protocol",
+    "integration",
+    "automation"
+  ],
+  "score": 7,
+  "published_at": "Thu, 21 May 2026 07:23:53 +0000",
+  "fetched_at": "2026-05-22T10:48:36.052675+00:00",
+  "analyzed_at": "2026-05-22T10:51:06.359471+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260522-008",
+  "title": "Google搜索正在演变为AI代理",
+  "source_url": "https://surfacedby.com/blog/google-search-is-becoming-an-ai-agent",
+  "source_type": "hackernews",
+  "summary": "本文探讨了Google搜索从传统搜索引擎向AI代理的转型趋势，重点分析了AI技术如何重塑搜索体验。核心亮点包括：大语言模型驱动的对话式交互、实时信息检索与个性化推荐、以及多轮上下文理解能力。适用场景涵盖用户日常信息查询、复杂问题解答及任务自动化执行。文章指出，这种演变将使搜索从被动响应转向主动服务，代表搜索引擎向智能助手的范式转变。",
+  "tags": [
+    "google",
+    "search",
+    "ai-agent",
+    "llm",
+    "conversational-ai"
+  ],
+  "score": 6,
+  "published_at": "Wed, 20 May 2026 11:40:42 +0000",
+  "fetched_at": "2026-05-22T10:48:36.052738+00:00",
+  "analyzed_at": "2026-05-22T10:51:20.686417+00:00",
+  "status": "published"
+}

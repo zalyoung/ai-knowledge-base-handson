@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260522-007",
+  "title": "HTML-anything：本地AI代理驱动的HTML编辑器",
+  "source_url": "https://github.com/nexu-io/html-anything",
+  "source_type": "hackernews",
+  "summary": "HTML-anything 是一个创新的开源工具，利用本地AI代理自动生成和编辑HTML代码。它使开发者能够通过自然语言指令或简单交互，让AI直接操作HTML文档，大幅提高前端开发效率。适合快速原型设计、自动化网页创建、以及非专业开发者处理HTML场景。本地运行保障数据隐私，无需依赖云服务。目前项目处于早期阶段，社区讨论较少，但概念具有前瞻性。",
+  "tags": [
+    "html",
+    "ai",
+    "editor",
+    "local",
+    "agent",
+    "open-source",
+    "frontend",
+    "automation"
+  ],
+  "score": 7,
+  "published_at": "Wed, 20 May 2026 12:34:38 +0000",
+  "fetched_at": "2026-05-22T10:48:36.052722+00:00",
+  "analyzed_at": "2026-05-22T10:51:15.535140+00:00",
+  "status": "published"
+}

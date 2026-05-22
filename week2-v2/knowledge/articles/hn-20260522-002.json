@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260522-002",
+  "title": "Lucy：基于USDC按任务付费的AI智能体，无订阅模式",
+  "source_url": "https://github.com/Woodman97/lucy-agent",
+  "source_type": "hackernews",
+  "summary": "Lucy 是一个创新的 AI 智能体，采用按任务付费（pay-per-task）的商业模式，使用 USDC 稳定币进行即时结算，无需订阅。其核心设计结合了 A2A（Agent-to-Agent）、MCP（Multi-Chain Protocol）和 x402 协议，旨在实现去中心化、低摩擦的微任务执行。适用于需要灵活调用 AI 能力且避免长期承诺的场景，如自动化工作流、临时数据分析或内容生成。项目处于早期阶段，技术架构暗示了跨链支付与智能体交互的高效整合。",
+  "tags": [
+    "ai-agent",
+    "usdc",
+    "pay-per-task",
+    "cryptocurrency",
+    "decentralized",
+    "a2a",
+    "mcp",
+    "x402"
+  ],
+  "score": 6,
+  "published_at": "Fri, 22 May 2026 08:43:14 +0000",
+  "fetched_at": "2026-05-22T10:48:36.052599+00:00",
+  "analyzed_at": "2026-05-22T10:50:41.791681+00:00",
+  "status": "published"
+}

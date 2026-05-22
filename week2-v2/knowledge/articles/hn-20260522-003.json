@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260522-003",
+  "title": "面向工程团队的AI代理工作复合实战指南",
+  "source_url": "https://www.memco.ai/field-guide",
+  "source_type": "hackernews",
+  "summary": "本文档是一份面向工程团队的实战指南，专注于构建和优化“AI代理工作复合”（AI Agent Work Compound）——即多个AI代理协同完成复杂任务的系统。内容涵盖设计模式、集成策略、部署注意事项和监控最佳实践，帮助工程师高效搭建可扩展、可维护的多代理架构。适用于需要将多个AI任务编排为统一工作流的开发团队，尤其是涉及知识检索、任务分解与结果合成的场景。",
+  "tags": [
+    "ai-agents",
+    "engineering-teams",
+    "compound-ai",
+    "field-guide",
+    "multi-agent-systems"
+  ],
+  "score": 6,
+  "published_at": "Thu, 21 May 2026 22:30:13 +0000",
+  "fetched_at": "2026-05-22T10:48:36.052639+00:00",
+  "analyzed_at": "2026-05-22T10:50:56.233298+00:00",
+  "status": "published"
+}
