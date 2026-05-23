@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260523-001",
+  "title": "乌克兰政府应用Diia推出基于Google Gemini的AI代理",
+  "source_url": "https://babel.ua/en/news/126979-diia-launched-its-own-ai-agent-in-the-application-what-services-does-it-support",
+  "source_type": "hackernews",
+  "summary": "乌克兰政府官方应用Diia近日推出了一款基于Google Gemini的AI代理，旨在提升公民与政府服务交互的效率和便捷性。该AI代理支持多项公共服务，如解答用户疑问、引导办理政务手续等，利用Gemini强大的自然语言处理能力实现更智能的对话体验。这一举措标志着政府数字化转型的深化，将AI技术融入公共服务场景，为用户提供7x24小时的自助服务。尽管社区讨论热度较低（新闻仅获1分，暂无评论），但其技术创新性与实际应用场景的契合度较高，为其他国家的政务数字化提供了有价值参考。",
+  "tags": [
+    "ai-agent",
+    "google-gemini",
+    "government-app",
+    "ukraine",
+    "digital-services",
+    "chatbot"
+  ],
+  "score": 7,
+  "published_at": "Fri, 22 May 2026 12:43:39 +0000",
+  "fetched_at": "2026-05-23T09:50:26.468505+00:00",
+  "analyzed_at": "2026-05-23T09:52:17.790495+00:00",
+  "status": "published"
+}

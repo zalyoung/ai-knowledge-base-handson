@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260523-002",
+  "title": "面向大语言模型读者的交互式线性代数入门",
+  "source_url": "https://algo-rhythm.dev/en/",
+  "source_type": "hackernews",
+  "summary": "该资源是一个交互式线性代数入门教程，专门为希望深入理解大语言模型（LLM）底层数学原理的读者设计。教程可能涵盖矩阵运算、向量空间等核心概念，并结合Transformer等架构中的实际应用进行讲解。通过互动式学习，帮助读者掌握LLM所需的线性代数基础。适合机器学习工程师、数据科学家以及希望提升模型理解能力的研究者。",
+  "tags": [
+    "linear-algebra",
+    "interactive",
+    "llm",
+    "tutorial",
+    "education",
+    "deep-learning"
+  ],
+  "score": 6,
+  "published_at": "Sat, 23 May 2026 07:40:17 +0000",
+  "fetched_at": "2026-05-23T09:50:26.554539+00:00",
+  "analyzed_at": "2026-05-23T09:53:53.748068+00:00",
+  "status": "published"
+}
