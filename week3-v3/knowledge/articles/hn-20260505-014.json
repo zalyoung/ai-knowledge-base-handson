@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260505-014",
+  "title": "从零开始训练大语言模型教程",
+  "source_url": "https://github.com/raiyanyahya/how-to-train-your-gpt",
+  "source_type": "hackernews",
+  "summary": "该仓库提供了一个从零开始训练GPT风格大语言模型的完整指南，涵盖数据准备、模型架构、训练流程、超参数调优等关键步骤。项目聚焦于实践操作，适合对LLM训练感兴趣的研究者、工程师或学生，帮助其理解底层原理并动手实现。尽管社区活跃度不高，但内容扎实，技术实用性强。",
+  "tags": [
+    "llm",
+    "gpt",
+    "training",
+    "tutorial",
+    "machine-learning",
+    "deep-learning"
+  ],
+  "score": 7,
+  "published_at": "Mon, 04 May 2026 12:36:45 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836737+00:00",
+  "analyzed_at": "2026-05-05T13:37:11.495167+00:00",
+  "status": "published"
+}

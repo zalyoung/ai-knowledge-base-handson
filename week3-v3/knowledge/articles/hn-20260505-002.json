@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260505-002",
+  "title": "LLM测试工具包：测试大语言模型应用的一致性、延迟、成本和性能",
+  "source_url": "https://github.com/muskanjoshi01/llm-test-kit",
+  "source_type": "hackernews",
+  "summary": "LLM-test-kit 是一个用于评估大语言模型（LLM）应用的多维度测试工具，覆盖一致性、延迟、成本和行为四大核心指标。开发者可通过该工具快速验证模型输出的可靠性、响应速度、经济性及特定场景下的行为表现，适用于模型选型、性能优化和成本控制等场景。其模块化设计便于集成到现有CI/CD流程，帮助团队在开发早期发现潜在问题，提升LLM应用的稳定性和效率。目前项目处于早期阶段，通过GitHub开源社区获取反馈和贡献。",
+  "tags": [
+    "llm",
+    "testing",
+    "performance",
+    "latency",
+    "cost",
+    "consistency",
+    "evaluation",
+    "monitoring"
+  ],
+  "score": 6,
+  "published_at": "Tue, 05 May 2026 15:00:00 +0000",
+  "fetched_at": "2026-05-05T15:30:43.975745+00:00",
+  "analyzed_at": "2026-05-05T15:31:17.511951+00:00",
+  "status": "published"
+}

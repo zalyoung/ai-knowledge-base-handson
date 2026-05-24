@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260505-009",
+  "title": "LLM优先的文档AI缺失了一项50年历史的计算机技术",
+  "source_url": "https://bhavyagupta.dev/posts/llm-document-extractors-fixed-point",
+  "source_type": "hackernews",
+  "summary": "本文指出当前基于大语言模型（LLM）的文档人工智能在处理结构化提取时存在根本性缺陷，忽略了计算机科学中已有50年历史的定点迭代（fixed-point）技术。文章通过对比现有LLM提取器与经典方法，论证了定点迭代能显著提升文档解析的准确性和效率，特别是对于复杂布局和嵌套结构的文档。适用场景包括文档理解、表格提取、表单识别等需要高精度结构化的任务。该观点为文档AI领域提供了一个低成本、高收益的改进方向，但社区讨论较少，社区活跃度低。",
+  "tags": [
+    "llm",
+    "document-ai",
+    "fixed-point",
+    "document-extraction",
+    "information-retrieval",
+    "cs-history"
+  ],
+  "score": 7,
+  "published_at": "Mon, 04 May 2026 15:34:23 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836600+00:00",
+  "analyzed_at": "2026-05-05T13:36:37.583503+00:00",
+  "status": "published"
+}

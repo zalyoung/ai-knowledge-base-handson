@@ -1,0 +1,22 @@
+{
+  "id": "github-20260505-011",
+  "title": "微软Qlib：AI驱动的量化投资研究平台",
+  "source_url": "https://github.com/microsoft/qlib",
+  "source_type": "github_trending",
+  "summary": "Qlib是微软开源的AI量化投资平台，旨在利用人工智能技术赋能量化研究，覆盖从策略探索到生产部署的全流程。它支持多种机器学习范式，包括监督学习、市场动态建模和强化学习，并集成了RD-Agent来自动化研发过程。平台提供丰富的量化模型、数据集和工具，适用于金融领域的算法交易、投资研究等场景。拥有超过4.2万星标，社区活跃度高。",
+  "tags": [
+    "algorithmic-trading",
+    "deep-learning",
+    "finance",
+    "machine-learning",
+    "quant",
+    "quantitative-finance",
+    "python",
+    "fintech"
+  ],
+  "score": 9,
+  "published_at": "2020-08-14T06:46:00Z",
+  "fetched_at": "2026-05-05T13:32:42.464223+00:00",
+  "analyzed_at": "2026-05-05T13:34:48.859363+00:00",
+  "status": "published"
+}

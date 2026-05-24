@@ -1,0 +1,12 @@
+[
+  {
+    "id": "github-20260505-001",
+    "title": "有效条目",
+    "source_url": "https://github.com/test/valid",
+    "summary": "这是数组中的一个有效条目，用于测试混合场景下的校验行为。",
+    "tags": ["valid"],
+    "status": "draft"
+  },
+  "not an object",
+  42
+]

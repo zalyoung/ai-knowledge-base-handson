@@ -1,0 +1,10 @@
+{
+  "id": "github-20260505-001",
+  "title": "Score 超出范围",
+  "source_url": "https://github.com/test/invalid-score",
+  "summary": "此条目的 score 值为 15，超出 1-10 的有效范围，应被校验拦截并报告错误。",
+  "tags": ["invalid-score"],
+  "status": "draft",
+  "score": 15,
+  "audience": "expert"
+}

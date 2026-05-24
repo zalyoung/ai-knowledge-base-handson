@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260505-005",
+  "title": "Smile-Serve：集成ML、ONNX和LLM推理的JVM推理服务器",
+  "source_url": "https://github.com/haifengl/smile/tree/master/serve",
+  "source_type": "hackernews",
+  "summary": "Smile-Serve 是一个基于 Quarkus 框架构建的生产就绪型推理服务器，在 JVM 上统一了三种推理能力：经典机器学习模型（.sml 格式）、ONNX 格式模型、以及基于 Llama 3 的聊天补全。它提供三个 REST API 端点（/api/v1/models、/api/v1/onnx、/api/v1/chat），并自带一个基于 React 的 Web UI。该服务器适合需要同时支持传统 ML 模型、跨框架 ONNX 模型和大型语言模型（LLM）推理的场景，尤其适合 Java/Quarkus 生态的团队快速部署轻量级推理服务。",
+  "tags": [
+    "inference-server",
+    "quarkus",
+    "onnx",
+    "llama",
+    "machine-learning",
+    "jvm",
+    "react"
+  ],
+  "score": 7,
+  "published_at": "Mon, 04 May 2026 22:02:55 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836513+00:00",
+  "analyzed_at": "2026-05-05T13:36:04.300380+00:00",
+  "status": "published"
+}

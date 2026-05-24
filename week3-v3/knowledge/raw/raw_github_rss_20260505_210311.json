@@ -1,0 +1,170 @@
+[
+  {
+    "source_type": "github_trending",
+    "source_id": "599320067",
+    "title": "langflow-ai/langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+    "url": "https://github.com/langflow-ai/langflow",
+    "stars": 147702,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "chatgpt",
+      "generative-ai",
+      "large-language-models",
+      "multiagent",
+      "react-flow"
+    ],
+    "created_at": "2023-02-08T22:28:03Z",
+    "updated_at": "2026-05-05T12:41:48Z",
+    "fetched_at": "2026-05-05T13:03:09.682982+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_id": "552661142",
+    "title": "langchain-ai/langchain",
+    "description": "The agent engineering platform. Available in TypeScript!",
+    "url": "https://github.com/langchain-ai/langchain",
+    "stars": 135823,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "deepagents",
+      "enterprise",
+      "framework",
+      "gemini",
+      "generative-ai",
+      "langchain",
+      "langgraph",
+      "llm",
+      "multiagent",
+      "open-source",
+      "openai",
+      "pydantic",
+      "python",
+      "rag",
+      "typescript"
+    ],
+    "created_at": "2022-10-17T02:58:36Z",
+    "updated_at": "2026-05-05T12:41:12Z",
+    "fetched_at": "2026-05-05T13:03:09.683029+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_id": "1024554267",
+    "title": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "stars": 133520,
+    "language": "Python",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ],
+    "created_at": "2025-07-22T22:22:28Z",
+    "updated_at": "2026-05-05T13:02:51Z",
+    "fetched_at": "2026-05-05T13:03:09.683038+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_id": "793375104",
+    "title": "Shubhamsaboo/awesome-llm-apps",
+    "description": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "stars": 108810,
+    "language": "Python",
+    "topics": [
+      "agents",
+      "llms",
+      "python",
+      "rag"
+    ],
+    "created_at": "2024-04-29T05:30:25Z",
+    "updated_at": "2026-05-05T12:55:55Z",
+    "fetched_at": "2026-05-05T13:03:09.683044+00:00"
+  },
+  {
+    "source_type": "github_trending",
+    "source_id": "881458615",
+    "title": "browser-use/browser-use",
+    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "url": "https://github.com/browser-use/browser-use",
+    "stars": 92202,
+    "language": "Python",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
+    ],
+    "created_at": "2024-10-31T16:00:56Z",
+    "updated_at": "2026-05-05T12:54:32Z",
+    "fetched_at": "2026-05-05T13:03:09.683050+00:00"
+  },
+  {
+    "source_type": "hackernews",
+    "source_id": "db712e6a-7cc1-4ed6-b7a3-6ca297952e02",
+    "title": "I built a WordPress AI agent that handles sales and support (No monthly fees)",
+    "description": "<p>Article URL: <a href=\"https://www.indiehackers.com/post/i-built-a-wordpress-ai-agent-that-handles-sales-and-support-no-monthly-fees-ICax5uOircJAVYrmRH1N\">https://www.indiehackers.com/post/i-built-a-wordpress-ai-agent-that-handles-sales-and-support-no-monthly-fees-ICax5uOircJAVYrmRH1N</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48018289\">https://news.ycombinator.com/item?id=48018289</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+    "url": "https://www.indiehackers.com/post/i-built-a-wordpress-ai-agent-that-handles-sales-and-support-no-monthly-fees-ICax5uOircJAVYrmRH1N",
+    "published_at": "Tue, 05 May 2026 05:08:47 +0000",
+    "fetched_at": "2026-05-05T13:03:11.040575+00:00"
+  },
+  {
+    "source_type": "hackernews",
+    "source_id": "b24c2e84-f54f-4e55-801c-257b8a4a1d03",
+    "title": "Anthropic and FIS Are Building an AI Agent to Help Banks Police Financial Crimes",
+    "description": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/anthropic-and-fis-are-building-an-ai-agent-to-help-banks-police-financial-crimes-5a0be5a8\">https://www.wsj.com/tech/ai/anthropic-and-fis-are-building-an-ai-agent-to-help-banks-police-financial-crimes-5a0be5a8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48016652\">https://news.ycombinator.com/item?id=48016652</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
+    "url": "https://www.wsj.com/tech/ai/anthropic-and-fis-are-building-an-ai-agent-to-help-banks-police-financial-crimes-5a0be5a8",
+    "published_at": "Tue, 05 May 2026 00:28:49 +0000",
+    "fetched_at": "2026-05-05T13:03:11.040714+00:00"
+  },
+  {
+    "source_type": "hackernews",
+    "source_id": "5b7c94b6-52d9-47cd-81d0-31eedaee478e",
+    "title": "Stripped an AI agent down to a bash loop – No Framework",
+    "description": "<p>Article URL: <a href=\"https://github.com/seedpi867-cmd/seed\">https://github.com/seedpi867-cmd/seed</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48016603\">https://news.ycombinator.com/item?id=48016603</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/seedpi867-cmd/seed",
+    "published_at": "Tue, 05 May 2026 00:20:01 +0000",
+    "fetched_at": "2026-05-05T13:03:11.040790+00:00"
+  },
+  {
+    "source_type": "hackernews",
+    "source_id": "51056e87-a1f6-4826-8684-a2f0dd4b6322",
+    "title": "Show HN: A Soccer Game Simulator Played by AI Agent",
+    "description": "<p>Article URL: <a href=\"https://github.com/gangtao/AgentPitch/\">https://github.com/gangtao/AgentPitch/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48009970\">https://news.ycombinator.com/item?id=48009970</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+    "url": "https://github.com/gangtao/AgentPitch/",
+    "published_at": "Mon, 04 May 2026 15:32:02 +0000",
+    "fetched_at": "2026-05-05T13:03:11.040860+00:00"
+  },
+  {
+    "source_type": "hackernews",
+    "source_id": "5d0e14a2-3674-4f2a-b12d-b2ad43837f0b",
+    "title": "Show HN: SharkAuth – Auth server for AI agent delegation",
+    "description": "<p>Article URL: <a href=\"https://github.com/shark-auth/shark\">https://github.com/shark-auth/shark</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48009669\">https://news.ycombinator.com/item?id=48009669</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>",
+    "url": "https://github.com/shark-auth/shark",
+    "published_at": "Mon, 04 May 2026 15:07:51 +0000",
+    "fetched_at": "2026-05-05T13:03:11.040931+00:00"
+  }
+]

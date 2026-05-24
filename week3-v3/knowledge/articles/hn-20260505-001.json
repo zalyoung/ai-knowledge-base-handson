@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260505-001",
+  "title": "DarkMatter: 针对AI代理决策的防篡改审计追踪",
+  "source_url": "https://darkmatterhub.ai",
+  "source_type": "hackernews",
+  "summary": "DarkMatter 是一个旨在为AI代理（AI agent）的决策过程提供防篡改审计追踪的工具/平台。该技术利用密码学或区块链等机制，为每个AI决策生成不可篡改的证明，确保决策链的完整性和可追溯性。其核心优势在于增强AI系统的透明度和信任度，适用于对合规性要求极高的场景，如金融交易、医疗诊断、自动驾驶等需要严格审计AI行为的领域。尽管当前社区活跃度较低（HN点数1），但该方向对AI治理和责任界定具有重要价值。",
+  "tags": [
+    "audit-trail",
+    "ai-agent",
+    "tamper-evident",
+    "blockchain",
+    "transparency",
+    "accountability"
+  ],
+  "score": 7,
+  "published_at": "Tue, 05 May 2026 15:15:48 +0000",
+  "fetched_at": "2026-05-05T15:42:34.726553+00:00",
+  "analyzed_at": "2026-05-05T15:42:54.183384+00:00",
+  "status": "published"
+}
