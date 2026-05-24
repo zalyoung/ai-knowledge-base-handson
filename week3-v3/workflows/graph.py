@@ -1,9 +1,10 @@
 """LangGraph 工作流组装模块。
 
-将 nodes.py 中定义的 5 个节点组装为有向图：
-    collect → analyze → organize → review
-                                   ├─ (passed) → save → END
-                                   └─ (failed) → organize（回到整理修正）
+将 6 个节点组装为有向图，支持 3 路条件路由：
+    collect → analyze → review
+                        ├─ (passed) → organize → END
+                        ├─ (failed, iteration < 3) → revise → review
+                        └─ (failed, iteration >= 3) → human_flag → END
 
 Example:
     >>> from workflows.graph import build_graph
@@ -20,33 +21,36 @@ from typing import Any
 from langgraph.graph import END, StateGraph
 
 try:
+    from workflows.human_flag import human_flag_node
     from workflows.nodes import (
         analyze_node,
         collect_node,
         organize_node,
-        review_node,
-        save_node,
     )
+    from workflows.reviewer import review_node
+    from workflows.reviser import revise_node
     from workflows.state import KBState, create_initial_state
 except ImportError:
+    from human_flag import human_flag_node  # type: ignore[no-redef]
     from nodes import (  # type: ignore[no-redef]
         analyze_node,
         collect_node,
         organize_node,
-        review_node,
-        save_node,
     )
+    from reviewer import review_node  # type: ignore[no-redef]
+    from reviser import revise_node  # type: ignore[no-redef]
     from state import KBState, create_initial_state  # type: ignore[no-redef]
 
 logger = logging.getLogger(__name__)
 
 
-def _review_router(state: KBState) -> str:
-    """审核节点的路由函数。
+def route_after_review(state: KBState) -> str:
+    """条件路由：审核后 3 条出口。
 
-    根据 review_passed 决定下一步走向：
-        - True  → "save"（进入保存节点）
-        - False → "organize"（回到整理节点修正）
+    根据 review_passed 和 iteration 决定下一步走向：
+        - 通过 → "organize"（进入整理节点，生成 articles）
+        - 不通过且 iteration < 3 → "revise"（进入修正节点）
+        - 不通过且 iteration >= 3 → "human_flag"（人工介入）
 
     Args:
         state: 当前工作流状态。
@@ -55,20 +59,25 @@ def _review_router(state: KBState) -> str:
         路由目标的键名。
     """
     if state.get("review_passed", False):
-        logger.info("[router] 审核通过 → save")
-        return "save"
-    logger.info("[router] 审核未通过 → organize（重新修正）")
-    return "organize"
+        logger.info("[router] 审核通过 → organize")
+        return "organize"
+    elif state.get("iteration", 0) >= 3:
+        logger.info("[router] 达到 %d 次审核上限 → human_flag", state.get("iteration", 0))
+        return "human_flag"
+    else:
+        logger.info("[router] 审核未通过 → revise（修正分析结果）")
+        return "revise"
 
 
 def build_graph() -> Any:
     """构建并编译 LangGraph 工作流图。
 
     节点与边的定义：
-        节点: collect, analyze, organize, review, save
-        线性边: collect → analyze → organize → review
-        条件边: review → (save | organize)
-        终止边: save → END
+        节点: collect, analyze, organize, review, revise, human_flag
+        线性边: collect → analyze → review
+        条件边: review → (organize | revise | human_flag)
+        循环边: revise → review
+        终止边: organize → END, human_flag → END
 
     Returns:
         编译后的 LangGraph app，可调用 .invoke() 或 .stream()。
@@ -78,27 +87,32 @@ def build_graph() -> Any:
     # 注册节点
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
-    graph.add_node("organize", organize_node)
     graph.add_node("review", review_node)
-    graph.add_node("save", save_node)
+    graph.add_node("revise", revise_node)
+    graph.add_node("organize", organize_node)
+    graph.add_node("human_flag", human_flag_node)
 
-    # 线性边: collect → analyze → organize → review
+    # 线性边: collect → analyze → review
     graph.add_edge("collect", "analyze")
-    graph.add_edge("analyze", "organize")
-    graph.add_edge("organize", "review")
+    graph.add_edge("analyze", "review")
 
-    # 条件边: review 之后根据 review_passed 分支
+    # 条件边: review 之后根据 review_passed 和 iteration 分支
     graph.add_conditional_edges(
         "review",
-        _review_router,
+        route_after_review,
         {
-            "save": "save",
             "organize": "organize",
+            "revise": "revise",
+            "human_flag": "human_flag",
         },
     )
 
-    # 终止边: save → END
-    graph.add_edge("save", END)
+    # revise → review（修正后重新审核，形成循环）
+    graph.add_edge("revise", "review")
+
+    # 两个终点
+    graph.add_edge("organize", END)
+    graph.add_edge("human_flag", END)
 
     # 入口点
     graph.set_entry_point("collect")
@@ -166,6 +180,9 @@ def main() -> None:
                 logger.info("  审核: passed=%s, iteration=%s", passed, iteration)
                 if feedback:
                     logger.info("  反馈: %s", feedback[:200])
+
+            if "needs_human_review" in output:
+                logger.info("  ⚠️ 需要人工介入")
 
             if "cost_tracker" in output:
                 ct = output["cost_tracker"]

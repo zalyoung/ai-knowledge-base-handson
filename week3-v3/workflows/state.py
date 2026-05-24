@@ -138,6 +138,8 @@ class KBState(TypedDict, total=False):
             False 表示需要重新分析。
         iteration: 当前审核循环次数（从 0 开始）。用于控制重试上限，
             防止无限循环。最多允许 3 次（0, 1, 2）。
+        needs_human_review: 是否需要人工介入。当 iteration >= 3 仍未
+            通过审核时，由 HumanFlag 节点设为 True。
         cost_tracker: Token 用量追踪。记录累计 Token 消耗、费用和
             调用次数，用于成本监控和预算控制。
     """
@@ -148,6 +150,7 @@ class KBState(TypedDict, total=False):
     review_feedback: str
     review_passed: bool
     iteration: int
+    needs_human_review: bool
     cost_tracker: CostTracker
 
 
@@ -164,6 +167,7 @@ def create_initial_state() -> KBState:
         review_feedback="",
         review_passed=False,
         iteration=0,
+        needs_human_review=False,
         cost_tracker=CostTracker(
             total_tokens=0,
             total_cost=0.0,
