@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260524-001",
+  "title": "将 ArXiv 转化为 AI 代理友好接口，无需浏览器视觉",
+  "source_url": "https://mediause.dev/skills/arxiv",
+  "source_type": "hackernews",
+  "summary": "该项目将学术预印本数据库 ArXiv 转换为 AI 代理可直接访问的结构化接口，消除了对浏览器视觉解析的需求。通过提供纯 API 式的交互方式，AI 代理能够高效地检索论文信息、摘要、作者等数据，适用于学术搜索、文献综述自动化、科研辅助等场景。这一方案降低了 AI 系统获取学术资源的门槛，提升了数据可访问性，特别适合需要大规模、自动化处理学术信息的 AI 应用。",
+  "tags": [
+    "arxiv",
+    "ai-agent",
+    "api",
+    "academic-research",
+    "interface",
+    "structured-data"
+  ],
+  "score": 7,
+  "published_at": "Sun, 24 May 2026 06:33:27 +0000",
+  "fetched_at": "2026-05-24T09:52:20.988124+00:00",
+  "analyzed_at": "2026-05-24T09:54:13.684613+00:00",
+  "status": "published"
+}

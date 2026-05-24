@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260524-007",
+  "title": "结构化LLM学习路径：从零到AI研究员的8阶段课程",
+  "source_url": "https://github.com/barvhaim/llm-learning-path",
+  "source_type": "hackernews",
+  "summary": "这是一个系统化的LLM学习路径，旨在帮助学习者从零基础逐步成长为AI研究员。课程分为8个阶段，涵盖数学基础、机器学习、深度学习、自然语言处理、Transformer架构、LLM原理与微调、RLHF以及前沿研究方向。每个阶段包含精选的论文、书籍、课程和项目资源，适合自学和教学参考，实用性强。",
+  "tags": [
+    "llm",
+    "learning-path",
+    "curriculum",
+    "ai-researcher",
+    "nlp",
+    "deep-learning",
+    "transformer"
+  ],
+  "score": 8,
+  "published_at": "Sun, 24 May 2026 08:37:22 +0000",
+  "fetched_at": "2026-05-24T09:52:21.012913+00:00",
+  "analyzed_at": "2026-05-24T09:55:44.451733+00:00",
+  "status": "published"
+}

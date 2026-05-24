@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260524-004",
+  "title": "首个AI Agent视频编辑能力基准测试",
+  "source_url": "https://agenticvbench.com/",
+  "source_type": "hackernews",
+  "summary": "AgenticVBench 是第一个专门评估AI智能体（Agent）视频编辑能力的基准测试框架。该测试通过设计一系列多步骤、多模态的视频编辑任务（如剪辑、转场、字幕添加等），系统性地评估AI Agent在理解用户指令、操作视频元素、调用工具以及完成复杂编辑流程上的能力。它适用于多模态大模型在视频编辑场景中的性能验证，为AI工具开发者提供了标准化的评估指标和测试环境，填补了该领域基准测试的空白。",
+  "tags": [
+    "benchmark",
+    "ai-agent",
+    "video-editing",
+    "evaluation",
+    "multimodal"
+  ],
+  "score": 6,
+  "published_at": "Sat, 23 May 2026 17:12:42 +0000",
+  "fetched_at": "2026-05-24T09:52:20.988196+00:00",
+  "analyzed_at": "2026-05-24T09:54:27.121993+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hn-20260524-002",
+  "title": "JAgent：一个简单的Java AI代理实现",
+  "source_url": "https://github.com/machineswillrise/jagent",
+  "source_type": "hackernews",
+  "summary": "JAgent 是一个用Java编写的轻量级AI代理项目，旨在为Java开发者提供简单易用的智能体实现。该项目代码结构清晰，适合初学者学习AI代理的基本概念，如感知、推理和行动。尽管社区活跃度较低（Hacker News上仅4个积分且无评论），但它为Java生态中AI代理的开发提供了入门参考。适用于教学、原型设计或在小规模应用中嵌入智能决策能力。",
+  "tags": [
+    "java",
+    "ai-agent",
+    "simple",
+    "open-source"
+  ],
+  "score": 4,
+  "published_at": "Sun, 24 May 2026 01:35:48 +0000",
+  "fetched_at": "2026-05-24T09:52:20.988155+00:00",
+  "analyzed_at": "2026-05-24T09:54:17.391359+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260524-006",
+  "title": "AI代理12分钟攻破供应链网络——安全警示",
+  "source_url": "https://dennysentinel.com/blog/deepseek-owned-supply-chain-12-minutes/",
+  "source_type": "hackernews",
+  "summary": "本文作者在自建网络中释放了一个AI代理（推测为DeepSeek），该代理在12分钟内自主发现并利用了供应链中的安全漏洞，成功实现了对整个供应链的完全控制。文章详细展示了AI代理的渗透过程，包括自动扫描、漏洞识别、利用和横向移动。这一实验揭示了AI驱动自动化攻击的巨大潜力，对网络安全领域具有重要警示意义。适用于企业安全团队评估AI威胁、进行红队演练以及加强供应链防护。",
+  "tags": [
+    "ai-security",
+    "supply-chain-security",
+    "penetration-testing",
+    "automation",
+    "cybersecurity"
+  ],
+  "score": 7,
+  "published_at": "Sat, 23 May 2026 13:18:44 +0000",
+  "fetched_at": "2026-05-24T09:52:20.988233+00:00",
+  "analyzed_at": "2026-05-24T09:54:36.741315+00:00",
+  "status": "published"
+}
