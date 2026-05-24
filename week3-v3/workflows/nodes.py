@@ -543,6 +543,47 @@ def review_node(state: KBState) -> dict:
         }
 
 
+def review_node_test(state: KBState) -> dict:
+    """[临时测试] 模拟审核循环，不调用 LLM。
+
+    前 2 次返回不通过 + 不同 feedback，第 3 次强制通过。
+    验证后请删除此函数，改回 review_node。
+
+    Args:
+        state: 当前工作流状态。
+
+    Returns:
+        包含 review_passed、review_feedback、iteration 的部分状态更新。
+    """
+    iteration = state.get("iteration", 0)
+
+    test_feedbacks = [
+        "摘要过于简短，缺少技术亮点；标签不够精确，建议增加具体框架名称",
+        "标签分类不合理，缺少应用场景标签；一致性有待提高，标题与摘要关联度低",
+    ]
+
+    if iteration < 2:
+        passed = False
+        feedback = test_feedbacks[iteration]
+    else:
+        passed = True
+        feedback = ""
+
+    logger.info(
+        "[review_node_test] iteration=%d, review_passed=%s",
+        iteration,
+        passed,
+    )
+    if feedback:
+        logger.info("[review_node_test] feedback: %s", feedback)
+
+    return {
+        "review_passed": passed,
+        "review_feedback": feedback,
+        "iteration": iteration + 1,
+    }
+
+
 # =============================================================================
 # 节点 5: 保存
 # =============================================================================
