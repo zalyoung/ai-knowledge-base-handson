@@ -29,6 +29,7 @@ try:
     )
     from workflows.reviewer import review_node
     from workflows.reviser import revise_node
+    from workflows.planner import planner_node
     from workflows.state import KBState, create_initial_state
 except ImportError:
     from human_flag import human_flag_node  # type: ignore[no-redef]
@@ -39,6 +40,7 @@ except ImportError:
     )
     from reviewer import review_node  # type: ignore[no-redef]
     from reviser import revise_node  # type: ignore[no-redef]
+    from workflows.planner import planner_node
     from state import KBState, create_initial_state  # type: ignore[no-redef]
 
 logger = logging.getLogger(__name__)
@@ -85,6 +87,7 @@ def build_graph() -> Any:
     graph = StateGraph(KBState)
 
     # 注册节点
+    graph.add_node("plan", planner_node)
     graph.add_node("collect", collect_node)
     graph.add_node("analyze", analyze_node)
     graph.add_node("review", review_node)
@@ -93,6 +96,7 @@ def build_graph() -> Any:
     graph.add_node("human_flag", human_flag_node)
 
     # 线性边: collect → analyze → review
+    graph.add_edge("plan", "collect")
     graph.add_edge("collect", "analyze")
     graph.add_edge("analyze", "review")
 
@@ -115,7 +119,7 @@ def build_graph() -> Any:
     graph.add_edge("human_flag", END)
 
     # 入口点
-    graph.set_entry_point("collect")
+    graph.set_entry_point("plan")
 
     return graph.compile()
 
@@ -140,7 +144,20 @@ def main() -> None:
             logger.info("-" * 40)
             logger.info("[节点: %s] 输出完成", node_name)
 
+            # 跳过空输出
+            if output is None:
+                logger.info("  (无输出)")
+                continue
+
             # 打印关键输出摘要
+            if "plan" in output:
+                plan = output["plan"]
+                logger.info("  策略: tier=%s, target=%d", plan.get("tier", ""), plan.get("target_count", 0))
+                logger.info("    每源限制: %d, 阈值: %.1f, 最大迭代: %d",
+                          plan.get("per_source_limit", 0),
+                          plan.get("relevance_threshold", 0),
+                          plan.get("max_iterations", 0))
+
             if "sources" in output:
                 sources = output["sources"]
                 logger.info("  采集: %d 条数据", len(sources))
