@@ -1,0 +1,22 @@
+{
+  "id": "github-20260524-008",
+  "title": "AstrBot：集成多平台与大模型的AI Agent开发框架",
+  "source_url": "https://github.com/AstrBotDevs/AstrBot",
+  "source_type": "github_trending",
+  "summary": "AstrBot 是一个基于Python的开源AI Agent开发框架，旨在简化跨平台智能助手的构建。它无缝集成了Discord、Telegram、QQ等主流即时通讯平台，并支持OpenAI、Gemini、Llama等多种大型语言模型，用户可通过插件系统灵活扩展功能，实现对话、任务自动化等场景。框架内置MCP（模型上下文协议）支持，便于模型与外部工具交互，同时提供Docker快速部署方案，可作为OpenClaw等商业服务的开源替代品。凭借逾3.2万星标的社区活跃度，AstrBot在技术创新性、实用性及生态丰富度上表现突出，尤其适合需要统一管理多平台AI对话、私有化部署LLM服务或构建自定义AI工作流的开发者与团队。",
+  "tags": [
+    "agent",
+    "ai",
+    "chatbot",
+    "llm",
+    "discord",
+    "telegram",
+    "python",
+    "mcp"
+  ],
+  "score": 9,
+  "published_at": "2022-12-08T13:27:46Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:50:36.815381+00:00",
+  "status": "published"
+}

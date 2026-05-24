@@ -1,0 +1,21 @@
+{
+  "id": "github-20260524-012",
+  "title": "OpenSpec：面向AI编码助手的规范驱动开发框架",
+  "source_url": "https://github.com/Fission-AI/OpenSpec",
+  "source_type": "github_trending",
+  "summary": "OpenSpec 是一个基于规范驱动开发（Spec-driven Development，SDD）理念的开源框架，专为 AI 编码助手设计。它通过引入结构化的规范（Spec）作为开发流程的核心，将需求、设计、计划、PRD 等环节与 AI 编码能力无缝衔接，形成完整的 SDLC 闭环。项目使用 TypeScript 实现，已在 GitHub 获得超过 5 万星标，社区热度极高。其核心价值在于将 AI 从“随意生成代码”提升为“严格遵循规范的可控开发”，适用于需要高质量、可追溯、团队协作的软件工程场景，特别适合与 Copilot、Cursor 等 AI 编码工具结合，提升 AI 编程的准确性和工程化水平。",
+  "tags": [
+    "spec-driven-development",
+    "ai-coding",
+    "software-engineering",
+    "sdlc",
+    "context-engineering",
+    "project-planning",
+    "typescript"
+  ],
+  "score": 9,
+  "published_at": "2025-08-05T10:37:45Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:50:55.649714+00:00",
+  "status": "published"
+}

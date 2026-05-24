@@ -1,0 +1,20 @@
+{
+  "id": "github-20260524-007",
+  "title": "微软BitNet：1-bit大语言模型官方推理框架",
+  "source_url": "https://github.com/microsoft/BitNet",
+  "source_type": "github_trending",
+  "summary": "BitNet是微软推出的针对1-bit大语言模型（LLMs）的官方推理框架，核心创新在于将模型权重二值化为-1和+1，使模型大小和计算量锐减，同时保持出色的任务性能。该框架支持从训练到部署的全流程，显著降低硬件门槛，特别适用于移动设备、物联网等资源受限场景，为边缘端高效AI推理提供了新范式。GitHub星标近4万，社区活跃度极高。",
+  "tags": [
+    "1-bit-llms",
+    "inference-framework",
+    "model-quantization",
+    "efficient-ai",
+    "edge-deployment",
+    "microsoft"
+  ],
+  "score": 9,
+  "published_at": "2024-08-05T09:07:38Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:50:31.179483+00:00",
+  "status": "published"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "github-20260524-014",
+  "title": "Chatbox - 多模型AI客户端",
+  "source_url": "https://github.com/chatboxai/chatbox",
+  "source_type": "github_trending",
+  "summary": "Chatbox 是一款强大的多模型AI客户端，支持集成 OpenAI、Claude、Gemini、DeepSeek、Ollama 等主流 AI 服务，提供统一的对话界面。该项目使用 TypeScript 开发，拥有超过 4 万 GitHub 星标，社区活跃度高。用户可在一个应用中切换不同 AI 模型，适用于日常对话、编程助手、学习辅导等场景，无需单独管理多个平台账号，极大提升使用效率。",
+  "tags": [
+    "assistant",
+    "chatbot",
+    "chatgpt",
+    "claude",
+    "gemini",
+    "openai",
+    "ollama"
+  ],
+  "score": 9,
+  "published_at": "2023-03-06T12:22:15Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:51:06.825582+00:00",
+  "status": "published"
+}

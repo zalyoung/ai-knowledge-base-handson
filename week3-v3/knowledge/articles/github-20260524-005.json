@@ -1,0 +1,20 @@
+{
+  "id": "github-20260524-005",
+  "title": "LlamaIndex：领先的文档代理与 RAG 框架",
+  "source_url": "https://github.com/run-llama/llama_index",
+  "source_type": "github_trending",
+  "summary": "LlamaIndex 是一个开源的文档代理和 OCR 平台，专为构建检索增强生成（RAG）应用而设计。它提供了高效的数据索引、查询接口和灵活的插槽架构，能够连接多种数据源（如 PDF、网页、数据库）与向量数据库（如 Pinecone、Weaviate），并支持与 LLM（如 GPT-4、Llama）无缝集成。该框架简化了从数据提取、分块、嵌入到检索和生成的完整流程，支持多代理协同、微调优化等高级功能。凭借其高星标数和活跃社区，LlamaIndex 已成为构建企业级知识问答、文档分析、智能客服等系统的首选工具，尤其适用于需要结合私有数据与 LLM 的场景。",
+  "tags": [
+    "llm",
+    "rag",
+    "vector-database",
+    "data-indexing",
+    "agents",
+    "framework"
+  ],
+  "score": 9,
+  "published_at": "2022-11-02T04:24:54Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:50:24.554626+00:00",
+  "status": "published"
+}

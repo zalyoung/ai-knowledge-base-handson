@@ -1,0 +1,20 @@
+{
+  "id": "github-20260524-017",
+  "title": "Deep Research：基于AI的迭代式深度研究助手",
+  "source_url": "https://github.com/dzhng/deep-research",
+  "source_type": "github_trending",
+  "summary": "该项目提供了一个极简实现的AI深度研究代理，通过结合搜索引擎、网页爬取与大语言模型（LLM），能够自动迭代地深化对任何主题的研究。研究代理会根据已有信息动态调整研究方向，持续进行深度挖掘，最终输出结构化的研究结果。其技术亮点在于以最简洁的代码实现了复杂的深度研究流程，降低了AI研究工具的使用门槛。适用于学术文献综述、市场趋势分析、竞品调研、技术调研等需要从海量信息中提取关键洞见的场景。项目采用TypeScript编写，社区活跃度高（近1.9万星标），体现了其实用价值与广泛认可。",
+  "tags": [
+    "agent",
+    "ai",
+    "research",
+    "web-scraping",
+    "llm",
+    "typescript"
+  ],
+  "score": 8,
+  "published_at": "2025-02-04T01:27:56Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:51:28.422133+00:00",
+  "status": "published"
+}

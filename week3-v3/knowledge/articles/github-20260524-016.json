@@ -1,0 +1,22 @@
+{
+  "id": "github-20260524-016",
+  "title": "AionUi：免费的本地开源24/7协同AI助手平台",
+  "source_url": "https://github.com/iOfficeAI/AionUi",
+  "source_type": "github_trending",
+  "summary": "AionUi是一个开源的本地化协同工作应用，支持24/7不间断运行。它集成了OpenClaw、Hermes Agent、Claude Code、Codex、OpenCode、Gemini CLI等20多种命令行AI代理，提供统一的Web界面，方便用户管理和切换。用户可以自定义AI助手的行为和技能，实现与多个AI CLI工具的协同工作。该项目基于TypeScript开发，在GitHub上拥有超过26k星标，社区活跃，更新频繁。适用于开发团队利用AI代理进行自动化协作、代码审查、任务调度等场景，强调隐私保护（本地运行）和完全免费的使用体验。",
+  "tags": [
+    "ai",
+    "open-source",
+    "cowork",
+    "cli",
+    "agent",
+    "chatbot",
+    "llm",
+    "typescript"
+  ],
+  "score": 8,
+  "published_at": "2025-08-07T10:29:51Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:51:22.754456+00:00",
+  "status": "published"
+}

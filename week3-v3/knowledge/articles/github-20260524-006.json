@@ -1,0 +1,22 @@
+{
+  "id": "github-20260524-006",
+  "title": "Quivr：灵活可定制的RAG框架，轻松将GenAI集成到应用中",
+  "source_url": "https://github.com/QuivrHQ/quivr",
+  "source_type": "github_trending",
+  "summary": "Quivr 是一款开源的、观点鲜明的 RAG（检索增强生成）框架，旨在帮助开发者快速将生成式 AI 集成到现有产品中，而无需关注底层 RAG 实现的复杂性。它支持多种大型语言模型（如 GPT-4、Groq、Llama）、多种向量存储（如 PGVector、Faiss），并能处理任意文件格式。Quivr 提供高度自定义的集成能力，包括前端（React）、后端（Python）和数据库（PostgreSQL）支持，并强调隐私与安全。该项目在 GitHub 上拥有近 4 万星标，社区活跃，是构建聊天机器人、知识库问答等 AI 应用的理想工具。",
+  "tags": [
+    "rag",
+    "genai",
+    "llm",
+    "vector-database",
+    "chatbot",
+    "python",
+    "react",
+    "docker"
+  ],
+  "score": 9,
+  "published_at": "2023-05-12T23:53:30Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:50:27.592164+00:00",
+  "status": "published"
+}

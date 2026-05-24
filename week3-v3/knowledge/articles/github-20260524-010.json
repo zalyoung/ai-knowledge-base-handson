@@ -1,0 +1,22 @@
+{
+  "id": "github-20260524-010",
+  "title": "OpenClaw: 跨平台个人AI助手，数据自主掌控",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "source_type": "github_trending",
+  "summary": "OpenClaw 是一个基于 TypeScript 开发的开源个人 AI 助手，愿景是让用户在任何操作系统和平台上拥有专属的智能助手，并完全掌控自己的数据。项目遵循“龙虾之道”，强调数据隐私与用户主权，避免依赖第三方云服务。适合注重隐私的开发者、技术爱好者及希望在本地或自有服务器上运行个性化 AI 助手的场景。其高星标数表明社区关注度极高，但具体功能细节需进一步探索。",
+  "tags": [
+    "ai",
+    "assistant",
+    "typescript",
+    "open-source",
+    "privacy",
+    "cross-platform",
+    "data-ownership",
+    "personal-assistant"
+  ],
+  "score": 8,
+  "published_at": "2025-11-24T10:16:47Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:50:47.969455+00:00",
+  "status": "published"
+}
