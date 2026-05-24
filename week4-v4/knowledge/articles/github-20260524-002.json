@@ -1,0 +1,22 @@
+{
+  "id": "github-20260524-002",
+  "title": "Hugging Face Transformers：统一的多模态预训练模型框架",
+  "source_url": "https://github.com/huggingface/transformers",
+  "source_type": "github_trending",
+  "summary": "Hugging Face Transformers 是一个开源的深度学习框架，提供统一的 API 用于加载、微调和推理最先进的预训练模型，覆盖自然语言处理（NLP）、计算机视觉（CV）、音频处理和 multimodal 多模态任务。它集成了数千个预训练模型（如 BERT、GPT、LLaMA、DeepSeek、Qwen 等），支持 PyTorch、TensorFlow 和 JAX 后端，并实现了高效的推理加速（如 Flash Attention、量化）。项目拥有 16 万+ GitHub 星标和极其活跃的社区，广泛应用于文本分类、翻译、图像识别、语音识别、多模态对话等场景。其易用性和模型 Hub 生态使其成为学术研究和工业部署的首选工具。",
+  "tags": [
+    "transformers",
+    "deep-learning",
+    "natural-language-processing",
+    "pytorch",
+    "machine-learning",
+    "multimodal",
+    "pretrained-models",
+    "llm"
+  ],
+  "score": 10,
+  "published_at": "2018-10-29T13:56:00Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:50:05.951537+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260505-018",
+  "title": "Know Thyself: 面向个人记忆的大语言模型模式",
+  "source_url": "https://github.com/parrik/know-thyself",
+  "source_type": "hackernews",
+  "summary": "该项目提出了一种用于组织和管理个人记忆的LLM模式（schema），旨在让大语言模型更有效地存储、检索和关联用户的个性化信息。通过结构化记忆数据，它支持高效的知识抽取与上下文增强，适用于构建长期记忆的AI助手、个性化推荐系统或认知增强工具。该方案可能结合知识图谱、向量数据库等技术，强调隐私与可控性。当前社区活跃度较低，但概念具有实用价值。",
+  "tags": [
+    "llm",
+    "memory",
+    "schema",
+    "personal-memory",
+    "knowledge-graph",
+    "rag"
+  ],
+  "score": 6,
+  "published_at": "Mon, 04 May 2026 00:09:33 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836808+00:00",
+  "analyzed_at": "2026-05-05T13:37:40.860049+00:00",
+  "status": "published"
+}

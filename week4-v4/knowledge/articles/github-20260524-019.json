@@ -1,0 +1,21 @@
+{
+  "id": "github-20260524-019",
+  "title": "Chrome MCP服务器：让AI助手操控浏览器的开源工具",
+  "source_url": "https://github.com/hangwin/mcp-chrome",
+  "source_type": "github_trending",
+  "summary": "该项目是一个基于Chrome扩展的模型上下文协议（MCP）服务器，能够将Chrome浏览器的功能暴露给AI助手（如Claude），使其可以执行复杂的浏览器自动化（如点击、导航）、内容分析以及语义搜索任务。它利用MCP标准协议作为AI与浏览器之间的桥梁，开发者无需编写复杂的脚本即可实现智能网页操作。适用场景包括自动化数据采集、智能测试、辅助信息检索等。项目使用TypeScript开发，在GitHub上获得超过11,700颗星，社区关注度极高。技术亮点在于将MCP协议从LLM领域扩展到浏览器控制，具有较好的可扩展性和实用性。",
+  "tags": [
+    "chrome-extension",
+    "mcp-server",
+    "browser-automation",
+    "ai-assistant",
+    "semantic-search",
+    "typescript",
+    "claude"
+  ],
+  "score": 8,
+  "published_at": "2025-06-09T09:07:06Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:51:37.086714+00:00",
+  "status": "published"
+}

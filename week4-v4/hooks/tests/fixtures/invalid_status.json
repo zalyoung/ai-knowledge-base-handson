@@ -1,0 +1,8 @@
+{
+  "id": "github-20260505-001",
+  "title": "Status 值无效",
+  "source_url": "https://github.com/test/invalid-status",
+  "summary": "此条目的 status 字段值为 pending，不在允许的枚举列表中，应被校验拦截。",
+  "tags": ["invalid-status"],
+  "status": "pending"
+}

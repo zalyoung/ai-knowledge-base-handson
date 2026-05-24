@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260505-012",
+  "title": "Aurra：面向AI代理的双时态记忆系统（支持LLM自动替代）",
+  "source_url": "https://www.aurra.us/blog/level-2-auto-supersede-beta",
+  "source_type": "hackernews",
+  "summary": "Aurra 是一种专为 AI 代理设计的双时态记忆系统，利用 LLM 实现自动数据替代（auto-supersede）功能。双时态记忆同时跟踪有效时间（事件实际发生时间）和事务时间（记录写入时间），使 AI 代理能够处理时间不一致、重复或过时的信息。通过 LLM 的自动替代机制，系统可持续维护一致的记忆状态，适用于需要长期上下文管理的代理应用，如个人助理、会话式 AI 和决策支持系统。该方案提升了记忆的准确性与可追溯性，为构建可靠、自适应的智能代理提供了基础。",
+  "tags": [
+    "bi-temporal",
+    "memory",
+    "ai-agents",
+    "LLM",
+    "auto-supersede"
+  ],
+  "score": 7,
+  "published_at": "Mon, 04 May 2026 12:53:49 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836694+00:00",
+  "analyzed_at": "2026-05-05T13:37:00.732382+00:00",
+  "status": "published"
+}

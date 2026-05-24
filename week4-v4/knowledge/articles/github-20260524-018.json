@@ -1,0 +1,22 @@
+{
+  "id": "github-20260524-018",
+  "title": "开源个人助手 Leon：支持离线、隐私保护的 AI 虚拟助手",
+  "source_url": "https://github.com/leon-ai/leon",
+  "source_type": "github_trending",
+  "summary": "Leon 是一个开源的个人助手（AI assistant），基于 TypeScript 开发，拥有 17000+ 星标。它强调在本地运行，保护用户隐私，支持语音识别（speech-to-text）和语音合成（text-to-speech），可离线工作。用户可以通过自然语言与 Leon 交互，实现任务自动化、信息查询、日程管理等。该项目模块化设计，易于扩展技能（skills），支持 Python 和 Node.js 的模块，适合开发者定制个人 AI 助手。适用于隐私敏感场景、离线环境或需要高度自定义的自动化助手。",
+  "tags": [
+    "ai",
+    "assistant",
+    "voice-assistant",
+    "open-source",
+    "privacy",
+    "automation",
+    "speech-recognition",
+    "nodejs"
+  ],
+  "score": 8,
+  "published_at": "2019-02-10T12:25:12Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:51:32.001954+00:00",
+  "status": "published"
+}

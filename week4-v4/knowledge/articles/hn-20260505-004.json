@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260505-004",
+  "title": "一个允许LLM在运行时重写其DAG的微型C程序",
+  "source_url": "https://github.com/kouhxp/liteflow",
+  "source_type": "hackernews",
+  "summary": "本项目展示了一个使用C语言编写的轻量级程序，核心特点是能够在运行时让大语言模型（LLM）动态地重写其内部的有向无环图（DAG）。这种设计使得工作流或数据处理管线可以根据LLM的实时推理结果进行自适应调整，无需重新编译或重启程序。该实现非常小巧，适合嵌入到资源受限的环境或作为研究原型，探索LLM驱动的动态图重构能力。适用于需要灵活适应性的AI工作流、实时决策系统或自动化实验框架。",
+  "tags": [
+    "c",
+    "llm",
+    "dag",
+    "runtime",
+    "rewiring",
+    "workflow",
+    "lightweight"
+  ],
+  "score": 7,
+  "published_at": "Tue, 05 May 2026 01:43:05 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836482+00:00",
+  "analyzed_at": "2026-05-05T13:35:54.592267+00:00",
+  "status": "published"
+}

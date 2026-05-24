@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260505-003",
+  "title": "SubQ：1200万 token 上下文的次二次复杂度大语言模型",
+  "source_url": "https://subq.ai/introducing-subq",
+  "source_type": "hackernews",
+  "summary": "SubQ 是一种采用次二次复杂度架构的大语言模型，支持长达 1200 万 token 的上下文窗口。该模型通过创新的注意力机制显著降低了传统 Transformer 的算力开销，使得处理超长序列在计算和内存上都更加高效。适用于需要海量上下文信息的场景，如长文档理解、多轮对话、代码库分析等。该发布在 Hacker News 上引起了社区关注，讨论其潜在应用和性能优势。",
+  "tags": [
+    "subquadratic",
+    "llm",
+    "longcontext",
+    "efficiency",
+    "12mtoken",
+    "attention",
+    "transformer"
+  ],
+  "score": 8,
+  "published_at": "Tue, 05 May 2026 14:37:12 +0000",
+  "fetched_at": "2026-05-05T15:30:43.975786+00:00",
+  "analyzed_at": "2026-05-05T15:31:24.119102+00:00",
+  "status": "published"
+}

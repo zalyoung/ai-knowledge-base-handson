@@ -1,0 +1,22 @@
+{
+  "id": "github-20260524-009",
+  "title": "LangGraph：构建弹性AI代理的图计算框架",
+  "source_url": "https://github.com/langchain-ai/langgraph",
+  "source_type": "github_trending",
+  "summary": "LangGraph 是 LangChain 团队推出的开源框架，专为构建有状态、多步骤的弹性 AI 代理而设计。它采用图计算模型（节点和边）来编排 LLM 调用、工具使用、记忆和条件分支，支持循环、并行和动态控制流，解决了传统链式结构在复杂代理场景下的局限性。该框架与 LangChain 生态无缝集成，提供内置的可观测性、人工干预和错误恢复机制，特别适合构建企业级 RAG 系统、多代理协作、对话式工作流等应用。基于 Python 实现，社区活跃（32K+ Star），已被广泛应用于生产环境。",
+  "tags": [
+    "langraph",
+    "langchain",
+    "ai-agents",
+    "graph-framework",
+    "multi-agent",
+    "llm",
+    "python",
+    "resilient-agents"
+  ],
+  "score": 9,
+  "published_at": "2023-08-09T18:33:12Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:50:42.133352+00:00",
+  "status": "published"
+}

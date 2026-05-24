@@ -1,0 +1,22 @@
+{
+  "id": "github-20260524-011",
+  "title": "NextChat：轻量级跨平台AI助手应用",
+  "source_url": "https://github.com/ChatGPTNextWeb/NextChat",
+  "source_type": "github_trending",
+  "summary": "NextChat（原ChatGPT Next Web）是一个基于TypeScript构建的开源AI助手应用，支持Web、桌面（Windows/macOS/Linux）及移动端（iOS/Android）。它集成多种前沿AI模型（如ChatGPT、Claude、Gemini、Groq等），并通过Next.js + React实现前端界面，使用Tauri封装桌面应用，可一键部署到Vercel。项目在GitHub上获得8.8万+星标，社区活跃，适合个人或团队快速搭建私有或定制化的AI对话服务。",
+  "tags": [
+    "chatgpt",
+    "claude",
+    "gemini",
+    "nextjs",
+    "react",
+    "tauri",
+    "cross-platform",
+    "webui"
+  ],
+  "score": 9,
+  "published_at": "2023-03-10T18:27:54Z",
+  "fetched_at": "2026-05-24T06:49:05.009292+00:00",
+  "analyzed_at": "2026-05-24T06:50:51.864083+00:00",
+  "status": "published"
+}

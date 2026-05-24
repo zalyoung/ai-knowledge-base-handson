@@ -1,0 +1,20 @@
+{
+  "id": "github-20260505-001",
+  "title": "Karpathy 的自动研究项目：单GPU nanochat训练的AI代理",
+  "source_url": "https://github.com/karpathy/autoresearch",
+  "source_type": "github_trending",
+  "summary": "该项目由Andrej Karpathy创建，利用AI代理自动执行单GPU上nanochat模型的训练研究。nanochat是一个极简的聊天模型训练框架，该项目通过智能代理自动化实验流程，包括超参数搜索、训练监控和结果分析，显著降低了手动调参和重复实验的成本。适用于资源受限的研究场景，帮助研究人员快速探索模型配置。项目基于Python，代码简洁，社区活跃（7.9万星标），体现了AI自动化研究与LLM训练的融合趋势。",
+  "tags": [
+    "ai-agents",
+    "automated-ml",
+    "nanochat",
+    "research-automation",
+    "pytorch",
+    "python"
+  ],
+  "score": 9,
+  "published_at": "2026-03-06T22:00:43Z",
+  "fetched_at": "2026-05-05T13:32:42.464158+00:00",
+  "analyzed_at": "2026-05-05T13:33:31.892899+00:00",
+  "status": "published"
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "github-20260505-001",
+    "title": "第一个条目",
+    "source_url": "https://github.com/test/repo1",
+    "summary": "这是数组中的第一个有效条目，包含足够长度的摘要文本用于通过校验。",
+    "tags": ["tag1"],
+    "status": "published"
+  },
+  {
+    "id": "github-20260505-002",
+    "title": "第二个条目",
+    "source_url": "https://github.com/test/repo2",
+    "summary": "这是数组中的第二个有效条目，包含足够长度的摘要文本用于通过校验。",
+    "tags": ["tag2", "tag3"],
+    "status": "archived"
+  }
+]

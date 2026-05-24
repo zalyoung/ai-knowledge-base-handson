@@ -1,0 +1,19 @@
+{
+  "id": "github-20260505-013",
+  "title": "Agno：将AI Agent作为生产级软件运行的开源框架",
+  "source_url": "https://github.com/agno-agi/agno",
+  "source_type": "github_trending",
+  "summary": "Agno 是一个基于 Python 的开源框架，专注于让 AI Agent 能够像生产软件一样可靠地运行和扩展。它提供了构建、部署和监控智能体所需的完整基础设施，包括多模型支持（如 OpenAI、Anthropic、本地模型）、工具调用、记忆管理、并行执行和可观测性集成。与传统的 Agent 原型工具不同，Agno 强调生产环境下的稳定性与可维护性，适用于自动化工作流、智能客服、代码生成、数据分析等场景。其 API 设计简洁，支持快速原型验证和渐进式部署。目前该项目在 GitHub 上获得近 4 万星标，社区活跃度高，是构建可投入生产的 AI 智能体的热门选择。",
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "developer-tools",
+    "python"
+  ],
+  "score": 9,
+  "published_at": "2022-05-04T15:23:02Z",
+  "fetched_at": "2026-05-05T13:32:42.464233+00:00",
+  "analyzed_at": "2026-05-05T13:35:08.464275+00:00",
+  "status": "published"
+}

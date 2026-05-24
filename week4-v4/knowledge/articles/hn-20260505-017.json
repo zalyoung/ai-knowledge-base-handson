@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260505-017",
+  "title": "分布式大语言模型推理在开放互联网上的工程约束",
+  "source_url": "https://siliconandsoul.substack.com/p/the-engineering-constraints-of-distributed",
+  "source_type": "hackernews",
+  "summary": "本文深入探讨了在开放互联网环境中部署分布式大语言模型（LLM）推理所面临的工程约束，包括网络延迟与带宽瓶颈、异构硬件兼容性、节点可靠性、通信协议选择以及安全性问题。文章剖析了现有方案（如模型分片、流水线并行和集合通信）在互联网场景下的局限性，并指出了未来研究方向。适用于需要理解去中心化推理系统设计边界的研究者与工程师。",
+  "tags": [
+    "distributed-inference",
+    "llm",
+    "engineering-constraints",
+    "network-latency",
+    "heterogeneous-computing",
+    "decentralized-inference"
+  ],
+  "score": 7,
+  "published_at": "Mon, 04 May 2026 04:15:24 +0000",
+  "fetched_at": "2026-05-05T13:32:42.836791+00:00",
+  "analyzed_at": "2026-05-05T13:37:33.687240+00:00",
+  "status": "published"
+}
