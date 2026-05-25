@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260525-003",
+  "title": "Pi-Mojo：基于 Mojo 语言的 Pi AI 智能体工具包移植版本",
+  "source_url": "https://github.com/atveit/pi-mojo/tree/main",
+  "source_type": "hackernews",
+  "summary": "Pi-Mojo 是对 Pi AI Agent Toolkit 的 Mojo 语言移植版本。Mojo 是一种结合了 Python 易用性与 C 语言性能的新兴编程语言，尤其适合高性能计算与 AI 领域。该项目将原有的 AI 智能体工具包迁移至 Mojo 生态，期望利用 Mojo 带来的运行效率提升和底层硬件控制能力，为开发者提供在 AI Agent 开发中的高性能选项。目前项目处于早期阶段，HackerNews 上关注度较低（1 分、0 评论），GitHub 星标数尚未公开，适合对 Mojo 语言感兴趣并希望探索 AI Agent 高性能实现的技术爱好者。",
+  "tags": [
+    "mojo",
+    "ai-agent",
+    "pi-ai",
+    "port",
+    "toolkit",
+    "machine-learning",
+    "high-performance"
+  ],
+  "score": 5,
+  "published_at": "Sun, 24 May 2026 11:59:49 +0000",
+  "fetched_at": "2026-05-25T11:51:52.841649+00:00",
+  "analyzed_at": "2026-05-25T11:53:56.786692+00:00",
+  "status": "published"
+}

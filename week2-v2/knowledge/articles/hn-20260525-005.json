@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260525-005",
+  "title": "基于LLM的6502仿真器：每秒1条指令的Markdown实现",
+  "source_url": "https://dunkels.com/adam/llm-6502-emulator/",
+  "source_type": "hackernews",
+  "summary": "该项目通过在大语言模型(LLM)中运行用Markdown编写的6502仿真器，实现了极低速度（每秒约1条指令）的指令执行。它探索了LLM执行代码的可能性，尽管效率极低，但展示了LLM的可扩展性和程序执行能力。该实验性项目主要用于技术概念验证和学术研究，突出了LLM作为非常规执行环境的新颖应用。",
+  "tags": [
+    "6502",
+    "emulator",
+    "llm",
+    "markdown",
+    "experimental",
+    "interpreter"
+  ],
+  "score": 6,
+  "published_at": "Mon, 25 May 2026 11:14:54 +0000",
+  "fetched_at": "2026-05-25T11:51:52.858455+00:00",
+  "analyzed_at": "2026-05-25T11:55:11.517263+00:00",
+  "status": "published"
+}

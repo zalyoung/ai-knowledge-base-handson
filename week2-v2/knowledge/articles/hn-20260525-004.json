@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260525-004",
+  "title": "Autotrader：面向印度股市的AI纸交易代理",
+  "source_url": "https://github.com/analyticalmonk/autotrader",
+  "source_type": "hackernews",
+  "summary": "Autotrader 是一个开源的 AI 代理，专门为印度股票市场提供纸交易（模拟交易）功能。用户无需投入真实资金，即可利用 AI 策略执行虚拟交易，测试投资想法或算法。该项目适用于希望在没有财务风险的环境下学习印度股市动态、验证交易策略的个人投资者或开发者。尽管目前社区活跃度较低，但其针对特定市场的 AI 模拟交易工具仍具有一定的实用价值，尤其适合印度本土的量化交易爱好者。",
+  "tags": [
+    "ai",
+    "agent",
+    "paper-trading",
+    "indian-equities",
+    "trading",
+    "simulation",
+    "stock-market"
+  ],
+  "score": 5,
+  "published_at": "Sun, 24 May 2026 11:55:38 +0000",
+  "fetched_at": "2026-05-25T11:51:52.841667+00:00",
+  "analyzed_at": "2026-05-25T11:54:02.188977+00:00",
+  "status": "published"
+}

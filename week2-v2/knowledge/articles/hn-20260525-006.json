@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260525-006",
+  "title": "768GB Intel Optane内存驱动单GPU运行1万亿参数大模型",
+  "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second",
+  "source_type": "hackernews",
+  "summary": "一位技术爱好者使用768GB的Intel Optane DIMM内存条，在单GPU上成功运行了1万亿参数的大语言模型（Kimi K2-5），推理速度约为4 tokens/s。该方法通过将模型参数存储在廉价的大容量内存中，而非昂贵的GPU显存，实现了超大规模模型的本地推理。尽管速度极慢，但展示了一种突破显存限制、降低门槛的思路，适合对模型参数完整性和隐私有要求但能容忍极低推理速度的场景。",
+  "tags": [
+    "large-language-models",
+    "intel-optane",
+    "memory",
+    "local-inference",
+    "diy-ai"
+  ],
+  "score": 6,
+  "published_at": "Mon, 25 May 2026 08:59:26 +0000",
+  "fetched_at": "2026-05-25T11:51:52.858504+00:00",
+  "analyzed_at": "2026-05-25T11:55:15.512655+00:00",
+  "status": "published"
+}

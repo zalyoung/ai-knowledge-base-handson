@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260525-002",
+  "title": "TalkTimer：由AI代理团队打造的舞台计时微SaaS应用",
+  "source_url": "https://talktimer.co",
+  "source_type": "hackernews",
+  "summary": "TalkTimer 是一款面向现场活动（如演讲、演示、黑客马拉松）的舞台计时器应用，其核心创新在于由AI代理团队全流程开发和运营。内置AI主持的观众问答环节以及AI辅助的日程动态调整功能，能有效提升活动效率与互动性。目前产品完全免费，旨在通过低运营成本维持长期免费使用，适合中小型活动组织者快速上手。",
+  "tags": [
+    "talktimer",
+    "ai-agent",
+    "saas",
+    "stage-timer",
+    "live-events",
+    "qa",
+    "scheduling"
+  ],
+  "score": 8,
+  "published_at": "Sun, 24 May 2026 18:49:35 +0000",
+  "fetched_at": "2026-05-25T11:51:52.841608+00:00",
+  "analyzed_at": "2026-05-25T11:53:45.793285+00:00",
+  "status": "published"
+}
