@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260527-007",
+  "title": "Stack-nudge：不再需要像保姆一样盯着AI代理的终端",
+  "source_url": "https://github.com/StackOneHQ/stack-nudge",
+  "source_type": "hackernews",
+  "summary": "Stack-nudge 是一个开源工具，旨在解决AI代理终端运行过程中需要人工持续监控的问题。它通过自动化终端状态检测、错误恢复和日志管理，让AI代理能够更独立地执行长期任务，减少人工干预。适用于需要稳定运行AI工作流、自动化运维或无人值守的场景，能有效提升效率并降低维护成本。",
+  "tags": [
+    "ai",
+    "agent",
+    "terminal",
+    "automation",
+    "monitoring",
+    "devops"
+  ],
+  "score": 6,
+  "published_at": "Tue, 26 May 2026 14:17:16 +0000",
+  "fetched_at": "2026-05-27T11:36:21.668262+00:00",
+  "analyzed_at": "2026-05-27T11:39:03.087743+00:00",
+  "status": "published"
+}

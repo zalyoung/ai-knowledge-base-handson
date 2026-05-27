@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260527-004",
+  "title": "为何你的AI代理效果更好：个性化与提示工程的差异",
+  "source_url": "https://vexjoy.com/posts/why-your-ai-agent-works-better-for-you/",
+  "source_type": "hackernews",
+  "summary": "本文探讨了同一AI代理在不同用户手中表现迥异的原因，核心在于提示工程、个性化设置、历史对话上下文以及模型微调的差异。用户对代理的指令风格、目标描述和反馈方式直接影响输出质量。文章还分析了适用场景，如客服助手、代码辅助或个性化学习工具，并强调开发者需设计更鲁棒的初始化和用户适配机制。对于AI应用开发者而言，理解这些差异有助于优化用户体验，缩小不同用户之间的性能鸿沟。",
+  "tags": [
+    "ai-agents",
+    "personalization",
+    "prompt-engineering",
+    "user-experience",
+    "llm",
+    "fine-tuning"
+  ],
+  "score": 7,
+  "published_at": "Wed, 27 May 2026 03:44:49 +0000",
+  "fetched_at": "2026-05-27T11:36:21.668185+00:00",
+  "analyzed_at": "2026-05-27T11:38:45.982985+00:00",
+  "status": "published"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260527-005",
+  "title": "AI Agent问责制的五大支柱：面向工程领导者的诊断框架",
+  "source_url": "https://www.tigera.io/blog/the-five-pillars-of-ai-agent-accountability-a-diagnostic-framework-for-engineering-leaders/",
+  "source_type": "hackernews",
+  "summary": "该文章提出了一个针对AI Agent系统的问责制诊断框架，包含五大支柱：透明性、可追溯性、可审计性、责任明确性和控制机制。该框架旨在帮助工程领导者和团队评估和提升AI Agent在复杂应用场景中的负责任行为，适用于需要部署自主决策系统的企业环境，尤其是涉及安全、合规和风险管理的领域。文章提供了实用的诊断问题和操作建议。",
+  "tags": [
+    "ai-agents",
+    "accountability",
+    "framework",
+    "engineering-leadership",
+    "governance",
+    "transparency",
+    "auditability"
+  ],
+  "score": 6,
+  "published_at": "Tue, 26 May 2026 21:41:58 +0000",
+  "fetched_at": "2026-05-27T11:36:21.668208+00:00",
+  "analyzed_at": "2026-05-27T11:38:50.203849+00:00",
+  "status": "published"
+}

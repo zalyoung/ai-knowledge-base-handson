@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260527-003",
+  "title": "AI Agent Harness：将LLM转变为数字工人的粘合剂",
+  "source_url": "https://thingswithai.org/posts/ai-agent-harness",
+  "source_type": "hackernews",
+  "summary": "本文介绍了一种名为AI Agent Harness的框架，旨在作为将大型语言模型（LLMs）转变为高效数字工人的关键粘合剂。该框架通过提供模块化工具和标准接口，简化了LLM与外部系统、API和工具的集成，从而实现自动化任务执行、工作流编排和复杂决策。技术亮点在于其轻量级设计和可扩展架构，适用于智能助手、自动化办公、代码生成与执行等场景。尽管社区活跃度较低（Hacker News上仅2个积分且无评论），但该概念在AI代理领域具有创新性，展示了LLM从被动问答向主动数字劳动力转变的潜力。",
+  "tags": [
+    "ai-agents",
+    "llm",
+    "automation",
+    "framework",
+    "tools"
+  ],
+  "score": 7,
+  "published_at": "Wed, 27 May 2026 04:40:39 +0000",
+  "fetched_at": "2026-05-27T11:36:21.668161+00:00",
+  "analyzed_at": "2026-05-27T11:38:38.402222+00:00",
+  "status": "published"
+}

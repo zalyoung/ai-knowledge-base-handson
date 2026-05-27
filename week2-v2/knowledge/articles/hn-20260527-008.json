@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260527-008",
+  "title": "Block 开源 AI 代理 Goose，已覆盖公司 60% 员工",
+  "source_url": "https://vantageacademy.io/post/block-goose-recipe-runner",
+  "source_type": "hackernews",
+  "summary": "Block（前身为 Square）宣布开源其内部研发的 AI 代理 Goose，该代理已在公司内部被 60% 的员工采用。Goose 被设计为一个自动化任务执行引擎，能够根据预定义的“配方”运行工作流，涵盖代码生成、测试、部署等开发流程，并支持自然语言指令。其开源版本允许开发者将 Goose 集成到自己的项目中，实现类似的高效自动化和人机协作。该工具尤其适合需要统一开发流水线、降低重复劳动的中大型团队，具有极高的实用性和扩展潜力。",
+  "tags": [
+    "open-source",
+    "ai-agent",
+    "automation",
+    "block-inc",
+    "goose",
+    "recipe-runner",
+    "developer-tools"
+  ],
+  "score": 8,
+  "published_at": "Tue, 26 May 2026 12:51:48 +0000",
+  "fetched_at": "2026-05-27T11:36:21.668287+00:00",
+  "analyzed_at": "2026-05-27T11:39:10.313347+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260527-002",
+  "title": "YouTube MCP：让 AI 代理搜索 YouTube 视频用于研究",
+  "source_url": "https://github.com/ZeroPointRepo/youtube-mcp",
+  "source_type": "hackernews",
+  "summary": "YouTube MCP 是一个基于 Model Context Protocol (MCP) 的工具，允许 AI 代理直接搜索 YouTube 视频，将这一丰富的多媒体数据源整合到深度研究流程中。通过简单的 MCP 配置，代理可获取与主题相关的最新视频，适用于需要实时视频信息辅助的研究、报告生成和知识检索场景。该项目代码开源在 GitHub，目前处于早期阶段，社区参与度较低。",
+  "tags": [
+    "youtube",
+    "mcp",
+    "ai-agent",
+    "search",
+    "research"
+  ],
+  "score": 6,
+  "published_at": "Wed, 27 May 2026 07:57:11 +0000",
+  "fetched_at": "2026-05-27T11:36:21.668139+00:00",
+  "analyzed_at": "2026-05-27T11:38:32.923622+00:00",
+  "status": "published"
+}

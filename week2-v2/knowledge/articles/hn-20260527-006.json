@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260527-006",
+  "title": "FlowLink: AI代理的MCP代理防护，防止破坏性命令执行",
+  "source_url": "https://news.ycombinator.com/item?id=48283348",
+  "source_type": "hackernews",
+  "summary": "FlowLink 是一个开源的 MCP 代理，部署在 AI 代理（如 Claude Code、Cursor、Copilot）与后端工具之间，无需修改代码即可实时拦截 rm -rf、DROP TABLE、git push --force 等 100 多种破坏性命令。它提供 Shield 引擎（模式匹配拦截）、Policy 引擎（基于代理和工具的自定义规则）、零信任令牌（限定范围与时长的临时凭证）、Telegram 审批队列（高风险操作人工介入）以及完整的审计追踪。技术栈基于 Rust、MCP 协议原生、端到端加密（E2EE）并支持自托管。适用于生产环境、CI/CD 管道、数据库管理等场景，为 AI 代理行为添加关键安全护栏，尤其适合已有 MCP 生态的团队。",
+  "tags": [
+    "ai-safety",
+    "mcp-proxy",
+    "rust",
+    "cybersecurity",
+    "devops",
+    "tool-guardrails",
+    "zero-trust"
+  ],
+  "score": 8,
+  "published_at": "Tue, 26 May 2026 18:01:25 +0000",
+  "fetched_at": "2026-05-27T11:36:21.668243+00:00",
+  "analyzed_at": "2026-05-27T11:38:56.692311+00:00",
+  "status": "published"
+}

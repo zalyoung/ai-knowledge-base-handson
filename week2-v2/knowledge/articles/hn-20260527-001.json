@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260527-001",
+  "title": "AI代理控制的隔离Linux桌面环境",
+  "source_url": "https://github.com/agent-sh/agent-workspace-linux",
+  "source_type": "hackernews",
+  "summary": "该项目提供了一个由AI代理控制的隔离Linux桌面环境，旨在让AI安全地执行桌面自动化操作。通过创建沙箱化的Linux桌面，AI代理可以在其中自由操作文件、运行程序、浏览网页，而不会影响宿主机系统。适用于AI自动化测试、安全研究、以及需要隔离环境执行不可信AI任务的场景。技术亮点包括基于容器的隔离机制、与AI代理的API接口集成、以及对图形化交互的支持。项目刚刚发布，社区活跃度较低，但概念新颖，具有潜在的应用价值。",
+  "tags": [
+    "ai-agent",
+    "linux",
+    "desktop-isolation",
+    "sandbox",
+    "automation",
+    "security"
+  ],
+  "score": 7,
+  "published_at": "Wed, 27 May 2026 08:18:34 +0000",
+  "fetched_at": "2026-05-27T11:36:21.668107+00:00",
+  "analyzed_at": "2026-05-27T11:38:27.233560+00:00",
+  "status": "published"
+}

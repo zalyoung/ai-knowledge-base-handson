@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260527-011",
+  "title": "AI代理Token成本计算器：适用于Codex和Claude Code循环",
+  "source_url": "https://tinyopsstudio.com/ai-agent-token-cost-calculator",
+  "source_type": "hackernews",
+  "summary": "这是一个为AI编码助手（如OpenAI Codex和Anthropic Claude Code）设计的Token成本计算器，专门用于估算AI代理在循环推理过程中的Token消耗和费用。用户可以通过输入模型参数、循环次数、输入/输出Token量等变量，实时计算生成代码或执行任务时的预估成本。该工具可以帮助开发者在开发AI代理应用时更好地控制成本，优化调用策略，避免因Token超支导致意外费用。适用于使用AI编程辅助的开发者、团队以及构建AI代理产品的初创公司。目前项目在HackerNews上刚发布，社区反馈较少，但工具本身具有不错的实用价值。",
+  "tags": [
+    "cost-calculator",
+    "ai-agent",
+    "tokens",
+    "codex",
+    "claude-code",
+    "pricing"
+  ],
+  "score": 6,
+  "published_at": "Tue, 26 May 2026 07:34:28 +0000",
+  "fetched_at": "2026-05-27T11:36:21.668357+00:00",
+  "analyzed_at": "2026-05-27T11:39:34.425098+00:00",
+  "status": "published"
+}

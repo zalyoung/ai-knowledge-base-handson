@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260527-010",
+  "title": "微软AI Agent治理工具包",
+  "source_url": "https://github.com/microsoft/agent-governance-toolkit",
+  "source_type": "hackernews",
+  "summary": "这是一个由微软开源的AI Agent治理工具包，旨在为AI代理系统提供安全、合规和监控能力。该工具包可能包含策略管理、审计日志、访问控制等功能，适用于企业级AI部署和多智能体场景，帮助开发者确保AI Agent的行为符合组织规范和法律法规。虽然社区星标数未知，但微软出品保证了其实用性和可靠性。",
+  "tags": [
+    "agent",
+    "governance",
+    "toolkit",
+    "microsoft",
+    "ai",
+    "security",
+    "compliance",
+    "monitoring"
+  ],
+  "score": 7,
+  "published_at": "Tue, 26 May 2026 11:37:57 +0000",
+  "fetched_at": "2026-05-27T11:36:21.668323+00:00",
+  "analyzed_at": "2026-05-27T11:39:20.797013+00:00",
+  "status": "published"
+}

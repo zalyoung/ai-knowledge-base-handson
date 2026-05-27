@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260527-009",
+  "title": "上线前估算AI代理成本的工具",
+  "source_url": "https://airunrate.com/",
+  "source_type": "hackernews",
+  "summary": "该工具（airunrate.com）专为AI代理开发者设计，能够在部署前精准估算AI代理的运行成本。通过模拟不同模型调用、计算资源消耗和API使用量，帮助开发者优化预算分配，避免超支。适用于各类AI代理项目，尤其是基于大语言模型（LLM）的自动化任务，可有效提升成本透明度和项目可行性。目前处于早期发布阶段，但实用性突出。",
+  "tags": [
+    "cost-estimation",
+    "ai-agents",
+    "developer-tools",
+    "budgeting",
+    "llm"
+  ],
+  "score": 6,
+  "published_at": "Tue, 26 May 2026 12:15:37 +0000",
+  "fetched_at": "2026-05-27T11:36:21.668305+00:00",
+  "analyzed_at": "2026-05-27T11:39:16.155491+00:00",
+  "status": "published"
+}
