@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260528-006",
+  "title": "AI分析师工具：替代年薪10万美元的金融分析师工作",
+  "source_url": "https://edgaranalyst.com/",
+  "source_type": "hackernews",
+  "summary": "该项目推出名为EdgarAnalyst的AI智能体，旨在自动化执行金融分析师的核心任务，包括文档分析、数据提取、趋势预测等。通过自然语言处理与机器学习模型，该工具能处理SEC文件、财报、新闻等金融文本，生成洞察报告，辅助投资决策。适用于投行、基金、研究机构等场景，可显著降低人力成本并提升分析效率。目前项目处于早期阶段，社区关注度有限，但技术方向具有颠覆性潜力。",
+  "tags": [
+    "finance",
+    "ai-agent",
+    "automation",
+    "nlp",
+    "investment-analysis"
+  ],
+  "score": 6,
+  "published_at": "Wed, 27 May 2026 15:46:14 +0000",
+  "fetched_at": "2026-05-28T11:36:51.219137+00:00",
+  "analyzed_at": "2026-05-28T11:39:39.408173+00:00",
+  "status": "published"
+}

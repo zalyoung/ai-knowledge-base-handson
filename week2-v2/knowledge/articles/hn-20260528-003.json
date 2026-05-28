@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260528-003",
+  "title": "保护你的AI代理基础设施安全",
+  "source_url": "https://teriradichel.substack.com/p/securing-your-ai-agent-infrastructure",
+  "source_type": "hackernews",
+  "summary": "本文探讨了在构建和部署AI代理时所需关注的安全基础设施问题，涵盖身份验证、权限控制、数据隔离和威胁检测等关键领域。针对当前AI代理快速发展的趋势，作者提出了实用的安全最佳实践，适用于企业级AI系统集成和云原生环境中的代理部署。尽管社区讨论热度不高，但内容对保障LLM应用和自主代理的安全运营具有参考价值。",
+  "tags": [
+    "ai-security",
+    "infrastructure-security",
+    "agent-safety",
+    "cloud-security",
+    "best-practices"
+  ],
+  "score": 6,
+  "published_at": "Wed, 27 May 2026 19:11:03 +0000",
+  "fetched_at": "2026-05-28T11:36:51.219055+00:00",
+  "analyzed_at": "2026-05-28T11:39:22.478846+00:00",
+  "status": "published"
+}

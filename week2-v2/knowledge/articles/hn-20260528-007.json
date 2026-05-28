@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260528-007",
+  "title": "正确理解AI Agent术语：Harness、Scaffold及其他关键概念",
+  "source_url": "https://huggingface.co/blog/agent-glossary",
+  "source_type": "hackernews",
+  "summary": "本文来自Hugging Face博客，旨在澄清AI Agent领域中常见术语的正确含义和用法，例如Harness（测试框架）、Scaffold（开发脚手架）等。作者指出，许多开发者对这些词汇存在误解或混用，导致沟通障碍和架构设计偏差。文章通过对比示例，解释了每个术语在Agent开发、测试和部署中的具体角色，帮助读者建立统一的概念体系。适用场景为AI Agent开发团队、研究人员以及希望深入理解Agent技术栈的学习者。",
+  "tags": [
+    "ai-agents",
+    "terminology",
+    "llm",
+    "agent-framework",
+    "generative-ai",
+    "huggingface"
+  ],
+  "score": 8,
+  "published_at": "Tue, 26 May 2026 11:02:04 +0000",
+  "fetched_at": "2026-05-28T11:36:51.219319+00:00",
+  "analyzed_at": "2026-05-28T11:40:44.019299+00:00",
+  "status": "published"
+}

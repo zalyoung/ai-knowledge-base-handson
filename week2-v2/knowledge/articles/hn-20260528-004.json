@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260528-004",
+  "title": "审计供应链攻击暴露的AI代理技能",
+  "source_url": "https://github.com/javaid-codes/audit-supply-chain-agents",
+  "source_type": "hackernews",
+  "summary": "该项目提供了一个基于AI代理的技能，用于自动审计软件供应链中的攻击暴露面。它能够扫描依赖项、配置和集成点，识别潜在的安全风险，如恶意包、后门或未修补的漏洞。适用于安全团队在CI/CD流程中集成自动化供应链安全审计，降低被供应链攻击的风险。技术亮点在于利用AI代理的智能化推理能力，提升审计的准确性和效率。",
+  "tags": [
+    "ai",
+    "supply-chain-security",
+    "audit",
+    "cybersecurity",
+    "agent"
+  ],
+  "score": 6,
+  "published_at": "Wed, 27 May 2026 16:27:04 +0000",
+  "fetched_at": "2026-05-28T11:36:51.219076+00:00",
+  "analyzed_at": "2026-05-28T11:39:28.127859+00:00",
+  "status": "published"
+}

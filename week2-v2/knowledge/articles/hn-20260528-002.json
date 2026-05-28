@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260528-002",
+  "title": "Robinhood 允许 AI 代理自动交易和信用卡支付",
+  "source_url": "https://www.cnbc.com/2026/05/27/your-ai-agent-can-now-trade-for-you-on-robinhood-and-buy-stuff-with-your-credit-card-too.html",
+  "source_type": "hackernews",
+  "summary": "Robinhood 推出新功能，允许用户授权的 AI 代理代表其执行股票交易和信用卡支付。该功能通过 API 集成，使 AI 能够根据预设策略或自然语言指令自动化金融操作。尽管提高了便利性，但引发了对安全性、隐私和监管的担忧。适用于希望利用 AI 进行自动化投资的用户。",
+  "tags": [
+    "ai agent",
+    "trading",
+    "robinhood",
+    "fintech",
+    "automation",
+    "credit card"
+  ],
+  "score": 7,
+  "published_at": "Wed, 27 May 2026 20:38:52 +0000",
+  "fetched_at": "2026-05-28T11:36:51.219037+00:00",
+  "analyzed_at": "2026-05-28T11:39:18.253276+00:00",
+  "status": "published"
+}

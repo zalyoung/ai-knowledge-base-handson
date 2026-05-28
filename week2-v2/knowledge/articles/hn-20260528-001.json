@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260528-001",
+  "title": "将Python AI代理和Vue仪表板打包为Electron桌面应用",
+  "source_url": "https://github.com/sir1st/hermes-desktop",
+  "source_type": "hackernews",
+  "summary": "该开源项目Hermes Desktop将Python AI代理（如langchain等）与Vue构建的仪表板集成在一个Electron应用中，实现了跨平台桌面部署。它允许用户通过图形界面与AI代理交互，查看实时日志和分析结果，适用于需要本地化运行AI助手或监控AI工作流的场景。技术亮点包括Python与前端的高效桥接、内置API服务、以及自定义插件架构，为开发者提供了一个快速构建AI桌面应用的基础框架。",
+  "tags": [
+    "python",
+    "ai-agent",
+    "vue",
+    "electron",
+    "desktop-app",
+    "dashboard"
+  ],
+  "score": 7,
+  "published_at": "Thu, 28 May 2026 10:12:26 +0000",
+  "fetched_at": "2026-05-28T11:36:51.219002+00:00",
+  "analyzed_at": "2026-05-28T11:39:12.015259+00:00",
+  "status": "published"
+}
