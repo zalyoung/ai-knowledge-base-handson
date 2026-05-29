@@ -206,5 +206,13 @@
   "https://github.com/javaid-codes/audit-supply-chain-agents": "hn-20260528-004",
   "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/": "hn-20260528-005",
   "https://edgaranalyst.com/": "hn-20260528-006",
-  "https://huggingface.co/blog/agent-glossary": "hn-20260528-007"
+  "https://huggingface.co/blog/agent-glossary": "hn-20260528-007",
+  "https://scalex.dev/blog/ai-agent-permissions/": "hn-20260529-001",
+  "https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/": "hn-20260529-002",
+  "https://blog.cloudflare.com/our-unified-data-platform/": "hn-20260529-003",
+  "https://news.ycombinator.com/item?id=48313367": "hn-20260529-004",
+  "https://deepresearch.ninja/2026/05/AI-Agent-Frameworks-A-Comparative-Analysis-of-DSPy-Claude-Agent-SDK-OpenAI-Agents-SDK-CrewAI-AutoGen-LangGraph-and-Google-ADK/": "hn-20260529-005",
+  "https://github.com/Diplomat-ai/diplomat-agent-ts": "hn-20260529-006",
+  "https://rootcx.com/blog/ai-agent-governance-implementation": "hn-20260529-007",
+  "https://llmgame.scalex.dev": "hn-20260529-008"
 }

@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260529-007",
+  "title": "AI代理治理实践：身份、委托与权限管理",
+  "source_url": "https://rootcx.com/blog/ai-agent-governance-implementation",
+  "source_type": "hackernews",
+  "summary": "本文深入探讨了AI代理在实际部署中的治理问题，重点围绕身份识别、委托授权和权限控制三大核心环节。文章提出了一个可操作的治理框架，旨在解决AI代理在自动化任务场景下的安全边界、信用验证及最小权限原则的落地难题。适用于需要集成AI代理的企业或开发者，帮助规避因代理越权或身份混淆导致的安全风险。",
+  "tags": [
+    "ai-agent",
+    "governance",
+    "identity",
+    "delegation",
+    "permissions",
+    "security",
+    "access-control"
+  ],
+  "score": 7,
+  "published_at": "Thu, 28 May 2026 13:25:27 +0000",
+  "fetched_at": "2026-05-29T11:26:45.086792+00:00",
+  "analyzed_at": "2026-05-29T11:28:40.662592+00:00",
+  "status": "published"
+}

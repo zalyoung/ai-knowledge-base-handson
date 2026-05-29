@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260529-004",
+  "title": "AI代理在提示或模型变更后如何捕捉回归问题",
+  "source_url": "https://news.ycombinator.com/item?id=48313367",
+  "source_type": "hackernews",
+  "summary": "本文讨论了AI代理在提示或模型变更后出现回归问题的常见现象：团队修复了一个故障，但一周后因提示或模型更新而导致相同故障再次出现，且直到用户反馈才被发现。作者探讨了当前社区的处理方法，包括手动测试用例、评估（evals）、日志监控或没有任何措施。该讨论揭示了AI代理开发中回归测试的普遍挑战，强调需要更系统化的回归检测机制来确保代理稳定性。",
+  "tags": [
+    "ai-agent",
+    "regression-testing",
+    "prompt-engineering",
+    "evals",
+    "monitoring",
+    "llm"
+  ],
+  "score": 5,
+  "published_at": "Thu, 28 May 2026 18:30:40 +0000",
+  "fetched_at": "2026-05-29T11:26:45.086724+00:00",
+  "analyzed_at": "2026-05-29T11:28:28.702267+00:00",
+  "status": "published"
+}

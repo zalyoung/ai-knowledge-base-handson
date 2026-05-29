@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260529-008",
+  "title": "AI Agent权限疲劳的60秒互动游戏",
+  "source_url": "https://llmgame.scalex.dev",
+  "source_type": "hackernews",
+  "summary": "这是一个60秒的网页游戏，通过模拟AI代理反复请求用户确认权限（如继续操作或拒绝）的场景，让玩家亲身体验“权限疲劳”（permission fatigue）现象。游戏以快速决策和重复确认机制，直观展示用户在与AI交互时可能产生的麻木、厌烦或安全风险。该作品在Hacker News上获得332票和135条评论，引发对AI代理权限设计、用户体验与安全平衡的讨论。适合AI开发者、用户体验设计师以及关注AI安全的人群快速体验与反思。",
+  "tags": [
+    "game",
+    "ai-agent",
+    "permission-fatigue",
+    "ux",
+    "security",
+    "hackernews"
+  ],
+  "score": 8,
+  "published_at": "Thu, 28 May 2026 13:02:00 +0000",
+  "fetched_at": "2026-05-29T11:26:45.086815+00:00",
+  "analyzed_at": "2026-05-29T11:28:44.567038+00:00",
+  "status": "published"
+}

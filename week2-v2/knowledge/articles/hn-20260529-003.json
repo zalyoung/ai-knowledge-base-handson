@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260529-003",
+  "title": "Cloudflare统一数据平台及其上的AI代理",
+  "source_url": "https://blog.cloudflare.com/our-unified-data-platform/",
+  "source_type": "hackernews",
+  "summary": "本文介绍了Cloudflare构建的统一数据平台，该平台整合了多种数据服务，并在此基础上开发了AI代理。文章阐述了如何利用Cloudflare的全球网络和数据基础设施，实现高效的AI推理和数据处理，适用于边缘计算、实时分析等场景。该平台通过统一的数据层和智能代理，简化了AI应用的部署和扩展。",
+  "tags": [
+    "cloudflare",
+    "data-platform",
+    "ai-agent",
+    "edge-computing",
+    "unified-data"
+  ],
+  "score": 8,
+  "published_at": "Thu, 28 May 2026 18:46:45 +0000",
+  "fetched_at": "2026-05-29T11:26:45.086667+00:00",
+  "analyzed_at": "2026-05-29T11:28:24.938967+00:00",
+  "status": "published"
+}

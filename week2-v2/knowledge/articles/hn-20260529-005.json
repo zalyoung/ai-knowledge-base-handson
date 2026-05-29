@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260529-005",
+  "title": "AI Agent框架对比分析：DSPy、Claude Agent SDK、OpenAI Agents SDK等七款主流框架",
+  "source_url": "https://deepresearch.ninja/2026/05/AI-Agent-Frameworks-A-Comparative-Analysis-of-DSPy-Claude-Agent-SDK-OpenAI-Agents-SDK-CrewAI-AutoGen-LangGraph-and-Google-ADK/",
+  "source_type": "hackernews",
+  "summary": "本文对七款主流AI Agent框架进行了系统性对比分析，包括DSPy、Claude Agent SDK、OpenAI Agents SDK、CrewAI、AutoGen、LangGraph和Google ADK。文章从设计理念、适用场景、易用性、扩展性、社区活跃度等维度展开评估，揭示了各框架在任务编排、多智能体协作、工具集成等方面的核心差异。例如，CrewAI擅长角色分配与协作，AutoGen侧重于对话式多代理系统，LangGraph支持图状工作流，而Google ADK则强调与Google生态的集成。分析结果直观地展示了框架的优劣与适用边界，为开发者在构建复杂AI工作流时选择合适框架提供了实用参考。",
+  "tags": [
+    "ai-agent",
+    "framework-comparison",
+    "dspy",
+    "crewai",
+    "autogen",
+    "langgraph",
+    "google-adk"
+  ],
+  "score": 7,
+  "published_at": "Thu, 28 May 2026 17:24:08 +0000",
+  "fetched_at": "2026-05-29T11:26:45.086756+00:00",
+  "analyzed_at": "2026-05-29T11:28:33.634289+00:00",
+  "status": "published"
+}

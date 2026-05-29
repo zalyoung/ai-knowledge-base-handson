@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260529-001",
+  "title": "AI代理权限：连接“可用”与“安全”的缺失层",
+  "source_url": "https://scalex.dev/blog/ai-agent-permissions/",
+  "source_type": "hackernews",
+  "summary": "本文探讨了AI代理（AI Agent）在从功能可用到确保安全的过程中，所缺失的关键权限层。作者指出，当前的AI代理缺乏细粒度的访问控制机制，类似于操作系统权限管理，这可能导致安全风险。文章提出了一种权限模型，允许对AI代理的行为（如文件访问、网络调用、系统命令执行）进行精确授权，从而在保持功能的同时保障安全。该方案适用于需要安全部署AI代理的场景，例如自动化运维、企业级AI助手和智能工作流。",
+  "tags": [
+    "ai",
+    "agents",
+    "permissions",
+    "security",
+    "safety",
+    "llm",
+    "access-control"
+  ],
+  "score": 8,
+  "published_at": "Fri, 29 May 2026 07:29:45 +0000",
+  "fetched_at": "2026-05-29T11:26:45.086612+00:00",
+  "analyzed_at": "2026-05-29T11:28:16.541987+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260529-006",
+  "title": "Diplomat Agent TS：扫描AI Agent代码中未经验证的工具调用",
+  "source_url": "https://github.com/Diplomat-ai/diplomat-agent-ts",
+  "source_type": "hackernews",
+  "summary": "该项目（diplomat-agent-ts）是一个用于扫描AI Agent代码中工具调用（tool calls）的静态分析工具，重点关注那些缺少安全检查的调用。通过扫描Agent的代码库，帮助开发者及时发现潜在的安全风险，例如未授权或未经验证的操作。适用于使用基于大语言模型（LLM）的Agent框架（如LangChain、AutoGPT等）的开发者，旨在增强AI Agent的可靠性与安全性。项目用TypeScript编写，目前处于早期阶段，社区活跃度较低，但技术思路具有一定的实用性。",
+  "tags": [
+    "ai-agent",
+    "security",
+    "tool-calls",
+    "scanning",
+    "typescript",
+    "static-analysis"
+  ],
+  "score": 6,
+  "published_at": "Thu, 28 May 2026 13:39:26 +0000",
+  "fetched_at": "2026-05-29T11:26:45.086775+00:00",
+  "analyzed_at": "2026-05-29T11:28:37.276444+00:00",
+  "status": "published"
+}

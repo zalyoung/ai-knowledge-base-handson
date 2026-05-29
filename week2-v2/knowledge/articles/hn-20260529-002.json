@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260529-002",
+  "title": "星巴克因AI库存代理频繁出错且拖慢效率而停用",
+  "source_url": "https://fortune.com/2026/05/28/starbucks-quietly-retired-ai-inventory-agent-barista-complaints-hallucinations/",
+  "source_type": "hackernews",
+  "summary": "星巴克悄然退役了其AI库存管理代理，原因是该模型频繁出现幻觉，导致库存计数错误，并增加了咖啡师的工作负担，反而降低了效率。该案例凸显了AI在复杂零售环境中部署的挑战，尤其当模型缺乏真实世界上下文时，可能产生与预期相反的效果。对于零售和AI行业而言，这是一个重要的失败教训，提醒需要谨慎评估AI工具的实用性和可靠性。",
+  "tags": [
+    "ai-failure",
+    "inventory-management",
+    "starbucks",
+    "hallucination",
+    "retail-ai",
+    "lesson-learned"
+  ],
+  "score": 5,
+  "published_at": "Fri, 29 May 2026 01:41:02 +0000",
+  "fetched_at": "2026-05-29T11:26:45.086647+00:00",
+  "analyzed_at": "2026-05-29T11:28:20.726224+00:00",
+  "status": "published"
+}
