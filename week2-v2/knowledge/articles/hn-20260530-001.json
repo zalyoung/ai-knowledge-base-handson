@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260530-001",
+  "title": "Prezlo：为AI代理提供专家可信度判断的API",
+  "source_url": "https://prezlo.io/",
+  "source_type": "hackernews",
+  "summary": "Prezlo 是一个创新的 API 服务，旨在解决 AI 代理在决策过程中对信息来源（尤其是专家）的可信度评估问题。该 API 允许 AI 代理查询特定专家的可信度评分，从而在需要依赖外部知识或专家意见时做出更可靠的决策。这一技术适用于需要引用专家意见的场景，如医疗诊断、法律咨询、科研辅助等，帮助 AI 避免被虚假或低质量信息误导。Prezlo 的出现填补了 AI 信任机制中的空白，具有实用价值。",
+  "tags": [
+    "api",
+    "ai-agents",
+    "trust",
+    "reputation",
+    "expertise",
+    "decision-making"
+  ],
+  "score": 7,
+  "published_at": "Fri, 29 May 2026 16:51:01 +0000",
+  "fetched_at": "2026-05-30T09:58:43.500849+00:00",
+  "analyzed_at": "2026-05-30T10:00:12.316232+00:00",
+  "status": "published"
+}

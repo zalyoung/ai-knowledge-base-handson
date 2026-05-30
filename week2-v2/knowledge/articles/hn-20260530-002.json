@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260530-002",
+  "title": "Agent Memory Guard：OWASP 针对 AI 智能体记忆投毒的防御方案",
+  "source_url": "https://github.com/OWASP/www-project-agent-memory-guard",
+  "source_type": "hackernews",
+  "summary": "Agent Memory Guard 是 OWASP 旗下的一个开源项目，旨在防御针对 AI 智能体（Agent）记忆系统的投毒攻击。随着 AI 智能体在复杂任务中广泛使用长期记忆，攻击者可能通过注入恶意信息来操控其行为。该项目提供了一套 OWASP 标准的防御框架，包括输入验证、记忆隔离、完整性校验等机制。适用于基于 LLM 的记忆增强 Agent 系统，帮助开发者构建更安全的智能体应用。",
+  "tags": [
+    "owasp",
+    "ai-security",
+    "agent-security",
+    "memory-poisoning",
+    "defense",
+    "llm",
+    "application-security"
+  ],
+  "score": 7,
+  "published_at": "Fri, 29 May 2026 15:33:16 +0000",
+  "fetched_at": "2026-05-30T09:58:43.500882+00:00",
+  "analyzed_at": "2026-05-30T10:00:17.255377+00:00",
+  "status": "published"
+}
