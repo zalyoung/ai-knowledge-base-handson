@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260531-003",
+  "title": "Open Envelope：定义AI代理团队的开放JSON Schema",
+  "source_url": "https://openenvelope.org/docs/schema/",
+  "source_type": "hackernews",
+  "summary": "Open Envelope 提出了一种开放的 JSON Schema，用于统一描述和定义 AI 代理团队。在多代理系统逐渐成为实际部署模式的背景下，该方法解决了当前各框架间代理配置碎片化、不可移植的问题。Schema 包含角色、提示词、模型、访问策略、上级/下级代理层级、人工介入门控、管道、调度和运行时注入的变量等完整规范。访问策略允许在网络层而非提示词层面强制限制代理可调用的主机。该项目已注册到 SchemaStore，支持在 VS Code 中直接获得自动补全和验证，也提供了 npm 包进行程序化验证。目标是像 Dockerfile 一样实现代理团队的便携定义，任何兼容的运行环境均可执行。适用于需要构建可复用、跨框架的多代理协作系统的场景。",
+  "tags": [
+    "multi-agent",
+    "json-schema",
+    "open-schema",
+    "ai-agents",
+    "configuration",
+    "schema-store",
+    "portable"
+  ],
+  "score": 8,
+  "published_at": "Thu, 28 May 2026 20:30:20 +0000",
+  "fetched_at": "2026-05-31T10:13:45.137695+00:00",
+  "analyzed_at": "2026-05-31T10:15:33.817618+00:00",
+  "status": "published"
+}

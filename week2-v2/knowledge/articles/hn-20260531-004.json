@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260531-004",
+  "title": "Seed：基于设备端LLM的自修改网页，站点状态编码于URL中",
+  "source_url": "https://oxedom.github.io/seed/",
+  "source_type": "hackernews",
+  "summary": "该项目展示了一个自修改网页，利用运行在用户设备上的大型语言模型（LLM）动态改变页面内容。整个站点状态被编码在URL中，使得页面和LLM的交互状态可通过链接分享。这一概念验证了在浏览器中部署轻量级LLM并通过URL进行状态持久化的可行性，适用于边缘计算、隐私保护和实验性交互式网页应用。",
+  "tags": [
+    "self-modifying",
+    "webpage",
+    "on-device-llm",
+    "url-encoded",
+    "experimental"
+  ],
+  "score": 7,
+  "published_at": "Sun, 31 May 2026 09:45:43 +0000",
+  "fetched_at": "2026-05-31T10:13:45.146974+00:00",
+  "analyzed_at": "2026-05-31T10:16:21.265601+00:00",
+  "status": "published"
+}

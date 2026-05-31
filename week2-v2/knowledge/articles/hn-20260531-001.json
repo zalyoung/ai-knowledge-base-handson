@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260531-001",
+  "title": "零成本AI代理：从0美元到1万美元的挑战实验",
+  "source_url": "https://costder.github.io/2026/05/hbf-ai-agent-zero-to-10k/",
+  "source_type": "hackernews",
+  "summary": "该文章记录了一项有趣的实验：作者给一个AI代理0美元初始资金，并指令其通过自主决策赚取1万美元。实验探索了AI代理在资源极度受限情况下的自主金融能力，涉及代理的决策逻辑、任务拆解、工具调用（如网络搜索、API调用）以及潜在的赚钱策略（如自由职业、内容创作、套利等）。结果虽然未明确是否成功，但展示了AI代理在零起点下规划与执行的潜力，以及提示工程在引导代理行为中的关键作用。适合对AI自主代理、零成本创业概念感兴趣的读者。",
+  "tags": [
+    "ai-agent",
+    "zero-to-money",
+    "experiment",
+    "autonomous-agents",
+    "prompt-engineering",
+    "hackernews"
+  ],
+  "score": 7,
+  "published_at": "Sat, 30 May 2026 14:29:53 +0000",
+  "fetched_at": "2026-05-31T10:13:45.137463+00:00",
+  "analyzed_at": "2026-05-31T10:15:11.242160+00:00",
+  "status": "published"
+}
