@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260601-004",
+  "title": "Headroom：在AI代理输入LLM之前压缩所有文本以降低Token成本",
+  "source_url": "https://pypi.org/project/headroom-ai/",
+  "source_type": "hackernews",
+  "summary": "Headroom是一个Python库，它通过在文本进入大语言模型之前进行智能压缩，显著减少AI代理处理信息时的Token消耗。它适用于需要与LLM进行大量文本交互的AI代理场景，如智能问答、文档分析、自动化报告生成等。其核心优势在于保留语义的同时压缩文本，从而降低API调用成本并提高响应速度，特别适合对成本和效率敏感的生产环境。",
+  "tags": [
+    "ai",
+    "compression",
+    "token-optimization",
+    "python",
+    "llm"
+  ],
+  "score": 6,
+  "published_at": "Sun, 31 May 2026 20:10:44 +0000",
+  "fetched_at": "2026-06-01T13:34:39.511841+00:00",
+  "analyzed_at": "2026-06-01T13:36:41.554686+00:00",
+  "status": "published"
+}

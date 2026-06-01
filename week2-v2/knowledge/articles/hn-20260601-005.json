@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260601-005",
+  "title": "能在推理时更新模型权重和框架的 AI Agent",
+  "source_url": "https://github.com/hexo-ai/sia",
+  "source_type": "hackernews",
+  "summary": "该项目提出了一种创新的 AI Agent 架构，能够在推理过程中动态更新自身的运行框架（harness）和模型权重。不同于传统静态推理，该 Agent 具备在线自适应能力，可实时根据环境反馈调整行为策略。这种设计适用于需要持续学习与快速适应的场景，如机器人控制、动态推荐系统或自适应对话代理。项目以开源方式提供（GitHub: hexo-ai/sia），展示了在元学习和在线学习领域的探索。尽管目前社区讨论较少，但其概念具有较高创新性与前瞻性。",
+  "tags": [
+    "ai",
+    "agent",
+    "inference-time-learning",
+    "self-improving",
+    "online-learning",
+    "meta-learning",
+    "adaptive"
+  ],
+  "score": 8,
+  "published_at": "Sun, 31 May 2026 11:13:43 +0000",
+  "fetched_at": "2026-06-01T13:34:39.511858+00:00",
+  "analyzed_at": "2026-06-01T13:36:47.626642+00:00",
+  "status": "published"
+}

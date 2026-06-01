@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260601-001",
+  "title": "基于DNS的AI代理发现技术",
+  "source_url": "https://dns-aid.org/",
+  "source_type": "hackernews",
+  "summary": "该技术提出了一种通过DNS（域名系统）发现AI代理的方法，利用DNS协议的网络特性实现分布式环境中AI代理的自动发现和通信。通过解析特定的DNS记录或使用自定义的DNS服务，AI代理能够注册自身并向其他代理广播存在性。这种方法无需中心化注册中心，降低了网络配置复杂度，适用于边缘计算、物联网和去中心化AI系统等场景。尽管项目处于早期阶段，但其结合传统DNS与AI代理的思路具有潜在价值，尤其适合需要动态发现和可扩展性的自动化工作流。",
+  "tags": [
+    "dns",
+    "ai-agent",
+    "service-discovery",
+    "network",
+    "distributed-systems"
+  ],
+  "score": 6,
+  "published_at": "Mon, 01 Jun 2026 10:56:34 +0000",
+  "fetched_at": "2026-06-01T13:34:39.511739+00:00",
+  "analyzed_at": "2026-06-01T13:36:22.444127+00:00",
+  "status": "published"
+}

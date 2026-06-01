@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260601-002",
+  "title": "新型AI智能体架构：解决LLM偏差与Token成本问题",
+  "source_url": "https://github.com/botcircuits-ai/botcircuits-agent",
+  "source_type": "hackernews",
+  "summary": "该项目提出了一种新型AI智能体架构，旨在解决大语言模型（LLM）常见的输出偏差（deviations）以及高昂的Token成本问题。通过优化智能体之间的协作机制与推理路径，该架构有望在保持模型性能的同时，显著降低每次交互所需的Token消耗，并减少模型回答偏离预期的情况。适用于需要频繁调用LLM的自动化任务、对话系统、企业级AI应用等场景，尤其适合对成本敏感且要求输出稳定性的生产环境。项目代码开源在GitHub，但当前社区活跃度较低，缺乏详细文档和案例支持。",
+  "tags": [
+    "ai-agent",
+    "llm",
+    "token-optimization",
+    "architecture",
+    "open-source"
+  ],
+  "score": 5,
+  "published_at": "Sun, 31 May 2026 23:21:43 +0000",
+  "fetched_at": "2026-06-01T13:34:39.511796+00:00",
+  "analyzed_at": "2026-06-01T13:36:31.896705+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260601-003",
+  "title": "GEDD：AI智能体错误发现工具（AWS样本项目）",
+  "source_url": "https://github.com/aws-samples/sample-GEDD",
+  "source_type": "hackernews",
+  "summary": "GEDD（Generative Error Detection and Diagnosis）是一个由 AWS 提供的开源样本项目，旨在帮助开发者在将 AI agent 部署到生产环境之前，主动发现其潜在错误、推理漏洞或行为异常。该项目通过自动化测试和错误诊断机制，模拟真实用户场景，提前暴露问题，减少用户侧投诉。适用于基于大语言模型构建的各类智能体应用（如客服、自动化工作流），能够显著提升 AI 系统的可靠性和用户体验。作为 AWS Samples 的一部分，它提供了可复用的代码模板和最佳实践，便于集成到现有的 MLOps 流水线中。",
+  "tags": [
+    "ai-agents",
+    "testing",
+    "debugging",
+    "aws",
+    "quality-assurance"
+  ],
+  "score": 7,
+  "published_at": "Sun, 31 May 2026 20:31:24 +0000",
+  "fetched_at": "2026-06-01T13:34:39.511822+00:00",
+  "analyzed_at": "2026-06-01T13:36:37.432239+00:00",
+  "status": "published"
+}

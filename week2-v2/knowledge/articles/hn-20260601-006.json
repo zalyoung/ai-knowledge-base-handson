@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260601-006",
+  "title": "微调LLM生成1995年风格文档",
+  "source_url": "https://passo.uno/fine-tuning-docs-llm/",
+  "source_type": "hackernews",
+  "summary": "本文介绍了如何通过微调大型语言模型（LLM）来生成具有1995年风格的技术文档。作者详细描述了数据集构建、微调方法和评估过程，展示了LLM在捕捉特定历史时期文档风格方面的能力。该方法适用于怀旧风格的技术文档、复古界面帮助文档、以及需要模仿特定年代写作风格的场景。尽管社区关注度较低，但技术创新性值得肯定。",
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "documentation",
+    "style-transfer",
+    "vintage-tech",
+    "nlp"
+  ],
+  "score": 7,
+  "published_at": "Mon, 01 Jun 2026 09:48:28 +0000",
+  "fetched_at": "2026-06-01T13:34:39.602305+00:00",
+  "analyzed_at": "2026-06-01T13:37:48.592562+00:00",
+  "status": "published"
+}

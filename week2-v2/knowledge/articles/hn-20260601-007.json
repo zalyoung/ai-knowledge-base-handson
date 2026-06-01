@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260601-007",
+  "title": "两种非聊天的LLM用户界面模式",
+  "source_url": "https://poyo.co/note/20260525T094605/",
+  "source_type": "hackernews",
+  "summary": "本文探讨了两种替代传统聊天界面的LLM交互模式。这些模式包括内联补全和结构化表单等，旨在提升特定场景下的效率与用户体验。适用于编程助手、数据分析、文档编辑等需要精准控制的任务场景，通过减少开放式对话的模糊性，提供了更直接、可预测的交互方式。",
+  "tags": [
+    "llm",
+    "ui-patterns",
+    "user-interface",
+    "non-chat",
+    "hci"
+  ],
+  "score": 6,
+  "published_at": "Mon, 01 Jun 2026 09:29:56 +0000",
+  "fetched_at": "2026-06-01T13:34:39.602332+00:00",
+  "analyzed_at": "2026-06-01T13:37:53.992565+00:00",
+  "status": "published"
+}
