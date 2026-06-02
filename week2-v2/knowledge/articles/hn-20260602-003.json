@@ -1,0 +1,18 @@
+{
+  "id": "hn-20260602-003",
+  "title": "aweskills：让你的AI代理自主管理技能",
+  "source_url": "https://aweskill.webioinfo.top/articles/let-your-ai-agent-manage-aweskill-for-you/",
+  "source_type": "hackernews",
+  "summary": "aweskills 是一个旨在让 AI 代理自主管理技能的工具。通过该工具，AI 代理可以根据任务需求动态检索、加载或卸载技能模块，从而提升自动化程度和灵活性。适用于需要扩展 AI 代理能力的应用场景，如智能客服、自动化工作流和个性化助手。尽管社区活跃度较低，但概念具有一定的创新性。",
+  "tags": [
+    "ai-agent",
+    "skills-management",
+    "tool-use",
+    "automation"
+  ],
+  "score": 5,
+  "published_at": "Tue, 02 Jun 2026 00:56:22 +0000",
+  "fetched_at": "2026-06-02T12:02:58.214521+00:00",
+  "analyzed_at": "2026-06-02T12:04:32.327016+00:00",
+  "status": "published"
+}

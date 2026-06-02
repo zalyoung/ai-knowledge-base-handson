@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260602-006",
+  "title": "斯坦福CS336课程AI Agent使用指南",
+  "source_url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+  "source_type": "hackernews",
+  "summary": "斯坦福大学CS336课程（机器学习系统）发布了关于AI Agent使用的官方指南，明确规定了学生在作业中可如何利用AI工具（如Claude）辅助学习。指南强调了学术诚信原则，禁止直接复制AI生成的代码，但允许学生用AI理解概念、调试错误或生成思路。它提供了具体的交互方式和版权声明，旨在平衡技术辅助与原创性要求。该指南适用于高校课程设计者、学生及AI教育伦理研究者。",
+  "tags": [
+    "ai-ethics",
+    "education",
+    "academic-integrity",
+    "machine-learning",
+    "course-guidelines",
+    "ai-agent",
+    "stanford",
+    "programming-assistance"
+  ],
+  "score": 8,
+  "published_at": "Mon, 01 Jun 2026 16:41:49 +0000",
+  "fetched_at": "2026-06-02T12:02:58.214597+00:00",
+  "analyzed_at": "2026-06-02T12:04:45.162977+00:00",
+  "status": "published"
+}

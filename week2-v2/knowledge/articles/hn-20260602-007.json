@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260602-007",
+  "title": "AI代理拥有视觉却未利用：行为实验分析",
+  "source_url": "https://www.agentvoyagerproject.com/captains-log/2",
+  "source_type": "hackernews",
+  "summary": "本文探讨了一个AI代理被赋予视觉能力后的有趣现象：尽管配备了摄像头般的“眼睛”，代理在执行任务时却未主动使用视觉信息。通过实验日志，作者分析了代理的决策机制，发现其可能过度依赖其他感官或内部状态，或是因为训练不足导致视觉被忽略。这一发现揭示了当前AI系统中感知与行动之间的鸿沟，对于开发更鲁棒的自主代理（如机器人、自动驾驶）具有重要启示。文章适合AI研究人员、强化学习开发者以及对代理行为设计感兴趣的读者。",
+  "tags": [
+    "ai vision",
+    "autonomous agents",
+    "reinforcement learning",
+    "behavior analysis",
+    "sensor integration",
+    "attention mechanisms"
+  ],
+  "score": 6,
+  "published_at": "Mon, 01 Jun 2026 16:29:47 +0000",
+  "fetched_at": "2026-06-02T12:02:58.214615+00:00",
+  "analyzed_at": "2026-06-02T12:04:50.963135+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260602-010",
+  "title": "优秀的LLM开发与使用模式",
+  "source_url": "https://blog.bluebyday.com/posts/good-llm-dev-and-usage/",
+  "source_type": "hackernews",
+  "summary": "本文总结了大语言模型（LLM）在开发与实际应用中的一系列最佳实践模式。内容涵盖了提示工程技巧、模型调优策略、数据管理方法以及安全合规要点，适用于LLM驱动的应用构建和生产部署场景。文章通过具体案例阐述了如何平衡模型性能与成本，并提供了可复用的工作流模板，对开发者和AI架构师具有实操指导价值。",
+  "tags": [
+    "llm",
+    "best-practices",
+    "prompt-engineering",
+    "development",
+    "patterns",
+    "ai"
+  ],
+  "score": 7,
+  "published_at": "Tue, 02 Jun 2026 09:37:25 +0000",
+  "fetched_at": "2026-06-02T12:02:58.337232+00:00",
+  "analyzed_at": "2026-06-02T12:05:49.028873+00:00",
+  "status": "published"
+}

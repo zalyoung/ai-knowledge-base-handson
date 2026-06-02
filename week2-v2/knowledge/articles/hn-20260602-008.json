@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260602-008",
+  "title": "AI Agent运行时生产选择讨论：2026年哪个值得押注？",
+  "source_url": "https://news.ycombinator.com/item?id=48357021",
+  "source_type": "hackernews",
+  "summary": "该帖子在Hacker News社区发起讨论，主题是针对2026年生产环境中AI Agent运行时的选型。社区成员将分享各自对当前及未来主流AI Agent运行时的看法，包括框架的稳定性、性能、可扩展性、社区支持等因素。该讨论对于计划在实际业务中部署AI Agent的开发者和技术决策者具有重要参考价值，有助于了解行业趋势并做出明智的技术选择。",
+  "tags": [
+    "ai-agent",
+    "runtime",
+    "production",
+    "discussion",
+    "2026"
+  ],
+  "score": 6,
+  "published_at": "Mon, 01 Jun 2026 14:04:51 +0000",
+  "fetched_at": "2026-06-02T12:02:58.214638+00:00",
+  "analyzed_at": "2026-06-02T12:04:56.367800+00:00",
+  "status": "published"
+}

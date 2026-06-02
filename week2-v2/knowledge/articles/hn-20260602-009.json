@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260602-009",
+  "title": "MDMA：通过 MCP 将 LLM 响应转化为交互式 UI 的工具",
+  "source_url": "https://github.com/MobileReality/mdma",
+  "source_type": "hackernews",
+  "summary": "MDMA 是一个开源工具，利用 MCP（Model Context Protocol）协议将大语言模型（LLM）的文本输出动态转换为交互式用户界面。它能够将 LLM 生成的 JSON 或结构化数据渲染为按钮、表单、选择器等 UI 组件，从而实现 AI 与用户的深度交互。该项目适用于构建智能对话助手、自动化工作流界面、动态表单生成等场景，显著提升 LLM 应用的用户体验。尽管社区活跃度和功能成熟度尚在初期，但其将 LLM 输出与 UI 自动绑定的思路具有创新性，尤其适合快速原型开发和低代码 AI 应用。",
+  "tags": [
+    "llm",
+    "mcp",
+    "interactive-ui",
+    "ui-generation",
+    "open-source"
+  ],
+  "score": 7,
+  "published_at": "Tue, 02 Jun 2026 09:46:45 +0000",
+  "fetched_at": "2026-06-02T12:02:58.337208+00:00",
+  "analyzed_at": "2026-06-02T12:05:45.442844+00:00",
+  "status": "published"
+}

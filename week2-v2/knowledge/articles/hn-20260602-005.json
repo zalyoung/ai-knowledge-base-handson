@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260602-005",
+  "title": "从零构建基础AI代理：工具篇",
+  "source_url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-with-tools/",
+  "source_type": "hackernews",
+  "summary": "本文详细介绍了如何从零开始构建一个基础AI代理，重点讲解了工具(Tools)的集成方法。文章涵盖了工具的定义、注册和调用流程，帮助开发者理解AI代理如何利用外部工具完成复杂任务。适合对AI代理开发感兴趣的初学者和中级开发者，提供实用的代码示例和架构思路。",
+  "tags": [
+    "ai",
+    "agent",
+    "tutorial",
+    "tools",
+    "scratch",
+    "development"
+  ],
+  "score": 8,
+  "published_at": "Mon, 01 Jun 2026 17:40:00 +0000",
+  "fetched_at": "2026-06-02T12:02:58.214579+00:00",
+  "analyzed_at": "2026-06-02T12:04:40.785486+00:00",
+  "status": "published"
+}

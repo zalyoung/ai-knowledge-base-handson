@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260602-002",
+  "title": "星巴克悄然退役刚部署数月的AI代理：技术落地的挑战",
+  "source_url": "https://finance.yahoo.com/sectors/technology/articles/starbucks-quietly-retired-ai-agent-192259096.html",
+  "source_type": "hackernews",
+  "summary": "星巴克在部署其AI代理仅数月后便悄然退役，这一事件揭示了AI技术在商业场景中落地的现实挑战。尽管AI代理旨在提升客户服务效率与个性化体验，但实际应用中可能面临数据整合不足、用户接受度低、成本效益不匹配等问题。该案例为零售业及其他领域的技术部署提供了警示：AI解决方案需经过充分测试、快速迭代，并与业务流程深度耦合，否则即便巨头也可能快速撤回。",
+  "tags": [
+    "starbucks",
+    "ai",
+    "agent",
+    "deployment",
+    "retail",
+    "failure",
+    "lessons"
+  ],
+  "score": 5,
+  "published_at": "Tue, 02 Jun 2026 01:44:20 +0000",
+  "fetched_at": "2026-06-02T12:02:58.214174+00:00",
+  "analyzed_at": "2026-06-02T12:04:29.161266+00:00",
+  "status": "published"
+}

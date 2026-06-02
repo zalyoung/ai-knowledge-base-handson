@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260602-004",
+  "title": "AI代理自主编程：信任还是监督？",
+  "source_url": "https://news.ycombinator.com/item?id=48364162",
+  "source_type": "hackernews",
+  "summary": "一位开发者分享使用Cursor进行AI辅助编程的经验，倾向于采用计划模式（plan mode）仔细审查AI生成的方案，以确保实现方式符合预期，避免被AI带入错误或过度复杂的方向。该提问反映了开发者对完全让AI代理自主构建代码的担忧，认为这种做法存在高风险，因为AI可能做出不良假设或引入不必要的内容。评论者普遍认同需要人类监督，讨论了如何平衡AI自主性与人工审核之间的关系。",
+  "tags": [
+    "ai",
+    "agent",
+    "cursor",
+    "programming",
+    "specs",
+    "plan-mode",
+    "trust",
+    "risk"
+  ],
+  "score": 7,
+  "published_at": "Tue, 02 Jun 2026 00:03:00 +0000",
+  "fetched_at": "2026-06-02T12:02:58.214559+00:00",
+  "analyzed_at": "2026-06-02T12:04:37.373690+00:00",
+  "status": "published"
+}
