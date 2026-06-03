@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260603-012",
+  "title": "AI代理将代码库从Python自动迁移到Rust的案例研究",
+  "source_url": "https://aboutcode.org/blog/agentic-scancode-port-case-study/",
+  "source_type": "hackernews",
+  "summary": "本文详细描述了一个AI代理（Agent）成功将ScanCode代码库从Python移植到Rust的案例。该代理利用大语言模型的能力，自动化处理了语法转换、类型适配和部分逻辑重写，显著减少了手动迁移的工作量。文章重点讨论了代理的工作原理、遇到的挑战（如Python动态特性、异步代码处理）以及最终性能提升的效果。该案例展示了AI辅助代码迁移在实际项目中的可行性，适用于希望利用Rust的性能和安全性优势但缺乏人力迁库的团队。",
+  "tags": [
+    "ai agent",
+    "code migration",
+    "python to rust",
+    "automated refactoring",
+    "case study"
+  ],
+  "score": 6,
+  "published_at": "Tue, 02 Jun 2026 12:33:55 +0000",
+  "fetched_at": "2026-06-03T12:39:59.276788+00:00",
+  "analyzed_at": "2026-06-03T12:42:13.352655+00:00",
+  "status": "published"
+}

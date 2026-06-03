@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260603-002",
+  "title": "块级CRDT：协作式AI代理记忆的缺失拼图",
+  "source_url": "https://marcobambini.substack.com/p/block-level-lww-the-missing-piece",
+  "source_type": "hackernews",
+  "summary": "本文提出了一种块级CRDT（冲突自由复制数据类型），特别是基于LWW（Last Writer Wins）策略的实现，旨在解决分布式AI代理之间的协作记忆一致性问题。通过将数据划分为独立块，每个块采用LWW规则处理并发写入，系统能够在网络延迟和部分故障下实现最终一致性，同时保持低通信开销。该方案适用于多智能体协作、实时共享知识库、分布式AI训练环境等场景，为构建可扩展的自主代理生态系统提供了基础数据结构。",
+  "tags": [
+    "crdt",
+    "distributed-systems",
+    "ai-agents",
+    "collaboration",
+    "memory",
+    "conflict-resolution",
+    "lww",
+    "real-time"
+  ],
+  "score": 7,
+  "published_at": "Wed, 03 Jun 2026 08:00:03 +0000",
+  "fetched_at": "2026-06-03T12:39:59.276555+00:00",
+  "analyzed_at": "2026-06-03T12:41:32.090699+00:00",
+  "status": "published"
+}

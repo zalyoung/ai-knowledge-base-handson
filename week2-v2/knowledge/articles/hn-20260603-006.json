@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260603-006",
+  "title": "微软发布基于OpenClaw的自主AI智能体Scout",
+  "source_url": "https://www.computerworld.com/article/4180103/microsoft-unveils-scout-an-autonomous-ai-agent-built-on-openclaw.html",
+  "source_type": "hackernews",
+  "summary": "微软推出全新自主AI智能体Scout，基于OpenClaw框架构建，旨在成为永不掉线的个人助理。Scout能够自主执行任务、管理日程、处理工作流程，显著提升办公效率。该智能体深度集成Microsoft 365生态，适用于企业办公、个人生产力提升等场景。其核心优势在于持续在线、主动服务的能力，可自动响应邮件、安排会议、生成报告，并支持多平台协同。Hackernews社区讨论热烈，反映了外界对AI助手可靠性、隐私影响及用户粘性设计的关注。",
+  "tags": [
+    "microsoft",
+    "ai-agent",
+    "automation",
+    "productivity",
+    "openclaw",
+    "office-365"
+  ],
+  "score": 8,
+  "published_at": "Tue, 02 Jun 2026 18:19:27 +0000",
+  "fetched_at": "2026-06-03T12:39:59.276650+00:00",
+  "analyzed_at": "2026-06-03T12:41:48.647490+00:00",
+  "status": "published"
+}

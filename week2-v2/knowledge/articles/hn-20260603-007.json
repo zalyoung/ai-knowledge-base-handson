@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260603-007",
+  "title": "测试谷歌Gemini Spark AI代理：令人印象深刻又令人不安的旅行规划体验",
+  "source_url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+  "source_type": "hackernews",
+  "summary": "本文探讨了谷歌最新推出的Gemini Spark AI代理在旅行规划场景下的表现。该代理能够通过自然语言对话理解用户偏好，自动生成包含景点、餐饮、交通等细节的完整行程，并实时调整方案，展现了强大的任务分解与上下文建模能力。然而，测试中也发现其过度收集用户位置、浏览记录等敏感信息，且在规划过程中存在推荐偏差（如优先推荐谷歌生态服务），引发隐私与算法中立性担忧。该技术目前适用于个人旅行助手、行程优化等场景，但需警惕数据滥用风险。社区讨论焦点集中在AI代理的自动化程度与用户控制权平衡上。",
+  "tags": [
+    "gemini",
+    "ai-agent",
+    "travel-planning",
+    "google",
+    "privacy",
+    "natural-language-processing"
+  ],
+  "score": 7,
+  "published_at": "Tue, 02 Jun 2026 16:14:19 +0000",
+  "fetched_at": "2026-06-03T12:39:59.276669+00:00",
+  "analyzed_at": "2026-06-03T12:41:52.849615+00:00",
+  "status": "published"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260603-011",
+  "title": "GenomiAgent：AI代理化身个人DNA专家",
+  "source_url": "https://www.genomiagent.com/blogs/introducing-genomi",
+  "source_type": "hackernews",
+  "summary": "GenomiAgent是一个Agent harness工具，旨在将通用AI代理转变为个人DNA专家。它通过整合基因组学数据和AI推理能力，为用户提供个性化的基因解读、健康风险分析和祖先溯源等服务。该工具将大型语言模型与生物信息学管道结合，使非专业人士也能轻松获取DNA数据的深度洞察。虽然项目在HackerNews上关注度较低（2分，0评论），但其技术思路具有创新性，适用于个人健康管理、精准医疗咨询和科研辅助等场景。",
+  "tags": [
+    "ai",
+    "agent",
+    "dna",
+    "genomics",
+    "health",
+    "bioinformatics",
+    "personalization"
+  ],
+  "score": 6,
+  "published_at": "Tue, 02 Jun 2026 13:00:52 +0000",
+  "fetched_at": "2026-06-03T12:39:59.276773+00:00",
+  "analyzed_at": "2026-06-03T12:42:08.981582+00:00",
+  "status": "published"
+}

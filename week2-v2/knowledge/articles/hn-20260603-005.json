@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260603-005",
+  "title": "为什么你的AI Agent需要更好的时间推理能力——以及我们如何解决这个问题",
+  "source_url": "https://medium.com/@vektormemory/why-your-ai-agent-needs-better-temporal-reasoning-and-how-we-fixed-it-d0f1dea8635f",
+  "source_type": "hackernews",
+  "summary": "本文探讨了AI Agent在时间推理方面的不足，指出缺乏对时间顺序、持续时间和事件间关系的理解会限制其在任务规划、对话系统和自主决策等场景中的表现。作者提出了一种改进方法，通过构建时间感知的记忆机制或引入专门的时间推理模型，使Agent能够更准确地处理时间依赖性任务。该方案适用于需要长期规划、多步推理和动态调整的AI应用，如智能助手、自动化工作流和持久性代理。",
+  "tags": [
+    "ai",
+    "agents",
+    "temporal-reasoning",
+    "memory",
+    "task-planning"
+  ],
+  "score": 6,
+  "published_at": "Tue, 02 Jun 2026 21:09:47 +0000",
+  "fetched_at": "2026-06-03T12:39:59.276622+00:00",
+  "analyzed_at": "2026-06-03T12:41:45.882906+00:00",
+  "status": "published"
+}

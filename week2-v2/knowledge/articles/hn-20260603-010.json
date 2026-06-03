@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260603-010",
+  "title": "AERF：AI 代理行为的签名收据",
+  "source_url": "https://github.com/aerf-spec/aerf",
+  "source_type": "hackernews",
+  "summary": "AERF 是一个开源规范，旨在为 AI 代理的每次操作生成带有数字签名的收据。它通过密码学方法确保代理行为的可追溯性和不可否认性，适用于金融、医疗、法律等需要严格安全审计的场景。该方案将区块链中的签名验证思想引入 AI 领域，为构建可信赖的自主代理系统提供了基础设施。目前项目处于早期阶段，社区讨论较少，但技术思路具有创新性。",
+  "tags": [
+    "ai",
+    "agent",
+    "security",
+    "audit",
+    "trust",
+    "cryptography",
+    "open-source"
+  ],
+  "score": 7,
+  "published_at": "Tue, 02 Jun 2026 13:18:19 +0000",
+  "fetched_at": "2026-06-03T12:39:59.276758+00:00",
+  "analyzed_at": "2026-06-03T12:42:04.215820+00:00",
+  "status": "published"
+}

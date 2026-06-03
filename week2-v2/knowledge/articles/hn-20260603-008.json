@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260603-008",
+  "title": "AI智能体外部治理层参考架构",
+  "source_url": "https://trust.aos-1.com/whitepapers/aos-1-governance",
+  "source_type": "hackernews",
+  "summary": "该白皮书提出了一种用于AI智能体治理的外部治理层参考架构，旨在解决AI Agent在自主运行时面临的行为监督、合规性和伦理控制问题。该架构将治理功能从Agent内部剥离，作为独立的外部层，通过API或事件驱动机制与Agent交互，实现对决策的实时审查、审计和干预。适用于企业级AI部署、多Agent协作系统以及需要高可信度自治场景，为AI系统的安全可控提供了标准化设计模式。",
+  "tags": [
+    "ai-governance",
+    "agent-architecture",
+    "external-governance-layer",
+    "reference-architecture",
+    "ai-ethics",
+    "compliance",
+    "autonomous-systems"
+  ],
+  "score": 8,
+  "published_at": "Tue, 02 Jun 2026 15:58:03 +0000",
+  "fetched_at": "2026-06-03T12:39:59.276694+00:00",
+  "analyzed_at": "2026-06-03T12:41:56.535570+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260603-004",
+  "title": "SeaTicket：AI代理自动解决GitHub、邮件和论坛问题",
+  "source_url": "https://news.ycombinator.com/item?id=48379253",
+  "source_type": "hackernews",
+  "summary": "SeaTicket 是一个基于AI的智能代理工具，能够自动处理来自GitHub、电子邮件和论坛的问题。它利用大型语言模型理解用户问题上下文，并生成解决方案或自动回复，从而减少人工支持工作量。适用于开源项目维护者、客户支持团队等场景，能够快速响应并解决常见问题，提升效率。目前该项目在Hacker News上展示，尚处于早期阶段。",
+  "tags": [
+    "ai-agent",
+    "issue-resolution",
+    "github-integration",
+    "automation",
+    "support-tool"
+  ],
+  "score": 7,
+  "published_at": "Wed, 03 Jun 2026 02:38:31 +0000",
+  "fetched_at": "2026-06-03T12:39:59.276599+00:00",
+  "analyzed_at": "2026-06-03T12:41:40.740307+00:00",
+  "status": "published"
+}
