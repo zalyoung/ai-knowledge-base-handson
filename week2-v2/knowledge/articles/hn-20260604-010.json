@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260604-010",
+  "title": "最新LLM工作流与现代工程价值观",
+  "source_url": "https://cpojer.net/posts/modern-engineering-values",
+  "source_type": "hackernews",
+  "summary": "本文探讨了作者个人最新的LLM（大语言模型）工作流程，并结合现代工程价值观进行反思。文章强调了在AI辅助编程时代，如何平衡自动化与人类判断、速度与质量、以及工具链的灵活性与稳定性。作者分享了实际使用LLM进行代码生成、调试、文档编写等场景的经验，并提出工程价值观应随技术演进而更新，包括拥抱不确定性、减少重复劳动、保持可维护性等。适合正在探索AI增强开发流程的工程师和管理者阅读，能够启发对工作流优化的思考。",
+  "tags": [
+    "llm",
+    "workflow",
+    "engineering",
+    "values",
+    "ai-assisted-development"
+  ],
+  "score": 6,
+  "published_at": "Wed, 03 Jun 2026 14:09:55 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108402+00:00",
+  "analyzed_at": "2026-06-04T11:01:13.472762+00:00",
+  "status": "published"
+}

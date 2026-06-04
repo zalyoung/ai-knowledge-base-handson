@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260604-002",
+  "title": "训练自己的大语言模型？实际发生了什么",
+  "source_url": "https://www.exasol.com/blog/train-your-own-llm/",
+  "source_type": "hackernews",
+  "summary": "本文探讨了训练自定义大语言模型（LLM）的实际过程与挑战。作者分享了从数据收集、模型选型到训练部署的全流程经验，重点揭示了在有限资源下训练LLM所需面对的计算成本、数据质量、训练时间和模型调优等关键问题。文章内容务实，适合希望了解自主训练LLM真实情况的团队和个人参考。",
+  "tags": [
+    "llm",
+    "training",
+    "deep learning",
+    "machine learning",
+    "experience"
+  ],
+  "score": 6,
+  "published_at": "Thu, 04 Jun 2026 09:05:44 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108273+00:00",
+  "analyzed_at": "2026-06-04T11:00:39.470422+00:00",
+  "status": "published"
+}

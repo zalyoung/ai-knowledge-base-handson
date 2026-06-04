@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260604-009",
+  "title": "设备端Chrome扩展：阻止向LLM聊天泄露凭证",
+  "source_url": "https://redact.clearformlabs.com/",
+  "source_type": "hackernews",
+  "summary": "这是一个运行在设备端的Chrome扩展程序，能够在用户与LLM（如ChatGPT、Claude等）聊天时实时检测并阻止敏感凭证（如密码、API密钥、令牌等）的泄露。所有处理均在本地完成，无需将数据发送至外部服务器，有效保护用户隐私。该扩展特别适用于开发者和企业用户，他们在与LLM交互时可能无意中输入敏感信息。虽然目前社区活跃度较低（Hacker News上仅5个点赞，暂无评论），但其设计思路具有较高的实用价值和创新性。",
+  "tags": [
+    "chrome-extension",
+    "credential-leak",
+    "privacy",
+    "llm",
+    "security"
+  ],
+  "score": 7,
+  "published_at": "Wed, 03 Jun 2026 15:08:54 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108390+00:00",
+  "analyzed_at": "2026-06-04T11:01:09.657629+00:00",
+  "status": "published"
+}

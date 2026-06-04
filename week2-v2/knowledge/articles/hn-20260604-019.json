@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260604-019",
+  "title": "探讨非英语使用对LLM输出质量的影响",
+  "source_url": "https://news.ycombinator.com/item?id=48378604",
+  "source_type": "hackernews",
+  "summary": "该话题来自Hacker News的Ask HN板块，提出一个关键问题：使用非英语语言是否会影响大语言模型（LLM）的输出质量？虽然提问本身没有提供具体数据或分析，但这一问题触及LLM训练数据偏差、多语言性能差异及实际应用中的种族/语言公平性等核心议题。讨论可能涉及不同语言的数据分布不均、模型对低资源语言的表现退化、翻译质量损失等。适用于多语言部署、文化适应性和AI伦理研究。",
+  "tags": [
+    "llm",
+    "multilingual",
+    "nlp",
+    "language-bias",
+    "ai-ethics"
+  ],
+  "score": 6,
+  "published_at": "Wed, 03 Jun 2026 01:24:44 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108525+00:00",
+  "analyzed_at": "2026-06-04T11:01:55.476148+00:00",
+  "status": "published"
+}

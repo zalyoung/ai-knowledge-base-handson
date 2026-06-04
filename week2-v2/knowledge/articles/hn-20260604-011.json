@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260604-011",
+  "title": "Trader：基于LLM的Robinhood交易代理，采用Rust安全层与模拟交易支持",
+  "source_url": "https://github.com/zhangxd6/Trader/",
+  "source_type": "hackernews",
+  "summary": "Trader 是一个将大语言模型（LLM）作为智能代理，用于 Robinhood 股票交易的开源项目。其核心创新在于使用 Rust 编写安全层，确保交易指令的可靠执行，并内置纸面交易（paper trading）功能，允许用户在无资金风险的环境下测试策略。该项目适合对算法交易、LLM Agent 应用及金融自动化感兴趣的开发者，尤其是希望将 AI 对话能力与真实/模拟市场结合的场景。尽管当前社区活跃度较低，但技术方案展现了 LLM 在金融领域的实用潜力。",
+  "tags": [
+    "llm",
+    "trading",
+    "robinhood",
+    "rust",
+    "paper-trading",
+    "agent"
+  ],
+  "score": 6,
+  "published_at": "Wed, 03 Jun 2026 13:37:56 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108413+00:00",
+  "analyzed_at": "2026-06-04T11:01:17.104149+00:00",
+  "status": "published"
+}

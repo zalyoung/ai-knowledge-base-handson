@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260604-015",
+  "title": "AI赋能网络威胁映射：LLM ATT&CK Navigator 的见解",
+  "source_url": "https://red.anthropic.com/2026/attack-navigator/",
+  "source_type": "hackernews",
+  "summary": "本文来自 Anthropic 红队，介绍了 LLM ATT&CK Navigator，这是一个将大语言模型（LLM）相关网络攻击技术映射到 MITRE ATT&CK 框架的工具。该工具帮助安全从业者系统化理解 LLM 威胁向量，包括提示注入、模型操纵、数据泄露等，并基于 ATT&CK 分类提供防御策略。适用于 AI 安全团队、威胁情报分析师以及构建 LLM 应用的企业，作为评估和缓解 AI 驱动威胁的实用指南。",
+  "tags": [
+    "llm",
+    "security",
+    "threat-intelligence",
+    "mitre-attck",
+    "ai-safety",
+    "cyber-threats"
+  ],
+  "score": 8,
+  "published_at": "Wed, 03 Jun 2026 10:41:20 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108469+00:00",
+  "analyzed_at": "2026-06-04T11:01:35.906373+00:00",
+  "status": "published"
+}

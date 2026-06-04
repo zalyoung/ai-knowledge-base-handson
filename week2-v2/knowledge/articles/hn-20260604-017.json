@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260604-017",
+  "title": "自托管健身追踪器GymCoach：集成自有大语言模型",
+  "source_url": "https://github.com/Julien-Au/gymcoach",
+  "source_type": "hackernews",
+  "summary": "GymCoach 是一个自托管的健身追踪应用，允许用户使用自己的大语言模型（如本地部署的 Llama、GPT 等）来获取个性化的训练建议、分析锻炼数据或生成训练计划。项目强调隐私保护和数据主权，适合对数据安全敏感的健身爱好者，或希望将 AI 能力与健身记录深度结合的开发者。由于需要自行部署 LLM，对技术门槛有一定要求，但为健身追踪领域提供了创新的灵活性和定制化选择。",
+  "tags": [
+    "fitness",
+    "self-hosted",
+    "llm",
+    "workout-tracker",
+    "privacy",
+    "open-source"
+  ],
+  "score": 7,
+  "published_at": "Wed, 03 Jun 2026 07:26:41 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108503+00:00",
+  "analyzed_at": "2026-06-04T11:01:47.500497+00:00",
+  "status": "published"
+}

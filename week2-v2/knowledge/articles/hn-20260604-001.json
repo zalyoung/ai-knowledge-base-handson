@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260604-001",
+  "title": "LLM记忆系统基准测试：测试系统高召回率但接近零精度",
+  "source_url": "https://arxiv.org/abs/2605.11325",
+  "source_type": "hackernews",
+  "summary": "本文对多种大语言模型（LLM）记忆系统进行了基准测试，发现当前系统在信息检索中实现了高召回率，但精度几乎为零。测试评估了系统在不同场景下的记忆提取能力，揭示了现有方法在准确性方面的严重缺陷。该研究为改进LLM持续学习和知识存储提供了关键基准，适用于需要可靠长期记忆的AI应用，如对话助手和个性化代理。",
+  "tags": [
+    "llm",
+    "memory",
+    "benchmark",
+    "recall",
+    "precision",
+    "retrieval"
+  ],
+  "score": 7,
+  "published_at": "Thu, 04 Jun 2026 09:57:25 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108248+00:00",
+  "analyzed_at": "2026-06-04T11:00:36.323285+00:00",
+  "status": "published"
+}

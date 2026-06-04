@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260604-005",
+  "title": "TensorSharp: 开源本地大语言模型推理引擎",
+  "source_url": "https://github.com/zhongkaifu/TensorSharp",
+  "source_type": "hackernews",
+  "summary": "TensorSharp 是一个开源的本地大语言模型推理引擎，专注于在本地环境中高效运行大型语言模型。它通过优化推理计算过程，降低了对高性能硬件的依赖，使得个人开发者和小型团队能够在边缘设备或普通计算机上部署和使用 LLM。项目采用模块化设计，支持多种模型格式，并提供了简洁的 API 接口。适合隐私敏感的应用场景，如离线助手、本地知识库问答等。尽管社区活跃度和星标数尚不明确，但其开源特性和本地优先的理念在隐私与成本敏感的领域具有实用价值。",
+  "tags": [
+    "llm",
+    "inference-engine",
+    "open-source",
+    "local-ai",
+    "machine-learning"
+  ],
+  "score": 7,
+  "published_at": "Thu, 04 Jun 2026 00:29:10 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108318+00:00",
+  "analyzed_at": "2026-06-04T11:00:51.584978+00:00",
+  "status": "published"
+}

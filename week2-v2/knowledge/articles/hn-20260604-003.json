@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260604-003",
+  "title": "iPhone神经网络引擎在LLM推理中保持性能，MLX和LiteRT却因热节流降速",
+  "source_url": "https://github.com/john-rocky/apple-silicon-llm-bench",
+  "source_type": "hackernews",
+  "summary": "该项目通过基准测试展示了苹果iPhone的神经网络引擎（ANE）在运行大语言模型（LLM）推理时能够稳定维持每秒令牌数（tok/s），而使用MLX和LiteRT框架时，设备因热节流导致性能显著下降。该测试聚焦于移动端设备，突出了ANE在持续高负载场景下的优势，为移动端LLM部署提供了重要参考。",
+  "tags": [
+    "apple-silicon",
+    "ane",
+    "llm",
+    "inference",
+    "benchmark",
+    "thermal-throttle",
+    "mlx",
+    "litert"
+  ],
+  "score": 8,
+  "published_at": "Thu, 04 Jun 2026 05:17:10 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108287+00:00",
+  "analyzed_at": "2026-06-04T11:00:43.806824+00:00",
+  "status": "published"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260604-013",
+  "title": "LLM对话结构解析",
+  "source_url": "https://arpitbhayani.me/blogs/structure-of-llm-chat/",
+  "source_type": "hackernews",
+  "summary": "本文深入剖析了大型语言模型（LLM）对话的基本结构，详细讲解了系统提示、用户消息和助手回复的标准格式，以及如何通过设计有效的对话模板来优化模型交互。文章结合实例分析了常见聊天框架中的层级关系，适合AI应用开发者、提示工程师等人群学习，旨在提升LLM聊天体验的可控性和一致性。",
+  "tags": [
+    "llm",
+    "chat",
+    "structure",
+    "prompt-engineering",
+    "ai",
+    "nlp",
+    "conversation-design"
+  ],
+  "score": 5,
+  "published_at": "Wed, 03 Jun 2026 11:41:19 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108449+00:00",
+  "analyzed_at": "2026-06-04T11:01:26.383084+00:00",
+  "status": "published"
+}

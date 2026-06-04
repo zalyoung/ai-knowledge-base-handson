@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260604-012",
+  "title": "Aura-IDE：一个自我演化的LLM编码工具，通过结构化工程循环实现AI辅助软件开发",
+  "source_url": "https://github.com/CarpseDeam/Aura-IDE",
+  "source_type": "hackernews",
+  "summary": "Aura-IDE 是一个基于 Python 和 PySide6 构建的桌面端 LLM 编码工具，旨在通过结构化工程循环（仓库感知→规划器规范→工作者执行→精确编辑→验证→恢复→最终收据）提升 AI 辅助软件开发的代码质量。其独特之处在于，约 98% 的代码库本身是通过 Aura 自身的规划器/工作者工作流在人类指导下生成、编辑或优化的，体现了强大的自举能力。支持 DeepSeek、OpenAI、Anthropic、Gemini 等多种模型后端，并提供差异审查或自动分派/自动批准等灵活执行模式。适用于构建编码代理、IDE 或本地开发工具的场景。",
+  "tags": [
+    "llm",
+    "coding-assistant",
+    "python",
+    "pyside6",
+    "ai-assisted-engineering",
+    "ide",
+    "self-hosting",
+    "hackernews"
+  ],
+  "score": 8,
+  "published_at": "Wed, 03 Jun 2026 13:02:53 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108438+00:00",
+  "analyzed_at": "2026-06-04T11:01:22.087116+00:00",
+  "status": "published"
+}

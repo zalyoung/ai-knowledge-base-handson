@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260604-006",
+  "title": "基于Stigmergy的LLM代理能力选择机制",
+  "source_url": "https://sebastianhanke.substack.com/p/stigmergy-for-capability-selection",
+  "source_type": "hackernews",
+  "summary": "本文提出了一种利用Stigmergy（生物启发的间接协调机制）来优化LLM代理循环中能力选择的方法，涵盖技能、工具和MCP（模型上下文协议）的动态选取。通过环境中的标记引导代理自主选择合适能力，旨在提升代理系统的灵活性与效率，适用于复杂任务分解、多工具调用及多代理协作等场景。目前该方案处于理论探讨阶段，缺乏实际验证，但为LLM代理能力编排提供了新颖思路。",
+  "tags": [
+    "stigmergy",
+    "llm-agents",
+    "capability-selection",
+    "tools",
+    "skills",
+    "mcp"
+  ],
+  "score": 6,
+  "published_at": "Wed, 03 Jun 2026 23:06:36 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108330+00:00",
+  "analyzed_at": "2026-06-04T11:00:56.155911+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260604-018",
+  "title": "对长文本输出评估中“LLM作为评判者”方法的基准测试",
+  "source_url": "https://arxiv.org/abs/2606.01629",
+  "source_type": "hackernews",
+  "summary": "该论文系统性地评测了使用大型语言模型（LLM）作为评判者来评估长文本输出质量的方法。研究构建了专门的基准测试，涵盖多种长文本生成任务（如摘要、问答、创作），并对比了不同LLM（如GPT-4、Claude等）作为评判者的准确性、一致性和偏好偏差。实验表明，LLM-as-a-Judge在长文本评估中具有潜力，但仍存在对事实性、连贯性的判断不稳定等问题。该工作为自动化质量评估、内容审核、教育评分等场景提供了基准工具和优化方向，尤其适用于需要快速、低成本评估大规模长文本生成结果的领域。",
+  "tags": [
+    "llm",
+    "benchmarking",
+    "evaluation",
+    "long-form",
+    "text-generation",
+    "quality-assessment"
+  ],
+  "score": 7,
+  "published_at": "Wed, 03 Jun 2026 04:48:08 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108515+00:00",
+  "analyzed_at": "2026-06-04T11:01:52.069842+00:00",
+  "status": "published"
+}

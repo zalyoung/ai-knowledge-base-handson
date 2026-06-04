@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260604-007",
+  "title": "Anchor：零依赖的大语言模型幻觉检测器",
+  "source_url": "https://github.com/malaxiya202505https://github.com/malaxiya20250530-glitch/anchor-llm-in-truth",
+  "source_type": "hackernews",
+  "summary": "Anchor 是一个轻量级的零依赖库，专门用于检测大语言模型（LLM）生成的文本中的幻觉（即与事实不一致的内容）。它通过简洁的接口集成到现有系统，无需额外安装复杂依赖，适合快速部署和资源受限环境。尽管目前社区活跃度较低，但其零依赖设计在需要高度可控或轻量化部署的场景下具有实用价值。",
+  "tags": [
+    "llm",
+    "hallucination-detection",
+    "zero-dependency",
+    "python",
+    "tool"
+  ],
+  "score": 6,
+  "published_at": "Wed, 03 Jun 2026 22:35:25 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108364+00:00",
+  "analyzed_at": "2026-06-04T11:01:00.841624+00:00",
+  "status": "published"
+}

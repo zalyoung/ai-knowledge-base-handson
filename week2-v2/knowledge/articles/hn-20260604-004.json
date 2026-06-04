@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260604-004",
+  "title": "Suture：修复LLM流中被截断JSON的反向代理",
+  "source_url": "https://github.com/tensorhq/suture-stream-repair",
+  "source_type": "hackernews",
+  "summary": "Suture 是一个专门为大型语言模型（LLM）流式输出设计的反向代理工具，能够自动检测并修复因网络传输或模型中断而导致的 JSON 截断问题。它适用于实时对话、流式推理等场景，确保下游系统接收到结构完整的 JSON 数据，避免解析错误。该项目基于 GitHub 开源，提供轻量级集成方案，对构建可靠的 LLM 应用管道有实用价值。",
+  "tags": [
+    "reverse-proxy",
+    "json-repair",
+    "llm",
+    "streaming",
+    "truncation",
+    "error-recovery",
+    "proxy"
+  ],
+  "score": 7,
+  "published_at": "Thu, 04 Jun 2026 03:36:32 +0000",
+  "fetched_at": "2026-06-04T10:58:58.108305+00:00",
+  "analyzed_at": "2026-06-04T11:00:47.674099+00:00",
+  "status": "published"
+}
