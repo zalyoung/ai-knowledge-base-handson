@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260605-002",
+  "title": "Aisop：用Mermaid或JSON流程图定义AI代理工作流",
+  "source_url": "https://github.com/AIXP-Labs/AISOP",
+  "source_type": "hackernews",
+  "summary": "Aisop是一个开源项目，允许开发者使用Mermaid图表语法或JSON格式来定义AI代理的工作流。它将复杂的工作流转化为可视化的流程图，从而简化了agent的构建、调试和文档化过程。该项目适用于需要灵活配置AI代理流程的场景，如自动化任务编排、智能客服、数据处理流水线等，能够显著提升工作流的可读性和可维护性。尽管社区活跃度较低，但其设计思路具有一定的创新性。",
+  "tags": [
+    "mermaid",
+    "json",
+    "ai-agent",
+    "workflow",
+    "flow-graph",
+    "open-source"
+  ],
+  "score": 7,
+  "published_at": "Fri, 05 Jun 2026 02:28:02 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854458+00:00",
+  "analyzed_at": "2026-06-05T11:28:25.600397+00:00",
+  "status": "published"
+}

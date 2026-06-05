@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260605-011",
+  "title": "在笔记应用中嵌入AI代理：打造个性化知识助手",
+  "source_url": "https://medium.com/@amatyushentsev/my-ai-agent-lives-in-my-notes-app-7c5d79c72126",
+  "source_type": "hackernews",
+  "summary": "本文介绍作者如何将自己的AI代理直接部署在笔记应用中，实现智能笔记管理、自动问答和上下文感知任务。通过将LLM代理与笔记工具（如Obsidian、Notion或Apple Notes）集成，用户可构建一个实时响应的个人知识助手，自动整理信息、生成摘要、提醒待办事项，甚至与外部API交互。该方案利用了笔记应用的本地数据结构和AI代理的对话能力，适用于知识工作者、学生和创作者需要高效管理信息流的场景，技术门槛低且可定制性强。",
+  "tags": [
+    "ai-agent",
+    "notes-app",
+    "knowledge-management",
+    "productivity",
+    "personal-assistant",
+    "llm-agents"
+  ],
+  "score": 7,
+  "published_at": "Thu, 04 Jun 2026 07:09:46 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854630+00:00",
+  "analyzed_at": "2026-06-05T11:29:08.729399+00:00",
+  "status": "published"
+}

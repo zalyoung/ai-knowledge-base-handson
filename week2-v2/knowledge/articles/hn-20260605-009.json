@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260605-009",
+  "title": "AgentRail：面向AI代理的网站友好层",
+  "source_url": "https://github.com/gharibyan/agentrail",
+  "source_type": "hackernews",
+  "summary": "AgentRail 是一个为 AI 代理设计的网站友好层，旨在简化代理与网站之间的交互。它可能提供统一接口或协议，帮助代理更高效地访问、解析和操作网页内容。适用于需要自动化浏览、数据提取或任务执行的 AI 系统。通过抽象底层复杂性，AgentRail 提升了代理的可扩展性和开发效率。",
+  "tags": [
+    "ai-agents",
+    "web-interaction",
+    "middleware",
+    "automation",
+    "tooling"
+  ],
+  "score": 7,
+  "published_at": "Thu, 04 Jun 2026 08:22:32 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854599+00:00",
+  "analyzed_at": "2026-06-05T11:28:59.663138+00:00",
+  "status": "published"
+}

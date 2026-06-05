@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260605-005",
+  "title": "免费AI代理审计工具：Shopify产品目录智能诊断",
+  "source_url": "https://aicatalogscore.com/audit/burtsbeesbaby.com",
+  "source_type": "hackernews",
+  "summary": "该工具提供免费的AI代理审计服务，针对Shopify电商目录进行深度分析。通过自动抓取和解析产品页面，利用AI agent评估目录完整性、描述质量、图片优化等关键指标，并给出改进建议。目前已覆盖约120万条记录，适用于Shopify商家快速发现产品页面短板、提升转化率。无需注册即可使用，输入任意Shopify域名即可获得详细审计报告。",
+  "tags": [
+    "shopify",
+    "ai",
+    "audit",
+    "ecommerce",
+    "catalog",
+    "free-tool",
+    "seo"
+  ],
+  "score": 7,
+  "published_at": "Thu, 04 Jun 2026 15:20:18 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854528+00:00",
+  "analyzed_at": "2026-06-05T11:28:40.769405+00:00",
+  "status": "published"
+}

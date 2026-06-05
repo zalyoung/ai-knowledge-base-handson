@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260605-014",
+  "title": "Meta AI客服助手全球上线WhatsApp Business",
+  "source_url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+  "source_type": "hackernews",
+  "summary": "Meta宣布其面向WhatsApp Business的AI代理现已全球可用，该AI助手可帮助商家自动回复客户咨询、处理订单、提供常见问题解答等，显著提升客户服务效率。基于Meta的Llama模型，支持多语言和个性化设置，适用于电商、本地服务等中小企业场景，降低运营成本并改善用户体验。",
+  "tags": [
+    "ai-agent",
+    "whatsapp-business",
+    "customer-service",
+    "meta",
+    "llm",
+    "chatbot"
+  ],
+  "score": 6,
+  "published_at": "Wed, 03 Jun 2026 16:00:57 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854673+00:00",
+  "analyzed_at": "2026-06-05T11:29:21.382170+00:00",
+  "status": "published"
+}

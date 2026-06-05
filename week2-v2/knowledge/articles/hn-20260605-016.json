@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260605-016",
+  "title": "从零构建基础AI智能体：工具篇",
+  "source_url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-tools-4fcd71ea33be",
+  "source_type": "hackernews",
+  "summary": "本文详细介绍了如何从零开始构建一个基础的AI智能体，并重点讲解了工具（Tools）模块的设计与实现。作者通过实战代码演示了如何将外部功能（如计算器、网络搜索等）封装成工具，并集成到智能体的决策流程中。文章适合对AI智能体工作原理感兴趣、希望理解工具抽象与调用机制的开发者，是入门级但极具实践指导意义的教程。",
+  "tags": [
+    "ai",
+    "agent",
+    "tools",
+    "tutorial",
+    "python"
+  ],
+  "score": 7,
+  "published_at": "Wed, 03 Jun 2026 13:31:26 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854701+00:00",
+  "analyzed_at": "2026-06-05T11:29:31.651984+00:00",
+  "status": "published"
+}

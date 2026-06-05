@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260605-008",
+  "title": "Knox：在AI代理执行工具调用前进行治理的开源方案",
+  "source_url": "https://github.com/qoris-ai/knox",
+  "source_type": "hackernews",
+  "summary": "Knox 是一个开源工具，专注于在AI代理（agent）执行工具调用（tool calls）之前对其进行治理和控制。它通过预定义的安全策略、访问控制和权限检查，确保agent的行为符合预期，防止误用或恶意操作。该项目适用于需要安全可控地部署AI代理的企业场景，尤其适合金融、医疗等对合规性要求高的领域。Knox 能有效降低agent自主决策带来的风险，提升AI系统的可信度。",
+  "tags": [
+    "ai-agent",
+    "governance",
+    "security",
+    "tool-calls",
+    "guardrails"
+  ],
+  "score": 7,
+  "published_at": "Thu, 04 Jun 2026 11:36:32 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854583+00:00",
+  "analyzed_at": "2026-06-05T11:28:55.216827+00:00",
+  "status": "published"
+}

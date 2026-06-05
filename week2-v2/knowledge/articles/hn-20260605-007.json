@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260605-007",
+  "title": "一个基于GitOps风格的AI代理工作流、技能和MCP服务器注册表",
+  "source_url": "https://github.com/Friz-zy/ai-capability-registry",
+  "source_type": "hackernews",
+  "summary": "该项目提出了一种GitOps风格的注册表，用于管理AI代理的工作流、技能和MCP（Model Context Protocol）服务器。通过将配置声明式地存储在Git仓库中，实现了版本控制、协作和可追溯性，类似于基础设施即代码（IaC）的做法。适用于需要统一管理多种AI能力的开发团队，能够简化部署和更新流程，提升AI代理系统的可维护性和可靠性。",
+  "tags": [
+    "gitops",
+    "ai-agent",
+    "workflow",
+    "skills",
+    "mcp",
+    "registry",
+    "infrastructure-as-code"
+  ],
+  "score": 7,
+  "published_at": "Thu, 04 Jun 2026 12:21:17 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854560+00:00",
+  "analyzed_at": "2026-06-05T11:28:51.357455+00:00",
+  "status": "published"
+}

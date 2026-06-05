@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260605-017",
+  "title": "用图数据库替代扁平事实存储：本地AI代理的85MB知识图谱实践",
+  "source_url": "https://news.ycombinator.com/item?id=48383578",
+  "source_type": "hackernews",
+  "summary": "本文介绍了作者在LocalClaw框架中将扁平JSONL事实存储迁移至图数据库FalkorDB的实践。该方案通过图遍历、向量搜索和混合关键词查询，实现了多跳推理与事实演化追踪，系统占用仅85MB。作者还提出实体提取优化方法：通过预先注入图数据库中的已分类实体，提升小模型的NER准确性。评分公式融合语义相似度（0.5）、时效性（0.2）和重要性（0.3），确保关键信息优先呈现。该方案适合本地优先、无云的AI代理系统。",
+  "tags": [
+    "graph-database",
+    "ai-agent",
+    "knowledge-graph",
+    "falkordb",
+    "vector-search",
+    "local-model",
+    "entity-extraction"
+  ],
+  "score": 8,
+  "published_at": "Wed, 03 Jun 2026 13:15:33 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854769+00:00",
+  "analyzed_at": "2026-06-05T11:29:38.205043+00:00",
+  "status": "published"
+}

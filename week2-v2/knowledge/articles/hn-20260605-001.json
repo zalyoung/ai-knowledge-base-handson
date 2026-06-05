@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260605-001",
+  "title": "一站式AI客服代理：Seaticket.ai",
+  "source_url": "https://news.ycombinator.com/item?id=48408263",
+  "source_type": "hackernews",
+  "summary": "Seaticket.ai 提供单一的AI代理解决方案，旨在处理所有客户支持问题。该工具通过自然语言处理技术自动响应常见咨询、工单分类和问题解决，适用于电商、SaaS、技术客服等需要快速响应的业务场景。其亮点在于统一接口简化集成，减少人工干预，提升效率。尽管当前Hacker News社区关注度较低（3分、1条评论），但作为展示性项目，展现了AI在客服领域的实用潜力。",
+  "tags": [
+    "ai-agent",
+    "customer-support",
+    "nlp",
+    "automation",
+    "helpdesk"
+  ],
+  "score": 6,
+  "published_at": "Fri, 05 Jun 2026 05:15:50 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854406+00:00",
+  "analyzed_at": "2026-06-05T11:28:20.652810+00:00",
+  "status": "published"
+}

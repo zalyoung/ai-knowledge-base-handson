@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260605-010",
+  "title": "Gate：AI代理工具输出的确定性PII脱敏工具（Rust实现）",
+  "source_url": "https://github.com/GaaraZhu/gate",
+  "source_type": "hackernews",
+  "summary": "Gate 是一个基于 Rust 的确定性个人身份信息（PII）脱敏工具，专为 AI 代理工具的输出设计。它采用确定性算法确保同一输入在不同场景下脱敏结果一致，避免对模型推理或下游任务造成干扰，并提升隐私保护的可靠性。该工具适用于需要严格隐私保护的 AI 系统，如客服问答、代码生成等场景，可在不牺牲输出稳定性的前提下过滤敏感信息。项目代码开源，地址为 https://github.com/GaaraZhu/gate。",
+  "tags": [
+    "pii",
+    "redaction",
+    "ai-agent",
+    "rust",
+    "deterministic",
+    "privacy",
+    "security"
+  ],
+  "score": 7,
+  "published_at": "Thu, 04 Jun 2026 07:28:09 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854615+00:00",
+  "analyzed_at": "2026-06-05T11:29:04.308889+00:00",
+  "status": "published"
+}

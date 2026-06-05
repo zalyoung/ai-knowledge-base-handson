@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260605-015",
+  "title": "能自主唤醒的个人AI代理",
+  "source_url": "https://github.com/Aitne-sh/Aitne",
+  "source_type": "hackernews",
+  "summary": "这是一个个人AI代理的开源项目，其核心特点是能够自主调度唤醒时间，无需用户手动触发。它通过集成LLM和任务调度机制，允许用户用自然语言设定规则，代理会在指定时间或条件满足时自动唤醒并执行任务，例如发送提醒、运行脚本或查询数据。该项目适用于需要无人值守的自动化场景，如个人助理、智能家居控制或工作流自动化。由于项目较新，社区活跃度较低，但技术创新性在于将AI代理的被动响应转变为主动调度。",
+  "tags": [
+    "ai",
+    "personal-assistant",
+    "scheduler",
+    "automation",
+    "wake-up",
+    "open-source"
+  ],
+  "score": 6,
+  "published_at": "Wed, 03 Jun 2026 15:49:33 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854686+00:00",
+  "analyzed_at": "2026-06-05T11:29:26.936727+00:00",
+  "status": "published"
+}

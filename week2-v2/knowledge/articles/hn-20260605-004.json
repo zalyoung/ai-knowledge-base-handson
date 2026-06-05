@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260605-004",
+  "title": "苹果批准Poke作为首个AI代理登陆Messages for Business平台",
+  "source_url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+  "source_type": "hackernews",
+  "summary": "苹果公司首次批准AI代理Poke在其Messages for Business平台上运行，标志着企业客户服务领域的重要里程碑。Poke利用先进的自然语言处理技术，能够自动处理客户咨询、提供即时响应和个性化服务，从而提升企业沟通效率。该AI代理适用于零售、金融、旅游等行业，帮助企业降低人工客服成本，同时保持高水平的客户体验。苹果的批准意味着Poke通过了严格的安全和隐私审查，确保了企业数据的安全。这一创新为AI在商业消息领域的应用开辟了新道路，预计将推动更多企业采用AI驱动客户互动。",
+  "tags": [
+    "apple",
+    "ai-agent",
+    "messages-for-business",
+    "customer-service",
+    "automation",
+    "enterprise"
+  ],
+  "score": 8,
+  "published_at": "Thu, 04 Jun 2026 20:50:15 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854505+00:00",
+  "analyzed_at": "2026-06-05T11:28:35.154486+00:00",
+  "status": "published"
+}

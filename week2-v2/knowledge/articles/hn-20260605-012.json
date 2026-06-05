@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260605-012",
+  "title": "AI代理：自动解决所有支持问题的工具",
+  "source_url": "https://news.ycombinator.com/item?id=48393046",
+  "source_type": "hackernews",
+  "summary": "该工具是一个AI代理，旨在自动处理和支持解决各种用户问题，适用于客户服务、IT支持等场景。通过自然语言理解和自动化流程，它能够快速响应常见问题，减少人工干预，提升效率。虽然技术创新性一般，但实用性较强，适合中小型团队快速部署。社区活跃度较低（HN帖子仅2分、1条评论），但作为Show HN项目展示了AI在客服领域的应用潜力。",
+  "tags": [
+    "ai-agent",
+    "customer-support",
+    "automation",
+    "helpdesk",
+    "chatbot",
+    "support-tool"
+  ],
+  "score": 6,
+  "published_at": "Thu, 04 Jun 2026 02:45:11 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854643+00:00",
+  "analyzed_at": "2026-06-05T11:29:12.667714+00:00",
+  "status": "published"
+}

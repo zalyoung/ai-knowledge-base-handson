@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260605-013",
+  "title": "基于eBPF的AI智能体系统级追踪监控工具AgentSight",
+  "source_url": "https://github.com/eunomia-bpf/agentsight",
+  "source_type": "hackernews",
+  "summary": "AgentSight 是一个利用 eBPF（扩展伯克利包过滤器）技术实现系统级 AI 智能体（Agent）追踪与监控的开源工具。它无需修改应用代码，即可低成本、高精度地捕获 AI Agent 在操作系统层的调用轨迹、资源消耗和交互行为，为 AI 应用提供透明的可观测性。该工具特别适合 AI Agent 调试、性能剖析、安全审计及容量规划等场景，能帮助开发者洞察 LLM 驱动的智能体与系统内核的交互细节，显著提升 AI Agent 的调试效率和运维透明度。项目由 eunomia-bpf 团队开发，目前处于早期阶段，但技术方向具有前瞻性。",
+  "tags": [
+    "ebpf",
+    "ai",
+    "monitoring",
+    "tracing",
+    "agent",
+    "observability"
+  ],
+  "score": 7,
+  "published_at": "Wed, 03 Jun 2026 17:13:19 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854657+00:00",
+  "analyzed_at": "2026-06-05T11:29:17.307402+00:00",
+  "status": "published"
+}

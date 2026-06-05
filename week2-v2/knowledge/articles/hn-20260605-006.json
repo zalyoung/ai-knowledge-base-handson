@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260605-006",
+  "title": "Attow Nexus：AI Agent状态的版本控制系统",
+  "source_url": "https://github.com/sharb1235-hash/attow-nexus",
+  "source_type": "hackernews",
+  "summary": "Attow Nexus 是一个将 Git 版本控制理念应用于 AI 代理（Agent）状态管理的开源工具。它允许开发者像管理代码一样追踪、回滚和协作管理 AI 代理的内部状态，包括记忆、环境和行为配置。适用于需要长期运行或状态敏感的 AI 应用场景，如对话系统的上下文保持、机器人任务状态恢复和多代理协作调试。该项目借鉴了 Git 的分布式架构，旨在提升 AI 代理的可维护性和可复现性，目前处于早期开发阶段。",
+  "tags": [
+    "git",
+    "ai",
+    "version-control",
+    "state-management",
+    "agent",
+    "developer-tools"
+  ],
+  "score": 5,
+  "published_at": "Thu, 04 Jun 2026 12:55:12 +0000",
+  "fetched_at": "2026-06-05T11:26:34.854545+00:00",
+  "analyzed_at": "2026-06-05T11:28:46.012184+00:00",
+  "status": "published"
+}
