@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260606-005",
+  "title": "Apple 批准 Poke 成为 iMessage 平台首个 AI 代理",
+  "source_url": "https://twitter.com/interaction/status/2062575428213285352",
+  "source_type": "hackernews",
+  "summary": "Poke 获得了苹果的官方批准，成为 iMessage 平台上首个 AI 代理。这一举措标志着苹果在消息应用内集成人工智能方面迈出了关键一步，允许用户在 iMessage 内直接调用 AI 完成信息查询、任务执行等操作。Poke 需遵守苹果严格的隐私和安全规范，体现了苹果在推动 AI 创新同时保持用户数据保护的态度。尽管目前社区讨论度较低，但该批准为开发者提供了在 iMessage 生态中构建 AI 驱动的消息代理的新方向。",
+  "tags": [
+    "apple",
+    "imessage",
+    "ai-agent",
+    "poke",
+    "messaging",
+    "ai-assistant",
+    "approval"
+  ],
+  "score": 7,
+  "published_at": "Fri, 05 Jun 2026 11:33:13 +0000",
+  "fetched_at": "2026-06-06T10:01:52.069471+00:00",
+  "analyzed_at": "2026-06-06T10:04:22.252207+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260606-004",
+  "title": "Hermes Agent - 具有持久记忆的开源AI Agent",
+  "source_url": "https://hermes-agent.org/",
+  "source_type": "hackernews",
+  "summary": "Hermes Agent 是一款开源的人工智能代理，其核心亮点在于支持持久化记忆。与传统的无状态AI助手不同，该代理能够跨会话保留上下文和用户偏好，实现更连贯、个性化的交互体验。适用于个人助理、知识管理、长期任务执行等需要持续学习和记忆的应用场景。该项目基于可扩展架构，为开发者提供了构建复杂AI工作流的开放平台。",
+  "tags": [
+    "ai-agent",
+    "open-source",
+    "persistent-memory",
+    "conversational-ai",
+    "memory-management"
+  ],
+  "score": 6,
+  "published_at": "Fri, 05 Jun 2026 22:09:38 +0000",
+  "fetched_at": "2026-06-06T10:01:52.069454+00:00",
+  "analyzed_at": "2026-06-06T10:04:15.846510+00:00",
+  "status": "published"
+}

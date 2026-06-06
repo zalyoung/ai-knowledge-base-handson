@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260606-002",
+  "title": "使用Chat SDK和AI SDK构建Slack AI代理指南",
+  "source_url": "https://vercel.com/kb/guide/how-to-build-an-ai-agent-for-slack-with-chat-sdk-and-ai-sdk",
+  "source_type": "hackernews",
+  "summary": "本文来自Vercel官方指南，详细介绍了如何利用Chat SDK和AI SDK为Slack构建一个智能AI代理。内容涵盖环境配置、消息处理、事件触发及AI响应集成，展示了如何将大型语言模型能力无缝嵌入Slack工作流。适合希望为团队协作平台添加自动化问答、任务处理等智能功能的开发者。教程步骤清晰，实用性强，但技术架构依赖Vercel生态，创新性中等。",
+  "tags": [
+    "slack",
+    "ai-agent",
+    "chat-sdk",
+    "ai-sdk",
+    "vercel",
+    "tutorial"
+  ],
+  "score": 6,
+  "published_at": "Sat, 06 Jun 2026 04:34:58 +0000",
+  "fetched_at": "2026-06-06T10:01:52.069415+00:00",
+  "analyzed_at": "2026-06-06T10:04:03.944067+00:00",
+  "status": "published"
+}

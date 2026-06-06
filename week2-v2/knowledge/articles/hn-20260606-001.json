@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260606-001",
+  "title": "Akmon：仅用 OpenSSL 离线验证 AI 代理行为",
+  "source_url": "https://github.com/radotsvetkov/akmon",
+  "source_type": "hackernews",
+  "summary": "Akmon 是一个轻量级工具，利用 OpenSSL 实现离线验证 AI 代理操作的真实性和完整性。它无需额外依赖，即可对 AI 代理的日志、数据或执行记录进行数字签名和验证，确保行为不可篡改且可追溯。适用于需要可信审计的 AI 应用场景，如自动化决策、机器人流程自动化等，特别适合对安全性和透明性要求较高的离线环境。项目刚发布，社区活跃度待观察。",
+  "tags": [
+    "ai-security",
+    "openssl",
+    "verification",
+    "audit",
+    "offline"
+  ],
+  "score": 6,
+  "published_at": "Sat, 06 Jun 2026 09:24:14 +0000",
+  "fetched_at": "2026-06-06T10:01:52.069383+00:00",
+  "analyzed_at": "2026-06-06T10:03:59.206374+00:00",
+  "status": "published"
+}
