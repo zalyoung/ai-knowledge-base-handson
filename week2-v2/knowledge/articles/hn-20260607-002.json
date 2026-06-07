@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260607-002",
+  "title": "AI Agent的每个功能都是缓存失效面",
+  "source_url": "https://www.openclacky.com/engineering/cache-invalidation-surface",
+  "source_type": "hackernews",
+  "summary": "本文提出一个独特的观点：在构建AI Agent系统时，每个新功能都可能成为缓存失效的潜在触发点。作者认为，由于Agent需要动态感知上下文、实时更新状态，传统的缓存策略难以适用，而功能扩展会引入更多失效模式。文章分析了设计缓存失效策略时需要考虑的权衡，并给出了通过抽象失效表面来优化系统性能的建议。适用于需要高响应性的Agent架构设计场景。",
+  "tags": [
+    "ai",
+    "agent",
+    "cache",
+    "invalidation",
+    "architecture",
+    "performance"
+  ],
+  "score": 7,
+  "published_at": "Sat, 06 Jun 2026 15:38:12 +0000",
+  "fetched_at": "2026-06-07T10:27:01.063121+00:00",
+  "analyzed_at": "2026-06-07T10:28:41.346898+00:00",
+  "status": "published"
+}

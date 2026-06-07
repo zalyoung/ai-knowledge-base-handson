@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260607-001",
+  "title": "Persist AI：自动跟进潜在客户直到获得回复的AI销售代理",
+  "source_url": "https://persist.chat",
+  "source_type": "hackernews",
+  "summary": "Persist.chat 是一个AI销售代理，能够自动向潜在客户发送个性化邮件或短信，并持续跟进直到获得回复或完成销售。支持从LinkedIn和邮件列表中发现线索，也允许用户上传自己的客户列表。通过配置智能序列和状态感知消息，避免被标记为垃圾邮件，帮助初创企业和个人开发者以较低成本实现从0到1的客户转化，替代昂贵且不精准的广告投放。目前开放早期免费访问。",
+  "tags": [
+    "ai",
+    "sales",
+    "automation",
+    "lead-generation",
+    "email-marketing",
+    "outreach",
+    "cold-email",
+    "personalization"
+  ],
+  "score": 6,
+  "published_at": "Sun, 07 Jun 2026 00:35:01 +0000",
+  "fetched_at": "2026-06-07T10:27:01.063089+00:00",
+  "analyzed_at": "2026-06-07T10:28:37.669729+00:00",
+  "status": "published"
+}
