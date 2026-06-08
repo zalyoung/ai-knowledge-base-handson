@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260608-001",
+  "title": "Pizx：结合zx与Pi AI的Shell脚本工具，提供15种AI Agent模式",
+  "source_url": "https://github.com/topce/pizx",
+  "source_type": "hackernews",
+  "summary": "Pizx是一个创新的开源工具，它将流行的Shell脚本库zx与Pi AI（一种人工智能模型）相结合，为开发者提供了15种预定义的AI Agent模式，用于增强脚本编写能力。该项目旨在通过AI驱动的方式简化常见的脚本任务，如文件操作、数据处理、系统管理等。用户可以利用这些模式快速构建智能化的Shell脚本，减少手动编码的复杂性。由于该项目较新（HackerNews上点数仅为1，无评论），其社区活跃度较低，但技术思路具有创新性，适合对AI辅助编程感兴趣的开发者尝试。",
+  "tags": [
+    "shell-scripting",
+    "ai",
+    "zx",
+    "pi",
+    "agent-patterns",
+    "developer-tools"
+  ],
+  "score": 6,
+  "published_at": "Mon, 08 Jun 2026 09:43:58 +0000",
+  "fetched_at": "2026-06-08T12:26:46.995035+00:00",
+  "analyzed_at": "2026-06-08T12:28:48.670506+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260608-003",
+  "title": "Avibe：本地运行的AI代理，可通过手机远程访问",
+  "source_url": "https://github.com/avibe-bot/avibe",
+  "source_type": "hackernews",
+  "summary": "Avibe 是一个开源的 AI 代理，运行在用户自己的机器上，并允许通过手机进行远程访问。该项目强调用户隐私和数据控制，AI 代理完全在本地执行，无需依赖外部云服务。适用于需要私有化部署、低延迟响应的个人助理或自动化任务场景，如家庭自动化、文件管理或编程辅助。尽管项目尚处于早期阶段，社区活跃度较低，但其本地运行 + 手机访问的设计在隐私敏感领域具有实用价值。",
+  "tags": [
+    "ai-agent",
+    "local",
+    "privacy",
+    "remote-access",
+    "mobile",
+    "open-source"
+  ],
+  "score": 6,
+  "published_at": "Mon, 08 Jun 2026 04:08:17 +0000",
+  "fetched_at": "2026-06-08T12:26:46.995106+00:00",
+  "analyzed_at": "2026-06-08T12:28:58.617090+00:00",
+  "status": "published"
+}

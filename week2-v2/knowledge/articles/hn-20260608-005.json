@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260608-005",
+  "title": "AbTARS: 自托管AI代理，具有持久记忆与五层自愈能力",
+  "source_url": "https://github.com/aksika/abtars",
+  "source_type": "hackernews",
+  "summary": "AbTARS是一个自托管的AI代理系统，核心特性包括持久记忆（persistent memory）和五层自愈机制（5-layer self-healing）。该设计旨在为长期运行的任务提供稳定性与数据连续性，适用于需要自主决策、记忆回溯和高可靠性的本地部署场景（如个人助手、自动化工作流）。其自愈架构可分层应对不同等级故障，增强系统韧性。当前项目处于早期阶段，GitHub活跃度较低。",
+  "tags": [
+    "ai-agent",
+    "self-hosted",
+    "persistent-memory",
+    "self-healing",
+    "llm"
+  ],
+  "score": 6,
+  "published_at": "Sun, 07 Jun 2026 17:34:42 +0000",
+  "fetched_at": "2026-06-08T12:26:46.995167+00:00",
+  "analyzed_at": "2026-06-08T12:29:08.767350+00:00",
+  "status": "published"
+}
