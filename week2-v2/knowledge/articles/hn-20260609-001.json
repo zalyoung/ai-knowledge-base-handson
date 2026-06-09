@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260609-001",
+  "title": "CalmSEO：为AI代理提供关键词与Google Search Console分析工具",
+  "source_url": "https://calmseo.com/",
+  "source_type": "hackernews",
+  "summary": "CalmSEO 是一款专为AI代理设计的SEO工具，集成了关键词研究和Google Search Console数据分析功能。它帮助AI代理自动完成关键词挖掘、性能监控和优化建议，简化了SEO工作流。适用于需要集成SEO能力的AI代理开发者或自动化营销场景，通过API接口快速获取搜索数据。目前项目刚在Hacker News上发布，社区反馈较少，但其针对AI代理的垂直整合思路具有一定创新性。",
+  "tags": [
+    "seo",
+    "ai",
+    "agents",
+    "keyword-research",
+    "google-search-console",
+    "tools",
+    "automation"
+  ],
+  "score": 6,
+  "published_at": "Tue, 09 Jun 2026 06:56:46 +0000",
+  "fetched_at": "2026-06-09T10:58:27.199293+00:00",
+  "analyzed_at": "2026-06-09T11:00:15.498106+00:00",
+  "status": "published"
+}

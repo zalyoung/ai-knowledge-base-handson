@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260609-004",
+  "title": "Guarden：基于OPA的AI代理动作授权工具",
+  "source_url": "https://github.com/las7/Guarden",
+  "source_type": "hackernews",
+  "summary": "Guarden是一个开源工具，利用Open Policy Agent (OPA) 为AI代理提供细粒度的授权控制。它允许开发者定义策略来限制AI代理可以执行的操作，确保AI系统的安全性和合规性。适用于需要严格权限控制的AI应用场景，如自动化工作流、智能助手等。通过OPA的策略引擎，Guarden能够实现灵活、可扩展的授权策略管理。",
+  "tags": [
+    "authorization",
+    "opa",
+    "ai-agent",
+    "security",
+    "policy-management",
+    "open-source"
+  ],
+  "score": 7,
+  "published_at": "Mon, 08 Jun 2026 19:20:01 +0000",
+  "fetched_at": "2026-06-09T10:58:27.199364+00:00",
+  "analyzed_at": "2026-06-09T11:00:31.881164+00:00",
+  "status": "published"
+}

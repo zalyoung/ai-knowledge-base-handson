@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260609-003",
+  "title": "AI代理即用即付的Web工具：基于USDC微支付与x402+MCP协议",
+  "source_url": "https://superhighway.walls.sh",
+  "source_type": "hackernews",
+  "summary": "该项目提出了一种新颖的Web工具使用模式：AI代理可以直接通过USDC（一种稳定币）按调用次数付费，而无需传统的API密钥。它结合了x402（HTTP状态码扩展，用于要求支付）和MCP（可能是Model Context Protocol或类似微支付协议），实现自动化、原子化的支付流程。开发者可以构建无需手动管理API密钥、按实际用量结算的AI服务。适用于需要频繁调用外部工具且希望降低预付成本、提高支付透明度的AI代理场景，如自动化工作流、数据获取、智能合约交互等。项目尚处于早期阶段，社区关注度较低，但概念有一定创新性。",
+  "tags": [
+    "web-tools",
+    "ai-agent",
+    "usdc",
+    "micropayments",
+    "x402",
+    "mcp",
+    "no-api-key",
+    "pay-per-call"
+  ],
+  "score": 6,
+  "published_at": "Tue, 09 Jun 2026 00:30:43 +0000",
+  "fetched_at": "2026-06-09T10:58:27.199342+00:00",
+  "analyzed_at": "2026-06-09T11:00:27.232868+00:00",
+  "status": "published"
+}

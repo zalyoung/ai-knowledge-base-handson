@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260609-006",
+  "title": "Tech Team Agents：将著名科技团队转化为 AI 代理角色",
+  "source_url": "https://github.com/cliffano/tech-team-agents",
+  "source_type": "hackernews",
+  "summary": "Tech Team Agents 是一个有趣的开源项目，它基于热门影视作品中的虚构技术团队（如《硅谷》中的 Gilfoyle）创建了 AI 代理角色。这些角色可以用于代码审查、基础设施分析等任务，既实用又带有强烈的个人风格。项目突出了个性化和娱乐性，适合开发者社区内部调侃或进行趣味性代码检查，但实际应用场景有限。",
+  "tags": [
+    "ai-agents",
+    "personas",
+    "tech-teams",
+    "humor",
+    "code-review",
+    "silicon-valley"
+  ],
+  "score": 6,
+  "published_at": "Mon, 08 Jun 2026 12:27:30 +0000",
+  "fetched_at": "2026-06-09T10:58:27.199404+00:00",
+  "analyzed_at": "2026-06-09T11:00:40.867028+00:00",
+  "status": "published"
+}

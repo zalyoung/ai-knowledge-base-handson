@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260609-002",
+  "title": "AI代理：一站式解决所有支持问题",
+  "source_url": "https://github.com/seaticket-ai",
+  "source_type": "hackernews",
+  "summary": "该项目是一个名为seaticket-ai的AI代理工具，旨在自动处理各种支持问题。它利用人工智能技术（可能基于大型语言模型）来理解用户查询并自动生成回复，从而减少人工客服的工作量。适用于企业客户支持、技术支持、FAQ自动应答等场景，能够提升响应速度和用户满意度。虽然项目仓库信息有限，但其定位明确了AI在客服领域的实际应用价值。",
+  "tags": [
+    "ai",
+    "support",
+    "agent",
+    "customer-service",
+    "chatbot",
+    "automation"
+  ],
+  "score": 6,
+  "published_at": "Tue, 09 Jun 2026 02:05:20 +0000",
+  "fetched_at": "2026-06-09T10:58:27.199324+00:00",
+  "analyzed_at": "2026-06-09T11:00:20.304541+00:00",
+  "status": "published"
+}

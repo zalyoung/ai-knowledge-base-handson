@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260609-007",
+  "title": "从零构建基础AI智能体：长任务规划",
+  "source_url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-planning/",
+  "source_type": "hackernews",
+  "summary": "本文是一篇技术教程，详细讲解了如何从零开始构建一个基础的AI智能体（Agent），重点聚焦于长任务规划（Long Task Planning）。作者通过清晰的步骤和示例代码，展示了如何设计一个能够分解并执行复杂长期任务的智能体架构，包括任务分解、依赖管理、执行调度等核心模块。适用于希望深入理解AI Agent内部机制、对自主任务规划感兴趣的开发者和研究者，尤其是需要处理多步骤、长期目标的场景。该教程实践性强，适合中级以上开发者动手学习。",
+  "tags": [
+    "ai",
+    "agent",
+    "planning",
+    "tutorial",
+    "long-task"
+  ],
+  "score": 7,
+  "published_at": "Mon, 08 Jun 2026 12:23:32 +0000",
+  "fetched_at": "2026-06-09T10:58:27.199419+00:00",
+  "analyzed_at": "2026-06-09T11:00:44.574679+00:00",
+  "status": "published"
+}

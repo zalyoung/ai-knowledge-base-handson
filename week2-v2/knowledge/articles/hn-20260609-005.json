@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260609-005",
+  "title": "如何在不降低智能水平的情况下降低长AI代理线程的成本",
+  "source_url": "https://viktor.com/blog/how-we-built-viktor-around-prompt-caching",
+  "source_type": "hackernews",
+  "summary": "本文介绍了Viktor平台如何通过实现提示缓存（prompt caching）机制来降低长AI代理线程的推理成本，同时保持代理的智能水平。作者分享了构建系统时的核心设计思路：通过缓存高频重复的提示前缀、优化上下文窗口使用以及复用中间计算结果，显著减少API调用次数和延迟。该方法适用于需要长时间运行、多轮交互的AI代理场景，如客服、编程助手等，能够在保证响应质量的前提下将成本降低30%-70%。文章还讨论了缓存失效策略与动态提示剪枝等工程细节，为开发者提供了一套实用的成本优化方案。",
+  "tags": [
+    "ai",
+    "agents",
+    "cost-optimization",
+    "prompt-caching",
+    "performance",
+    "large-language-models"
+  ],
+  "score": 8,
+  "published_at": "Mon, 08 Jun 2026 17:26:25 +0000",
+  "fetched_at": "2026-06-09T10:58:27.199383+00:00",
+  "analyzed_at": "2026-06-09T11:00:36.886000+00:00",
+  "status": "published"
+}

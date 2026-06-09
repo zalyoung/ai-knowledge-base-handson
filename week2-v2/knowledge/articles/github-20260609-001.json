@@ -1,0 +1,22 @@
+{
+  "id": "github-20260609-001",
+  "title": "跨平台社交媒体AI研究工具：last30days-skill",
+  "source_url": "https://github.com/mvanhorn/last30days-skill",
+  "source_type": "github_trending",
+  "summary": "这是一个基于Claude等大语言模型的AI代理技能，能够同时在Reddit、X（Twitter）、YouTube、Hacker News、Polymarket、Instagram、TikTok、Bluesky等多个社交平台及网页上进行主题搜索，并自动合成有依据的摘要。项目以Python实现，专注于近30天内的实时内容，适用于市场调研、趋势分析、舆情监控和快速信息综合等场景。星标数超过3.5万，社区关注度极高，是当前最热门的AI驱动信息聚合工具之一。",
+  "tags": [
+    "ai-agent",
+    "deep-research",
+    "social-media",
+    "trends",
+    "reddit",
+    "twitter",
+    "youtube",
+    "summary"
+  ],
+  "score": 9,
+  "published_at": "2026-01-23T20:37:37Z",
+  "fetched_at": "2026-06-09T10:58:26.812422+00:00",
+  "analyzed_at": "2026-06-09T11:00:10.760990+00:00",
+  "status": "published"
+}
