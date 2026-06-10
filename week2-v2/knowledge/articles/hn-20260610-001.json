@@ -1,0 +1,18 @@
+{
+  "id": "hn-20260610-001",
+  "title": "SeaTicket：使用 AI Agent 自动解决 GitHub Issues",
+  "source_url": "https://news.ycombinator.com/item?id=48473925",
+  "source_type": "hackernews",
+  "summary": "SeaTicket 是一个基于 AI Agent 的工具，能够自动分析和解决 GitHub Issues。它通过理解 issue 描述，自动生成代码修改或建议，从而提升开发者处理开源项目问题的效率。该工具旨在帮助项目维护者和贡献者更快地处理大量 issue，减少手动操作。尽管社区活跃度较低，但该工具在自动化开发流程方面具有实用价值。",
+  "tags": [
+    "ai",
+    "github-issues",
+    "developer-tools",
+    "automation"
+  ],
+  "score": 6,
+  "published_at": "Wed, 10 Jun 2026 09:54:59 +0000",
+  "fetched_at": "2026-06-10T11:37:14.276158+00:00",
+  "analyzed_at": "2026-06-10T11:39:32.702047+00:00",
+  "status": "published"
+}

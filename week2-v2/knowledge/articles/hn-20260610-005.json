@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260610-005",
+  "title": "基于TypeScript的AI代理成本防护栏",
+  "source_url": "https://github.com/salimassili62-afk/ai-costguard",
+  "source_type": "hackernews",
+  "summary": "该项目提供了一个本地运行的TypeScript防护栏（Guardrail），用于监控和控制AI代理（如调用LLM API时）的潜在成本失控风险。它能够在代理执行过程中实时检查成本消耗，一旦超过预设阈值则触发中断或告警，从而防止因循环调用或意外高消耗导致的经济损失。该工具以轻量级、本地化设计为特点，无需依赖外部服务即可嵌入到任何TypeScript项目中，适用于开发阶段和生成环境中的成本管理。其技术亮点在于将成本控制逻辑与AI代理工作流深度集成，支持自定义规则和动态阈值，为开发者提供了一种简单有效的成本防护方案。",
+  "tags": [
+    "typescript",
+    "ai",
+    "cost-control",
+    "guardrail",
+    "agent",
+    "local"
+  ],
+  "score": 6,
+  "published_at": "Tue, 09 Jun 2026 15:49:17 +0000",
+  "fetched_at": "2026-06-10T11:37:14.276258+00:00",
+  "analyzed_at": "2026-06-10T11:39:56.944283+00:00",
+  "status": "published"
+}

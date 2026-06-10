@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260610-006",
+  "title": "从零构建基础AI代理：长期任务规划",
+  "source_url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
+  "source_type": "hackernews",
+  "summary": "本文详细介绍了如何从零开始构建一个具备长期任务规划能力的AI代理。通过分解复杂目标、使用状态记忆和递归规划，代理能够自主将大任务拆解为可执行的子任务，并动态调整计划以应对变化。文章适合希望理解AI代理内部机制、而非仅使用现成框架的开发者，提供了从原理到实现的完整指南，涵盖Python实现、决策树和上下文管理。",
+  "tags": [
+    "ai-agent",
+    "task-planning",
+    "from-scratch",
+    "python",
+    "machine-learning",
+    "autonomous-systems"
+  ],
+  "score": 7,
+  "published_at": "Tue, 09 Jun 2026 14:29:34 +0000",
+  "fetched_at": "2026-06-10T11:37:14.276275+00:00",
+  "analyzed_at": "2026-06-10T11:40:01.723176+00:00",
+  "status": "published"
+}

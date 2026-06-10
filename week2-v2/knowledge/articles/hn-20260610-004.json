@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260610-004",
+  "title": "我的新同事：拥有自己电脑的AI代理",
+  "source_url": "https://www.hauser.io/i-gave-an-ai-agent-its-own-computer-and-it-changed-how-i-see-the-future-of-saas/",
+  "source_type": "hackernews",
+  "summary": "本文探讨了赋予AI代理独立计算机控制权，使其像人类同事一样自主操作软件的新范式。作者通过实际部署，展示了AI代理如何直接与操作系统交互，完成数据整理、报表生成等任务，彻底改变了传统SaaS软件的使用方式。文章预测，未来SaaS将从提供界面转向提供AI可操作的API，AI agent将成为企业中的“数字员工”，大幅提升效率。这一技术方案在自动化复杂工作流、减少人工干预方面具有显著潜力，但同时也引发了关于安全性和工作角色重塑的思考。",
+  "tags": [
+    "ai-agent",
+    "computer-use",
+    "saas",
+    "automation",
+    "future-of-work"
+  ],
+  "score": 7,
+  "published_at": "Tue, 09 Jun 2026 16:05:48 +0000",
+  "fetched_at": "2026-06-10T11:37:14.276239+00:00",
+  "analyzed_at": "2026-06-10T11:39:50.620882+00:00",
+  "status": "published"
+}
