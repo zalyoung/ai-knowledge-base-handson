@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260611-004",
+  "title": "AI智能体技能安全扫描器一致性评估：结果仅优于随机水平",
+  "source_url": "https://trymastro.com/study",
+  "source_type": "hackernews",
+  "summary": "该研究评估了多种用于AI智能体（Agent）技能的安全扫描器，发现不同扫描器对同一技能安全性的判断一致性极低，仅比随机猜测略好。这揭示了当前AI安全评估工具在可靠性和标准化方面的严重缺陷，提示开发者需谨慎依赖单一扫描结果。适用于AI安全领域的研究者和开发团队，尤其是关注Agent应用风险的人群。",
+  "tags": [
+    "ai-security",
+    "agent-skills",
+    "security-scanners",
+    "evaluation",
+    "reliability"
+  ],
+  "score": 7,
+  "published_at": "Wed, 10 Jun 2026 14:45:25 +0000",
+  "fetched_at": "2026-06-11T12:08:09.146765+00:00",
+  "analyzed_at": "2026-06-11T12:10:39.570943+00:00",
+  "status": "published"
+}

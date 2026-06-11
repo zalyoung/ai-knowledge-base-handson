@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260611-001",
+  "title": "dbt项目AI代理错误审计工具",
+  "source_url": "https://github.com/GetCassis/dbt-agent-readiness",
+  "source_type": "hackernews",
+  "summary": "dbt-agent-readiness 是一个开源工具，专门用于审计 dbt 项目，识别 AI 代理（如代码生成或自动化工具）在分析和生成 dbt 代码时可能犯的错误。它帮助数据工程师在使用 AI 辅助开发时提前发现潜在问题，确保代码质量和最佳实践。适用于任何使用 dbt 和 AI 辅助工具的数据团队，通过自动化审计提升项目可靠性。",
+  "tags": [
+    "dbt",
+    "ai",
+    "audit",
+    "data-engineering",
+    "code-review",
+    "best-practices"
+  ],
+  "score": 8,
+  "published_at": "Thu, 11 Jun 2026 11:06:28 +0000",
+  "fetched_at": "2026-06-11T12:08:09.146690+00:00",
+  "analyzed_at": "2026-06-11T12:10:23.564008+00:00",
+  "status": "published"
+}

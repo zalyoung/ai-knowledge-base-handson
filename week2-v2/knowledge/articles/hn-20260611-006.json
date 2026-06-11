@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260611-006",
+  "title": "RiskKernel：杀死AI代理后无缝恢复，避免重复付费",
+  "source_url": "https://riskkernel.com/",
+  "source_type": "hackernews",
+  "summary": "RiskKernel 是一款针对 AI 代理的轻量级检查点工具，能够捕获代理运行状态并在被强制终止（如 kill -9）后无缝恢复执行。通过将中间状态持久化到低成本存储，用户无需为中断任务重新支付 GPU 计算费用，显著降低长时间运行 AI 工作流的云成本。适用于自动化推理、模型微调、多步骤 Agent 协作等场景，尤其适合预算敏感或容错要求高的生产环境。",
+  "tags": [
+    "ai",
+    "checkpoint",
+    "resume",
+    "cost-optimization",
+    "fault-tolerance",
+    "agent"
+  ],
+  "score": 7,
+  "published_at": "Wed, 10 Jun 2026 12:37:02 +0000",
+  "fetched_at": "2026-06-11T12:08:09.146802+00:00",
+  "analyzed_at": "2026-06-11T12:10:54.586429+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260611-002",
+  "title": "开源浏览器AI代理Phantomix：OpenAI Operator的免费替代品",
+  "source_url": "https://github.com/dimitrisdimitrov5-blip/Phantomix",
+  "source_type": "hackernews",
+  "summary": "Phantomix是一个开源的浏览器自动化AI代理，旨在作为OpenAI Operator的免费替代方案。它利用AI技术实现浏览器任务的自动化执行，如数据抓取、表单填写、页面导航等。项目目前处于早期阶段，社区活跃度较低，但提供了基础框架供开发者扩展。适用场景包括自动化测试、网页数据采集、个人助理等。由于缺少详细文档和社区支持，适合技术探索者和早期采用者。",
+  "tags": [
+    "browser-automation",
+    "ai-agent",
+    "open-source",
+    "web-scraping",
+    "free-alternative",
+    "automation"
+  ],
+  "score": 5,
+  "published_at": "Thu, 11 Jun 2026 06:35:18 +0000",
+  "fetched_at": "2026-06-11T12:08:09.146725+00:00",
+  "analyzed_at": "2026-06-11T12:10:29.197592+00:00",
+  "status": "published"
+}
