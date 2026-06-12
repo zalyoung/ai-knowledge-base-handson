@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260612-007",
+  "title": "AgentStore：面向AI代理团队的自托管数据存储",
+  "source_url": "https://github.com/guyweissman/agentstore",
+  "source_type": "hackernews",
+  "summary": "AgentStore 是一个开源自托管数据存储项目，专为 AI 代理团队设计。它提供了一个集中化的数据管理平台，支持代理间的数据共享和状态持久化，适用于多智能体协作、自动化工作流等场景。项目强调数据隐私和团队控制，允许用户完全自托管数据，是构建可靠多代理系统的实用基础设施。",
+  "tags": [
+    "agent-team",
+    "data-store",
+    "self-hosted",
+    "ai-agents",
+    "open-source",
+    "collaboration"
+  ],
+  "score": 7,
+  "published_at": "Thu, 11 Jun 2026 16:40:55 +0000",
+  "fetched_at": "2026-06-12T11:42:03.315284+00:00",
+  "analyzed_at": "2026-06-12T11:44:19.854438+00:00",
+  "status": "published"
+}

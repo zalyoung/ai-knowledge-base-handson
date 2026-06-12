@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260612-010",
+  "title": "你的AI代理已被攻陷：Agentic AI安全威胁深度分析",
+  "source_url": "https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/pwning-agentic-ai-part-i-your-ai-agent-is-already-compromised",
+  "source_type": "hackernews",
+  "summary": "本文是Trend Micro关于Agentic AI（自主智能体）安全风险系列的第一部分。文章指出，AI Agent在接收用户指令并自主执行任务时，其设计中的工具调用和权限管理存在根本性漏洞，导致攻击者可以通过注入恶意指令或利用自然语言推理的脆弱性来劫持Agent的行为。文中详细分析了提示注入、工具操纵和权限提升等攻击向量，并展示了攻击者如何利用这些漏洞窃取数据、执行未授权操作。该研究为开发者和安全团队提供了实用的防护建议，适用于AI Agent部署场景，尤其是企业应用中需要警惕的安全挑战。",
+  "tags": [
+    "ai-security",
+    "agentic-ai",
+    "prompt-injection",
+    "threat-modeling",
+    "cybersecurity"
+  ],
+  "score": 6,
+  "published_at": "Thu, 11 Jun 2026 12:54:04 +0000",
+  "fetched_at": "2026-06-12T11:42:03.315372+00:00",
+  "analyzed_at": "2026-06-12T11:44:38.714943+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260612-011",
+  "title": "可问责AI代理网络的五大原则",
+  "source_url": "https://www.tigera.io/blog/five-principles-of-an-accountable-ai-agent-network-how-to-evaluate-any-governance-platform/",
+  "source_type": "hackernews",
+  "summary": "本文提出了构建可问责AI代理网络所需的五大核心原则，旨在帮助组织评估和选择AI治理平台。这些原则包括：清晰的代理身份与所有权、基于最小权限的访问控制、可观察性与日志记录、可审计的决策流程、以及可追溯的数据与行动链路。作者强调，随着AI代理系统在企业中广泛应用，确保其透明、可信和合规至关重要。文章适用于正在部署或计划部署AI代理的团队，以及寻求治理解决方案的架构师与合规官员。",
+  "tags": [
+    "ai-governance",
+    "accountable-ai",
+    "ai-agents",
+    "network-principles",
+    "trustworthy-ai"
+  ],
+  "score": 7,
+  "published_at": "Thu, 11 Jun 2026 12:53:06 +0000",
+  "fetched_at": "2026-06-12T11:42:03.315385+00:00",
+  "analyzed_at": "2026-06-12T11:44:43.391714+00:00",
+  "status": "published"
+}

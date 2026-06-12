@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260612-008",
+  "title": "Kikubot：以电子邮件作为消息总线的开源AI Agent框架",
+  "source_url": "https://github.com/mxaiorg/kikubot",
+  "source_type": "hackernews",
+  "summary": "Kikubot 是一个开源的 AI Agent 框架，其核心理念是将电子邮件（IMAP/SMTP）作为消息总线，每个 Agent 对应一个邮箱地址，无需消息队列、向量数据库或编排器。用户只需向指定邮箱发送任务，协调 Agent（如 Kiku）根据内部“花名册”将任务路由给专业子 Agent，子 Agent 处理后将结果返回给协调者，最终反馈用户。该框架利用邮件线程作为状态记忆，实现上下文延续。主要优势包括：零客户端部署（用户仅需邮箱）、基于 Agent 的访问控制和容器化、支持 Agent 团队嵌套以扩展能力、按 Agent 选择 LLM 以控制成本、以及通过标准邮件工具获得高可观测性。Kikubot 还提供了 Configurator 工具和一键演示脚本（./demo.sh），简化部署。相比其他框架（如使用聊天应用的 OpenClaw），Kikubot 面向组织/企业级场景，支持数百个分散部署的 Agent，适合需要低门槛集成 AI 能力的企业团队。",
+  "tags": [
+    "ai-agent",
+    "framework",
+    "email",
+    "message-bus",
+    "open-source",
+    "enterprise",
+    "multi-agent"
+  ],
+  "score": 7,
+  "published_at": "Thu, 11 Jun 2026 15:50:54 +0000",
+  "fetched_at": "2026-06-12T11:42:03.315344+00:00",
+  "analyzed_at": "2026-06-12T11:44:29.086881+00:00",
+  "status": "published"
+}

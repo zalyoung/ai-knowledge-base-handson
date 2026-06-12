@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260612-004",
+  "title": "Coinbase推出AI代理账户，实现自动化交易与支付",
+  "source_url": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
+  "source_type": "hackernews",
+  "summary": "Coinbase宣布推出AI代理账户功能，允许用户授权AI代理代表其进行加密货币交易和支付。该技术结合大型语言模型与区块链智能合约，使AI能够理解用户意图并执行链上操作，如买卖代币、支付账单等，旨在简化DeFi交互并降低用户门槛。适用于自动化投资、日常支付等场景，但安全性和信任问题仍需关注。",
+  "tags": [
+    "coinbase",
+    "ai-agent",
+    "crypto",
+    "defi",
+    "automated-trading",
+    "blockchain",
+    "payment"
+  ],
+  "score": 8,
+  "published_at": "Thu, 11 Jun 2026 18:10:18 +0000",
+  "fetched_at": "2026-06-12T11:42:03.315243+00:00",
+  "analyzed_at": "2026-06-12T11:44:06.996596+00:00",
+  "status": "published"
+}

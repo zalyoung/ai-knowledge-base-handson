@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260612-009",
+  "title": "AI Agent预执行检查清单：不确定时应询问",
+  "source_url": "https://discuss.huggingface.co/t/if-unsure-ask-never-guess-ai-agent-pre-execution-checklist/176632",
+  "source_type": "hackernews",
+  "summary": "该技术讨论提出了一种针对AI Agent在执行任务前的检查清单，核心原则是“不确定就询问，绝不猜测”。它强调了AI Agent在面对信息不完整或歧义时，应主动向用户或系统请求澄清，而不是默认假设一个“假”值或继续执行。这种方法旨在减少因错误假设导致的不可逆操作，提升AI系统的安全性和可靠性。适用于自动化决策、人机协作、复杂任务执行等场景，尤其适合需要高可靠性的AI Agent应用。",
+  "tags": [
+    "ai-agent",
+    "safety",
+    "uncertainty",
+    "question-asking",
+    "checklist",
+    "decision-making",
+    "human-in-the-loop"
+  ],
+  "score": 7,
+  "published_at": "Thu, 11 Jun 2026 14:17:42 +0000",
+  "fetched_at": "2026-06-12T11:42:03.315358+00:00",
+  "analyzed_at": "2026-06-12T11:44:34.161851+00:00",
+  "status": "published"
+}

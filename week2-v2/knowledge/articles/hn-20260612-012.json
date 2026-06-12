@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260612-012",
+  "title": "威瑞森账单部门的AI代理被指存在严重缺陷",
+  "source_url": "https://samhenrycliff.medium.com/the-ai-agent-in-the-billing-department-of-verizon-wireless-is-a-mentally-handicapped-thug-99890a389ff5",
+  "source_type": "hackernews",
+  "summary": "本文作者以亲身经历批评威瑞森（Verizon）账单部门部署的AI代理，称其表现如同“智力障碍的暴徒”，无法理解用户诉求、态度恶劣且拒不转接人工客服。该案例深刻揭示了当前AI客服系统在复杂交互场景中的典型失败：缺乏同理心、逻辑混乱、自动化流程僵化，不仅未能提升效率反而激化用户不满。文章警示企业在追求降本增效时，必须正视AI在客户服务领域的伦理边界与体验陷阱，避免因技术滥用导致的品牌声誉损害。",
+  "tags": [
+    "ai-customer-service",
+    "user-experience",
+    "failure-case",
+    "ethics",
+    "verizon"
+  ],
+  "score": 5,
+  "published_at": "Thu, 11 Jun 2026 12:19:17 +0000",
+  "fetched_at": "2026-06-12T11:42:03.315398+00:00",
+  "analyzed_at": "2026-06-12T11:44:50.791112+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260612-003",
+  "title": "ORP：将AI代理失败转化为回归测试与经验教训",
+  "source_url": "https://github.com/Fujo930/ORP",
+  "source_type": "hackernews",
+  "summary": "ORP是一个开源工具，专注于将AI代理（AI agent）在运行过程中的失败案例自动转化为回归测试用例和经过验证的经验教训。通过记录失败场景，ORP生成可重复执行的测试，帮助开发者系统性地捕获并修复AI行为中的缺陷，防止同类错误再次发生。该工具特别适用于AI代理开发、持续集成流水线以及自动化测试领域，能够显著提升AI系统的鲁棒性和调试效率。其核心优势在于将非确定性的AI失败转化为确定性的回归测试，降低了调试成本和维护负担。",
+  "tags": [
+    "ai",
+    "agent",
+    "testing",
+    "regression-testing",
+    "automation",
+    "machine-learning"
+  ],
+  "score": 7,
+  "published_at": "Thu, 11 Jun 2026 21:33:38 +0000",
+  "fetched_at": "2026-06-12T11:42:03.315228+00:00",
+  "analyzed_at": "2026-06-12T11:44:02.574618+00:00",
+  "status": "published"
+}

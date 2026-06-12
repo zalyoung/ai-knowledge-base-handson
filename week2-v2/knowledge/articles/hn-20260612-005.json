@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260612-005",
+  "title": "用于AI代理评估的合成企业数据集生成器",
+  "source_url": "https://github.com/aeriesec/orgforge",
+  "source_type": "hackernews",
+  "summary": "OrgForge 是一个开源的合成企业数据集生成器，专为评估 AI 代理而设计。它能够生成结构化的企业数据（如员工、部门、项目等），用于测试和验证 AI 代理在模拟企业环境中的表现。该工具来自 Hacker News 的一个展示项目（Show HN），虽然目前评分和评论较少，但其针对 AI 代理评估的实用场景具有潜在价值。适用于需要合成数据来训练或评估 AI 代理的开发者、研究人员或企业。",
+  "tags": [
+    "synthetic-data",
+    "corporate-dataset",
+    "ai-agents",
+    "dataset-generator",
+    "evaluation"
+  ],
+  "score": 7,
+  "published_at": "Thu, 11 Jun 2026 18:09:30 +0000",
+  "fetched_at": "2026-06-12T11:42:03.315255+00:00",
+  "analyzed_at": "2026-06-12T11:44:10.893341+00:00",
+  "status": "published"
+}

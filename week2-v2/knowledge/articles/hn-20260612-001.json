@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260612-001",
+  "title": "使用 Face ID 批准 AI 代理转账：演示伪造转账被拒",
+  "source_url": "https://www.emiliaprotocol.ai/try",
+  "source_type": "hackernews",
+  "summary": "该项目展示了一种安全协议，允许用户通过 Face ID（面部识别）批准 AI 代理发起的转账操作。系统同时演示了伪造的转账请求会被自动拒绝，从而验证其安全性。该技术适用于需要高安全性验证的金融交易场景，尤其是当 AI 代理代表用户执行操作时，能够有效防止未经授权的资金转移。其核心创新在于将生物识别技术与 AI 代理的权限管理结合，提供了一种直观且安全的确认机制。",
+  "tags": [
+    "ai-agents",
+    "face-id",
+    "security",
+    "authentication",
+    "financial-transactions",
+    "demo"
+  ],
+  "score": 7,
+  "published_at": "Fri, 12 Jun 2026 02:02:01 +0000",
+  "fetched_at": "2026-06-12T11:42:03.315196+00:00",
+  "analyzed_at": "2026-06-12T11:43:52.527073+00:00",
+  "status": "published"
+}

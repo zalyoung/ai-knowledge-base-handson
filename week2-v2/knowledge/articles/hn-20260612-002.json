@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260612-002",
+  "title": "Ciris：支持29种语言的开源AI助手（iOS/Android）",
+  "source_url": "https://ciris.ai/",
+  "source_type": "hackernews",
+  "summary": "Ciris 是一个开源的人工智能代理应用，覆盖 iOS 和 Android 平台，支持多达 29 种语言。项目旨在提供跨平台、多语言的 AI 交互体验，用户可以在移动设备上直接使用本地化的智能助手。尽管在 Hacker News 上的热度不高（仅 2 分，无评论），但其开源特性和广泛的语言支持使其适合全球用户和开发者进行二次开发与定制。适用于需要多语言 AI 助手、注重隐私或希望自托管服务的场景。",
+  "tags": [
+    "open-source",
+    "ai-agent",
+    "ios",
+    "android",
+    "multilingual",
+    "mobile"
+  ],
+  "score": 7,
+  "published_at": "Thu, 11 Jun 2026 23:38:26 +0000",
+  "fetched_at": "2026-06-12T11:42:03.315211+00:00",
+  "analyzed_at": "2026-06-12T11:43:57.524595+00:00",
+  "status": "published"
+}
