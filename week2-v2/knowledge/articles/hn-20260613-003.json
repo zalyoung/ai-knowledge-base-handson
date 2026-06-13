@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260613-003",
+  "title": "LLM 控制平面概念解析",
+  "source_url": "https://blog.mozilla.ai/what-is-an-llm-control-plane/",
+  "source_type": "hackernews",
+  "summary": "本文来自 Mozilla AI 博客，深入探讨了 LLM 控制平面（LLM Control Plane）的核心概念。控制平面作为 LLM 应用（如 Agent、RAG 系统）的编排层，负责路由请求、管理安全策略、监控性能以及协调多个模型调用。文章强调了在复杂 AI 系统中引入控制平面的必要性，以解决幻觉、安全、成本控制等关键挑战，并展示了 Mozilla 在这一领域的实践与思考。适用于开发者设计生产级 LLM 应用时的架构参考。",
+  "tags": [
+    "llm",
+    "control-plane",
+    "ai-architecture",
+    "mozilla",
+    "orchestration",
+    "llm-agent",
+    "safety",
+    "monitoring"
+  ],
+  "score": 7,
+  "published_at": "Fri, 12 Jun 2026 20:11:24 +0000",
+  "fetched_at": "2026-06-13T10:26:40.539849+00:00",
+  "analyzed_at": "2026-06-13T10:28:48.262689+00:00",
+  "status": "published"
+}

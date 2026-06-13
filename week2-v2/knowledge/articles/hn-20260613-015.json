@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260613-015",
+  "title": "工作中的LLM集体错觉：反思与警示",
+  "source_url": "https://blog.avas.space/llm-circus/",
+  "source_type": "hackernews",
+  "summary": "本文对当前工作场所中过度依赖大型语言模型（LLM）的现象进行了批判性分析，指出这种技术应用可能是一种“集体错觉”——人们高估了LLM的实际能力与可靠性，忽视了其潜在的谬误和风险。作者强调，LLM在自动化、内容生成和决策支持中的流行，往往掩盖了其内在的不稳定性和对用户真实需求的误导。适用场景包括企业决策层、技术团队和AI伦理讨论者，旨在引发对LLM工具谨慎使用的反思，避免盲目部署导致效率下降或信息失真。",
+  "tags": [
+    "llm",
+    "workplace",
+    "critical-analysis",
+    "ai-hype",
+    "reflection"
+  ],
+  "score": 6,
+  "published_at": "Fri, 12 Jun 2026 00:20:40 +0000",
+  "fetched_at": "2026-06-13T10:26:40.540111+00:00",
+  "analyzed_at": "2026-06-13T10:29:54.204889+00:00",
+  "status": "published"
+}

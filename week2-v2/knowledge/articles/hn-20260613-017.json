@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260613-017",
+  "title": "每个LLM工具调用都需要输出预算管理",
+  "source_url": "https://www.axamy.com/blog/tool-budget",
+  "source_type": "hackernews",
+  "summary": "本文提出在大型语言模型（LLM）调用外部工具时，必须为每次工具调用设置明确的输出预算（Output Budget），以控制token消耗、降低成本并保证响应速度。该方法通过限定工具返回的最大输出长度或内容量，防止无限上下文膨胀和意外高额费用，特别适用于需要频繁调用API、数据库查询或代码执行等工具的LLM应用场景。文章强调了预算策略的实用性，是LLM工程实践中的重要优化手段。",
+  "tags": [
+    "llm",
+    "token-budget",
+    "tool-use",
+    "cost-optimization",
+    "prompt-engineering"
+  ],
+  "score": 7,
+  "published_at": "Thu, 11 Jun 2026 20:50:54 +0000",
+  "fetched_at": "2026-06-13T10:26:40.540138+00:00",
+  "analyzed_at": "2026-06-13T10:30:05.032202+00:00",
+  "status": "published"
+}

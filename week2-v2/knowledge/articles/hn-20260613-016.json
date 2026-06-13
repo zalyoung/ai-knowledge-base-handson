@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260613-016",
+  "title": "三层无限记忆LLM：一周内解决AI健忘症",
+  "source_url": "https://dl-chat-49232436682.asia-northeast3.run.app/",
+  "source_type": "hackernews",
+  "summary": "该项目提出了一种三层记忆架构，旨在解决大型语言模型（LLM）在长对话或持续交互中出现的“健忘”问题。作者仅用一周时间构建了一个具备无限记忆能力的LLM系统，通过分层存储（如工作记忆、短期记忆和长期记忆）实现对话历史的持久化与高效检索。技术亮点在于其轻量级实现和即插即用的设计，适用于需要长期上下文理解的场景，如个人AI助手、客户服务机器人或持续学习系统。虽然项目在Hacker News上的讨论热度不高，但其创新思路和快速开发能力值得关注。",
+  "tags": [
+    "llm",
+    "memory",
+    "ai",
+    "architecture",
+    "infinite-memory"
+  ],
+  "score": 6,
+  "published_at": "Thu, 11 Jun 2026 21:33:00 +0000",
+  "fetched_at": "2026-06-13T10:26:40.540125+00:00",
+  "analyzed_at": "2026-06-13T10:30:00.325559+00:00",
+  "status": "published"
+}

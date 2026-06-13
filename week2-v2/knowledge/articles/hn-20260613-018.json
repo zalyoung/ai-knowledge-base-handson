@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260613-018",
+  "title": "LLM决策中的表面信念研究",
+  "source_url": "https://arxiv.org/abs/2606.11016",
+  "source_type": "hackernews",
+  "summary": "本文探讨了大型语言模型（LLM）在决策过程中依赖表面信念（superficial beliefs）的现象，即模型可能基于训练数据中的浅层模式或统计关联而非深层推理做出判断。通过一系列实验分析，作者揭示了LLM在特定任务（如常识推理、事实判断）中容易受到表面特征（如高频词汇、表面相关性）影响的机制，并指出这种倾向可能导致决策偏差和可靠性问题。该研究对改进LLM的推理鲁棒性、减轻偏见以及提升AI安全性与对齐性具有重要参考价值，适用于大模型可解释性、鲁棒性评估及安全对齐等场景。",
+  "tags": [
+    "llm",
+    "decision-making",
+    "beliefs",
+    "reasoning",
+    "ai-safety"
+  ],
+  "score": 7,
+  "published_at": "Thu, 11 Jun 2026 20:46:33 +0000",
+  "fetched_at": "2026-06-13T10:26:40.540157+00:00",
+  "analyzed_at": "2026-06-13T10:30:10.577960+00:00",
+  "status": "published"
+}

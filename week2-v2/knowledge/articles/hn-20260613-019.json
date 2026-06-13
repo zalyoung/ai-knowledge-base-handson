@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260613-019",
+  "title": "在24GB显存GPU上运行的LLM模型选择讨论",
+  "source_url": "https://news.ycombinator.com/item?id=48494377",
+  "source_type": "hackernews",
+  "summary": "该帖来自Hacker News，用户寻求在24GB显存GPU上表现最佳的LLM模型，明确排除4位量化（因生产环境不可用），并提及当前使用的Qwopus3.6-27B-v2-MTP-GGUF 8-bit作为基线。适用于需要本地部署或资源受限生产环境的场景，需平衡模型性能与显存限制。社区回复较少，但问题具有现实指导意义。",
+  "tags": [
+    "llm",
+    "gpu",
+    "24gb-vram",
+    "quantized-models",
+    "production-deployment",
+    "local-ai"
+  ],
+  "score": 6,
+  "published_at": "Thu, 11 Jun 2026 18:22:01 +0000",
+  "fetched_at": "2026-06-13T10:26:40.540175+00:00",
+  "analyzed_at": "2026-06-13T10:30:17.103343+00:00",
+  "status": "published"
+}

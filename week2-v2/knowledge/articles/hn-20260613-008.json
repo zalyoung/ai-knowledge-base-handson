@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260613-008",
+  "title": "如何像 LLM 一样使用 grep",
+  "source_url": "https://marcusmichaels.com/notes/grep-like-an-llm/",
+  "source_type": "hackernews",
+  "summary": "本文探讨如何将大型语言模型（LLM）的语义理解能力与传统 grep 工具的正则匹配相结合，实现更智能的文本搜索。通过将自然语言查询转化为可执行的 grep 模式，或直接使用 LLM 进行模糊匹配，用户可以高效地处理结构化与非结构化数据。该方法适用于日志分析、代码审查、文档检索等场景，显著提升搜索的召回率和准确度。",
+  "tags": [
+    "grep",
+    "llm",
+    "semantic-search",
+    "text-processing",
+    "cli"
+  ],
+  "score": 6,
+  "published_at": "Fri, 12 Jun 2026 10:16:10 +0000",
+  "fetched_at": "2026-06-13T10:26:40.539963+00:00",
+  "analyzed_at": "2026-06-13T10:29:16.304773+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260613-020",
+  "title": "LLMForge：本地原生窗口中编排LLM全管道",
+  "source_url": "https://www.llmforge.app",
+  "source_type": "hackernews",
+  "summary": "LLMForge是一款本地运行的LLM管道编排工具，提供从模型下载到设备部署的一站式解决方案。它完全在桌面原生窗口中运行，无需终端或云服务，旨在简化LLM工作流程，用户无需拼接多个命令行工具即可完成模型选择、下载、配置和本地部署。该工具适合希望在本地隐私环境下高效使用LLM的开发者、研究人员和爱好者，尤其适合对命令行不熟悉或希望快速实验不同模型的用户。目前该项目刚刚在Hacker News上发布，社区互动较少，但其整合性和易用性具有一定潜力。",
+  "tags": [
+    "llm",
+    "local",
+    "pipeline",
+    "deployment",
+    "native-app",
+    "orchestration"
+  ],
+  "score": 7,
+  "published_at": "Thu, 11 Jun 2026 16:36:13 +0000",
+  "fetched_at": "2026-06-13T10:26:40.540191+00:00",
+  "analyzed_at": "2026-06-13T10:30:24.655306+00:00",
+  "status": "published"
+}

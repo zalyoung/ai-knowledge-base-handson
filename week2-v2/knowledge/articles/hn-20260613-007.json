@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260613-007",
+  "title": "LLM供应商应提供PR作用域的临时密钥以分担审查成本",
+  "source_url": "https://news.ycombinator.com/item?id=48503555",
+  "source_type": "hackernews",
+  "summary": "本文提出了一种新的计费模式：让LLM供应商支持由贡献者资助的、PR作用域的临时密钥（即“注意力债券”）。该密钥只能由仓库维护者使用，并限制在特定仓库/PR内使用，设有低金额或令牌数上限和短期过期时间。这旨在解决LLM使创建PR的成本远低于审查成本的问题，尤其适用于开源项目维护者需要为大量未经请求的PR支付LLM费用的场景。作者呼吁主流供应商考虑此模式以平衡贡献与审查的经济负担。",
+  "tags": [
+    "llm",
+    "pull-request",
+    "code-review",
+    "billing",
+    "open-source",
+    "ephemeral-keys"
+  ],
+  "score": 5,
+  "published_at": "Fri, 12 Jun 2026 12:57:01 +0000",
+  "fetched_at": "2026-06-13T10:26:40.539945+00:00",
+  "analyzed_at": "2026-06-13T10:29:11.644106+00:00",
+  "status": "published"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260613-002",
+  "title": "ImpactArbiter：用于捕获LLM生成的vLLM/SGLang不变量的PyTorch自动求导陷阱",
+  "source_url": "https://github.com/msunda17/impactarbiter-cli",
+  "source_type": "hackernews",
+  "summary": "ImpactArbiter 是一个基于 PyTorch 自动求导机制的工具，专门用于检测 LLM 生成的代码（如 vLLM 或 SGLang）中的不变量违反问题。它通过在计算图中植入陷阱来监控张量操作，当模型生成的代码执行违反预期不变性（例如数值范围、梯度状态）时自动触发告警。该工具适用于大规模语言模型推理优化场景，帮助开发者验证自动生成代码的数值稳定性和逻辑正确性，尤其对使用 vLLM 或 SGLang 进行高效部署的团队有显著价值。项目尚处于早期开发阶段，社区活跃度待观察。",
+  "tags": [
+    "pytorch",
+    "autograd",
+    "llm",
+    "verification",
+    "vllm",
+    "sglang",
+    "debugging"
+  ],
+  "score": 6,
+  "published_at": "Fri, 12 Jun 2026 20:22:17 +0000",
+  "fetched_at": "2026-06-13T10:26:40.539830+00:00",
+  "analyzed_at": "2026-06-13T10:28:43.660369+00:00",
+  "status": "published"
+}

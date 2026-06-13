@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260613-006",
+  "title": "如何改进LLM输出：常用提示词与技巧讨论",
+  "source_url": "https://news.ycombinator.com/item?id=48505794",
+  "source_type": "hackernews",
+  "summary": "本文来自Hacker News的讨论帖，用户分享了在使用Claude Code和GPT 5.5等大型语言模型时遇到的常见输出质量问题，包括写作风格上的破折号滥用、过度缩写与箭头句式、概念夸大、对受众理解力的误判，以及分析中过度工程化、忽视限制等失败模式。用户希望社区分享有效的系统提示词、技能和其他方法来提升LLM输出的实用性和准确性。讨论聚焦于如何通过精细的提示词设计（如指定写作风格、要求考虑边界情况）来引导模型生成更贴合需求的内容，适用于需要高质量文本生成、代码注释或技术分析的应用场景。",
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "writing-quality",
+    "claude-code",
+    "gpt",
+    "overengineering",
+    "failure-modes",
+    "hacker-news"
+  ],
+  "score": 6,
+  "published_at": "Fri, 12 Jun 2026 15:59:27 +0000",
+  "fetched_at": "2026-06-13T10:26:40.539917+00:00",
+  "analyzed_at": "2026-06-13T10:29:05.408446+00:00",
+  "status": "published"
+}

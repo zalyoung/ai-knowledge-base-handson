@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260613-010",
+  "title": "pi.dev 自动模式：LLM 审查编码代理的命令",
+  "source_url": "https://github.com/vinzenzu/pi-auto-reviewer",
+  "source_type": "hackernews",
+  "summary": "pi-auto-reviewer 是一个为 pi.dev 平台设计的自动模式工具，利用大语言模型（LLM）自动审查编码代理（coding agent）生成的命令。该工具的核心功能是在代理执行指令前，由 LLM 对其进行智能分析，识别潜在的错误、安全风险或不符合预期的操作，并给出审查意见。它适用于需要频繁使用 AI 编码代理进行开发、测试、部署的场景，尤其适合团队协作和自动化工作流中确保代码质量和系统稳定。尽管 LLM 审查代理命令的概念已有类似实现，但针对特定平台 pi.dev 的集成提供了实用的解决方案，有助于提升开发效率和安全性。",
+  "tags": [
+    "llm",
+    "code-review",
+    "coding-agent",
+    "automation",
+    "developer-tools"
+  ],
+  "score": 7,
+  "published_at": "Fri, 12 Jun 2026 08:08:56 +0000",
+  "fetched_at": "2026-06-13T10:26:40.539994+00:00",
+  "analyzed_at": "2026-06-13T10:29:28.295335+00:00",
+  "status": "published"
+}

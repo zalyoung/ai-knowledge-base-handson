@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260613-013",
+  "title": "LLM与Web漏洞链式攻击：从提示注入到管理员权限获取",
+  "source_url": "https://blog.quarkslab.com/from-prompt-to-pwned-chaining-llm-and-web-bugs-to-admin.html",
+  "source_type": "hackernews",
+  "summary": "本文详细展示了一种将大型语言模型（LLM）的提示注入漏洞与Web应用中的常见漏洞（如XSS、CSRF、权限绕过等）相组合的攻击链。攻击者通过向LLM发送特制提示，诱导模型输出恶意负载，进而利用Web端漏洞逐步提升权限，最终获取管理员控制权。该技术亮点在于将AI安全与Web安全交叉融合，揭示了LLM集成应用中容易被忽视的复合风险，适用于红队评估、安全审计以及LLM应用的防护设计。",
+  "tags": [
+    "llm-security",
+    "prompt-injection",
+    "web-security",
+    "attack-chain",
+    "admin-privilege-escalation"
+  ],
+  "score": 8,
+  "published_at": "Fri, 12 Jun 2026 01:59:12 +0000",
+  "fetched_at": "2026-06-13T10:26:40.540078+00:00",
+  "analyzed_at": "2026-06-13T10:29:42.722097+00:00",
+  "status": "published"
+}

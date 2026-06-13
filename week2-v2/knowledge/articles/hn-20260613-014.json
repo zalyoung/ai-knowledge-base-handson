@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260613-014",
+  "title": "不要让LLM说话，只需探测它的隐藏状态",
+  "source_url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
+  "source_type": "hackernews",
+  "summary": "本文提出了一种与大型语言模型（LLM）交互的新范式：不再通过提示让LLM生成文本输出，而是直接探测其内部隐藏状态（hidden state）来获取所需信息。这种方法避免了LLM常见的幻觉、冗长或偏离主题的生成问题，能够更精确、高效地提取知识，特别适用于事实判断、分类任务和可解释性分析。文章详细介绍了隐藏状态探针（probes）的设计原理和实验效果，展示了其在效率与准确性上对传统prompt工程的显著优势，为未来LLM的定向使用提供了新思路。",
+  "tags": [
+    "llm",
+    "hidden-state",
+    "probes",
+    "knowledge-extraction",
+    "interpretability"
+  ],
+  "score": 7,
+  "published_at": "Fri, 12 Jun 2026 00:24:48 +0000",
+  "fetched_at": "2026-06-13T10:26:40.540096+00:00",
+  "analyzed_at": "2026-06-13T10:29:49.573319+00:00",
+  "status": "published"
+}

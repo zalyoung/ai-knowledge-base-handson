@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260613-011",
+  "title": "在ESP32-S3微控制器上运行大语言模型生成故事",
+  "source_url": "https://github.com/harmansingh4163-ai/ESP-32-s3-Story-maker-LLM",
+  "source_type": "hackernews",
+  "summary": "该项目展示了如何在资源受限的ESP32-S3微控制器上部署和运行轻量级大语言模型（LLM），用于实时故事生成。通过模型压缩、量化等技术，将原本需要云端的自然语言处理能力迁移到边缘设备，实现离线、低延迟的交互体验。典型适用场景包括嵌入式故事机、教育玩具、智能家居对话终端等，为物联网设备增加智能文本生成能力。",
+  "tags": [
+    "esp32",
+    "llm",
+    "embedded-ai",
+    "story-generation",
+    "edge-computing",
+    "machine-learning",
+    "tinyml"
+  ],
+  "score": 8,
+  "published_at": "Fri, 12 Jun 2026 05:56:02 +0000",
+  "fetched_at": "2026-06-13T10:26:40.540009+00:00",
+  "analyzed_at": "2026-06-13T10:29:33.501268+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260613-005",
+  "title": "Cortex：基于Markdown的Agent原生知识操作系统（受Karpathy LLM Wiki启发）",
+  "source_url": "https://github.com/synpulse8-opensource/pulse8-ai-cortex-knowledge-vault",
+  "source_type": "hackernews",
+  "summary": "Cortex 是一个面向 AI Agent 的开源知识操作系统，核心基于 Markdown 文件构建知识库。受 Karpathy 的 LLM Wiki 思想启发，它允许用户通过简单的 Markdown 格式创建结构化、持久化的知识图谱，Agent 可通过 RAG 或查询方式直接利用这些知识。适用于需要本地化、可定制知识源的 AI 应用场景，如个人助手、企业智能问答系统等，为 Agent 提供原生知识管理能力。",
+  "tags": [
+    "agent",
+    "knowledge-base",
+    "markdown",
+    "llm",
+    "rag",
+    "open-source"
+  ],
+  "score": 6,
+  "published_at": "Fri, 12 Jun 2026 19:02:13 +0000",
+  "fetched_at": "2026-06-13T10:26:40.539891+00:00",
+  "analyzed_at": "2026-06-13T10:28:58.618024+00:00",
+  "status": "published"
+}
