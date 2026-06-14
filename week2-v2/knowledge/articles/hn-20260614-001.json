@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260614-001",
+  "title": "Velyr: 一个能发现并修复网站转化泄漏的AI智能体",
+  "source_url": "https://velyr.io/",
+  "source_type": "hackernews",
+  "summary": "Velyr是一个AI代理，能够自动检测并修复网站上的转化泄漏点，例如用户流失环节、未被优化的交互或表单等。它通过智能分析用户行为数据，识别导致转化率下降的关键问题，并提供自动修复方案，无需人工逐一排查。适用于电商、SaaS、在线服务等追求高转化率的网站，尤其适合缺乏专业优化团队的场景。技术亮点在于将AI驱动的异常检测与自动化修复相结合，降低了传统转化率优化的门槛。目前该项目在HackerNews上讨论较少，社区活跃度低，但其概念具有一定实用价值。",
+  "tags": [
+    "ai",
+    "agent",
+    "conversion-rate-optimization",
+    "web-analytics",
+    "leak-detection",
+    "fix"
+  ],
+  "score": 5,
+  "published_at": "Sun, 14 Jun 2026 10:00:55 +0000",
+  "fetched_at": "2026-06-14T10:47:22.666893+00:00",
+  "analyzed_at": "2026-06-14T10:49:11.492954+00:00",
+  "status": "published"
+}

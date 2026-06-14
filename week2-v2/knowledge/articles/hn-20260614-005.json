@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260614-005",
+  "title": "要求AI代理提供证据才能宣布任务完成的框架",
+  "source_url": "https://github.com/Aspct3434/Distill-Agent",
+  "source_type": "hackernews",
+  "summary": "这是一个名为Distill-Agent的GitHub项目，其核心思想是强制AI代理在声称任务完成之前提供可验证的证据。该框架通过引入证据生成和验证机制，增强了AI系统的可解释性和可信度，特别适用于需要审计跟踪或合规性的自动化任务场景。项目正处于早期阶段，社区互动较少，但其创新思路在AI安全与透明性领域具有潜在价值。",
+  "tags": [
+    "ai-agent",
+    "explainability",
+    "verification",
+    "evidence",
+    "transparency"
+  ],
+  "score": 6,
+  "published_at": "Fri, 12 Jun 2026 16:33:03 +0000",
+  "fetched_at": "2026-06-14T10:47:22.666987+00:00",
+  "analyzed_at": "2026-06-14T10:49:29.336790+00:00",
+  "status": "published"
+}

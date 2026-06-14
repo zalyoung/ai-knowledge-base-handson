@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260614-004",
+  "title": "AI驱动的投资者发现与自动化联系CLI工具",
+  "source_url": "https://news.ycombinator.com/item?id=48509761",
+  "source_type": "hackernews",
+  "summary": "该工具基于AI技术，能够自动理解用户正在构建的应用，搜索有公开邮箱的投资者并发送联系邮件，旨在帮助初创项目高效进行投资者外联。作者进行了实际测试，在43封邮件中获得了6个回复，回复率约14%，但未跟踪邮件打开率。目前工具仍处于早期阶段，正寻找beta测试用户进行市场验证。适用于早期创业团队需要快速批量接触投资者的场景，但缺乏邮件打开率等关键指标，工具成熟度有待提升。",
+  "tags": [
+    "ai",
+    "investor-outreach",
+    "cli-tool",
+    "startup",
+    "automation"
+  ],
+  "score": 6,
+  "published_at": "Fri, 12 Jun 2026 21:42:22 +0000",
+  "fetched_at": "2026-06-14T10:47:22.666969+00:00",
+  "analyzed_at": "2026-06-14T10:49:25.987625+00:00",
+  "status": "published"
+}

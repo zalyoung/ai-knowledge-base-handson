@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260614-003",
+  "title": "OpenDevOps – 开源AI代理，用于调查AWS/Azure云事故",
+  "source_url": "https://github.com/AhmadHammad21/OpenDevOps",
+  "source_type": "hackernews",
+  "summary": "OpenDevOps是一个开源的AI代理，旨在自动化调查AWS和Azure云环境中的事故。它通过自然语言交互，帮助DevOps和安全团队快速定位问题根源，减少人工排查时间。项目利用AI技术分析云事件日志和指标，适用于云运维、安全事件响应等场景。尽管该项目仍处于早期阶段，但其将AI与DevOps/SecOps结合的方向具有创新性，为开源社区提供了一种云事故调查的新思路。",
+  "tags": [
+    "devops",
+    "cloud-security",
+    "ai-agent",
+    "incident-response",
+    "aws",
+    "azure",
+    "open-source"
+  ],
+  "score": 7,
+  "published_at": "Sat, 13 Jun 2026 21:31:19 +0000",
+  "fetched_at": "2026-06-14T10:47:22.666945+00:00",
+  "analyzed_at": "2026-06-14T10:49:21.473547+00:00",
+  "status": "published"
+}
