@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260615-004",
+  "title": "Polis：AI代理协调的领先工具",
+  "source_url": "https://polis-protocol.vercel.app/#",
+  "source_type": "hackernews",
+  "summary": "Polis 是一个专注于 AI 代理（agent）协调的工具，旨在解决多智能体系统中的协作与通信问题。该工具可能提供协议或平台，使 AI 代理能够高效地共享信息、分配任务并同步决策，适用于机器人集群、分布式算法、自动化工作流等场景。尽管 Hacker News 上的讨论热度较低，但其定位为“#1 tool”暗示了潜在的技术创新或易用性。该项目的核心价值在于简化复杂多代理系统的集成与交互，但目前缺乏公开的详细技术文档与社区验证。",
+  "tags": [
+    "ai",
+    "agent-coordination",
+    "multi-agent",
+    "tools",
+    "protocol"
+  ],
+  "score": 5,
+  "published_at": "Mon, 15 Jun 2026 01:43:49 +0000",
+  "fetched_at": "2026-06-15T13:52:31.539251+00:00",
+  "analyzed_at": "2026-06-15T13:54:58.839699+00:00",
+  "status": "published"
+}

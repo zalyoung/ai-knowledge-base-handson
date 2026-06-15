@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260615-001",
+  "title": "AI代理工具设计：有效与无效的实践指南",
+  "source_url": "https://machinelearningmastery.com/ai-agent-tool-design-what-works-and-what-doesnt/",
+  "source_type": "hackernews",
+  "summary": "本文探讨了AI代理工具设计中的关键原则，分析了哪些设计模式能有效提升代理性能，哪些常见错误会导致效果不佳。文章从实际经验出发，重点讨论了工具接口的明确性、反馈循环的重要性以及上下文管理的技巧，适用于开发基于大语言模型的智能代理系统。作者通过具体案例对比了成功与失败的设计决策，为开发者提供了可操作的指导。",
+  "tags": [
+    "ai-agents",
+    "tool-design",
+    "llm",
+    "prompt-engineering",
+    "design-patterns"
+  ],
+  "score": 7,
+  "published_at": "Mon, 15 Jun 2026 12:35:12 +0000",
+  "fetched_at": "2026-06-15T13:52:31.539177+00:00",
+  "analyzed_at": "2026-06-15T13:54:41.737411+00:00",
+  "status": "published"
+}

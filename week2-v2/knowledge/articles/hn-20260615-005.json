@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260615-005",
+  "title": "Ponytail：让AI代理模仿懒散高级开发者思维",
+  "source_url": "https://github.com/DietrichGebert/ponytail",
+  "source_type": "hackernews",
+  "summary": "Ponytail 是一种创新的提示工程技术，旨在引导 AI 代理以高效、简洁且避免过度工程的方式思考。它模拟了资深开发者“懒散但聪明”的思维模式，强调代码生成和问题解决中的实用性与最小化复杂度。适用于需要快速产出高质量、低冗余代码的场景，如自动代码审查、架构设计建议或日常开发辅助。通过设定角色和优先级，Ponytail 能显著提升 AI 输出的实用性和可维护性。",
+  "tags": [
+    "ai",
+    "agent",
+    "prompt-engineering",
+    "code-generation",
+    "efficiency",
+    "senior-developer",
+    "laziness"
+  ],
+  "score": 8,
+  "published_at": "Sun, 14 Jun 2026 15:08:17 +0000",
+  "fetched_at": "2026-06-15T13:52:31.539268+00:00",
+  "analyzed_at": "2026-06-15T13:55:07.318853+00:00",
+  "status": "published"
+}

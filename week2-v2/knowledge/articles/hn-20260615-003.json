@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260615-003",
+  "title": "AgentBridge：AI智能体协议翻译与调用治理工具",
+  "source_url": "https://github.com/shadowhunter-92/agentbridge",
+  "source_type": "hackernews",
+  "summary": "AgentBridge 是一个开源项目，旨在解决不同 AI 智能体协议之间的互操作性问题。它提供协议翻译与调用治理功能，允许开发者无缝连接和协调使用不同协议（如 OpenAI、Anthropic 等）的智能体。该项目适用于构建多智能体系统、跨平台 AI 集成以及需要统一协议管理的场景。虽然社区活跃度尚低，但其核心理念（协议抽象与治理）在 AI 代理协作领域具有潜在价值，适合早期采用者探索。",
+  "tags": [
+    "agent",
+    "bridge",
+    "protocol",
+    "interoperability",
+    "governance",
+    "ai",
+    "open-source",
+    "middleware"
+  ],
+  "score": 7,
+  "published_at": "Mon, 15 Jun 2026 05:02:32 +0000",
+  "fetched_at": "2026-06-15T13:52:31.539229+00:00",
+  "analyzed_at": "2026-06-15T13:54:53.661196+00:00",
+  "status": "published"
+}
