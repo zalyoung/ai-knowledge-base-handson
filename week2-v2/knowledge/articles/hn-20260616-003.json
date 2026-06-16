@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260616-003",
+  "title": "Zehn：面向AI代理提示的模糊查找器",
+  "source_url": "https://www.al3rez.com/building-zehn",
+  "source_type": "hackernews",
+  "summary": "Zehn 是一个专为 AI 代理聊天历史设计的模糊查找工具，能够快速检索用户发送过的每一个提示。它借鉴了传统模糊查找器（如 fzf）的理念，但针对 AI 对话场景进行了优化，支持通过关键词模糊匹配、历史记录索引等功能，帮助开发者和重度用户高效地复用或回顾之前的提示。适用于需要频繁与 AI 代理交互、希望管理和搜索提示历史的场景，例如编程助手、创意生成等。该工具轻量、易集成，提升了 AI 交互的工作流效率。",
+  "tags": [
+    "fuzzy-finder",
+    "ai-agent",
+    "prompt-history",
+    "productivity",
+    "search",
+    "tool"
+  ],
+  "score": 7,
+  "published_at": "Mon, 15 Jun 2026 18:54:09 +0000",
+  "fetched_at": "2026-06-16T12:51:08.955703+00:00",
+  "analyzed_at": "2026-06-16T12:53:01.362057+00:00",
+  "status": "published"
+}

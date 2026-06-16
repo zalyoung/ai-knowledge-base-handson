@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260616-004",
+  "title": "支持多板（Arduino、ESP32、树莓派）的仿真器，内置画布AI代理",
+  "source_url": "https://velxio.dev/v3/",
+  "source_type": "hackernews",
+  "summary": "该技术是一个基于浏览器的多板硬件仿真平台，同时支持Arduino、ESP32和树莓派等常见开发板，集成了画布内AI代理。用户可以在虚拟环境中编写、测试代码，并利用AI代理辅助调试和交互，降低了嵌入式开发和物联网原型设计的门槛，特别适合教育、快速原型验证和远程学习场景。",
+  "tags": [
+    "emulator",
+    "arduino",
+    "esp32",
+    "raspberry-pi",
+    "ai-agent",
+    "iot",
+    "embedded",
+    "hardware-simulation"
+  ],
+  "score": 7,
+  "published_at": "Mon, 15 Jun 2026 17:32:50 +0000",
+  "fetched_at": "2026-06-16T12:51:08.955718+00:00",
+  "analyzed_at": "2026-06-16T12:53:05.859450+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260616-002",
+  "title": "Prtokens：查看AI代理处理Pull Request的Token成本",
+  "source_url": "https://github.com/SamuelZ12/prtokens/",
+  "source_type": "hackernews",
+  "summary": "Prtokens 是一个开源工具，用于估算AI代理在处理GitHub Pull Request时消耗的Token数量，从而帮助开发者了解使用AI辅助代码审查或自动修改时的潜在成本。该工具通过分析PR的变更内容，计算调用AI模型所需的Token数，支持不同模型的定价参考。适用于需要管理AI开销的开发团队，尤其是在大规模使用AI代理进行代码协作时，能够提供成本透明度。",
+  "tags": [
+    "ai",
+    "cost",
+    "tokens",
+    "github",
+    "pull-request",
+    "developer-tools"
+  ],
+  "score": 6,
+  "published_at": "Mon, 15 Jun 2026 19:24:15 +0000",
+  "fetched_at": "2026-06-16T12:51:08.955682+00:00",
+  "analyzed_at": "2026-06-16T12:52:56.754048+00:00",
+  "status": "published"
+}

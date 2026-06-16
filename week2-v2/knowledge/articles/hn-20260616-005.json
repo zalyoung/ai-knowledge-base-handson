@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260616-005",
+  "title": "Token-saviour：用于AI代理工具选择的路由技能（减少约70%令牌）",
+  "source_url": "https://github.com/vagkaratzas/skills/blob/main/token-saviour/SKILL.md",
+  "source_type": "hackernews",
+  "summary": "Token-saviour是一种创新的路由技能，旨在优化AI代理的工具选择过程。通过智能路由机制，它能够显著减少大型语言模型在调用工具时产生的令牌消耗，平均降低约70%。该技术适用于需要频繁进行工具调用的AI代理场景，如自动化工作流、对话系统和代码生成等，能够有效降低计算成本、减少延迟并提升用户体验。目前该项目在GitHub上公开，但社区关注度较低（Hacker News仅3分，无评论），仍需更多实践验证。",
+  "tags": [
+    "token-saving",
+    "ai-agent",
+    "tool-selection",
+    "routing",
+    "efficiency",
+    "llm"
+  ],
+  "score": 6,
+  "published_at": "Mon, 15 Jun 2026 15:08:19 +0000",
+  "fetched_at": "2026-06-16T12:51:08.955737+00:00",
+  "analyzed_at": "2026-06-16T12:53:11.349779+00:00",
+  "status": "published"
+}
