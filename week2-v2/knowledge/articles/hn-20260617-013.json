@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260617-013",
+  "title": "OpenACA：AI代理栈安全扫描器（支持MCP、技能和插件）",
+  "source_url": "https://github.com/open-agent-security/openaca",
+  "source_type": "hackernews",
+  "summary": "OpenACA 是一个开源安全扫描工具，专为 AI 代理栈设计，支持扫描 MCP（模型上下文协议）、技能和插件等组件。它能够检测潜在的安全漏洞，帮助开发者在构建 AI 代理时提升安全性。适用于 AI 代理开发、插件安全审计等场景，尤其适合使用 MCP 生态系统的项目。通过自动化扫描，降低 AI 应用中的风险。",
+  "tags": [
+    "security",
+    "scanner",
+    "ai",
+    "agents",
+    "mcp",
+    "plugins",
+    "open-source"
+  ],
+  "score": 7,
+  "published_at": "Tue, 16 Jun 2026 13:17:00 +0000",
+  "fetched_at": "2026-06-17T12:14:29.538260+00:00",
+  "analyzed_at": "2026-06-17T12:17:36.303040+00:00",
+  "status": "published"
+}

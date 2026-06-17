@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260617-006",
+  "title": "构建有状态的 AI 代理：Opencode 分支集成自主记忆管理",
+  "source_url": "https://github.com/surya17495/centri",
+  "source_type": "hackernews",
+  "summary": "本项目是 Opencode 的一个分支，通过内置的自主记忆管理模块解决了 AI 代理和编码工具缺乏状态的问题。该记忆核心可无缝插入 Hermes 及其他桌面/编码代理中，只需少量提示词即可启用。项目目标是打造一个语音和移动优先的客户端，服务器运行在沙箱或虚拟机中，支持多种模型，旨在替换当前的 hermes+opencode 堆栈。目前为早期开发阶段，欢迎试用与协作。",
+  "tags": [
+    "stateful-ai",
+    "memory-management",
+    "opencode-fork",
+    "hermes-agent",
+    "autonomous-agent",
+    "voice-first",
+    "mobile-first"
+  ],
+  "score": 7,
+  "published_at": "Wed, 17 Jun 2026 02:18:11 +0000",
+  "fetched_at": "2026-06-17T12:14:29.538126+00:00",
+  "analyzed_at": "2026-06-17T12:17:01.567370+00:00",
+  "status": "published"
+}

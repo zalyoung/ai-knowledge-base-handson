@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260617-014",
+  "title": "Dao Browser：一款集成AI代理并支持自带密钥的个性化浏览器",
+  "source_url": "https://github.com/msgbyte/dao-browser",
+  "source_type": "hackernews",
+  "summary": "Dao Browser 是一款具有鲜明设计理念的浏览器，其核心亮点在于集成了 AI Agent 并支持 BYOK（自带密钥）功能。用户可自主掌控 AI 服务的密钥，从而在享受智能浏览辅助（如页面摘要、智能搜索等）的同时，确保数据隐私。该浏览器采用开放源码架构，强调用户主权和可定制性，适合对隐私敏感且希望深度集成 AI 能力的开发者和高级用户。不过，该项目目前社区活跃度较低，处于早期阶段。",
+  "tags": [
+    "browser",
+    "ai-agent",
+    "byok",
+    "privacy",
+    "open-source",
+    "user-sovereignty"
+  ],
+  "score": 5,
+  "published_at": "Tue, 16 Jun 2026 12:39:27 +0000",
+  "fetched_at": "2026-06-17T12:14:29.538297+00:00",
+  "analyzed_at": "2026-06-17T12:17:45.777975+00:00",
+  "status": "published"
+}

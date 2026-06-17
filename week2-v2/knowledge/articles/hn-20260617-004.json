@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260617-004",
+  "title": "六周构建AI代理并理解其工作原理",
+  "source_url": "https://belderbos.dev/blog/jeff-haemer-agentic-ai-cohort/",
+  "source_type": "hackernews",
+  "summary": "本文介绍了一个为期六周的AI代理构建项目，旨在让开发者通过实践深入理解AI代理的工作机制。内容涵盖代理架构、规划、记忆与工具使用等核心概念，适合希望快速入门AI代理开发的读者。文章来自个人博客，虽未获得大量社区关注，但提供了实用的学习路径和洞见。",
+  "tags": [
+    "ai",
+    "agent",
+    "llm",
+    "tutorial",
+    "development"
+  ],
+  "score": 6,
+  "published_at": "Wed, 17 Jun 2026 08:52:13 +0000",
+  "fetched_at": "2026-06-17T12:14:29.538079+00:00",
+  "analyzed_at": "2026-06-17T12:16:52.212427+00:00",
+  "status": "published"
+}

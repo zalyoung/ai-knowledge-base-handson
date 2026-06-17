@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260617-002",
+  "title": "AI Agent集群的确定性基础设施 OrbitSuite",
+  "source_url": "https://orbitsuite.cloud",
+  "source_type": "hackernews",
+  "summary": "OrbitSuite 是一个专注于 AI agent 集群管理的确定性基础设施平台。它通过提供可预测、可复现的运行环境，确保多 agent 系统的行为一致性和可靠性，解决了 agent 编排中的不确定性问题。该平台适用于需要大规模、稳定部署 AI agent 的场景，例如自动化运维、智能决策系统、多代理协作任务等。其核心优势在于强调“确定性”，降低因环境差异导致的 agent 行为异常，提升生产环境的稳定性。",
+  "tags": [
+    "infrastructure",
+    "ai-agents",
+    "deterministic",
+    "orchestration",
+    "deployment"
+  ],
+  "score": 6,
+  "published_at": "Wed, 17 Jun 2026 11:37:59 +0000",
+  "fetched_at": "2026-06-17T12:14:29.538029+00:00",
+  "analyzed_at": "2026-06-17T12:16:41.315382+00:00",
+  "status": "published"
+}

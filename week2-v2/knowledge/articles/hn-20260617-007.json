@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260617-007",
+  "title": "使用Docker和HTTPS部署Hermes AI Agent",
+  "source_url": "https://devopness.com/blog/deploy-hermes-ai-agent-devopness/",
+  "source_type": "hackernews",
+  "summary": "本文提供了详细的步骤指南，展示如何利用Docker容器化技术并配置HTTPS，安全地部署Hermes AI Agent。内容涵盖环境准备、Docker镜像构建、证书生成及Nginx反向代理设置，适用于需要快速搭建生产级安全AI代理服务的开发者和运维人员。该教程注重实操性，可帮助用户规避常见部署陷阱。",
+  "tags": [
+    "docker",
+    "https",
+    "deployment",
+    "ai-agent",
+    "hermes-ai",
+    "nginx",
+    "tutorial"
+  ],
+  "score": 6,
+  "published_at": "Wed, 17 Jun 2026 00:14:36 +0000",
+  "fetched_at": "2026-06-17T12:14:29.538144+00:00",
+  "analyzed_at": "2026-06-17T12:17:05.749398+00:00",
+  "status": "published"
+}

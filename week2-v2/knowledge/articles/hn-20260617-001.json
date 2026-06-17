@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260617-001",
+  "title": "AI代理技能：助力开源项目增长的工具集",
+  "source_url": "https://github.com/marketingskills/open-source-growth",
+  "source_type": "hackernews",
+  "summary": "该项目提供一套预设的AI代理技能，可与Claude Code、OpenCode、Codex等AI编程助手集成，帮助开源项目维护者自动化推广与社区增长任务。技能覆盖社交媒体帖子生成、README优化、贡献者寻找等场景，降低运营成本，提升项目可见度。适用于希望借助AI加速开源项目发展的个人或团队，尤其适合缺乏营销经验的开发者。项目本身为开放源码，易于扩展和定制。",
+  "tags": [
+    "ai-agents",
+    "open-source",
+    "developer-tools",
+    "project-growth",
+    "automation"
+  ],
+  "score": 6,
+  "published_at": "Wed, 17 Jun 2026 11:41:45 +0000",
+  "fetched_at": "2026-06-17T12:14:29.537991+00:00",
+  "analyzed_at": "2026-06-17T12:16:35.399734+00:00",
+  "status": "published"
+}

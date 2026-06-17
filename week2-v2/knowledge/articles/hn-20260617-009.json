@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260617-009",
+  "title": "Qode：一次提示生成5万行代码库的AI智能体",
+  "source_url": "https://github.com/akshaylakkur/Q",
+  "source_type": "hackernews",
+  "summary": "Qode 声称是第一个能够通过单次提示（prompt）生成多达5万行代码的 AI Agent。它旨在自动化大型代码库的创建过程，大幅度提升开发效率。该工具适合需要快速原型开发、完整项目生成或大规模代码重构的场景。然而，目前该项目在Hacker News上讨论热度较低（仅1 points，2 comments），实际效果、代码质量和社区支持尚待验证。其依赖的底层模型和技术细节也未在描述中明确。对于追求极高效率和快速迭代的开发者而言，Qode提供了一种潜在的范式转变，但需谨慎评估其输出代码的可维护性和正确性。",
+  "tags": [
+    "ai-agent",
+    "code-generation",
+    "large-codebase",
+    "prompt-engineering",
+    "developer-tools"
+  ],
+  "score": 6,
+  "published_at": "Tue, 16 Jun 2026 21:17:36 +0000",
+  "fetched_at": "2026-06-17T12:14:29.538189+00:00",
+  "analyzed_at": "2026-06-17T12:17:17.022483+00:00",
+  "status": "published"
+}

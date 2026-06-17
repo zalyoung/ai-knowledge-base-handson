@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260617-012",
+  "title": "NakshGuard：防止AI代理循环的本地代理",
+  "source_url": "https://github.com/PujanMirani/NakshGuard",
+  "source_type": "hackernews",
+  "summary": "NakshGuard 是一个开源、本地部署的代理工具，旨在阻止 AI 代理陷入无限循环。通过监控和拦截代理请求中的循环模式，它确保 AI 系统在安全、受控的环境下运行，避免资源浪费和意外行为。该工具适用于企业级 AI 应用场景，提供轻量级、可自托管的解决方案，无需依赖外部服务。尽管项目刚发布，社区活跃度较低，但其针对 AI 代理循环这一特定问题的设计具有实用价值。",
+  "tags": [
+    "proxy",
+    "ai-agents",
+    "loop-prevention",
+    "on-premise",
+    "security"
+  ],
+  "score": 7,
+  "published_at": "Tue, 16 Jun 2026 13:27:46 +0000",
+  "fetched_at": "2026-06-17T12:14:29.538242+00:00",
+  "analyzed_at": "2026-06-17T12:17:31.827879+00:00",
+  "status": "published"
+}

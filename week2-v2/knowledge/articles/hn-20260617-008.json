@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260617-008",
+  "title": "Andrew Ng 发布桌面 AI 代理 Open CoWorker",
+  "source_url": "https://github.com/andrewyng/aisuite",
+  "source_type": "hackernews",
+  "summary": "该项目由知名 AI 专家 Andrew Ng 发布，旨在提供一个开源的桌面 AI 代理工具。名为 Open CoWorker，它可能整合了多种 AI 模型或服务，以在本地桌面环境中辅助用户完成复杂任务。项目代码托管在 GitHub 的 andrewyng/aisuite 仓库中，但目前缺乏详细的文档、星标数和编程语言信息，表明其尚处于早期或低调发布阶段。该工具适合开发者、研究人员和对本地 AI 代理感兴趣的群体使用，目标是降低 AI 桌面代理的开发门槛，并促进社区协作。",
+  "tags": [
+    "ai",
+    "agent",
+    "desktop",
+    "open-source",
+    "llm",
+    "productivity"
+  ],
+  "score": 6,
+  "published_at": "Tue, 16 Jun 2026 22:17:06 +0000",
+  "fetched_at": "2026-06-17T12:14:29.538169+00:00",
+  "analyzed_at": "2026-06-17T12:17:10.257224+00:00",
+  "status": "published"
+}

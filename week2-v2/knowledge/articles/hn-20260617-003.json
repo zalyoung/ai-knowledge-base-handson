@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260617-003",
+  "title": "追踪AI代理API使用成本：识别哪个代理消耗了你的OpenAI/Anthropic账单",
+  "source_url": "https://github.com/Nu11P01nt3r3xc3pt10n/spaturzu-sdks",
+  "source_type": "hackernews",
+  "summary": "该项目提供了一个开源工具或SDK，旨在帮助用户追踪和识别是哪个AI代理（agent）消耗了OpenAI或Anthropic API的账单费用。适用于团队或企业中同时运行多个AI代理的场景，通过监控API调用来源，实现成本归属和优化。目前仓库处于早期阶段，缺乏详细文档和社区活跃度，但概念本身具有实用价值。",
+  "tags": [
+    "ai-agent",
+    "api-cost",
+    "tracking",
+    "open-source",
+    "monitoring"
+  ],
+  "score": 6,
+  "published_at": "Wed, 17 Jun 2026 09:30:40 +0000",
+  "fetched_at": "2026-06-17T12:14:29.538051+00:00",
+  "analyzed_at": "2026-06-17T12:16:47.176500+00:00",
+  "status": "published"
+}

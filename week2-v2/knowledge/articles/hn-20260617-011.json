@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260617-011",
+  "title": "VulnFeed：一个包含9个安全工具的AI代理MCP服务器",
+  "source_url": "https://vulnfeed.novadyne.ai/",
+  "source_type": "hackernews",
+  "summary": "VulnFeed 是一个基于 MCP（Model Context Protocol）的服务器，集成了9种安全工具，允许 AI 代理通过统一接口直接调用这些工具进行漏洞扫描、威胁检测和情报获取。其技术亮点包括模块化设计、易于集成以及实时安全数据反馈，特别适用于安全运维自动化、AI 驱动的安全分析和 DevSecOps 流水线场景。该项目在 Hacker News 上作为展示项目发布，虽然社区热度尚低，但概念新颖，为 AI 与安全工具的结合提供了实用范例。",
+  "tags": [
+    "vulnerability-scanning",
+    "mcp-server",
+    "ai-agent",
+    "security-tools",
+    "devsecops",
+    "threat-intelligence",
+    "automation"
+  ],
+  "score": 6,
+  "published_at": "Tue, 16 Jun 2026 17:25:50 +0000",
+  "fetched_at": "2026-06-17T12:14:29.538225+00:00",
+  "analyzed_at": "2026-06-17T12:17:26.720078+00:00",
+  "status": "published"
+}
