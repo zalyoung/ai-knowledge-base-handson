@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260618-004",
+  "title": "Minecraft AI Agent：用于模组和服务器管理的智能助手",
+  "source_url": "https://orcaclient.com/",
+  "source_type": "hackernews",
+  "summary": "该项目展示了一个专为Minecraft设计的AI Agent，旨在简化模组管理和服务器运维。通过自然语言交互或自动化策略，用户可轻松安装、配置模组，以及执行服务器监控、玩家管理、事件响应等任务。适用于Minecraft服务器管理员、模组开发者及大型社区服务器，降低运维门槛，提升管理效率。目前处于展示阶段，技术细节和开源情况待进一步公开。",
+  "tags": [
+    "minecraft",
+    "ai-agent",
+    "mods",
+    "server-management",
+    "automation"
+  ],
+  "score": 6,
+  "published_at": "Wed, 17 Jun 2026 17:57:38 +0000",
+  "fetched_at": "2026-06-18T11:49:04.321657+00:00",
+  "analyzed_at": "2026-06-18T11:51:02.742680+00:00",
+  "status": "published"
+}

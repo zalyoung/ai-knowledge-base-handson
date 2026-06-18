@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260618-002",
+  "title": "Scope：让任何AI代理发现和使用你的产品",
+  "source_url": "https://tryscope.app/",
+  "source_type": "hackernews",
+  "summary": "Scope 是一个旨在提升产品对AI代理可发现性和可用性的平台。它通过标准化接口或协议，使各种AI代理能够无缝地与产品交互，从而拓展产品的应用场景。适用于希望将自身产品集成到AI生态系统中的开发者与企业，尤其适合面向AI工作流的SaaS工具和API服务。目前尚处于早期阶段，社区讨论有限，但概念具有前瞻性。",
+  "tags": [
+    "ai-agents",
+    "discoverability",
+    "interoperability",
+    "product-integration",
+    "open-standards"
+  ],
+  "score": 6,
+  "published_at": "Wed, 17 Jun 2026 20:17:59 +0000",
+  "fetched_at": "2026-06-18T11:49:04.321615+00:00",
+  "analyzed_at": "2026-06-18T11:50:55.432400+00:00",
+  "status": "published"
+}

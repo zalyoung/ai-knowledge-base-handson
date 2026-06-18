@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260618-007",
+  "title": "从零构建基础AI代理：人机协同与安全机制",
+  "source_url": "https://www.ruxu.dev/articles/ai/build-an-ai-agent-human-in-the-loop-security/",
+  "source_type": "hackernews",
+  "summary": "本文详细介绍了如何从零开始构建一个基础AI代理，重点强调了人机协同（Human-in-the-Loop）设计模式和安全机制的集成。文章通过分步实践，展示了如何在AI决策流程中嵌入人工监督，以确保关键操作的准确性和可审计性。同时深入分析了代理执行中面临的安全风险（如提示注入、未授权操作等），并提出了具体的防护策略，如输入验证、权限控制和输出过滤。适合希望构建安全可控AI代理的开发者参考。",
+  "tags": [
+    "ai-agent",
+    "human-in-the-loop",
+    "security",
+    "tutorial",
+    "llm",
+    "prompt-injection",
+    "guardrails"
+  ],
+  "score": 7,
+  "published_at": "Wed, 17 Jun 2026 13:35:34 +0000",
+  "fetched_at": "2026-06-18T11:49:04.321710+00:00",
+  "analyzed_at": "2026-06-18T11:51:18.571710+00:00",
+  "status": "published"
+}

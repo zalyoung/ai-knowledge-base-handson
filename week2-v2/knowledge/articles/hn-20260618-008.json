@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260618-008",
+  "title": "对AI Agent的信任危机：为什么我更信任我的汽车",
+  "source_url": "https://thoughts.jock.pl/p/ai-agent-future-where-this-goes-2026",
+  "source_type": "hackernews",
+  "summary": "本文探讨了用户对AI Agent（人工智能代理）信任度低于对传统汽车技术的信任这一现象。文章从可靠性、透明度和安全性的角度分析了AI Agent当前面临的信任挑战，指出尽管AI技术发展迅速，但在实际应用中仍缺乏足够的工程化保障和用户可理解的决策过程。汽车作为高度标准化和经过数十年安全验证的技术，其稳定性与可预测性成为用户信任的基础。文章适用于AI产品设计、人机交互优化以及AI安全领域的从业者，为提升用户对AI系统的信任提供了反思和借鉴。",
+  "tags": [
+    "ai-agent",
+    "trust",
+    "ai-safety",
+    "user-experience",
+    "reliability"
+  ],
+  "score": 6,
+  "published_at": "Wed, 17 Jun 2026 13:00:12 +0000",
+  "fetched_at": "2026-06-18T11:49:04.321731+00:00",
+  "analyzed_at": "2026-06-18T11:51:24.270963+00:00",
+  "status": "published"
+}

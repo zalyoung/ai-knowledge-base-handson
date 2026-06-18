@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260618-001",
+  "title": "AI代理以AI价格雇佣人类发布UGC视频",
+  "source_url": "https://klaylab.com/",
+  "source_type": "hackernews",
+  "summary": "该项目提出一种AI代理模式，通过AI系统雇佣真实人类来上传用户生成内容（UGC）视频，并以AI驱动的价格进行结算。技术亮点在于将AI的自动化调度与人类执行相结合，实现低成本的内容分发。适用于需要大量视频上传但预算有限的场景，如社交媒体营销、内容农场等。但项目在Hacker News上活跃度低，创新性和实用性有待验证。",
+  "tags": [
+    "ai-agent",
+    "ugc",
+    "video",
+    "human-in-the-loop",
+    "ai-pricing"
+  ],
+  "score": 5,
+  "published_at": "Wed, 17 Jun 2026 20:59:07 +0000",
+  "fetched_at": "2026-06-18T11:49:04.321583+00:00",
+  "analyzed_at": "2026-06-18T11:50:50.170057+00:00",
+  "status": "published"
+}

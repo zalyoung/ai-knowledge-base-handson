@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260618-005",
+  "title": "Vokal – AI代理在聊天结束后继续工作的地方",
+  "source_url": "https://vokal.team",
+  "source_type": "hackernews",
+  "summary": "Vokal是一个专注于AI代理在聊天结束后持续执行任务的平台，旨在弥补传统AI聊天机器人会话结束即停止的局限性。它允许用户在对话完成后继续指派并执行工作流、数据处理或自动化操作，适用于需要长期运行的AI任务场景，如客户跟进、数据整理、定时触发等。不过，该项目的社区活跃度和关注度较低，Points仅为2且无评论，可能仍处于早期阶段或缺乏足够创新性。",
+  "tags": [
+    "ai",
+    "agent",
+    "automation",
+    "workflow",
+    "chat",
+    "backend",
+    "task"
+  ],
+  "score": 5,
+  "published_at": "Wed, 17 Jun 2026 16:53:45 +0000",
+  "fetched_at": "2026-06-18T11:49:04.321677+00:00",
+  "analyzed_at": "2026-06-18T11:51:07.974343+00:00",
+  "status": "published"
+}

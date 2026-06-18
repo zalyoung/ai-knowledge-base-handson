@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260618-006",
+  "title": "Aihu：持久化Web组件框架，可被AI代理驱动",
+  "source_url": "https://github.com/fellwork/aihu",
+  "source_type": "hackernews",
+  "summary": "Aihu是一个全新的Web组件框架，专注于创建持久化的UI组件，并允许AI代理直接与之交互（驱动）。该框架提供完整的组件生命周期管理、状态持久化能力，以及面向AI代理的标准化接口，使得智能体能够像人类一样操作界面元素。适用于需要高可靠、可复用的UI组件，同时希望集成AI自动化操作（如RPA、会话式UI）的场景。目前处于开源早期阶段，技术创新性强，但社区活跃度和实用性有待验证。",
+  "tags": [
+    "web-components",
+    "ai-agent",
+    "framework",
+    "javascript",
+    "open-source"
+  ],
+  "score": 7,
+  "published_at": "Wed, 17 Jun 2026 16:22:34 +0000",
+  "fetched_at": "2026-06-18T11:49:04.321696+00:00",
+  "analyzed_at": "2026-06-18T11:51:13.171944+00:00",
+  "status": "published"
+}
