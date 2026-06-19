@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260619-001",
+  "title": "Wolffish：一个注重隐私与易用性的桌面AI个人代理",
+  "source_url": "https://www.wolffi.sh/",
+  "source_type": "hackernews",
+  "summary": "Wolffish 是一款开源免费的桌面 AI 代理应用，旨在解决现有 AI 工具配置复杂、隐私风险高、更新易崩溃等问题。它安装即用，无需服务器或复杂模板，数据完全保留在本地，支持 DeepSeek、GLM、Claude、GPT 以及完全离线的本地模型。用户可轻松将 AI 代理集成到个人数字环境中，执行真实桌面任务而非仅文本生成。Wolffish 面向未来开权重模型成为主流的方向，让用户下载、运行并完全拥有自己的智能代理，适用于追求数据隐私、易用性和离线能力的个人用户。",
+  "tags": [
+    "desktop-ai",
+    "ai-agent",
+    "privacy",
+    "open-source",
+    "local-ai",
+    "personal-assistant",
+    "cross-model"
+  ],
+  "score": 8,
+  "published_at": "Fri, 19 Jun 2026 11:32:15 +0000",
+  "fetched_at": "2026-06-19T12:04:09.159150+00:00",
+  "analyzed_at": "2026-06-19T12:06:20.314550+00:00",
+  "status": "published"
+}
