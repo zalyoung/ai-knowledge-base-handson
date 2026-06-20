@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260620-003",
+  "title": "Autonomy：自引导AI代理核心（开发中）",
+  "source_url": "https://autonomy-landing-page.vercel.app/",
+  "source_type": "hackernews",
+  "summary": "Autonomy 是一个正在开发中的自引导（Self-Harness）AI代理核心，专注于实现自我监督和自主决策能力。该项目旨在构建一个能够独立执行复杂任务、动态调整行为策略的AI代理框架，适用于自动化任务管理、智能助手、机器人控制等需要高度自主性的场景。当前项目处于早期开发阶段，在Hacker News上得到了有限关注（3 points，0评论），但技术方向具有创新性，潜力值得持续关注。",
+  "tags": [
+    "self-directed-ai",
+    "ai-agent",
+    "autonomy",
+    "self-harness",
+    "machine-learning",
+    "agent-core"
+  ],
+  "score": 6,
+  "published_at": "Sat, 20 Jun 2026 06:31:40 +0000",
+  "fetched_at": "2026-06-20T10:30:48.691906+00:00",
+  "analyzed_at": "2026-06-20T10:32:50.901864+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260620-007",
+  "title": "SkillsGuard – 针对恶意AI agent技能的静态扫描器",
+  "source_url": "https://github.com/Teycir/SkillsGuard",
+  "source_type": "hackernews",
+  "summary": "SkillsGuard 是一个静态代码扫描工具，专门用于检测和分析AI agent技能（skills）中的恶意行为。它采用静态分析技术，无需实际运行技能即可识别潜在的安全威胁，如数据泄露、命令注入和权限滥用等。该工具适用于AI agent开发者和安全研究人员，在部署前对技能进行安全审查，防止恶意技能导致系统受损或用户信息泄露。当前项目处于早期阶段，但针对AI安全这一新兴领域提供了实用的防护手段。",
+  "tags": [
+    "static-analysis",
+    "ai-security",
+    "malware-detection",
+    "scanner",
+    "code-audit",
+    "cloud-security"
+  ],
+  "score": 7,
+  "published_at": "Fri, 19 Jun 2026 21:32:52 +0000",
+  "fetched_at": "2026-06-20T10:30:48.691983+00:00",
+  "analyzed_at": "2026-06-20T10:33:10.742459+00:00",
+  "status": "published"
+}

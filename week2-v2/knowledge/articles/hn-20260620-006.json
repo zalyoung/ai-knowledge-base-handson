@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260620-006",
+  "title": "Ratchet：AI代理通过CH341A编程器自动刷写BIOS",
+  "source_url": "https://github.com/jackulau/ratchet",
+  "source_type": "hackernews",
+  "summary": "Ratchet 是一个开源项目，通过模型上下文协议（MCP）服务器，将 AI 代理（如 Claude、GPT）与 CH341A 编程器集成，使 AI 能够直接控制硬件对 BIOS 进行备份、刷写和验证。该项目展示了 LLM 从软件操作扩展到物理硬件的可能性，适用于自动化固件更新、硬件调试与恢复等场景。但需注意，操作 BIOS 具有极高风险，AI 误操作可能导致硬件损坏，适合具备硬件基础的高级用户或实验用途。目前社区反馈极少，仍属早期概念验证。",
+  "tags": [
+    "ai",
+    "bios",
+    "ch341a",
+    "hardware-programming",
+    "mcp-server",
+    "firmware",
+    "automation"
+  ],
+  "score": 5,
+  "published_at": "Fri, 19 Jun 2026 23:13:26 +0000",
+  "fetched_at": "2026-06-20T10:30:48.691962+00:00",
+  "analyzed_at": "2026-06-20T10:33:05.130263+00:00",
+  "status": "published"
+}

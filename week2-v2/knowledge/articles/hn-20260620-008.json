@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260620-008",
+  "title": "Android AI 代理（AI Agent）—— rikkahub-agent",
+  "source_url": "https://github.com/ExTV/rikkahub-agent",
+  "source_type": "hackernews",
+  "summary": "该项目提供了一个在 Android 平台上运行的 AI Agent 框架，旨在将智能代理能力引入移动设备。技术亮点包括轻量级设计、本地决策执行和任务自动化，无需依赖云端即可实现设备端智能控制。适用场景包括个人助手、设备自动化管理、上下文感知推荐等，适合对隐私和离线能力有要求的移动端 AI 应用开发。",
+  "tags": [
+    "android",
+    "ai",
+    "agent",
+    "automation",
+    "framework",
+    "mobile"
+  ],
+  "score": 6,
+  "published_at": "Fri, 19 Jun 2026 19:47:51 +0000",
+  "fetched_at": "2026-06-20T10:30:48.692007+00:00",
+  "analyzed_at": "2026-06-20T10:33:16.768279+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260620-005",
+  "title": "MojiMoshi：在Telegram或Line中创建AI代理的平台",
+  "source_url": "https://mojimoshi.com/",
+  "source_type": "hackernews",
+  "summary": "MojiMoshi 是一个允许用户在 Telegram 或 Line 消息应用中创建和部署 AI 代理的平台。用户无需复杂编程即可构建一个能够持续在线、响应用户指令的智能助手。该工具专注于将大语言模型能力嵌入主流即时通讯环境，适用于个人助理、客服机器人或社区管理等场景。目前该项目在 HackerNews 上获得少量关注，社区活跃度较低，但其对普通用户的低门槛设计具有实用价值。",
+  "tags": [
+    "ai-agent",
+    "telegram",
+    "line",
+    "chatbot",
+    "no-code",
+    "messaging"
+  ],
+  "score": 5,
+  "published_at": "Sat, 20 Jun 2026 01:56:22 +0000",
+  "fetched_at": "2026-06-20T10:30:48.691945+00:00",
+  "analyzed_at": "2026-06-20T10:32:58.391962+00:00",
+  "status": "published"
+}

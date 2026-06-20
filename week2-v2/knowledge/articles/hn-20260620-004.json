@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260620-004",
+  "title": "AgentArk – 开源自托管AI Agent操作系统",
+  "source_url": "https://github.com/agentark-ai/AgentArk",
+  "source_type": "hackernews",
+  "summary": "AgentArk是一个开源自托管的AI代理操作系统，旨在为开发者提供构建、部署和管理AI代理的基础设施。它支持多种AI模型和工具集成，强调数据隐私和自主控制，适合企业级和隐私敏感场景的AI自动化部署。尽管项目尚处早期阶段（社区活跃度低），其开源和自托管的理念为AI代理的本地化运行提供了新选择。",
+  "tags": [
+    "ai",
+    "agent",
+    "self-hosted",
+    "open-source",
+    "os",
+    "automation"
+  ],
+  "score": 6,
+  "published_at": "Sat, 20 Jun 2026 03:45:06 +0000",
+  "fetched_at": "2026-06-20T10:30:48.691928+00:00",
+  "analyzed_at": "2026-06-20T10:32:54.448142+00:00",
+  "status": "published"
+}

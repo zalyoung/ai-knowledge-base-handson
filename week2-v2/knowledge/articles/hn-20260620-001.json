@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260620-001",
+  "title": "Logslim - 在AI代理读取前压缩测试/构建输出",
+  "source_url": "https://github.com/P156HAM/logslim",
+  "source_type": "hackernews",
+  "summary": "Logslim是一个专注于压缩和精简测试运行及构建过程输出的轻量级工具，采用智能过滤与格式化技术移除冗余信息，生成紧凑、结构化的日志。这使得AI代理（如大语言模型）能高效读取和分析日志内容，尤其适用于CI/CD流水线、自动化测试框架及开发者本地调试场景。通过减少数据量并保留关键上下文，Logslim提升了AI处理日志的准确性与速度，降低了token消耗，是桥接传统日志与AI工作流的实用解决方案。",
+  "tags": [
+    "logs",
+    "testing",
+    "build",
+    "ai-agent",
+    "cli",
+    "developer-tools"
+  ],
+  "score": 7,
+  "published_at": "Sat, 20 Jun 2026 08:13:20 +0000",
+  "fetched_at": "2026-06-20T10:30:48.691857+00:00",
+  "analyzed_at": "2026-06-20T10:32:39.922250+00:00",
+  "status": "published"
+}

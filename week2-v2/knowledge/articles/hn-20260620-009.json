@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260620-009",
+  "title": "每个 AI 代理都应被视为独立身份，多数组织未重视",
+  "source_url": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+  "source_type": "hackernews",
+  "summary": "本文指出，随着 AI 代理在企业中的广泛部署，它们获取数据和执行操作的能力带来了新的安全挑战。然而，大多数组织仍将 AI 代理视为普通工具，而非独立的身份实体，缺少对它们进行适当的身份治理和访问控制。文章强调，企业应将每个 AI 代理视为一种数字身份，为其分配最小权限，并纳入身份与访问管理（IAM）体系中进行持续监控与审计。这一观点适用于需要安全部署和管控 AI 代理的企业场景，有助于防范权限滥用和潜在的数据泄露风险。",
+  "tags": [
+    "ai-security",
+    "identity-management",
+    "access-control",
+    "enterprise-ai",
+    "iam",
+    "cybersecurity"
+  ],
+  "score": 7,
+  "published_at": "Fri, 19 Jun 2026 13:23:13 +0000",
+  "fetched_at": "2026-06-20T10:30:48.692025+00:00",
+  "analyzed_at": "2026-06-20T10:33:22.301385+00:00",
+  "status": "published"
+}
