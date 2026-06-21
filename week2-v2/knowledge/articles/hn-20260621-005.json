@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260621-005",
+  "title": "Overreach：审计AI代理输出与提示指令的差异",
+  "source_url": "https://github.com/Naveja00/OverReach",
+  "source_type": "hackernews",
+  "summary": "Overreach 是一个专注于AI代理行为审计的工具，通过对比代理的实际输出（diff）与用户给定的提示（prompt），帮助开发者检测代理是否偏离指令或越权。该工具适用于需要确保AI代理行为合规、安全的场景，如自动化任务执行、API调用、代码生成等。其核心价值在于提供透明度和可追溯性，降低AI代理误用或失控风险。当前社区活跃度未知，但概念本身具有创新性和实用性。",
+  "tags": [
+    "ai-agent",
+    "audit",
+    "compliance",
+    "prompt-engineering",
+    "safety"
+  ],
+  "score": 7,
+  "published_at": "Sat, 20 Jun 2026 11:51:53 +0000",
+  "fetched_at": "2026-06-21T11:13:42.975627+00:00",
+  "analyzed_at": "2026-06-21T11:15:41.124080+00:00",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "github-20260621-001",
+  "title": "Headroom：LLM输入压缩工具，减少60-95% Token消耗",
+  "source_url": "https://github.com/chopratejas/headroom",
+  "source_type": "github_trending",
+  "summary": "Headroom 是一个针对大型语言模型（LLM）的输入压缩工具，能够在工具输出、日志、文件以及RAG块到达LLM之前进行高效压缩。它宣称可以减少60-95%的token数量，同时保持原有的答案质量。项目提供多种使用方式：作为Python库集成、作为代理服务器或作为MCP（Model Context Protocol）服务器。适用于需要降低LLM调用成本、优化上下文窗口利用率、提升响应速度的场景。凭借4万+星标的高社区活跃度，Headroom在实用性和创新性上均表现出色。",
+  "tags": [
+    "llm",
+    "token-optimization",
+    "compression",
+    "proxy",
+    "mcp",
+    "rag",
+    "python",
+    "prompt-engineering"
+  ],
+  "score": 10,
+  "published_at": "2026-01-07T19:58:51Z",
+  "fetched_at": "2026-06-21T11:13:41.870666+00:00",
+  "analyzed_at": "2026-06-21T11:15:17.277459+00:00",
+  "status": "published"
+}

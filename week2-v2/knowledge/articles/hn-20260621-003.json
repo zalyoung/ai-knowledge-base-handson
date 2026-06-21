@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260621-003",
+  "title": "AutoJack漏洞：单页面即可在AI代理主机上执行任意代码",
+  "source_url": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/",
+  "source_type": "hackernews",
+  "summary": "AutoJack是一种由微软安全团队发现的严重漏洞，其利用方式极为隐蔽——攻击者只需诱导AI代理加载一个恶意网页，即可在托管该代理的主机上实现远程代码执行（RCE）。该漏洞主要影响依赖浏览器或沙箱环境的AI代理系统，通过绕过隔离机制直接操控宿主操作系统。这一发现揭示了当前AI代理安全设计的薄弱环节，对自动驾驶、智能客服等场景构成实质威胁，需要开发者立即修补浏览器内核及进程隔离方案。",
+  "tags": [
+    "autojack",
+    "rce",
+    "ai-agent",
+    "security",
+    "vulnerability"
+  ],
+  "score": 8,
+  "published_at": "Sat, 20 Jun 2026 20:30:16 +0000",
+  "fetched_at": "2026-06-21T11:13:42.975567+00:00",
+  "analyzed_at": "2026-06-21T11:15:32.894285+00:00",
+  "status": "published"
+}

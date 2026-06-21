@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260621-004",
+  "title": "基于Rust的本地身份服务器：Ed25519签名与AI代理治理",
+  "source_url": "https://github.com/rewired89/HSIP-1PHASE",
+  "source_type": "hackernews",
+  "summary": "HSIP是一个用Rust编写的本地身份服务器，利用Ed25519签名算法确保数据传输的安全性和身份验证的可靠性，同时引入AI代理（Agent）进行自主治理，实现去中心化环境下的身份管理与权限控制。该项目旨在为边缘计算或离线系统提供轻量级、高性能的身份解决方案，其AI治理模块可动态调整访问策略，提升系统自适应能力。尽管目前社区关注度较低（HackerNews仅3分，无评论），但其将传统身份服务器与现代加密技术与AI结合的设计思路值得关注，适用于物联网、分布式自治组织（DAO）等场景。",
+  "tags": [
+    "rust",
+    "identity-server",
+    "ed25519",
+    "ai-agent",
+    "governance",
+    "security"
+  ],
+  "score": 4,
+  "published_at": "Sat, 20 Jun 2026 19:27:43 +0000",
+  "fetched_at": "2026-06-21T11:13:42.975602+00:00",
+  "analyzed_at": "2026-06-21T11:15:37.136529+00:00",
+  "status": "published"
+}

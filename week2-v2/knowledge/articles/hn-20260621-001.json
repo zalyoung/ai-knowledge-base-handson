@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260621-001",
+  "title": "基于网络意图层（NILScript）的AI代理行为治理",
+  "source_url": "https://zenodo.org/records/20774491",
+  "source_type": "hackernews",
+  "summary": "本文提出了一种通过网络意图层（NILScript）来治理AI代理行为的方法。该方法定义了一个抽象层，将AI代理的意图转化为网络层面的可执行策略，从而实现对其行为的控制与协调。适用于需要对AI代理进行安全、合规管理的场景，如自主网络运维、分布式AI系统等。技术亮点包括意图驱动的策略生成、与现有网络基础设施的集成以及实时行为监控。该研究为AI代理的可靠运行提供了新的治理思路。",
+  "tags": [
+    "ai-agents",
+    "network-intent",
+    "governance",
+    "nilscript",
+    "security"
+  ],
+  "score": 6,
+  "published_at": "Sun, 21 Jun 2026 07:59:13 +0000",
+  "fetched_at": "2026-06-21T11:13:42.975478+00:00",
+  "analyzed_at": "2026-06-21T11:15:22.644290+00:00",
+  "status": "published"
+}

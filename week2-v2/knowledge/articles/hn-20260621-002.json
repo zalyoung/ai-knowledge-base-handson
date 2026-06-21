@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260621-002",
+  "title": "Agent-Historian：让AI Agent搜索自己的历史会话",
+  "source_url": "https://github.com/adlternative/agent-historian",
+  "source_type": "hackernews",
+  "summary": "Agent-Historian是一个开源工具，旨在赋予AI Agent检索自身历史会话的能力，从而增强其长期记忆和上下文连贯性。通过让Agent访问过去的交互记录，可以提升对话的连续性和个性化体验。该工具可能基于向量数据库和检索增强生成（RAG）技术，适用于需要持久记忆的AI助手、客服机器人等场景。项目目前处于早期阶段，在Hacker News上的关注度不高，但概念具有创新性。",
+  "tags": [
+    "ai",
+    "agents",
+    "memory",
+    "search",
+    "history",
+    "rag",
+    "llm"
+  ],
+  "score": 7,
+  "published_at": "Sun, 21 Jun 2026 02:58:08 +0000",
+  "fetched_at": "2026-06-21T11:13:42.975532+00:00",
+  "analyzed_at": "2026-06-21T11:15:28.047563+00:00",
+  "status": "published"
+}
