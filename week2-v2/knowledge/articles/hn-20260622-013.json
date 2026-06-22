@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260622-013",
+  "title": "Tokoscope – 两行代码实现LLM Token自动压缩与成本监控",
+  "source_url": "https://tokoscope.com",
+  "source_type": "hackernews",
+  "summary": "Tokoscope 是一个轻量级工具，允许开发者仅通过两行代码即可集成自动化的 LLM（大语言模型）Token 压缩与成本监控功能。该工具旨在帮助使用大模型 API 的团队减少 Token 消耗、降低调用成本，同时实时追踪费用支出。适用于各类 LLM 应用（如聊天机器人、文本摘要、自动化流程等），无需复杂的配置或修改现有代码。其简洁的集成方式降低了优化成本的门槛，对创业公司和个人开发者尤其友好。当前项目在 Hacker News 上展示，社区反馈尚在早期阶段。",
+  "tags": [
+    "llm",
+    "token-compression",
+    "cost-monitoring",
+    "developer-tools",
+    "optimization"
+  ],
+  "score": 7,
+  "published_at": "Sun, 21 Jun 2026 12:25:18 +0000",
+  "fetched_at": "2026-06-22T13:32:49.874996+00:00",
+  "analyzed_at": "2026-06-22T13:35:57.542233+00:00",
+  "status": "published"
+}

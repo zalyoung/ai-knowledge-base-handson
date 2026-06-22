@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260622-008",
+  "title": "科技评论员Cringely联合创办2Brains Inc，旨在解决大语言模型幻觉问题",
+  "source_url": "https://slashdot.org/story/26/06/20/0556251/tech-pundit-cringely-co-founds-startup-2brains-inc-to-solve-llm-hallucinations",
+  "source_type": "hackernews",
+  "summary": "科技评论员Bob Cringely联合创办了初创公司2Brains Inc，专注于解决大语言模型（LLM）的幻觉问题。虽然具体技术细节尚未披露，但从公司名称“2Brains”推测，可能采用双验证或双模型架构来检测和纠正模型生成的不准确信息。该方案旨在提升LLM在事实性任务中的可靠性，适用于知识问答、文档生成、客服系统等对准确性要求较高的场景。目前项目处于早期阶段，社区关注度有限，但解决幻觉问题是大模型应用落地的关键瓶颈之一。",
+  "tags": [
+    "llm",
+    "hallucination",
+    "startup",
+    "ai",
+    "factuality"
+  ],
+  "score": 5,
+  "published_at": "Sun, 21 Jun 2026 18:35:28 +0000",
+  "fetched_at": "2026-06-22T13:32:49.874852+00:00",
+  "analyzed_at": "2026-06-22T13:35:29.365511+00:00",
+  "status": "published"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260622-016",
+  "title": "FERNme：近乎零LLM调用的代理记忆更新系统",
+  "source_url": "https://github.com/mirkofr/FERNme",
+  "source_type": "hackernews",
+  "summary": "FERNme 是一种基于图的持久记忆系统，专为 AI 代理设计，旨在通过零或极少的 LLM 调用来更新和检索个性化记忆。它采用模糊边（fuzzy edge）与赫布共现规则（Hebbian co-occurrence rule）自动生成记忆标签，模拟大脑的联想学习机制，从而显著降低 token 消耗。该项目在 GitHub 上开源，主要适用于需要长期、低成本个性化能力的聊天代理、虚拟助手等场景。目前尚处于早期阶段，社区反馈有限，但其核心思路——用图结构和赫布学习替代传统 LLM 密集调用——在降低推理成本方面具有潜在创新价值。",
+  "tags": [
+    "memory",
+    "graph-based",
+    "hebbian",
+    "llm",
+    "agent",
+    "personalization",
+    "token-saving"
+  ],
+  "score": 7,
+  "published_at": "Sat, 20 Jun 2026 23:34:03 +0000",
+  "fetched_at": "2026-06-22T13:32:49.875062+00:00",
+  "analyzed_at": "2026-06-22T13:36:11.935710+00:00",
+  "status": "published"
+}

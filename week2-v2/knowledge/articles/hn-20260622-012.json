@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260622-012",
+  "title": "告别LLM聊天式交互体验",
+  "source_url": "https://www.thoughtfultechnologist.com/p/im-done-with-llm-through-chat-experience",
+  "source_type": "hackernews",
+  "summary": "本文作者反思了当前主流的大语言模型（LLM）交互方式——即通过聊天界面进行人机对话。作者指出这种“聊天式体验”存在效率低下、上下文管理困难、难以复用以及缺乏结构化输出等问题，认为它并不适用于生产环境或深度知识探索。文章可能探讨了替代方案，如结构化查询、任务导向的API接口或集成开发环境，以提升LLM的实际应用价值。该观点反映了技术社区对于LLM交互范式革新的呼声，尤其适合开发者、AI产品经理和研究者的思考。",
+  "tags": [
+    "llm",
+    "chat-interface",
+    "user-experience",
+    "productivity",
+    "ai-interaction"
+  ],
+  "score": 6,
+  "published_at": "Sun, 21 Jun 2026 13:55:08 +0000",
+  "fetched_at": "2026-06-22T13:32:49.874972+00:00",
+  "analyzed_at": "2026-06-22T13:35:51.868128+00:00",
+  "status": "published"
+}

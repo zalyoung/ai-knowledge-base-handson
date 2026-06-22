@@ -1,0 +1,22 @@
+{
+  "id": "github-20260622-001",
+  "title": "Headroom：高效压缩LLM输入Token的库与代理工具",
+  "source_url": "https://github.com/headroomlabs-ai/headroom",
+  "source_type": "github_trending",
+  "summary": "Headroom 是一个开源工具，旨在压缩发送给大语言模型（LLM）的输入数据，包括工具输出、日志、文件和RAG块，可减少 60-95% 的 token 数量，同时保持回答质量不变。它提供三种使用方式：Python 库、HTTP 代理和 MCP 服务器，支持与 LangChain、FastAPI、Cursor、Claude Code 等集成。该工具通过上下文工程优化 token 使用，显著降低 LLM 调用成本并突破上下文窗口限制，适用于对话代理、RAG 系统、日志分析等需要大量上下文输入的场景。项目在 GitHub 上获得超过 46k 星标，社区活跃度高。",
+  "tags": [
+    "compression",
+    "token-optimization",
+    "llm",
+    "rag",
+    "agent",
+    "mcp",
+    "python",
+    "context-engineering"
+  ],
+  "score": 9,
+  "published_at": "2026-01-07T19:58:51Z",
+  "fetched_at": "2026-06-22T13:32:47.576198+00:00",
+  "analyzed_at": "2026-06-22T13:34:26.154330+00:00",
+  "status": "published"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260622-019",
+  "title": "降低 LLM 管道成本的三项实用技巧：比更换模型更有效",
+  "source_url": "https://news.ycombinator.com/item?id=48608978",
+  "source_type": "hackernews",
+  "summary": "本文介绍了三项在大型语言模型（LLM）管道中显著降低成本的实用技巧，这些技巧比更换底层模型更能节省费用。第一，使用自定义的 TOON 格式替代 JSON 进行结构化输出，可减少约 30% 的输出 Token 消耗；第二，采用浓缩版 Markdown（condensed markdown）替代完整的 Markdown 或 HTML 格式，特别是在传递上下文时，可将输入 Token 成本降低约 50%；第三，用 2-3 个具体多镜头示例替代冗长的 Do/Don't 指令列表，不仅减少 Token 使用量，还提升输出质量。这些方法无需更换模型或调整提示词，即可节省 60% 的 Token 费用，特别适合需要大规模部署 LLM 的团队，尤其是在 Agent 间通信和多轮对话场景中效果显著。作者强调这些优化比模型切换带来的成本减少更多，且易于实施。",
+  "tags": [
+    "llm",
+    "cost-optimization",
+    "token-efficiency",
+    "structured-output",
+    "markdown",
+    "prompting",
+    "best-practices"
+  ],
+  "score": 8,
+  "published_at": "Sat, 20 Jun 2026 13:05:31 +0000",
+  "fetched_at": "2026-06-22T13:32:49.875127+00:00",
+  "analyzed_at": "2026-06-22T13:36:25.946685+00:00",
+  "status": "published"
+}

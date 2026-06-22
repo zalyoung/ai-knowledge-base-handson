@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260622-005",
+  "title": "微调本地小模型(如Qwen 3:0.6B)进行问题分类的良好效果",
+  "source_url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+  "source_type": "hackernews",
+  "summary": "本文介绍了使用Qwen 3:0.6B等本地小型语言模型进行微调，实现对问题自动分类的实践。该方法在保持低成本和数据隐私的同时，取得了良好的分类效果，特别适合资源受限或离线场景下的部署。文章详细分享了数据集构建、微调策略及最终结果，为本地LLM应用提供了实用的参考案例。",
+  "tags": [
+    "fine-tuning",
+    "llm",
+    "qwen",
+    "question-classification",
+    "local-llm",
+    "nlp"
+  ],
+  "score": 7,
+  "published_at": "Sun, 21 Jun 2026 22:55:23 +0000",
+  "fetched_at": "2026-06-22T13:32:49.874789+00:00",
+  "analyzed_at": "2026-06-22T13:35:13.475291+00:00",
+  "status": "published"
+}

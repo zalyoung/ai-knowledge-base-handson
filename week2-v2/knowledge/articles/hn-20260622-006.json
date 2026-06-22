@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260622-006",
+  "title": "用LLM工具替代法语外教：个性化语言学习实践",
+  "source_url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
+  "source_type": "hackernews",
+  "summary": "本文作者分享了自己取消法语外教后，利用大型语言模型（LLM）构建个性化学习工具的经历。该工具能够模拟外教进行对话练习、语法纠错、发音指导等，提供灵活、低成本且可定制的语言学习体验。文章在Hacker News上获得43个点赞和13条评论，反映了社区对LLM在教育领域应用的高度关注。该实践展示了大语言模型在个性化外语教学中的潜力，尤其适合自学者或希望减少学习成本的用户。",
+  "tags": [
+    "llm",
+    "language-learning",
+    "education",
+    "ai-tutor",
+    "french"
+  ],
+  "score": 7,
+  "published_at": "Sun, 21 Jun 2026 22:46:43 +0000",
+  "fetched_at": "2026-06-22T13:32:49.874807+00:00",
+  "analyzed_at": "2026-06-22T13:35:18.668623+00:00",
+  "status": "published"
+}

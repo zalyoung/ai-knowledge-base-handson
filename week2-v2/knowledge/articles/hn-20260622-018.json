@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260622-018",
+  "title": "手摇驱动的大型语言模型（演示视频）",
+  "source_url": "https://www.youtube.com/watch?v=HSapdLYpmWY",
+  "source_type": "hackernews",
+  "summary": "该视频展示了一种非传统的大型语言模型运行方式——完全依靠手动操作（如手摇发电机或机械计算器）来模拟或驱动LLM的推理过程。虽然效率极低且不可实际部署，但此概念极具教育意义和趣味性，适合用于演示神经网络或计算机科学基础原理。视频发布在YouTube上，Hacker News上有较少关注。",
+  "tags": [
+    "llm",
+    "hand-powered",
+    "youtube",
+    "demonstration",
+    "educational"
+  ],
+  "score": 4,
+  "published_at": "Sat, 20 Jun 2026 16:52:17 +0000",
+  "fetched_at": "2026-06-22T13:32:49.875094+00:00",
+  "analyzed_at": "2026-06-22T13:36:19.717574+00:00",
+  "status": "published"
+}

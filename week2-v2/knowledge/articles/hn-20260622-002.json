@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260622-002",
+  "title": "微软研究员在《帝国时代2》中用山羊构建LLM，证明大模型并非有感知能力",
+  "source_url": "https://www.xda-developers.com/a-microsoft-researcher-built-an-llm-in-age-of-empires-using-goats-to-prove-its-not-sentient/",
+  "source_type": "hackernews",
+  "summary": "微软一位研究员在经典游戏《帝国时代2》中，利用游戏内的山羊作为“处理器”，构建了一个简易的大语言模型（LLM）演示。该实验旨在通过把游戏机制当作计算平台来运行语言模型，以幽默且直观的方式证明当前大模型并不具备真正的感知或意识。虽然技术实现上并非实用，但它以创意实验的形式探讨了AI理解与模拟之间的界限，适合用于技术科普和引发对AI本质的思考。",
+  "tags": [
+    "llm",
+    "age-of-empires",
+    "ai-experiment",
+    "microsoft",
+    "game-ai",
+    "sentience"
+  ],
+  "score": 4,
+  "published_at": "Mon, 22 Jun 2026 12:34:14 +0000",
+  "fetched_at": "2026-06-22T13:32:49.874725+00:00",
+  "analyzed_at": "2026-06-22T13:34:58.197905+00:00",
+  "status": "published"
+}

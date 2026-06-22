@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260622-014",
+  "title": "本地LLM硬件计算器",
+  "source_url": "https://vettedconsumer.com/can-i-run-it/",
+  "source_type": "hackernews",
+  "summary": "该工具帮助用户评估其本地硬件是否能够运行特定的大语言模型（LLM），并提供配置建议和性能预估。用户可以通过选择模型或输入参数，快速获得内存、CPU/GPU需求等信息，适用于在本地部署AI模型的开发者或爱好者进行硬件规划。",
+  "tags": [
+    "llm",
+    "hardware",
+    "calculator",
+    "local",
+    "ai",
+    "tools"
+  ],
+  "score": 7,
+  "published_at": "Sun, 21 Jun 2026 11:47:21 +0000",
+  "fetched_at": "2026-06-22T13:32:49.875013+00:00",
+  "analyzed_at": "2026-06-22T13:36:01.284445+00:00",
+  "status": "published"
+}

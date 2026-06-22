@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260622-007",
+  "title": "对LLM撰写事故报告未来的担忧",
+  "source_url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future/",
+  "source_type": "hackernews",
+  "summary": "本文作者对大型语言模型（LLM）在未来被用于编写事故报告的趋势表示担忧。文章指出，LLM生成的事故报告可能缺乏对根本原因的深入分析，容易掩盖真实问题，甚至产生虚构的细节，从而影响系统可靠性和事故复盘的有效性。这篇分析强调了依赖AI生成关键文档时需警惕的风险，适用于SRE、DevOps以及任何依赖事故管理流程的团队。",
+  "tags": [
+    "llm",
+    "incident-report",
+    "ai-safety",
+    "risk",
+    "critique"
+  ],
+  "score": 5,
+  "published_at": "Sun, 21 Jun 2026 20:13:16 +0000",
+  "fetched_at": "2026-06-22T13:32:49.874830+00:00",
+  "analyzed_at": "2026-06-22T13:35:23.329702+00:00",
+  "status": "published"
+}

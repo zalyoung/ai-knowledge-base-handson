@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260622-017",
+  "title": "自托管本地LLM服务器设置指南",
+  "source_url": "https://old.reddit.com/r/LocalLLM/comments/1ub1iu2/my_selfhosted_llm_server_setup_to_access_open",
+  "source_type": "hackernews",
+  "summary": "本文介绍了一种自托管本地大语言模型（LLM）服务器的搭建方法，旨在为用户提供隐私保护、低成本且可控的AI推理方案。通过使用开源工具和本地硬件，用户无需依赖云服务即可运行流行模型（如Llama、Mistral等），适用于需要数据安全、低延迟或自定义配置的开发者及企业。该方案强调易用性与可扩展性，适合作为本地AI基础设施的入门参考。",
+  "tags": [
+    "self-hosted",
+    "local-llm",
+    "server-setup",
+    "privacy",
+    "open-source",
+    "ai"
+  ],
+  "score": 6,
+  "published_at": "Sat, 20 Jun 2026 18:48:49 +0000",
+  "fetched_at": "2026-06-22T13:32:49.875078+00:00",
+  "analyzed_at": "2026-06-22T13:36:15.926849+00:00",
+  "status": "published"
+}

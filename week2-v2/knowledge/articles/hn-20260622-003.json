@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260622-003",
+  "title": "Magpie-search：面向LLM和智能体的联合搜索引擎",
+  "source_url": "https://github.com/xfloukiex-lab/magpie-search",
+  "source_type": "hackernews",
+  "summary": "Magpie-search 是一个专为大语言模型（LLM）和智能体设计的联合搜索引擎。它通过整合多个独立数据源（如 Wikipedia、ArXiv、新闻网站等），提供统一查询接口，帮助模型和智能体高效获取分散信息。该工具采用联邦检索策略，无需中心化索引，支持实时结果聚合，可嵌入 RAG（检索增强生成）流程或作为智能体工具链的一部分。适用于需要跨域知识检索的复杂任务，如问答系统、研究辅助、自动化决策等。目前项目处于早期阶段，社区参与度较低，但技术思路具备创新性，有望提升 LLM 的外部知识访问能力。",
+  "tags": [
+    "federated-search",
+    "llm",
+    "agents",
+    "search-engine",
+    "retrieval-augmented-generation"
+  ],
+  "score": 6,
+  "published_at": "Mon, 22 Jun 2026 04:03:44 +0000",
+  "fetched_at": "2026-06-22T13:32:49.874746+00:00",
+  "analyzed_at": "2026-06-22T13:35:03.555142+00:00",
+  "status": "published"
+}

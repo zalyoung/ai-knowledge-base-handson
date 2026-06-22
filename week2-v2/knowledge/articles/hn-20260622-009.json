@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260622-009",
+  "title": "AkaRouter：固定每次调用费用的LLM API网关，价格仅为Claude Max的1/20",
+  "source_url": "https://akarouter.dev",
+  "source_type": "hackernews",
+  "summary": "AkaRouter 是一个新型 LLM API 网关，采用扁平化每次调用固定费用的定价模型。相比 Claude Max 等按 token 计费的主流方案，其成本可降低 20 倍，特别适合高频、大规模调用的场景，如客服系统、内容生成、数据分析等。该网关通过优化路由和缓存机制，在保持低延迟的同时实现了显著的成本压缩。目前项目处于早期阶段，在 Hacker News 上引起初步讨论，适用于对 API 成本敏感的开发者和企业。",
+  "tags": [
+    "llm",
+    "api-gateway",
+    "cost-saving",
+    "flat-pricing",
+    "proxy"
+  ],
+  "score": 7,
+  "published_at": "Sun, 21 Jun 2026 16:19:59 +0000",
+  "fetched_at": "2026-06-22T13:32:49.874869+00:00",
+  "analyzed_at": "2026-06-22T13:35:34.517538+00:00",
+  "status": "published"
+}

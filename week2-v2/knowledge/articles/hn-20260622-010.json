@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260622-010",
+  "title": "Google 的 LLM 维基规范与工具",
+  "source_url": "https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf",
+  "source_type": "hackernews",
+  "summary": "该项目是 Google Cloud Platform 推出的知识目录（knowledge-catalog）中的一部分，定义了一种面向大语言模型的维基规范（OKF）及其配套工具。该规范旨在标准化 LLM 知识库的构建、组织和检索方式，提升模型在特定领域问答、知识管理场景中的准确性与可解释性。工具链支持知识图谱的生成、更新和与 LLM 的集成，适用于企业级智能问答、文档自动摘要等应用。",
+  "tags": [
+    "llm",
+    "knowledge-base",
+    "specification",
+    "tooling",
+    "google-cloud",
+    "wiki"
+  ],
+  "score": 7,
+  "published_at": "Sun, 21 Jun 2026 16:06:05 +0000",
+  "fetched_at": "2026-06-22T13:32:49.874887+00:00",
+  "analyzed_at": "2026-06-22T13:35:41.996122+00:00",
+  "status": "published"
+}

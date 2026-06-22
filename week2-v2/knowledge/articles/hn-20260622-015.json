@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260622-015",
+  "title": "从零训练大语言模型实战指南",
+  "source_url": "https://FareedKhan-dev.github.io/train-llm-from-scratch/",
+  "source_type": "hackernews",
+  "summary": "该项目提供了一份详尽的教程，指导用户如何从零开始训练自己的大语言模型（LLM）。内容涵盖数据准备、模型架构选择、训练流程优化、超参数调整及部署等关键环节，特别强调实践性与可复现性。适合希望深入理解LLM原理并具备动手构建能力的开发者、研究人员及AI爱好者。通过该指南，用户可以在有限资源下完成小型LLM的训练，并掌握从数据处理到模型发布的全链路技能。",
+  "tags": [
+    "llm",
+    "training",
+    "tutorial",
+    "deep-learning",
+    "nlp",
+    "from-scratch"
+  ],
+  "score": 6,
+  "published_at": "Sun, 21 Jun 2026 03:30:18 +0000",
+  "fetched_at": "2026-06-22T13:32:49.875038+00:00",
+  "analyzed_at": "2026-06-22T13:36:06.329035+00:00",
+  "status": "published"
+}
