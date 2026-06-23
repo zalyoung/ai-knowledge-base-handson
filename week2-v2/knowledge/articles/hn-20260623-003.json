@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260623-003",
+  "title": "Prompt Preflight: 在Token燃烧前捕捉模糊AI代理提示",
+  "source_url": "https://github.com/akg268/prompt-preflight/",
+  "source_type": "hackernews",
+  "summary": "Prompt Preflight 是一个用于在 AI 代理执行前检测提示模糊性的工具，旨在避免因无效或模糊的提示而浪费 Token（即调用成本）。它通过预检机制分析提示的明确性，帮助开发者优化提示工程，减少不必要的 API 调用费用。适用于依赖大语言模型的 AI 代理应用场景，如自动化客服、代码生成等，能有效降低运营成本并提升响应质量。该项目以开源形式发布在 GitHub 上，但目前社区活跃度较低。",
+  "tags": [
+    "prompt-engineering",
+    "ai-agents",
+    "token-optimization",
+    "validation",
+    "cost-saving"
+  ],
+  "score": 6,
+  "published_at": "Tue, 23 Jun 2026 02:49:18 +0000",
+  "fetched_at": "2026-06-23T11:13:58.797490+00:00",
+  "analyzed_at": "2026-06-23T11:15:52.455783+00:00",
+  "status": "published"
+}

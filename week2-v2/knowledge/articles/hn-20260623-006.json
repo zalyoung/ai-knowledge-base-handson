@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260623-006",
+  "title": "2026年构建AI代理的实用逐步指南",
+  "source_url": "https://www.execlave.com/blog/how-to-build-an-ai-agent",
+  "source_type": "hackernews",
+  "summary": "本文提供了2026年构建AI代理的实用逐步指南，重点介绍了如何利用最新的LLM框架、工具调用、记忆管理和任务规划等技术，来创建能够自主执行复杂任务的智能代理。适用于开发者快速入门AI代理开发，涵盖从环境搭建、模型选择到部署优化的全流程。",
+  "tags": [
+    "ai-agent",
+    "step-by-step",
+    "llm",
+    "guide",
+    "development"
+  ],
+  "score": 5,
+  "published_at": "Mon, 22 Jun 2026 15:31:17 +0000",
+  "fetched_at": "2026-06-23T11:13:58.797552+00:00",
+  "analyzed_at": "2026-06-23T11:16:07.911599+00:00",
+  "status": "published"
+}

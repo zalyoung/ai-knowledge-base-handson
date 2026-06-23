@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260623-008",
+  "title": "Spookling：一款用于iPhone WhatsApp和日历的AI代理",
+  "source_url": "https://news.ycombinator.com/item?id=48630276",
+  "source_type": "hackernews",
+  "summary": "Spookling 是一款面向 iPhone 用户的 AI 代理工具，专注于与 WhatsApp 和日历应用进行交互。该项目受 OpenClaw 启发，旨在通过自然语言或预设指令自动化消息回复、日程管理等功能，提升移动端生产力。当前处于早期展示阶段，社区关注度较低，但为 iOS 平台上的 AI 代理应用提供了探索方向。",
+  "tags": [
+    "iphone",
+    "ai-agent",
+    "whatsapp",
+    "calendar",
+    "automation",
+    "productivity"
+  ],
+  "score": 5,
+  "published_at": "Mon, 22 Jun 2026 14:01:58 +0000",
+  "fetched_at": "2026-06-23T11:13:58.797592+00:00",
+  "analyzed_at": "2026-06-23T11:16:18.367396+00:00",
+  "status": "published"
+}

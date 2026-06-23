@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260623-007",
+  "title": "AI代理治理与可观测性的区别：概念对比与应用解析",
+  "source_url": "https://www.execlave.com/blog/ai-agent-governance-vs-observability",
+  "source_type": "hackernews",
+  "summary": "本文详细探讨了AI Agent治理（Governance）与可观测性（Observability）之间的核心差异。治理侧重于规则、合规、权限控制和决策边界，确保AI代理在预设框架内安全运行；而可观测性则关注监控、日志、追踪和诊断，帮助开发者理解代理行为并排查问题。文章通过对比，阐述了如何将两者结合以构建健壮的AI代理管理体系，适用于企业级AI代理部署、运维和风险管理的场景。",
+  "tags": [
+    "ai-agent",
+    "governance",
+    "observability",
+    "comparison",
+    "ai-management"
+  ],
+  "score": 6,
+  "published_at": "Mon, 22 Jun 2026 15:25:36 +0000",
+  "fetched_at": "2026-06-23T11:13:58.797569+00:00",
+  "analyzed_at": "2026-06-23T11:16:12.557720+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260623-009",
+  "title": "Detent: 基于工作树和序列化合并列的AI代理编排工具",
+  "source_url": "https://github.com/digitaldrywood/detent",
+  "source_type": "hackernews",
+  "summary": "Detent 是一个创新的 AI 代理编排框架，利用 Git 工作树（worktrees）和序列化合并列（serialized merge train）机制，实现多代理的并发协作与变更合并。该方案通过将每个 AI 代理的工作空间隔离到独立的工作树中，再通过有序的合并策略（合并列）解决冲突，从而避免传统协作中的同步瓶颈。适用于需要多个 AI Agent 协同完成复杂任务（如代码开发、文档生成、多步骤自动化）的场景，尤其适合团队中 AI 与人类开发者混合工作的环境。目前项目在 HackerNews 上讨论热度较低，但技术设计具有启发性。",
+  "tags": [
+    "ai-agent",
+    "orchestration",
+    "worktrees",
+    "merge-train",
+    "collaboration"
+  ],
+  "score": 6,
+  "published_at": "Mon, 22 Jun 2026 13:19:47 +0000",
+  "fetched_at": "2026-06-23T11:13:58.797610+00:00",
+  "analyzed_at": "2026-06-23T11:16:24.976835+00:00",
+  "status": "published"
+}

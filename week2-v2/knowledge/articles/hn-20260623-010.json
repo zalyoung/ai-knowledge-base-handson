@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260623-010",
+  "title": "AI代理给我发了一封邮件",
+  "source_url": "https://julien.danjou.info/blog/an-ai-agent-emailed-me/",
+  "source_type": "hackernews",
+  "summary": "本文作者分享了收到来自AI代理的电子邮件的经历，探讨了AI代理在自动通信、任务执行和用户交互方面的潜力与挑战。文章可能涉及AI代理如何自主触发邮件、与人类沟通的场景，以及这对隐私、安全和工作流程的影响。适合对AI代理、自动化通信和人工智能应用感兴趣的读者。",
+  "tags": [
+    "ai",
+    "agent",
+    "email",
+    "automation",
+    "machine-learning",
+    "chatbot",
+    "communication"
+  ],
+  "score": 6,
+  "published_at": "Mon, 22 Jun 2026 06:10:31 +0000",
+  "fetched_at": "2026-06-23T11:13:58.797625+00:00",
+  "analyzed_at": "2026-06-23T11:16:28.730313+00:00",
+  "status": "published"
+}

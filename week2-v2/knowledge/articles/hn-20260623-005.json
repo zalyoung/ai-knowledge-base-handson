@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260623-005",
+  "title": "AI代理的登录困境与行业解决方案",
+  "source_url": "https://medium.com/@alanayalag/your-ai-agent-cant-log-into-anything-here-s-how-the-industry-is-fixing-it-2ad6d783ce08",
+  "source_type": "hackernews",
+  "summary": "本文探讨了AI代理在自动登录各类网站时面临的挑战，传统网站依赖验证码、多因素认证和SSO等机制，使得AI难以自主完成登录。业界正在通过以下方式解决：使用浏览器自动化工具（如Playwright、Puppeteer）模拟用户操作，利用专用浏览器配置文件或会话Cookie持久化登录状态，以及构建统一的认证代理层。这些方案适用于自动化工作流、智能助手和机器人流程自动化等场景，解决了AI代理无法“记住”登录状态的痛点。文章列举了当前主流的技术路线，并分析了各自的优缺点，为开发者提供了实用的参考。",
+  "tags": [
+    "ai-agents",
+    "authentication",
+    "browser-automation",
+    "login",
+    "session-management",
+    "web-scraping"
+  ],
+  "score": 7,
+  "published_at": "Mon, 22 Jun 2026 18:19:12 +0000",
+  "fetched_at": "2026-06-23T11:13:58.797531+00:00",
+  "analyzed_at": "2026-06-23T11:16:02.580801+00:00",
+  "status": "published"
+}

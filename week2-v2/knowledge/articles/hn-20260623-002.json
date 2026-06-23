@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260623-002",
+  "title": "ask-a-human: 为AI代理提供与人类通信的即插即用寻呼机工具",
+  "source_url": "https://ask-a-human.ai",
+  "source_type": "hackernews",
+  "summary": "该工具解决了多AI代理运行时因无法自主决策而阻塞的问题。通过端到端加密的通信渠道，代理在遇到边缘情况时可向人类发送询问，人类通过PWA应用接收推送通知并即时响应。工具无需账户配置，即插即用，适合需要人类干预的大规模自动化场景，尤其适用于代理数量多、边缘案例复杂的部署环境。",
+  "tags": [
+    "ai-agents",
+    "human-in-the-loop",
+    "pager",
+    "communication",
+    "automation",
+    "end-to-end-encryption"
+  ],
+  "score": 8,
+  "published_at": "Tue, 23 Jun 2026 04:50:31 +0000",
+  "fetched_at": "2026-06-23T11:13:58.797470+00:00",
+  "analyzed_at": "2026-06-23T11:15:46.906955+00:00",
+  "status": "published"
+}
