@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260624-012",
+  "title": "不使用LLM的LLM路由：轻量级智能请求分发方案",
+  "source_url": "https://github.com/itsthelore/wayfinder-router",
+  "source_type": "hackernews",
+  "summary": "Wayfinder Router 是一个创新的路由框架，核心特点是无需依赖任何大型语言模型（LLM）即可实现高效的LLM请求分发。该项目通过预定义的规则、传统机器学习或启发式算法来决定将用户请求路由到哪个LLM后端（如GPT-4、Claude、开源模型等），从而大幅降低调用成本、减少延迟并提升系统可控性。适用于多模型切换、成本敏感型应用、实时响应的客服/对话系统以及需要隐私保护的场景。其设计理念突破了“路由必须依赖LLM”的常规思维，为技术选型提供了新思路。目前项目处于早期阶段，社区活跃度有待观察，但核心思路具有较高实用价值。",
+  "tags": [
+    "llm-router",
+    "request-routing",
+    "cost-optimization",
+    "ai-infrastructure",
+    "lightweight",
+    "rule-based"
+  ],
+  "score": 7,
+  "published_at": "Wed, 24 Jun 2026 06:20:00 +0000",
+  "fetched_at": "2026-06-24T10:46:24.827979+00:00",
+  "analyzed_at": "2026-06-24T10:50:18.317648+00:00",
+  "status": "published"
+}

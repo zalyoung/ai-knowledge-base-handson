@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260624-007",
+  "title": "AI代理安全需要组合图而非仅依赖SBOM",
+  "source_url": "https://openaca.dev/blog/your-agent-risk-is-in-the-composition/",
+  "source_type": "hackernews",
+  "summary": "本文指出，传统软件物料清单（SBOM）不足以应对AI代理（agent）的复杂安全风险。AI代理由模型、工具、外部API、数据源等动态组件组合而成，其安全威胁往往源于这些组件之间的交互与组合方式。作者提议引入组合图（composition graph）来系统性地建模代理的组成结构、依赖关系及潜在攻击面，从而更全面地评估和缓解风险。该方法适用于AI代理的开发、部署与安全审计场景，尤其在识别模型供应链攻击、工具误用、数据泄露等新一类安全隐患方面具有独特价值。文章强调了在AI安全领域拓展传统供应链安全工具的重要性，并提供了实际应用建议，为AI安全实践者提供了新的思路。",
+  "tags": [
+    "ai-security",
+    "composition-graph",
+    "sbom",
+    "software-supply-chain",
+    "agent-risk",
+    "security"
+  ],
+  "score": 7,
+  "published_at": "Tue, 23 Jun 2026 16:53:47 +0000",
+  "fetched_at": "2026-06-24T10:46:24.786217+00:00",
+  "analyzed_at": "2026-06-24T10:49:08.973807+00:00",
+  "status": "published"
+}

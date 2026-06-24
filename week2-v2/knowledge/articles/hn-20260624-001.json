@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260624-001",
+  "title": "Execlave: 面向治理与执行的AI代理管理平台",
+  "source_url": "https://www.execlave.com",
+  "source_type": "hackernews",
+  "summary": "Execlave 是一个专门用于AI代理治理与执行的管理平台，帮助企业监控、管理和强制执行AI代理的行为策略。它提供统一的控制面板，允许用户定义规则、审计活动、确保合规，适用于需要严格监管AI代理行为的场景，如金融、医疗、自动驾驶等。平台强调透明度和可追溯性，为AI代理的安全可靠运行提供保障，从而降低运营风险并满足监管要求。",
+  "tags": [
+    "ai-agents",
+    "governance",
+    "enforcement",
+    "management",
+    "compliance",
+    "platform"
+  ],
+  "score": 6,
+  "published_at": "Wed, 24 Jun 2026 10:36:28 +0000",
+  "fetched_at": "2026-06-24T10:46:24.786082+00:00",
+  "analyzed_at": "2026-06-24T10:48:32.983403+00:00",
+  "status": "published"
+}

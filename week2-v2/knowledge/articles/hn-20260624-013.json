@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260624-013",
+  "title": "VoltanaLLM：节能大语言模型服务系统",
+  "source_url": "https://supercomputing-system-ai-lab.github.io/projects/voltana/",
+  "source_type": "hackernews",
+  "summary": "VoltanaLLM 是一个专注于大语言模型（LLM）推理服务的能效优化系统。该项目由高校超算系统与AI实验室研发，旨在通过创新的硬件-软件协同设计，在保证推理性能的同时大幅降低能源消耗。其核心技术可能包括动态电压频率调节、自适应批处理调度、模型量化与稀疏化加速等。适用于数据中心、边缘设备等高能耗场景，尤其适合对碳排放和运营成本敏感的LLM部署环境。尽管社区活跃度较低，但该研究在绿色AI领域具有前瞻性，为可持续大模型服务提供了新思路。",
+  "tags": [
+    "llm",
+    "energy-efficiency",
+    "serving",
+    "inference",
+    "green-ai",
+    "hardware-software-co-design"
+  ],
+  "score": 6,
+  "published_at": "Wed, 24 Jun 2026 05:24:36 +0000",
+  "fetched_at": "2026-06-24T10:46:24.828004+00:00",
+  "analyzed_at": "2026-06-24T10:50:24.670640+00:00",
+  "status": "published"
+}

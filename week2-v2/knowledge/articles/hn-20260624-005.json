@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260624-005",
+  "title": "用Flutter构建原生AI代理的开源项目",
+  "source_url": "https://github.com/anasfik/flutter_copilot",
+  "source_type": "hackernews",
+  "summary": "Flutter Copilot是一个开源项目，旨在为Flutter应用提供原生的AI代理功能。它允许开发者在Flutter应用中集成智能代理，实现对话、任务执行等AI能力。该项目基于Flutter框架，强调原生性能和易用性，适合希望在移动或Web应用中快速引入AI功能的Flutter开发者。目前社区活跃度较低，但概念具有创新性。",
+  "tags": [
+    "flutter",
+    "ai",
+    "agent",
+    "open-source",
+    "copilot"
+  ],
+  "score": 6,
+  "published_at": "Tue, 23 Jun 2026 18:02:42 +0000",
+  "fetched_at": "2026-06-24T10:46:24.786185+00:00",
+  "analyzed_at": "2026-06-24T10:48:53.506328+00:00",
+  "status": "published"
+}

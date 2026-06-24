@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260624-003",
+  "title": "AI代理的批准提示何时构成安全边界",
+  "source_url": "https://gist.github.com/NikosRig/b4330ceb780fe22bf3c14f38d7d90795",
+  "source_type": "hackernews",
+  "summary": "本文探讨了AI代理系统中，用户批准提示（approval prompt）是否应被视作安全边界的关键问题。随着自主AI代理执行敏感操作（如访问文件、发送邮件）的普及，批准提示作为用户确认的界面，其安全性至关重要。文章分析了批准提示可能面临的攻击（如提示注入、欺骗性界面）以及如何通过设计使其成为可信的安全屏障。适用于构建需要人类审批流程的AI代理应用，如企业自动化、个人助理等场景。技术亮点在于提出将批准提示的不可绕过性和完整性作为安全边界评估的核心标准。",
+  "tags": [
+    "ai-agents",
+    "security-boundaries",
+    "prompt-injection",
+    "human-in-the-loop",
+    "ui-security"
+  ],
+  "score": 6,
+  "published_at": "Tue, 23 Jun 2026 21:01:41 +0000",
+  "fetched_at": "2026-06-24T10:46:24.786134+00:00",
+  "analyzed_at": "2026-06-24T10:48:42.893501+00:00",
+  "status": "published"
+}

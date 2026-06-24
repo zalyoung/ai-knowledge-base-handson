@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260624-011",
+  "title": "Forkd：为AI智能体微虚拟机实现类Fork()快速克隆",
+  "source_url": "https://github.com/deeplethe/forkd",
+  "source_type": "hackernews",
+  "summary": "Forkd 借鉴了 Linux 进程 fork() 的语义，针对 AI Agent 的微虚拟机（MicroVMs）提供高效的即时克隆能力。通过复制整个虚拟机状态（内存、磁盘、网络等），Forkd 可以在毫秒级启动新的 Agent 实例，大幅降低冷启动延迟和资源开销。适用于需要大规模并行运行 AI 代理的场景，如自动化任务、模拟环境、多 Agent 协作系统等。该项目将虚拟化快照技术与进程管理思想结合，为 Agent 基础设施带来类似操作系统的灵活性和性能，但目前尚处于早期阶段，社区活跃度较低。",
+  "tags": [
+    "ai",
+    "agents",
+    "microvm",
+    "fork",
+    "virtualization",
+    "containers",
+    "snapshot"
+  ],
+  "score": 7,
+  "published_at": "Tue, 23 Jun 2026 11:43:50 +0000",
+  "fetched_at": "2026-06-24T10:46:24.786384+00:00",
+  "analyzed_at": "2026-06-24T10:49:39.554503+00:00",
+  "status": "published"
+}

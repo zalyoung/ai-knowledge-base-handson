@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260624-004",
+  "title": "HALO：基于递归语言模型的 AI Agent 执行轨迹本地调试器",
+  "source_url": "https://github.com/context-labs/halo",
+  "source_type": "hackernews",
+  "summary": "HALO（分层代理循环优化器）是一款开源工具，专注于通过 AI Agent 的执行轨迹进行调试与优化。它采用递归语言模型（RLM）将轨迹分析递归分解为更小的子问题，从而在大规模数据中高效发现重复模式，并修复传统 LLM 容易忽视的系统性问题。支持 OpenTelemetry（OTEL）兼容的追踪数据（如 Langfuse、Arize/OpenInference 或纯 JSONL），并可选接入 Agent 代码路径以提供更精准的上下文洞察。提供无需注册或复杂配置的本地桌面应用，适合开发者在本地安全地循环执行“运行-分析-修复”流程，提升 Agent 的可靠性与性能。",
+  "tags": [
+    "debugger",
+    "ai-agents",
+    "rlm",
+    "open-source",
+    "tracing",
+    "optimization",
+    "local-tool"
+  ],
+  "score": 8,
+  "published_at": "Tue, 23 Jun 2026 18:21:52 +0000",
+  "fetched_at": "2026-06-24T10:46:24.786168+00:00",
+  "analyzed_at": "2026-06-24T10:48:48.281002+00:00",
+  "status": "published"
+}

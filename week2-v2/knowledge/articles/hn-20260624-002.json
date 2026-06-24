@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260624-002",
+  "title": "AI Agent管理平台（AMP）概述",
+  "source_url": "https://www.execlave.com/blog/what-is-an-ai-agent-management-platform",
+  "source_type": "hackernews",
+  "summary": "本文介绍了AI Agent管理平台（AMP）的概念、核心功能及其在企业环境中的应用价值。AMP旨在简化多个AI Agent的部署、监控、维护和协作，提供统一的接口来管理Agent生命周期，包括编排、日志记录、性能优化和安全管理。文章分析了AMP与传统MLOps工具的区别，并探讨了在自动化客服、智能工作流、多Agent系统等场景下的实用性，强调了其对提升AI生产力和可扩展性的重要意义。",
+  "tags": [
+    "ai-agents",
+    "agent-management",
+    "platform",
+    "devops",
+    "mlops",
+    "deployment"
+  ],
+  "score": 7,
+  "published_at": "Wed, 24 Jun 2026 10:09:04 +0000",
+  "fetched_at": "2026-06-24T10:46:24.786115+00:00",
+  "analyzed_at": "2026-06-24T10:48:37.382572+00:00",
+  "status": "published"
+}

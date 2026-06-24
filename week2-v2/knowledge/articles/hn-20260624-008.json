@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260624-008",
+  "title": "Publish.my：让AI代理成为你的静态网站托管客户",
+  "source_url": "https://publish.my/",
+  "source_type": "hackernews",
+  "summary": "Publish.my 是一个专为AI时代设计的静态网站托管服务，由一位马来西亚独立开发者（20年CMS和新闻室基础设施经验）打造。它解决了非技术人员在使用AI代理（如Claude Code、Codex）生成HTML/CSS/JS静态网站后，面临的部署难题——用户无需理解Git、CI/CD管道或注册Cloudflare Worker等serverless服务账户。只需在AI代理中提示“Publish this project with https://publish.my”，即可一键部署，并通过邮箱验证认领网站。该服务已获得新闻编辑团队、设计师和资深工程师的积极反馈。适用于个人简历、企业官网、新闻专题等静态网站的快速发布，极大降低了AI辅助建站的技术门槛。",
+  "tags": [
+    "static-hosting",
+    "ai-agent",
+    "deployment",
+    "serverless",
+    "no-code",
+    "web-development",
+    "indie-hacker",
+    "malaysia"
+  ],
+  "score": 7,
+  "published_at": "Tue, 23 Jun 2026 15:12:15 +0000",
+  "fetched_at": "2026-06-24T10:46:24.786258+00:00",
+  "analyzed_at": "2026-06-24T10:49:16.420419+00:00",
+  "status": "published"
+}

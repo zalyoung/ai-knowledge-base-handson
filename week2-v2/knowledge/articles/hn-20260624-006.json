@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260624-006",
+  "title": "自主AI代理发现Hoppscotch CVSS 10.0完全妥协漏洞",
+  "source_url": "https://github.com/hoppscotch/hoppscotch/security/advisories/GHSA-j542-4rch-8hwf",
+  "source_type": "hackernews",
+  "summary": "该漏洞（GHSA-j542-4rch-8hwf）由自主AI代理发现，涉及开源API开发工具Hoppscotch，CVSS评分高达10.0，可导致攻击者完全控制受影响的实例。Hoppscotch广泛用于API调试与测试，此次发现表明AI在自动化安全审计中已能独立挖掘高危漏洞，尤其针对供应链中广泛使用的开源组件。该事件凸显了AI辅助漏洞挖掘的实用性，适用于企业安全团队在开发阶段集成自动化安全测试，以提前发现并修复严重缺陷，降低攻击面。",
+  "tags": [
+    "autonomous-ai-agent",
+    "vulnerability-discovery",
+    "cvss-10",
+    "hoppscotch",
+    "security-advisory",
+    "full-compromise",
+    "open-source-security"
+  ],
+  "score": 9,
+  "published_at": "Tue, 23 Jun 2026 17:24:01 +0000",
+  "fetched_at": "2026-06-24T10:46:24.786201+00:00",
+  "analyzed_at": "2026-06-24T10:49:00.159185+00:00",
+  "status": "published"
+}

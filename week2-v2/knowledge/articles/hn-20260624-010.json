@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260624-010",
+  "title": "你的AI代理应该接受心理治疗",
+  "source_url": "https://www.encurtador.dev/redirecionamento/zi2zj1c",
+  "source_type": "hackernews",
+  "summary": "本文探讨了AI代理在运行过程中可能出现的错误、偏差或不良行为，类比人类心理治疗，提出需要引入自我反思和修正机制来提升系统的稳健性和可靠性。文章可能涉及AI对齐、错误纠正和持续学习等方向，适用于需要长期自主决策的AI系统，如自动驾驶、客服机器人或智能助手。",
+  "tags": [
+    "ai",
+    "alignment",
+    "self-reflection",
+    "error-correction",
+    "safety",
+    "autonomous-agents"
+  ],
+  "score": 5,
+  "published_at": "Tue, 23 Jun 2026 13:42:58 +0000",
+  "fetched_at": "2026-06-24T10:46:24.786371+00:00",
+  "analyzed_at": "2026-06-24T10:49:33.864197+00:00",
+  "status": "published"
+}

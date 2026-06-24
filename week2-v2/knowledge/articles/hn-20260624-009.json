@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260624-009",
+  "title": "浏览器内运行的AI Agent框架：peerd",
+  "source_url": "https://github.com/NotASithLord/peerd",
+  "source_type": "hackernews",
+  "summary": "peerd 是一个完全运行在浏览器中的 AI agent 框架，以浏览器扩展形式存在，无需安装独立 AI 浏览器或外部进程。它利用浏览器内置的 Web Crypto、WebRTC、WebGPU 等原生功能，通过隔离沙盒（tab 和 worker）支持多种工作负载：无头 JS 计算、可视化笔记本、客户端应用，以及基于 WASM 的完整 Linux 虚拟机。peerd 内置基于 WebRTC 的 P2P 网络，实现去中心化的 agent-to-agent（A2A）通信，不依赖平台或中间商。安全方面采用多层提示注入保护，所有输出经过可定制拒绝列表过滤。支持 Anthropic、Open Router、本地 Ollama 以及实验性 WebGPU 版 Gemma。该项目目前处于 v0.x 预览阶段，Apache 2.0 开源，适用于希望安全、自主、去中心化地在浏览器内运行 AI agent 的技术用户。",
+  "tags": [
+    "web-extension",
+    "ai-agent",
+    "sandbox",
+    "p2p",
+    "browser-automation",
+    "wasm",
+    "local-ai"
+  ],
+  "score": 8,
+  "published_at": "Tue, 23 Jun 2026 15:05:00 +0000",
+  "fetched_at": "2026-06-24T10:46:24.786331+00:00",
+  "analyzed_at": "2026-06-24T10:49:24.402671+00:00",
+  "status": "published"
+}
