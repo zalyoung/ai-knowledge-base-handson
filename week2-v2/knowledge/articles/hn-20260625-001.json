@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260625-001",
+  "title": "使用AI代理控制已登录的Chrome浏览器",
+  "source_url": "https://github.com/leeguooooo/chrome-use",
+  "source_type": "hackernews",
+  "summary": "Chrome-Use 是一个开源工具，允许任何 AI 代理直接驱动用户当前已登录的 Chrome 浏览器。这意味着 AI 可以通过浏览器自动执行网页操作，如填写表单、抓取数据、点击按钮等，无需重新处理登录状态或使用无头浏览器。该工具利用 Chrome DevTools Protocol 实现控制，降低了 AI 与真实浏览器集成的门槛，适用于需要 AI 辅助进行复杂网页交互的场景，如自动化测试、数据采集、AI 助手等。尽管项目刚发布且社区反馈较少，但其创新性地结合了 AI 与已登录浏览器状态，具有较高的实用潜力。",
+  "tags": [
+    "chrome",
+    "automation",
+    "ai-agent",
+    "browser-control",
+    "web-automation",
+    "llm"
+  ],
+  "score": 6,
+  "published_at": "Thu, 25 Jun 2026 02:32:15 +0000",
+  "fetched_at": "2026-06-25T10:39:20.094432+00:00",
+  "analyzed_at": "2026-06-25T10:41:26.612577+00:00",
+  "status": "published"
+}

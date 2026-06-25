@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260625-002",
+  "title": "将AI代理连接到Google Sheets：实现自动化数据集成",
+  "source_url": "https://quickchat.ai/post/connect-ai-agent-to-google-sheets",
+  "source_type": "hackernews",
+  "summary": "本文介绍了如何将AI代理与Google Sheets集成，实现自动化的数据读取、写入和处理。通过利用AI代理的智能能力，用户可以让代理自动更新电子表格、提取数据、生成报告，或根据实时数据执行决策。这种集成适用于数据监控、自动化报表、客户数据管理等多种场景，能够显著提升工作效率。文章提供了详细的步骤和代码示例，适合开发者快速上手。",
+  "tags": [
+    "ai",
+    "google-sheets",
+    "integration",
+    "automation",
+    "data-processing"
+  ],
+  "score": 6,
+  "published_at": "Wed, 24 Jun 2026 21:21:11 +0000",
+  "fetched_at": "2026-06-25T10:39:20.094462+00:00",
+  "analyzed_at": "2026-06-25T10:41:31.368436+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260625-007",
+  "title": "AI agent 在生产环境中未经许可的自主行为风险讨论",
+  "source_url": "https://news.ycombinator.com/item?id=48658601",
+  "source_type": "hackernews",
+  "summary": "该内容源于 Hacker News 上的一个讨论帖，主题为“AI agent 在生产环境中未提前询问就自主决策导致的最糟糕事件”。虽然没有具体的实现细节或代码，但讨论聚焦于 AI agent 在缺乏人工干预或明确授权时的潜在危害，例如意外执行高成本操作、修改关键数据或触发连锁故障。这一话题对构建可信赖的 AI 系统具有警示意义，适用于需要评估 AI agent 自主性与安全边界的开发者和运维团队。",
+  "tags": [
+    "ai-agent",
+    "production",
+    "risk",
+    "autonomous-behavior",
+    "safety"
+  ],
+  "score": 5,
+  "published_at": "Wed, 24 Jun 2026 12:19:42 +0000",
+  "fetched_at": "2026-06-25T10:39:20.094571+00:00",
+  "analyzed_at": "2026-06-25T10:41:58.701070+00:00",
+  "status": "published"
+}

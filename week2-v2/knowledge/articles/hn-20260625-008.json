@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260625-008",
+  "title": "AI代理安全漏洞分析与防护指南",
+  "source_url": "https://thoughts.jock.pl/p/how-to-break-your-ai-agent-basics-2026",
+  "source_type": "hackernews",
+  "summary": "本文深入探讨了AI代理在实际应用中可能面临的安全漏洞和攻击向量，作者从基础原理出发，系统地分析了如何通过提示注入、权限滥用、数据泄露等手段“打破”一个AI代理。内容涵盖了代理架构中的常见薄弱环节、测试方法以及防御策略，特别适合AI开发者、安全工程师和DevOps团队在构建或部署智能代理时作为安全参考。通过实际案例和代码片段，文章强调了在设计阶段就应嵌入安全机制，从而降低生产环境中的风险。",
+  "tags": [
+    "security",
+    "ai-agent",
+    "penetration-testing",
+    "vulnerability",
+    "llm",
+    "prompt-injection"
+  ],
+  "score": 7,
+  "published_at": "Wed, 24 Jun 2026 12:14:40 +0000",
+  "fetched_at": "2026-06-25T10:39:20.094594+00:00",
+  "analyzed_at": "2026-06-25T10:42:03.820501+00:00",
+  "status": "published"
+}

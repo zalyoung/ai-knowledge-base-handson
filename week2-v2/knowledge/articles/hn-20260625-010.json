@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260625-010",
+  "title": "OpenAI与Broadcom联合发布大规模LLM推理专用芯片",
+  "source_url": "https://www.techsentiments.com/article/2026/06/24/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale-c979",
+  "source_type": "hackernews",
+  "summary": "OpenAI与半导体巨头Broadcom宣布合作开发一款专为大规模大语言模型（LLM）推理优化的专用芯片。该芯片旨在解决LLM部署中的高计算成本和延迟问题，通过定制化架构和优化内存带宽，实现更高吞吐量和更低功耗。此次合作结合了OpenAI的模型算法经验与Broadcom的芯片设计能力，或将推动AI推理硬件的发展，降低企业部署LLM的门槛，尤其适用于云端大规模推理场景。尽管具体技术细节尚未完全披露，但该消息在业界引起广泛关注，标志着AI芯片定制化趋势的深化。",
+  "tags": [
+    "openai",
+    "broadcom",
+    "llm",
+    "inference",
+    "chip",
+    "ai-hardware",
+    "scaling"
+  ],
+  "score": 7,
+  "published_at": "Thu, 25 Jun 2026 07:53:24 +0000",
+  "fetched_at": "2026-06-25T10:39:20.169720+00:00",
+  "analyzed_at": "2026-06-25T10:43:20.811163+00:00",
+  "status": "published"
+}

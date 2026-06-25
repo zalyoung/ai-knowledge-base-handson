@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260625-009",
+  "title": "记录人类对AI智能体输出的覆盖：chap项目探讨",
+  "source_url": "https://github.com/BrightbeamAI/chap",
+  "source_type": "hackernews",
+  "summary": "在AI智能体部署中，人类可能会覆盖模型输出以确保安全性、合规性或符合业务逻辑。该技术讨论围绕如何系统地记录这些人类干预行为，提出了一个名为'chap'的开源项目，可能提供标准化的日志框架，记录覆盖决策、原因、时间戳和决策者信息。这有助于实现AI治理、审计追溯、改进模型性能，并满足监管要求。适用于金融、医疗、自动驾驶等对可解释性和责任归属要求严格的场景。",
+  "tags": [
+    "ai-audit",
+    "human-override",
+    "logging",
+    "ai-governance",
+    "accountability",
+    "open-source"
+  ],
+  "score": 7,
+  "published_at": "Wed, 24 Jun 2026 11:14:10 +0000",
+  "fetched_at": "2026-06-25T10:39:20.094618+00:00",
+  "analyzed_at": "2026-06-25T10:42:10.869315+00:00",
+  "status": "published"
+}

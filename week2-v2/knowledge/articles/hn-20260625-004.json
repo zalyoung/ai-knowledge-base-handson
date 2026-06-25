@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260625-004",
+  "title": "Orchid：本地优先的AI代理调试记录与回放工具",
+  "source_url": "https://github.com/mario-guerra/orchid-trace",
+  "source_type": "hackernews",
+  "summary": "Orchid 是一个零插桩的本地代理，能够自动捕获 AI 代理管道中所有 API 和 LLM 调用，支持在本地逐步检查和回放整个运行过程。它无需任何代码侵入、无供应商锁定、不依赖云端，确保数据隐私。工具还提供可视化检查器和 MCP 服务器，方便用户自行调试或集成到喜欢的智能编码 IDE 中。Orchid 特别适合调试多步骤 AI 代理系统，无需模拟或重复执行昂贵的 API 调用即可实现确定性回放，有效解决非确定性 LLM 测试故障问题。该项目免费开源，支持自托管部署。",
+  "tags": [
+    "local-first",
+    "record-replay",
+    "llm",
+    "observability",
+    "debugging",
+    "agent-pipeline",
+    "open-source"
+  ],
+  "score": 8,
+  "published_at": "Wed, 24 Jun 2026 14:48:05 +0000",
+  "fetched_at": "2026-06-25T10:39:20.094521+00:00",
+  "analyzed_at": "2026-06-25T10:41:43.022539+00:00",
+  "status": "published"
+}

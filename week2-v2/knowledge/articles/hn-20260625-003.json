@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260625-003",
+  "title": "自主AI代理实现视频保留编辑",
+  "source_url": "https://www.autoeditor.app/",
+  "source_type": "hackernews",
+  "summary": "该项目是一个自主AI代理，专注于视频保留编辑（video retention editing），旨在自动化处理视频中需要保留的关键内容，如智能裁剪、去除冗余片段、提取高光时刻等。适用于内容创作者、视频编辑人员，可大幅减少手动剪辑时间。目前处于早期发布阶段，社区反馈较少，但概念具有实用价值，可实现高效视频内容优化。",
+  "tags": [
+    "ai-agent",
+    "video-editing",
+    "automation",
+    "content-creation",
+    "retention-editing"
+  ],
+  "score": 6,
+  "published_at": "Wed, 24 Jun 2026 18:46:15 +0000",
+  "fetched_at": "2026-06-25T10:39:20.094480+00:00",
+  "analyzed_at": "2026-06-25T10:41:35.926366+00:00",
+  "status": "published"
+}
