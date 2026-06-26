@@ -1,0 +1,18 @@
+{
+  "id": "hn-20260626-004",
+  "title": "AI代理拥有电话号码：用于预订公寓和医疗预约的实践",
+  "source_url": "https://news.ycombinator.com/item?id=48679841",
+  "source_type": "hackernews",
+  "summary": "本文讨论了一位用户为其AI代理（Hermes）配置电话号码，使其能够执行现实世界任务，如预订公寓和安排医疗预约。这展示了AI代理与外部工具（电话、邮件、支付）集成的趋势，提升了自动化能力。虽然内容简短且社区活跃度不高，但点明了AI代理从虚拟助手向真实场景应用扩展的实用性。",
+  "tags": [
+    "ai-agent",
+    "phone-integration",
+    "task-automation",
+    "real-world-tools"
+  ],
+  "score": 7,
+  "published_at": "Thu, 25 Jun 2026 22:05:51 +0000",
+  "fetched_at": "2026-06-26T10:49:17.365505+00:00",
+  "analyzed_at": "2026-06-26T10:51:21.167845+00:00",
+  "status": "published"
+}

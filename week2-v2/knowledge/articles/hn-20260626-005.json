@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260626-005",
+  "title": "CtxGov：在执行前查看AI代理继承的指令",
+  "source_url": "https://github.com/ctxgov/ctxgov",
+  "source_type": "hackernews",
+  "summary": "CtxGov 是一个开源工具，用于在执行前透明地展示 AI 代理所继承的指令和上下文。它帮助开发者、审计者和用户理解 AI 代理的决策依据，提升可解释性和安全性，适用于 AI 代理的开发、调试和治理场景。",
+  "tags": [
+    "ai",
+    "agent",
+    "context",
+    "governance",
+    "security",
+    "transparency",
+    "debugging",
+    "tools"
+  ],
+  "score": 6,
+  "published_at": "Thu, 25 Jun 2026 20:47:38 +0000",
+  "fetched_at": "2026-06-26T10:49:17.365523+00:00",
+  "analyzed_at": "2026-06-26T10:51:26.698752+00:00",
+  "status": "published"
+}

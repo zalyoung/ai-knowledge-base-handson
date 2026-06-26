@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260626-008",
+  "title": "使用Claude构建自己的Slack AI智能体教程",
+  "source_url": "https://www.arcade.dev/blog/claude-tag-build-slack-ai-agent/",
+  "source_type": "hackernews",
+  "summary": "本文介绍了如何利用Anthropic的Claude模型，在Slack平台上构建一个自定义的AI智能体（AI Agent）。通过详细的步骤指导，读者可以学习到如何配置Slack应用、集成Claude API，并实现消息响应、任务处理等自动化功能。该教程适合希望在企业沟通工具中嵌入AI助手以提升工作效率的开发者，技术门槛适中，强调实用性和可扩展性。",
+  "tags": [
+    "claude",
+    "slack",
+    "ai-agent",
+    "tutorial",
+    "integration",
+    "llm",
+    "anthropic"
+  ],
+  "score": 6,
+  "published_at": "Thu, 25 Jun 2026 18:18:57 +0000",
+  "fetched_at": "2026-06-26T10:49:17.365582+00:00",
+  "analyzed_at": "2026-06-26T10:51:39.303049+00:00",
+  "status": "published"
+}

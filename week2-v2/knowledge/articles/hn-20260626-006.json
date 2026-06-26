@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260626-006",
+  "title": "OnBuzz：面向AI代理团队的开源工作空间",
+  "source_url": "https://github.com/Loxia-ai/onbuzz-community",
+  "source_type": "hackernews",
+  "summary": "OnBuzz 是一个开源的协作工作空间，专为 AI 代理团队设计，旨在提升多智能体系统的开发与管理效率。该项目托管在 GitHub 上，支持团队协作、任务编排与智能体配置，适用于需要多代理协同工作的场景，如自动化流程、智能客服和复杂决策系统。尽管社区数据有限，但其开源特性为开发者提供了灵活的定制与扩展能力。",
+  "tags": [
+    "open-source",
+    "ai-agents",
+    "workspace",
+    "team-collaboration",
+    "multi-agent"
+  ],
+  "score": 7,
+  "published_at": "Thu, 25 Jun 2026 19:37:48 +0000",
+  "fetched_at": "2026-06-26T10:49:17.365541+00:00",
+  "analyzed_at": "2026-06-26T10:51:30.254042+00:00",
+  "status": "published"
+}

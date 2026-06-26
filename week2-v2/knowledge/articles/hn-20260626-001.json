@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260626-001",
+  "title": "Agent Zero：为AI代理提供完整Docker Linux系统",
+  "source_url": "https://github.com/agent0ai/agent-zero",
+  "source_type": "hackernews",
+  "summary": "Agent Zero 是一个开源项目，旨在为AI代理提供一个完整的Docker Linux系统环境，使代理能够像真实用户一样执行系统命令、管理文件、安装软件等。该项目将AI代理的操作系统级能力提升到新高度，支持安全沙箱隔离，适用于自动化运维、软件测试、研发辅助等场景。通过Docker容器化，确保了环境的一致性和安全性，同时赋予AI代理前所未有的灵活性和控制力。",
+  "tags": [
+    "docker",
+    "linux",
+    "ai-agent",
+    "agent-framework",
+    "sandbox",
+    "tool-use"
+  ],
+  "score": 7,
+  "published_at": "Fri, 26 Jun 2026 04:08:03 +0000",
+  "fetched_at": "2026-06-26T10:49:17.365428+00:00",
+  "analyzed_at": "2026-06-26T10:51:06.668861+00:00",
+  "status": "published"
+}

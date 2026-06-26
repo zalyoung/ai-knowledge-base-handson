@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260626-009",
+  "title": "Tabularis：开源桌面 SQL 客户端，支持 AI 代理操作数据库",
+  "source_url": "https://tabularis.dev/",
+  "source_type": "hackernews",
+  "summary": "Tabularis 是一款开源的桌面 SQL 客户端，旨在让 AI 代理能够直接使用数据库。该项目通过提供标准接口，使 AI 系统可以像人类一样执行 SQL 查询、管理表结构，从而自动化数据分析与运维任务。适用于需要将数据库操作集成到 AI 工作流中的场景，如智能客服、自动化报表生成和主动式数据治理。目前项目尚处早期阶段，社区热度较低，但概念具有创新性，扩展了 AI 与数据库交互的边界。",
+  "tags": [
+    "sql-client",
+    "open-source",
+    "ai-agent",
+    "desktop",
+    "database"
+  ],
+  "score": 6,
+  "published_at": "Thu, 25 Jun 2026 16:00:13 +0000",
+  "fetched_at": "2026-06-26T10:49:17.365597+00:00",
+  "analyzed_at": "2026-06-26T10:51:44.347385+00:00",
+  "status": "published"
+}

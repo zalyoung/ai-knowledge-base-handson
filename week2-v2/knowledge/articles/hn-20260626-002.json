@@ -1,0 +1,22 @@
+{
+  "id": "hn-20260626-002",
+  "title": "Shotlist：用真实截图让AI代理证明其工作",
+  "source_url": "https://github.com/varmabudharaju/shotlist",
+  "source_type": "hackernews",
+  "summary": "Shotlist 是一个开源工具，旨在通过自动截取屏幕截图的方式，让 AI 代理在执行任务时提供可验证的视觉证据。它解决了 AI 自动化过程中结果可信度和可审计性的问题，适用于需要透明度和问责制的场景，例如自动化测试、远程监控和 AI 助手行为验证。通过 Shotlist，用户可以直观地确认 AI 代理是否按预期操作，从而增强系统的可靠性与可信度。该工具基于简单且非侵入式的设计，易于集成到现有工作流中。",
+  "tags": [
+    "ai-agent",
+    "screenshot",
+    "verification",
+    "automation",
+    "transparency",
+    "auditing",
+    "testing",
+    "observability"
+  ],
+  "score": 7,
+  "published_at": "Fri, 26 Jun 2026 04:05:25 +0000",
+  "fetched_at": "2026-06-26T10:49:17.365462+00:00",
+  "analyzed_at": "2026-06-26T10:51:12.848390+00:00",
+  "status": "published"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "github-20260626-001",
+  "title": "Agent-Reach：让AI Agent零API费用浏览全网的开源CLI工具",
+  "source_url": "https://github.com/Panniantong/Agent-Reach",
+  "source_type": "github_trending",
+  "summary": "Agent-Reach 是一个基于 Python 的开源 CLI 工具，旨在为 AI Agent 提供“眼睛”以无缝浏览和搜索整个互联网。它支持 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书等主流平台，无需任何 API 费用即可实现内容读取与搜索。该项目提供统一的命令行接口，可轻松集成到 Claude Code、Cursor 等 AI 开发环境中，非常适合用于自动化数据收集、AI 训练数据构建、社交媒体监控等场景。凭借 4 万+ GitHub 星标和活跃的社区支持，Agent-Reach 成为 AI Agent 基础设施中的重要组件。",
+  "tags": [
+    "ai-agent",
+    "cli",
+    "web-scraper",
+    "free-api",
+    "automation",
+    "python",
+    "mcp",
+    "social-media"
+  ],
+  "score": 9,
+  "published_at": "2026-02-24T02:10:24Z",
+  "fetched_at": "2026-06-26T10:49:01.344152+00:00",
+  "analyzed_at": "2026-06-26T10:51:00.944649+00:00",
+  "status": "published"
+}

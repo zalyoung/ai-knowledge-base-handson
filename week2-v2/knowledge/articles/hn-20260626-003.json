@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260626-003",
+  "title": "DropItDown：将文件转换为AI可读的Markdown格式（macOS工具）",
+  "source_url": "https://dropitdown.novashang.com",
+  "source_type": "hackernews",
+  "summary": "DropItDown 是一款 macOS 工具，允许用户通过拖放文件快速将其转换为 Markdown 格式，方便 AI 代理（如 LLM）直接读取和处理。支持多种文件类型（如PDF、Word等），输出结构清晰的 Markdown 文本，适用于需要将文档内容输入 AI 工作流（如摘要、问答、数据分析）的场景。目前该项目在 Hacker News 上受到关注，但社区活跃度较低。对于 macOS 用户，尤其是依赖 AI Agent 进行文档处理的开发者或研究者来说，该工具能显著提升效率。",
+  "tags": [
+    "macos",
+    "markdown",
+    "ai",
+    "document-conversion",
+    "productivity",
+    "utilities"
+  ],
+  "score": 6,
+  "published_at": "Fri, 26 Jun 2026 00:24:14 +0000",
+  "fetched_at": "2026-06-26T10:49:17.365481+00:00",
+  "analyzed_at": "2026-06-26T10:51:17.505888+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260626-007",
+  "title": "Claude Skills：将AI代理转化为专业业务操作员",
+  "source_url": "https://github.com/adatarwa/operator-skills",
+  "source_type": "hackernews",
+  "summary": "该项目旨在为Claude AI代理提供预定义的“技能”，使其能够执行专家级的业务操作，如数据分析、报告生成、客户响应和流程自动化。通过整合这些技能，企业可以快速将通用AI代理转变为针对特定业务场景的专业操作员，降低人工干预，提高效率。适用于需要自动化日常业务任务的中小企业或大型企业的运营部门。目前项目处于早期阶段，社区活跃度较低，但概念具有实用价值。",
+  "tags": [
+    "ai-agent",
+    "claude",
+    "business-operations",
+    "skills",
+    "automation"
+  ],
+  "score": 6,
+  "published_at": "Thu, 25 Jun 2026 19:22:42 +0000",
+  "fetched_at": "2026-06-26T10:49:17.365557+00:00",
+  "analyzed_at": "2026-06-26T10:51:35.412293+00:00",
+  "status": "published"
+}
