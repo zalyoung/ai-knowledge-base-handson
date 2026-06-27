@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260627-001",
+  "title": "OpenClaw Launch：30秒内部署托管型AI Agent",
+  "source_url": "https://openclawlaunch.com",
+  "source_type": "hackernews",
+  "summary": "OpenClaw Launch 是一项全新的托管服务平台，用户只需30秒即可完成OpenClaw AI agent的部署。该服务极大地简化了AI智能体的上线流程，无需手动配置服务器或环境，让开发者能够快速将AI agent应用于实际生产或测试场景。适用于需要快速迭代、低运维成本的AI应用开发，尤其适合初创团队和个人开发者。",
+  "tags": [
+    "deployment",
+    "ai-agent",
+    "managed-service",
+    "openclaw",
+    "devtools"
+  ],
+  "score": 7,
+  "published_at": "Sat, 27 Jun 2026 05:37:36 +0000",
+  "fetched_at": "2026-06-27T10:05:41.712063+00:00",
+  "analyzed_at": "2026-06-27T10:07:36.382536+00:00",
+  "status": "published"
+}

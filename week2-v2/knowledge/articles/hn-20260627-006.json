@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260627-006",
+  "title": "Framesmith 1.7：一个告知AI代理UI何时完成的质量门",
+  "source_url": "https://github.com/vicmaster/framesmith",
+  "source_type": "hackernews",
+  "summary": "Framesmith 1.7 是一个质量门工具，旨在为AI代理提供明确的UI完成信号。它通过自动化检测UI界面是否达到预期状态，帮助开发者或AI系统在UI开发或测试过程中确定何时可以停止或继续。该工具可能基于视觉或结构对比，适用于自动化UI测试、AI驱动的UI生成、以及需要精确UI完成判断的场景。其核心功能是作为质量门控，确保UI在交付前满足质量要求。由于社区活跃度较低，该项目的成熟度和广泛应用仍有待观察。",
+  "tags": [
+    "ui-testing",
+    "quality-gate",
+    "ai-agent",
+    "automation",
+    "ui-development",
+    "quality-assurance",
+    "visual-testing"
+  ],
+  "score": 6,
+  "published_at": "Fri, 26 Jun 2026 19:35:36 +0000",
+  "fetched_at": "2026-06-27T10:05:41.712167+00:00",
+  "analyzed_at": "2026-06-27T10:08:01.895175+00:00",
+  "status": "published"
+}

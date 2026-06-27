@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260627-005",
+  "title": "Hush - 让AI代理使用你的秘密而无需看到它们",
+  "source_url": "https://github.com/royashbrook/hush",
+  "source_type": "hackernews",
+  "summary": "Hush是一个专注于隐私保护的AI代理工具，允许用户安全地让AI代理使用其敏感信息（如API密钥、秘密凭证），而无需将秘密直接暴露给代理。它可能采用加密或安全计算技术，确保秘密在代理执行任务时保持私密。适用于需要调用外部服务的AI工作流，同时保护用户隐私。该工具在HackerNews上获得初步关注，但社区活跃度和实现细节尚待观察。",
+  "tags": [
+    "privacy",
+    "ai-agent",
+    "secrets",
+    "security",
+    "encryption",
+    "secure-computation"
+  ],
+  "score": 7,
+  "published_at": "Fri, 26 Jun 2026 19:39:57 +0000",
+  "fetched_at": "2026-06-27T10:05:41.712150+00:00",
+  "analyzed_at": "2026-06-27T10:07:56.579136+00:00",
+  "status": "published"
+}

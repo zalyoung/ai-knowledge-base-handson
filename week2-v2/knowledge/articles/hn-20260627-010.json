@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260627-010",
+  "title": "如何在VPS上设置和部署OpenClaw AI代理",
+  "source_url": "https://3hcloud.com/blog/how-to-set-up-and-deploy-an-openclaw-ai-agent-on-a-vps",
+  "source_type": "hackernews",
+  "summary": "本文提供了详细的教程，指导用户如何在VPS（虚拟专用服务器）上部署OpenClaw AI代理。OpenClaw是一个开源AI代理框架，可自主执行任务。教程涵盖了环境准备、安装依赖、配置代理和启动服务等关键步骤，适用于希望快速搭建和运行自主AI代理的开发者或企业用户。文章强调了简化部署流程，降低技术门槛。",
+  "tags": [
+    "openclaw",
+    "ai-agent",
+    "vps",
+    "deployment",
+    "tutorial"
+  ],
+  "score": 6,
+  "published_at": "Fri, 26 Jun 2026 12:26:17 +0000",
+  "fetched_at": "2026-06-27T10:05:41.712238+00:00",
+  "analyzed_at": "2026-06-27T10:08:18.826746+00:00",
+  "status": "published"
+}

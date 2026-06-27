@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260627-007",
+  "title": "如何检测AI代理输出质量退化？来自Hacker News的讨论",
+  "source_url": "https://news.ycombinator.com/item?id=48689447",
+  "source_type": "hackernews",
+  "summary": "该技术讨论聚焦于AI代理在生产环境中的质量监控问题。当前成本和延迟监控已有成熟工具（如Helicone、Langfuse），但输出质量退化检测仍是难题。用户希望能在客户反馈前主动获得警报，但缺乏现成方案。初始问题引发了对AI代理可靠性和监控最佳实践的思考。",
+  "tags": [
+    "ai-agent",
+    "quality-monitoring",
+    "production",
+    "alerting",
+    "llm"
+  ],
+  "score": 4,
+  "published_at": "Fri, 26 Jun 2026 17:34:51 +0000",
+  "fetched_at": "2026-06-27T10:05:41.712185+00:00",
+  "analyzed_at": "2026-06-27T10:08:06.425873+00:00",
+  "status": "published"
+}

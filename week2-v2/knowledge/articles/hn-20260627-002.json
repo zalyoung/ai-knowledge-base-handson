@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260627-002",
+  "title": "Promptetheus：AI代理故障追踪、检测与自动修复工具",
+  "source_url": "https://github.com/obro79/promptetheus",
+  "source_type": "hackernews",
+  "summary": "Promptetheus 是一个专注于 AI 代理（AI agent）运行可靠性的开源工具，旨在实现对代理行为的全面跟踪、故障检测与自动修复。其名称结合了监控系统 Prometheus 与提示（Prompt）概念，暗示其类似 Prometheus 的监控能力，但面向大语言模型（LLM）驱动的智能体。该工具可记录代理执行的每一步操作、提示输入输出及状态变化，并基于预设规则或异常模式识别失败事件（如输出错误、循环、超时）。一旦检测到故障，Promptetheus 尝试通过重试、回退、调整提示或切换模型等方式自动修复，从而减少人工干预。适用于需要高稳定性的 AI 代理部署场景，如客服机器人、自动化工作流及多代理协作系统。该项目目前处于早期阶段，社区活跃度较低，但概念具有创新性，为 AI 运维（AIOps）提供了新的监控范式。",
+  "tags": [
+    "ai-agent",
+    "monitoring",
+    "self-healing",
+    "failure-detection",
+    "prompt-engineering",
+    "observability"
+  ],
+  "score": 6,
+  "published_at": "Sat, 27 Jun 2026 04:37:00 +0000",
+  "fetched_at": "2026-06-27T10:05:41.712094+00:00",
+  "analyzed_at": "2026-06-27T10:07:43.481581+00:00",
+  "status": "published"
+}

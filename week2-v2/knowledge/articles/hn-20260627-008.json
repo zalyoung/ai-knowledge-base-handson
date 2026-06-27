@@ -1,0 +1,18 @@
+{
+  "id": "hn-20260627-008",
+  "title": "15个AI智能体框架在4个生产栈上的比较分析",
+  "source_url": "https://compare-lab.xyz/ai-agent-frameworks/",
+  "source_type": "hackernews",
+  "summary": "本文对15个主流AI智能体框架进行了系统比较，涵盖了4种不同的生产部署栈（如Cloud、On-Premise等）。通过评估框架的易用性、可扩展性、社区支持和性能表现，为开发者选择适合自身业务场景的Agent框架提供了清晰参考。适合需要快速评估不同AI Agent工具的技术决策者。",
+  "tags": [
+    "ai",
+    "agent-frameworks",
+    "comparison",
+    "production-stacks"
+  ],
+  "score": 7,
+  "published_at": "Fri, 26 Jun 2026 15:21:14 +0000",
+  "fetched_at": "2026-06-27T10:05:41.712206+00:00",
+  "analyzed_at": "2026-06-27T10:08:10.711172+00:00",
+  "status": "published"
+}

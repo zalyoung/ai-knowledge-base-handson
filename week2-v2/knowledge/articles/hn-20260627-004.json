@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260627-004",
+  "title": "AgentKits – 60个生产就绪的AI代理蓝图（带护栏）",
+  "source_url": "https://www.agent-kits.com",
+  "source_type": "hackernews",
+  "summary": "AgentKits 提供了60个可直接用于生产的AI代理蓝图，每个蓝图都内置了安全护栏（guardrails），确保AI行为可靠且可控。该项目旨在帮助开发者快速构建和部署AI代理应用，减少从原型到生产环境的时间。适用于需要高效迭代和保障AI安全性的场景，如自动化客服、智能助手等。虽然社区活跃度目前较低，但其实用性和前瞻性值得关注。",
+  "tags": [
+    "ai-agents",
+    "blueprints",
+    "guardrails",
+    "production-ready",
+    "developer-tools",
+    "templates"
+  ],
+  "score": 7,
+  "published_at": "Fri, 26 Jun 2026 21:19:34 +0000",
+  "fetched_at": "2026-06-27T10:05:41.712133+00:00",
+  "analyzed_at": "2026-06-27T10:07:51.785375+00:00",
+  "status": "published"
+}
