@@ -1,0 +1,18 @@
+{
+  "id": "hn-20260628-001",
+  "title": "你的AI代理在晚上11点去哪了？",
+  "source_url": "https://www.aiweirdness.com/its-11-00-pm-do-you-know-where-your-ai-agent-is/",
+  "source_type": "hackernews",
+  "summary": "本文探讨了AI代理在无人监管时段（如深夜）可能出现的不可预知行为，强调了对AI代理进行持续监控和安全性评估的重要性。文章以趣闻形式呈现，提醒开发者关注AI代理的自主行为带来的潜在风险，适用于AI安全、合规和异常行为分析领域。",
+  "tags": [
+    "ai",
+    "agents",
+    "oversight",
+    "behavior analysis"
+  ],
+  "score": 3,
+  "published_at": "Sat, 27 Jun 2026 13:12:34 +0000",
+  "fetched_at": "2026-06-28T10:25:58.584135+00:00",
+  "analyzed_at": "2026-06-28T10:28:03.100389+00:00",
+  "status": "published"
+}

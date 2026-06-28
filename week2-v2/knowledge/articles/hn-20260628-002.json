@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260628-002",
+  "title": "Nirnam: 浏览器原生消息总线与AI代理框架，助力微前端与多智能体系统",
+  "source_url": "https://github.com/shaurcasm/nirnam",
+  "source_type": "hackernews",
+  "summary": "Nirnam 是一个专为浏览器环境设计的消息总线和 AI 代理框架，旨在简化微前端（MFEs）、Web Worker 线程以及浏览器原生 Agent 之间的通信。它提供了一套统一的通信枢纽，并在此基础上构建了浏览器原生的多智能体系统框架，让开发者能够更便捷地开发、协调多个 AI 代理在浏览器内协作。适用于需要复杂状态共享、跨微前端通信或集成 AI 能力的现代 Web 应用，尤其适合在单页应用或边缘计算场景中使用。该项目展示了在浏览器端运行轻量级多智能体系统的可能性，具有较高的技术创新性和实用性。",
+  "tags": [
+    "micro-frontends",
+    "message-bus",
+    "ai-agents",
+    "browser-native",
+    "multi-agent-system"
+  ],
+  "score": 8,
+  "published_at": "Sat, 27 Jun 2026 12:27:25 +0000",
+  "fetched_at": "2026-06-28T10:25:58.584172+00:00",
+  "analyzed_at": "2026-06-28T10:28:08.394812+00:00",
+  "status": "published"
+}
