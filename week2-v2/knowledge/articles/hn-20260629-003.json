@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260629-003",
+  "title": "AI代理凭证危机：半年内安全事故总结",
+  "source_url": "https://devfortress.net/blog/semi-annual-2026",
+  "source_type": "hackernews",
+  "summary": "本文汇总了过去六个月中与AI代理（如自主AI系统）相关的凭证安全事件，包括API密钥泄露、身份验证绕过、权限滥用等典型问题。文章分析了这些事件的共同模式、根本原因（如缺乏最小权限原则、凭证硬编码、未及时轮转密钥）以及对AI应用生态的潜在影响。对于开发AI代理产品的团队而言，本文提供了实用的事件复盘和改进建议，有助于建立更严格的凭证管理流程。尽管社区讨论热度较低，但内容本身具有较高的警示和参考价值。",
+  "tags": [
+    "ai-security",
+    "credential-crisis",
+    "ai-agents",
+    "security-incidents",
+    "authentication"
+  ],
+  "score": 7,
+  "published_at": "Sun, 28 Jun 2026 23:48:55 +0000",
+  "fetched_at": "2026-06-29T12:29:27.244916+00:00",
+  "analyzed_at": "2026-06-29T12:31:37.361043+00:00",
+  "status": "published"
+}

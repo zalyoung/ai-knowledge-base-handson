@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260629-002",
+  "title": "AI代理软件用户社区支持工具",
+  "source_url": "https://news.ycombinator.com/item?id=48715273",
+  "source_type": "hackernews",
+  "summary": "该工具是一个专门为软件用户社区设计的AI代理，旨在自动处理常见问题、提供实时帮助并减轻社区管理员的负担。通过自然语言理解和知识库集成，它能够快速响应用户提问，提升社区支持效率。适用于开源项目、SaaS平台等需要大规模用户支持的场景，尤其适合技术社区或产品讨论区。虽然创新性一般，但实用性较强，适合作为现有社区管理的补充方案。",
+  "tags": [
+    "ai",
+    "agent",
+    "customer-support",
+    "community",
+    "software"
+  ],
+  "score": 6,
+  "published_at": "Mon, 29 Jun 2026 05:41:59 +0000",
+  "fetched_at": "2026-06-29T12:29:27.244898+00:00",
+  "analyzed_at": "2026-06-29T12:31:31.699334+00:00",
+  "status": "published"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260629-001",
+  "title": "使用 Telnyx Voice API 将电话路由到 AI 代理",
+  "source_url": "https://telnyx.com/resources/route-phone-calls-ai-agent",
+  "source_type": "hackernews",
+  "summary": "本文介绍了如何利用 Telnyx Voice API 将传统电话呼叫动态路由到 AI 代理，实现智能语音交互。通过 API 配置呼叫流，开发者可以轻松集成自定义 AI 模型（如语音识别、自然语言处理）来处理来电，适用于客户服务、虚拟助手、自动化热线等场景。文章提供了实践步骤和代码示例，展示了 API 的核心功能与集成方式，降低了构建 AI 语音应用的门槛。",
+  "tags": [
+    "telnyx",
+    "voice-api",
+    "ai-agent",
+    "call-routing",
+    "telephony",
+    "voice-applications"
+  ],
+  "score": 7,
+  "published_at": "Mon, 29 Jun 2026 12:15:21 +0000",
+  "fetched_at": "2026-06-29T12:29:27.244866+00:00",
+  "analyzed_at": "2026-06-29T12:31:27.101720+00:00",
+  "status": "published"
+}

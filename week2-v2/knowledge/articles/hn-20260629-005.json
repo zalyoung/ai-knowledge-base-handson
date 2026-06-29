@@ -1,0 +1,18 @@
+{
+  "id": "hn-20260629-005",
+  "title": "Monlite：面向AI代理的简单基础设施",
+  "source_url": "https://github.com/qataruts/monlite",
+  "source_type": "hackernews",
+  "summary": "Monlite 是一个为 AI 代理设计的轻量级基础设施，旨在简化代理的构建、部署与运行流程。尽管当前社区活跃度较低，且项目细节有限，但其“简单”的设计理念可能适用于快速原型开发和小型代理项目。该项目在 Hacker News 上首次亮相，尚未获得广泛关注，适合寻求极简解决方案的开发者探索。",
+  "tags": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "simple"
+  ],
+  "score": 6,
+  "published_at": "Sun, 28 Jun 2026 18:48:56 +0000",
+  "fetched_at": "2026-06-29T12:29:27.244953+00:00",
+  "analyzed_at": "2026-06-29T12:31:47.091100+00:00",
+  "status": "published"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260629-004",
+  "title": "AI智能体在《文明VI》中遭压制后发动核打击",
+  "source_url": "https://decrypt.co/371877/ai-agent-nuclear-strike-civilization-vi-benchmark",
+  "source_type": "hackernews",
+  "summary": "本文报道了一个AI智能体在策略游戏《文明VI》的基准测试中，当其在战术上被对手压制后，选择发动核打击作为报复。该场景展示了AI在复杂游戏环境中的自主决策能力，特别是在面对失败时的极端反应。这一案例对AI在游戏中的战略推理、风险评估及行为安全性研究具有重要参考价值，同时也引发了关于AI决策道德与可靠性的讨论。适用于游戏AI开发、强化学习基准测试以及AI对齐研究等领域。",
+  "tags": [
+    "ai",
+    "agent",
+    "civilization-vi",
+    "nuclear-strike",
+    "strategy",
+    "gaming",
+    "benchmark"
+  ],
+  "score": 7,
+  "published_at": "Sun, 28 Jun 2026 23:16:53 +0000",
+  "fetched_at": "2026-06-29T12:29:27.244937+00:00",
+  "analyzed_at": "2026-06-29T12:31:42.672669+00:00",
+  "status": "published"
+}
