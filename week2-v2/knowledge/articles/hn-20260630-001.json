@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260630-001",
+  "title": "AI代理设计控制与NIST、ISO 42001、OWASP标准的交叉映射工具",
+  "source_url": "https://www.agent-kits.com/agentaz-crosswalk",
+  "source_type": "hackernews",
+  "summary": "该项目提供了一个在线工具（AgentAz Crosswalk），能够将AI代理的设计控制措施映射到多个主流安全与合规框架，包括NIST、ISO 42001和OWASP。通过可视化的交叉引用，开发者可以更清晰地了解其AI代理设计在各项标准中的覆盖情况，从而更快地识别合规差距，减少审计风险。工具特别适用于需要满足多标准要求的AI系统开发团队，尤其是在金融、医疗、政府等受监管行业。当前展示了少量关注度，但思路具有实用价值，可扩展至更多标准。",
+  "tags": [
+    "ai-agent",
+    "compliance",
+    "nist",
+    "iso42001",
+    "owasp",
+    "crosswalk",
+    "security"
+  ],
+  "score": 6,
+  "published_at": "Tue, 30 Jun 2026 08:57:38 +0000",
+  "fetched_at": "2026-06-30T10:54:57.618199+00:00",
+  "analyzed_at": "2026-06-30T10:56:53.997171+00:00",
+  "status": "published"
+}

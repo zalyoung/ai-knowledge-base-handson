@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260630-005",
+  "title": "Zeus：本地AI代理编排器，支持网页和手机界面的开源项目",
+  "source_url": "https://github.com/shreyasks094/Zeus",
+  "source_type": "hackernews",
+  "summary": "Zeus 是一个开源的本地 AI 代理编排器，提供网页和手机UI，旨在帮助用户高效管理和调度多个AI代理。该项目基于本地部署，强调隐私与可控性，适合个人开发者或小团队在自托管环境中集成多代理工作流。尽管当前社区活跃度较低（Hacker News上仅有2分且无评论），但其聚焦本地化与多平台界面的设计思路具有一定实用性。",
+  "tags": [
+    "ai",
+    "agent",
+    "orchestrator",
+    "open-source",
+    "local",
+    "web-ui",
+    "phone-ui"
+  ],
+  "score": 5,
+  "published_at": "Mon, 29 Jun 2026 22:28:13 +0000",
+  "fetched_at": "2026-06-30T10:54:57.618310+00:00",
+  "analyzed_at": "2026-06-30T10:57:15.507741+00:00",
+  "status": "published"
+}

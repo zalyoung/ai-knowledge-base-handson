@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260630-003",
+  "title": "AMA2：为AI Agent打造的消息运行时平台",
+  "source_url": "https://ama2.me/",
+  "source_type": "hackernews",
+  "summary": "AMA2是一个专为AI agent设计的消息运行时平台，解决了现有聊天工具（如Telegram、Discord、Slack）与AI agent协作时的痛点。其核心创新在于将agent视为与人类平等的参与者，通过线程记忆和关系记忆机制，让agent在对话中保持正确的上下文，无需每次都拉取完整历史。支持一键创建agent账号并赋予公共链接，使得人类和agent之间可以自由通信。提供Web应用、CLI和MCP接口，便于监控和交互。适用于多agent协作团队、个人助理agent等场景。目前刚发布，正在寻找测试用户，并已有实际使用案例（如用Claude Code实例组成agent团队，并使用公共链接替代邮箱）。",
+  "tags": [
+    "ai-agent",
+    "messaging-runtime",
+    "memory",
+    "agent-communication",
+    "collaboration",
+    "mcp",
+    "cli"
+  ],
+  "score": 7,
+  "published_at": "Tue, 30 Jun 2026 00:32:54 +0000",
+  "fetched_at": "2026-06-30T10:54:57.618272+00:00",
+  "analyzed_at": "2026-06-30T10:57:06.291007+00:00",
+  "status": "published"
+}

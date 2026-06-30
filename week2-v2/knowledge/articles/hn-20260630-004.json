@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260630-004",
+  "title": "开源AI代理工作流：审计Solidity智能合约",
+  "source_url": "https://github.com/chain-shield/ai-agent-audit",
+  "source_type": "hackernews",
+  "summary": "该项目提供了一个基于AI代理的开源工作流，旨在自动化审计Solidity智能合约。通过集成AI模型，该工作流能够分析合约代码，识别潜在漏洞和安全风险，减少人工审计的工作量和错误率。适用于区块链开发者和安全研究人员，在智能合约部署前进行快速、高效的安全检查。项目开源，易于集成到持续集成/部署（CI/CD）流程中，但目前社区活跃度较低，需持续观察发展。",
+  "tags": [
+    "ai-agent",
+    "solidity",
+    "smart-contract",
+    "auditing",
+    "blockchain",
+    "security",
+    "workflow"
+  ],
+  "score": 6,
+  "published_at": "Mon, 29 Jun 2026 22:29:32 +0000",
+  "fetched_at": "2026-06-30T10:54:57.618292+00:00",
+  "analyzed_at": "2026-06-30T10:57:11.265134+00:00",
+  "status": "published"
+}

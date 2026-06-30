@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260630-002",
+  "title": "25个AI代理可执行技能开源库",
+  "source_url": "https://github.com/ChrisLamDev/hermes-core-skills",
+  "source_type": "hackernews",
+  "summary": "该项目名为 Hermes Core Skills，是一个开源的 AI 代理技能库，包含 25 个可直接执行的技能模块。这些技能覆盖了文件操作、网页抓取、数据分析、API 调用等常见任务，旨在为 LLM 驱动的智能代理提供即插即用的能力。项目代码完全开源，便于开发者集成、修改或扩展。适合用于构建自动化工作流、个人助手或企业级 AI 代理系统，降低了从零开发技能的成本。",
+  "tags": [
+    "open-source",
+    "ai-agents",
+    "skills",
+    "llm",
+    "automation",
+    "tool-use"
+  ],
+  "score": 8,
+  "published_at": "Tue, 30 Jun 2026 06:03:48 +0000",
+  "fetched_at": "2026-06-30T10:54:57.618230+00:00",
+  "analyzed_at": "2026-06-30T10:56:58.070990+00:00",
+  "status": "published"
+}

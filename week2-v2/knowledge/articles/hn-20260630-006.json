@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260630-006",
+  "title": "用户空间防火墙：控制AI代理行为的安全门控工具",
+  "source_url": "https://github.com/Vadale/project-guardian",
+  "source_type": "hackernews",
+  "summary": "Project Guardian 是一个运行在用户空间的防火墙，专门用于限制和监控AI代理（如LLM驱动的自动化工具）在系统上的操作。它通过定义规则来允许或拒绝代理执行特定动作，例如文件访问、网络请求或命令执行，从而防止恶意或意外行为。适用于需要安全部署AI代理的场景，如自动化运维、个人助手或研究实验。项目仓库代码尚未详细评估，但概念本身具有创新性和实用性。",
+  "tags": [
+    "user-space",
+    "firewall",
+    "ai-agent",
+    "security",
+    "access-control"
+  ],
+  "score": 7,
+  "published_at": "Mon, 29 Jun 2026 21:38:21 +0000",
+  "fetched_at": "2026-06-30T10:54:57.618325+00:00",
+  "analyzed_at": "2026-06-30T10:57:19.703538+00:00",
+  "status": "published"
+}

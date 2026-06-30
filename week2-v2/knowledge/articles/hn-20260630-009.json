@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260630-009",
+  "title": "AI代理运行SEO网站的故障记录与经验分享",
+  "source_url": "https://tokenmaxxing.com/how-this-site-runs-itself",
+  "source_type": "hackernews",
+  "summary": "本文作者分享了一个有趣的实验：让AI代理全权管理自己的SEO网站，结果AI代理在操作过程中引发了一系列错误，导致网站出现漏洞。作者将这些具体的故障问题公开发布，旨在揭示当前AI代理在自动化网站管理中的局限性，例如规则理解偏差、异常处理不足以及执行逻辑冲突等。这为希望使用AI进行SEO自动化的开发者提供了真实案例，强调了人工监督和异常监控的重要性，尤其适用于中小型网站的自动化运维场景。",
+  "tags": [
+    "ai-agent",
+    "seo",
+    "bugs",
+    "automation",
+    "case-study"
+  ],
+  "score": 5,
+  "published_at": "Mon, 29 Jun 2026 15:15:57 +0000",
+  "fetched_at": "2026-06-30T10:54:57.618380+00:00",
+  "analyzed_at": "2026-06-30T10:57:38.253220+00:00",
+  "status": "published"
+}

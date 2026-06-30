@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260630-007",
+  "title": "KitForge – 生成AI代理清单并强制审批门控的脚手架工具",
+  "source_url": "https://www.agent-kits.com/kitforge",
+  "source_type": "hackernews",
+  "summary": "KitForge 是一个专注于 AI 代理（Agent）开发的脚手架工具，能够自动生成代理清单（manifest），并强制引入审批门控（approval gates）机制。通过该工具，开发者可以快速搭建结构化的 AI 代理项目，同时确保代理在执行关键操作前必须经过人工或自动审批，从而增强安全性、合规性和可审计性。适用于企业级 AI 应用、自动化工作流等需要严格控制的场景。尽管社区活跃度较低（HackerNews 仅2分且无评论），但其设计理念在代理安全领域具有创新性，尤其适合对权限管控有高要求的开发团队。",
+  "tags": [
+    "ai",
+    "agent",
+    "manifest",
+    "scaffold",
+    "approval-gates",
+    "dev-tool"
+  ],
+  "score": 6,
+  "published_at": "Mon, 29 Jun 2026 18:20:41 +0000",
+  "fetched_at": "2026-06-30T10:54:57.618341+00:00",
+  "analyzed_at": "2026-06-30T10:57:26.068608+00:00",
+  "status": "published"
+}
