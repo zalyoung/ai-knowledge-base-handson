@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260701-002",
+  "title": "AI Agent与Cron的对比：对AI Agent热潮的质疑",
+  "source_url": "https://news.ycombinator.com/item?id=48744381",
+  "source_type": "hackernews",
+  "summary": "本文来自Hacker News的一篇讨论，作者指出许多被推荐使用AI Agent的用例实际上可以通过一个定时任务（cron）调用大语言模型（LLM）来完成。作者理解确实存在一些需要Agent的复杂场景，但质疑为何AI Agent会被如此大肆宣传。该帖子引发了对AI Agent实际价值和应用边界的反思，适合开发者、技术决策者阅读，以理性评估AI Agent在自动化工作流中的适用性。",
+  "tags": [
+    "ai-agent",
+    "cron",
+    "llm",
+    "discussion",
+    "automation",
+    "critique"
+  ],
+  "score": 4,
+  "published_at": "Wed, 01 Jul 2026 09:45:55 +0000",
+  "fetched_at": "2026-07-01T11:21:46.930495+00:00",
+  "analyzed_at": "2026-07-01T11:23:56.001909+00:00",
+  "status": "published"
+}

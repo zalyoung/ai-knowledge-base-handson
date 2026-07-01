@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260701-004",
+  "title": "大规模扫描揭示AI代理配置文件普遍存在安全缺口",
+  "source_url": "https://blog.codacy.com/we-scanned-34266-repos.-1-in-4-orgs-showed-gaps-in-ai-agent-config-files",
+  "source_type": "hackernews",
+  "summary": "Codacy 对 34,266 个代码仓库进行了扫描，发现约四分之一的组织在 AI 代理配置文件中存在安全或管理缺失。该研究强调了 AI 代理配置文件（如 workflow 或 agent 定义文件）被忽略或配置不当的风险，可能导致未授权访问、数据泄露或行为异常。文章为 DevOps 和安全团队提供了改进配置管理的建议，适用于任何采用 AI 代理软件研发的组织，尤其适用于 DevSecOps 实践者。",
+  "tags": [
+    "ai-agents",
+    "security",
+    "configuration",
+    "devsecops",
+    "code-scanning"
+  ],
+  "score": 7,
+  "published_at": "Wed, 01 Jul 2026 09:02:40 +0000",
+  "fetched_at": "2026-07-01T11:21:46.930535+00:00",
+  "analyzed_at": "2026-07-01T11:24:05.860856+00:00",
+  "status": "published"
+}

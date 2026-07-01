@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260701-007",
+  "title": "可被AI代理操作的BigQuery、dbt和Cube项目脚手架工具",
+  "source_url": "https://cli.revos.dev/",
+  "source_type": "hackernews",
+  "summary": "该项目提供CLI工具，用于快速搭建结合BigQuery（数据仓库）、dbt（数据转换）和Cube（指标平台）的分析项目框架。其核心设计目标是让AI代理（如LLM驱动的agent）能够自动操作和运维该基础设施，从而降低数据工程门槛，实现端到端分析管道的自动化部署与管理。适用于需要快速启动数据分析项目或探索AI驱动数据运维的团队。",
+  "tags": [
+    "bigquery",
+    "dbt",
+    "cube",
+    "ai-agent",
+    "scaffolding",
+    "data-engineering",
+    "analytics"
+  ],
+  "score": 7,
+  "published_at": "Tue, 30 Jun 2026 15:00:04 +0000",
+  "fetched_at": "2026-07-01T11:21:46.930581+00:00",
+  "analyzed_at": "2026-07-01T11:24:22.546905+00:00",
+  "status": "published"
+}

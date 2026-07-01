@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260701-001",
+  "title": "SlopenClaw：一个替你拖延任务的AI代理",
+  "source_url": "https://slopenclaw.com/",
+  "source_type": "hackernews",
+  "summary": "SlopenClaw是一个AI代理，其核心功能是帮助用户拖延待办任务。它通过智能推迟提醒、自动重排优先级或生成干扰理由等方式，让用户在“拖延”时感受到一丝生产力幻觉。虽然看似幽默或讽刺，但该项目也折射出对效率工具反噬的反思。适用于希望暂时放下压力、或想以自嘲方式管理拖延行为的场景。当前社区讨论极少，项目尚处于概念阶段。",
+  "tags": [
+    "ai",
+    "procrastination",
+    "agent",
+    "fun",
+    "productivity"
+  ],
+  "score": 3,
+  "published_at": "Wed, 01 Jul 2026 11:12:28 +0000",
+  "fetched_at": "2026-07-01T11:21:46.930463+00:00",
+  "analyzed_at": "2026-07-01T11:23:48.583069+00:00",
+  "status": "published"
+}

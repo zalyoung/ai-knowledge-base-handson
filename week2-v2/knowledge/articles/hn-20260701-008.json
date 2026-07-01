@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260701-008",
+  "title": "NodePad：将AI代理放在画布上，告别线性聊天界面",
+  "source_url": "https://node-pad.com/",
+  "source_type": "hackernews",
+  "summary": "NodePad 是一个创新的 AI 代理界面，用可视化画布替代传统的线性聊天模式，允许用户通过拖拽节点来构建和编排多个 AI 代理的工作流。它特别适合需要复杂任务分解、多步骤推理或并行处理的场景，如数据分析、自动化脚本生成或科研辅助。虽然目前社区活跃度较低，但其非线性的交互设计为 AI 工具的使用提供了新的范式，有望提升高级用户的体验和效率。",
+  "tags": [
+    "node-pad",
+    "ai",
+    "canvas",
+    "visual-programming",
+    "workflow",
+    "agent"
+  ],
+  "score": 7,
+  "published_at": "Tue, 30 Jun 2026 12:47:52 +0000",
+  "fetched_at": "2026-07-01T11:21:46.930606+00:00",
+  "analyzed_at": "2026-07-01T11:24:27.884663+00:00",
+  "status": "published"
+}

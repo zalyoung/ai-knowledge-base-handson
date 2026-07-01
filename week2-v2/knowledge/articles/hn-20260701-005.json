@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260701-005",
+  "title": "针对ADHD的AI提醒代理：用喊叫克服拖延",
+  "source_url": "https://0xff.nu/hex/",
+  "source_type": "hackernews",
+  "summary": "作者构建了一个AI代理，专门用于在用户拖延或分心时（针对ADHD症状）通过大声喊叫进行提醒和干预。该项目通过自然语言处理与语音交互，实现个性化任务催促，旨在帮助注意力缺陷障碍患者提升执行力与时间管理能力。虽然技术实现较为简单（基于通用语音API和规则引擎），但以幽默而实用的方式解决了特定人群的痛点，展现了AI在心理健康辅助场景下的创意应用。适合对AI+健康、生产力工具有兴趣的开发者参考。",
+  "tags": [
+    "adhd",
+    "ai-agent",
+    "productivity",
+    "voice-assistant",
+    "personal-project"
+  ],
+  "score": 6,
+  "published_at": "Tue, 30 Jun 2026 17:24:31 +0000",
+  "fetched_at": "2026-07-01T11:21:46.930550+00:00",
+  "analyzed_at": "2026-07-01T11:24:11.737529+00:00",
+  "status": "published"
+}

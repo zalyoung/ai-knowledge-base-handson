@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260701-003",
+  "title": "AI代理沙箱的PB级持久存储",
+  "source_url": "https://twitter.com/aniketmaurya/status/2072249879573754225",
+  "source_type": "hackernews",
+  "summary": "该技术为Celesto沙箱提供了PB级（拍字节）持久存储能力，使AI编码代理、测试工具等能够轻松处理大规模文件和数据。它突破了传统AI沙箱临时或小容量存储的限制，支持开发者在不影响主环境的情况下存储和处理大数据集或大型工程代码仓库，显著提升了AI工作流的可用性和效率。",
+  "tags": [
+    "petabyte-storage",
+    "ai-agents",
+    "sandboxes",
+    "durable-storage",
+    "coding-agents",
+    "large-files"
+  ],
+  "score": 6,
+  "published_at": "Wed, 01 Jul 2026 09:25:15 +0000",
+  "fetched_at": "2026-07-01T11:21:46.930513+00:00",
+  "analyzed_at": "2026-07-01T11:24:01.677161+00:00",
+  "status": "published"
+}
