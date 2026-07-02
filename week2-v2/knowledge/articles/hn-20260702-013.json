@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260702-013",
+  "title": "语音转SQL仪表板：用自然语言查询数据库",
+  "source_url": "https://huggingface.co/spaces/Chupacharcos/voice-to-sql",
+  "source_type": "hackernews",
+  "summary": "这是一个开源项目，允许用户用自然语言（英语）提问，通过Llama 3.3 70B大模型自动生成SQL查询语句，并在示例SaaS数据库上执行（只读，仅SELECT）。系统会展示生成的SQL，方便用户验证。适用于非技术用户快速查询数据，降低数据库交互门槛。基于Groq的高效推理，实现了低延迟。",
+  "tags": [
+    "voice-to-sql",
+    "natural-language-query",
+    "llm",
+    "sql-generation",
+    "open-source",
+    "groq",
+    "llama"
+  ],
+  "score": 6,
+  "published_at": "Wed, 01 Jul 2026 13:13:21 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914543+00:00",
+  "analyzed_at": "2026-07-02T10:38:35.738869+00:00",
+  "status": "published"
+}

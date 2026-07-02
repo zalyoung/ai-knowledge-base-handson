@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260702-010",
+  "title": "aiCompiler：用 Markdown 描述意图，LLM 作为运行时执行",
+  "source_url": "https://aicompiler.dev",
+  "source_type": "hackernews",
+  "summary": "aiCompiler 是一个创新项目，允许用户使用 Markdown 格式编写意图（intent），然后将大型语言模型（LLM）作为运行时引擎来执行这些意图。该想法旨在让非程序员也能通过自然语言描述任务，由 AI 自动完成代码生成与执行，极大降低编程门槛。适用于快速原型开发、自动化工作流、教育场景等，强调意图驱动编程的简洁与灵活性。目前处于早期概念阶段，在 HackerNews 上有少量讨论，但尚无公开代码或社区评价。",
+  "tags": [
+    "ai",
+    "compiler",
+    "llm",
+    "markdown",
+    "intent-driven",
+    "runtime",
+    "natural-language-programming"
+  ],
+  "score": 6,
+  "published_at": "Wed, 01 Jul 2026 15:20:28 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914505+00:00",
+  "analyzed_at": "2026-07-02T10:38:21.929011+00:00",
+  "status": "published"
+}

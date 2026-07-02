@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260702-012",
+  "title": "Signal：基于大语言模型的系统用户体验框架草案",
+  "source_url": "https://github.com/hi-mundo/SIGNAL",
+  "source_type": "hackernews",
+  "summary": "Signal 是一个针对基于大语言模型（LLM）的系统的用户体验（UX）框架草案。它旨在为开发者提供一套设计指南和模式，以规范 LLM 驱动的应用的交互流程、反馈机制和错误处理等关键环节。该框架尚处于早期概念阶段，需进一步在实践中验证和完善。适用于希望构建高效、用户友好的 LLM 应用的团队，可参考其核心思想优化产品设计。",
+  "tags": [
+    "ux",
+    "llm",
+    "framework",
+    "draft",
+    "user-experience",
+    "design"
+  ],
+  "score": 5,
+  "published_at": "Wed, 01 Jul 2026 13:41:34 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914527+00:00",
+  "analyzed_at": "2026-07-02T10:38:31.312011+00:00",
+  "status": "published"
+}

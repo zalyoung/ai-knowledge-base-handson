@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260702-007",
+  "title": "LLM Colosseum：零依赖浏览器RTS，用于测试大语言模型工具调用能力",
+  "source_url": "https://github.com/asp67/llm-colosseum/tree/main",
+  "source_type": "hackernews",
+  "summary": "LLM Colosseum 是一个零依赖的浏览器实时策略游戏（RTS），专为测试大语言模型（LLM）的工具调用能力而设计。该项目提供轻量级、可交互的测试环境，无需安装任何外部依赖即可在浏览器中运行。开发者可以通过该游戏模拟工具调用场景，评估LLM在动态决策、任务分解和工具使用方面的表现。其核心价值在于将游戏化测试与AI性能评估结合，降低测试门槛，适合研究者和工程师在项目早期快速验证模型能力。",
+  "tags": [
+    "llm",
+    "tool-calling",
+    "testing",
+    "browser-game",
+    "zero-dependency",
+    "rts"
+  ],
+  "score": 8,
+  "published_at": "Wed, 01 Jul 2026 20:54:47 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914469+00:00",
+  "analyzed_at": "2026-07-02T10:38:08.216307+00:00",
+  "status": "published"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hn-20260702-003",
+  "title": "将大型语言模型用作Web服务器",
+  "source_url": "https://jin.codes/writings/llm-as-a-web-server/",
+  "source_type": "hackernews",
+  "summary": "本文探讨了一种新颖的架构模式：将大型语言模型（LLM）直接作为Web服务器使用，利用其自然语言理解和生成能力来动态处理HTTP请求并返回响应。这种方法打破了传统Web服务器的固定逻辑，允许开发者通过自然语言定义接口行为，实现高度灵活的动态内容生成、对话式API以及快速原型开发。文章分析了技术实现细节，包括如何将LLM集成到HTTP处理流程中、处理请求的上下文、控制输出格式等，并讨论了潜在的应用场景，如智能客服、动态文档生成和自适应Web应用。尽管该方案在延迟、成本和控制性方面存在挑战，但它为AI驱动的Web服务开辟了新思路，尤其适用于需要高度定制化和交互性的场景。",
+  "tags": [
+    "llm",
+    "web-server",
+    "ai",
+    "nlp",
+    "http",
+    "dynamic-content",
+    "prototyping"
+  ],
+  "score": 7,
+  "published_at": "Thu, 02 Jul 2026 08:11:48 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914410+00:00",
+  "analyzed_at": "2026-07-02T10:37:52.706018+00:00",
+  "status": "published"
+}

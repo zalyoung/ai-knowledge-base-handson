@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260702-009",
+  "title": "大语言模型使用需要更好的用户体验设计",
+  "source_url": "https://www.magfrump.net/blog/the-problem-with-chat",
+  "source_type": "hackernews",
+  "summary": "本文指出当前大语言模型（LLM）普遍采用的聊天界面存在用户体验（UX）不足的问题，如对话历史管理、交互效率低、信息检索不直观等。作者强调，随着LLM在日常工具中的普及，需借鉴经典UX原则进行重新设计，例如提供更结构化的输入/输出、支持多模态交互、以及更好的上下文控制。文章来自Hacker News的讨论，反映了开发者社区对改进LLM交互体验的迫切需求，适用于AI产品经理、界面设计师和LLM应用开发者参考。",
+  "tags": [
+    "ux",
+    "llm",
+    "design",
+    "chat",
+    "human-computer-interaction",
+    "user-experience"
+  ],
+  "score": 7,
+  "published_at": "Wed, 01 Jul 2026 18:14:19 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914493+00:00",
+  "analyzed_at": "2026-07-02T10:38:16.856493+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260702-014",
+  "title": "原生向量量化大语言模型Pollux：每参数仅0.76比特",
+  "source_url": "https://github.com/alavicka/pollux",
+  "source_type": "hackernews",
+  "summary": "Pollux 是一个原生采用向量量化（vector quantization）技术的大语言模型（LLM），实现了每参数仅0.76比特的超低比特率压缩。不同于传统的后训练量化方法，该模型在训练过程中直接集成量化机制，从而在极端压缩条件下仍保持较好的模型性能。其核心优势在于大幅降低模型存储大小与推理所需的内存带宽，非常适合资源受限的设备（如边缘端、手机等）上的高效推理部署。该项目目前处于早期公开阶段，但技术思路具有创新性，为极致模型压缩方向提供了新的实践参考。",
+  "tags": [
+    "llm",
+    "vector-quantization",
+    "compression",
+    "low-bit",
+    "efficient-inference"
+  ],
+  "score": 7,
+  "published_at": "Wed, 01 Jul 2026 13:03:40 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914556+00:00",
+  "analyzed_at": "2026-07-02T10:38:40.697337+00:00",
+  "status": "published"
+}

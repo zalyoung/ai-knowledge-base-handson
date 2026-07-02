@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260702-020",
+  "title": "Bandcamp上的小众LLM垃圾邮件现象",
+  "source_url": "https://duckduckgo.com/?q=site%3Abandcamp.com+covers.pics",
+  "source_type": "hackernews",
+  "summary": "本文探讨了利用大语言模型(LLM)生成的小众垃圾邮件在音乐平台Bandcamp上的传播情况。通过搜索特定关键词(如'covers.pics')，可以发现大量由AI生成的虚假专辑封面和描述，这些内容旨在吸引点击或推广无关服务。该现象揭示了LLM在内容生成领域的滥用风险，尤其是在缺乏严格审核的垂直社区中。文章引发了关于AI内容治理、平台审核机制及用户识别的讨论，对数字生态的健康发展具有警示意义。",
+  "tags": [
+    "llm",
+    "spam",
+    "bandcamp",
+    "content-moderation",
+    "ai-generated-content"
+  ],
+  "score": 6,
+  "published_at": "Wed, 01 Jul 2026 02:01:27 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914623+00:00",
+  "analyzed_at": "2026-07-02T10:39:06.279397+00:00",
+  "status": "published"
+}

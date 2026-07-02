@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260702-016",
+  "title": "LLM网关和VPN服务的用户支付实现与定价差异解析",
+  "source_url": "https://news.ycombinator.com/item?id=48744491",
+  "source_type": "hackernews",
+  "summary": "本文探讨了LLM网关和VPN等在线服务如何通过集成支付网关处理用户付款，评估了其安全性与可靠性。用户常看到不同的价格选项，文中分析了原因：可能连接了不同的支付网关（如Stripe、PayPal、支付宝等），每个网关的手续费、汇率和风控成本不同；也可能是根据订阅时长、流量配额或用户所在地区（如税收差异）设置了分层定价。尽管问题来自社区提问，未深入技术实现，但揭示了支付集成中的常见挑战与定价策略，适合服务提供者与开发者参考。",
+  "tags": [
+    "payment-gateway",
+    "llm-gateway",
+    "vpn",
+    "pricing",
+    "reliability",
+    "security"
+  ],
+  "score": 5,
+  "published_at": "Wed, 01 Jul 2026 10:03:44 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914580+00:00",
+  "analyzed_at": "2026-07-02T10:38:48.813231+00:00",
+  "status": "published"
+}

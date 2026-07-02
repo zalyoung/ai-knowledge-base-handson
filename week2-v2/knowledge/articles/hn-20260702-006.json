@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260702-006",
+  "title": "VeriCache：将有损KV缓存转化为无损LLM推理",
+  "source_url": "https://arxiv.org/abs/2605.17613",
+  "source_type": "hackernews",
+  "summary": "本文提出VeriCache方法，旨在解决大语言模型（LLM）推理中KV缓存压缩带来的精度损失问题。传统上，KV缓存压缩会引入有损近似，降低生成质量；VeriCache通过引入验证机制，在保持缓存压缩效率的同时，恢复或保证推理结果的无损性。该方法适用于内存受限场景下的长序列推理，能够显著降低显存占用而不牺牲模型输出准确性。论文提供了理论分析和实验验证，表明VeriCache在多种LLM架构上实现性能与精度的平衡。",
+  "tags": [
+    "kv-cache",
+    "lossless-compression",
+    "llm-inference",
+    "verification",
+    "efficiency"
+  ],
+  "score": 8,
+  "published_at": "Wed, 01 Jul 2026 21:16:09 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914452+00:00",
+  "analyzed_at": "2026-07-02T10:38:04.406338+00:00",
+  "status": "published"
+}

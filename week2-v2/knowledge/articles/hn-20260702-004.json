@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260702-004",
+  "title": "控制平面是核心：LLM时代重访Autofz",
+  "source_url": "https://yfu.tw/blog/en/autofz-revisited/",
+  "source_type": "hackernews",
+  "summary": "本文回顾了Autofz自动化模糊测试框架，强调其控制平面设计是成功的关键，而非仅依赖随机变异。在LLM（大型语言模型）时代，作者探讨了如何利用LLM的语义理解能力增强控制平面的引导和调度，从而提升模糊测试的效率和覆盖率。文章重新审视了Autofz的设计哲学，并提出了在新背景下结合LLM的实际改进思路。适用于软件安全测试、漏洞自动发现以及持续集成中的自动化测试场景，为模糊测试领域提供了新的视角和实用方向。",
+  "tags": [
+    "fuzzing",
+    "control-plane",
+    "llm",
+    "autofz",
+    "automated-testing",
+    "security"
+  ],
+  "score": 7,
+  "published_at": "Thu, 02 Jul 2026 05:15:28 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914425+00:00",
+  "analyzed_at": "2026-07-02T10:37:56.737950+00:00",
+  "status": "published"
+}

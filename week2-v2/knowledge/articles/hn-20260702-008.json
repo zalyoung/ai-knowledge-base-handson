@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260702-008",
+  "title": "面向LLM推理的Rust操作系统内核",
+  "source_url": "https://github.com/Kanchisaw03/axiom",
+  "source_type": "hackernews",
+  "summary": "该项目展示了一个用Rust编写的操作系统内核，专门针对大语言模型（LLM）推理场景进行优化。通过重新设计内核的调度、内存管理和IO路径，旨在减少推理过程中的延迟和开销，提升硬件利用率。适用于高性能LLM推理服务器、边缘推理设备等需要极致性能和低资源占用的场景。项目在Hacker News上公开，当前处于早期阶段，社区活跃度较低，但其专用化内核的设计思路具有创新潜力。",
+  "tags": [
+    "rust",
+    "os-kernel",
+    "llm",
+    "inference",
+    "machine-learning",
+    "operating-system"
+  ],
+  "score": 6,
+  "published_at": "Wed, 01 Jul 2026 18:30:53 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914482+00:00",
+  "analyzed_at": "2026-07-02T10:38:12.933243+00:00",
+  "status": "published"
+}

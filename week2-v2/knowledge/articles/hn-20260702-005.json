@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260702-005",
+  "title": "Toolnexus：Python中的MCP、Agent技能与A2A集成库",
+  "source_url": "https://pypi.org/project/toolnexus/",
+  "source_type": "hackernews",
+  "summary": "Toolnexus是一个Python库，旨在为任意LLM提供统一的工具调用、Agent技能和Agent-to-Agent（A2A）通信能力。它支持Model Context Protocol（MCP），使得开发者可以轻松将外部工具、API和技能注入LLM对话流程。适用于构建多Agent系统、复杂工作流和工具增强型聊天机器人，简化了LLM与外部世界的交互。",
+  "tags": [
+    "python",
+    "mcp",
+    "agent",
+    "llm",
+    "tools",
+    "a2a"
+  ],
+  "score": 7,
+  "published_at": "Wed, 01 Jul 2026 22:59:33 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914440+00:00",
+  "analyzed_at": "2026-07-02T10:38:00.977361+00:00",
+  "status": "published"
+}

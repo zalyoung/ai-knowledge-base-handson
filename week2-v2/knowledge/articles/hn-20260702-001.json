@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260702-001",
+  "title": "扩展LLM推理以提高每秒token数量的理论瓶颈",
+  "source_url": "https://twitter.com/freddie_spirit/status/2072610863664501129",
+  "source_type": "hackernews",
+  "summary": "该推文讨论了在扩展大型语言模型（LLM）推理以提升每秒token生成量时所面临的理论瓶颈，包括计算、内存带宽和模型架构等方面的限制。内容旨在分析高性能推理优化的关键挑战，适用于模型部署、资源效率提升以及实时应用场景。尽管初始讨论热度较低（仅1个点赞和1条评论），但话题本身具有重要的技术参考价值。",
+  "tags": [
+    "llm",
+    "inference",
+    "scaling",
+    "bottlenecks",
+    "performance"
+  ],
+  "score": 6,
+  "published_at": "Thu, 02 Jul 2026 09:26:22 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914373+00:00",
+  "analyzed_at": "2026-07-02T10:37:42.098114+00:00",
+  "status": "published"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hn-20260702-019",
+  "title": "LLM式缩放定律在传感器数据中的适用性",
+  "source_url": "https://www.empirical.health/blog/llm-scaling-laws-hold-for-sensor-data/",
+  "source_type": "hackernews",
+  "summary": "本文探讨了源自大语言模型（LLM）领域的缩放定律是否同样适用于传感器数据（如可穿戴设备、IoT传感器等）。通过实验和分析，作者发现这类数据在模型容量、数据量、计算资源等方面遵循类似的幂律关系，表明缩放定律具有跨领域的普适性。这一发现为传感器数据的深度学习和规模化应用提供了指导，有助于优化模型设计和资源分配，适用于健康监测、智能家居等场景。",
+  "tags": [
+    "sensor-data",
+    "scaling-laws",
+    "llm",
+    "machine-learning",
+    "iot"
+  ],
+  "score": 7,
+  "published_at": "Wed, 01 Jul 2026 02:55:43 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914612+00:00",
+  "analyzed_at": "2026-07-02T10:39:02.273553+00:00",
+  "status": "published"
+}

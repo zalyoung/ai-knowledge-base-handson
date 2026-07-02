@@ -1,0 +1,20 @@
+{
+  "id": "hn-20260702-018",
+  "title": "Ragit：使用本地LLM与任意文件夹中的文档聊天",
+  "source_url": "https://github.com/ats4321/ragit",
+  "source_type": "hackernews",
+  "summary": "Ragit 是一个基于本地大语言模型（LLM）的工具，允许用户与指定文件夹中的文档进行自然语言交互。它利用检索增强生成（RAG）技术，无需依赖云端API，完全在本地运行，保护数据隐私。用户只需指向一个文件夹，Ragit 即可索引文档并回答相关问题，适用于知识库查询、技术文档总结、个人笔记检索等场景。该工具无需复杂配置，支持多种文档格式，是本地化AI应用的轻量级方案。",
+  "tags": [
+    "rag",
+    "local-llm",
+    "document-chat",
+    "ai",
+    "privacy",
+    "github"
+  ],
+  "score": 7,
+  "published_at": "Wed, 01 Jul 2026 06:50:52 +0000",
+  "fetched_at": "2026-07-02T10:36:06.914601+00:00",
+  "analyzed_at": "2026-07-02T10:38:58.079217+00:00",
+  "status": "published"
+}
